@@ -1,0 +1,25 @@
+{
+    "actorList": [
+        "Sandra Bullock", 
+        "George Clooney", 
+        "Ed Harris", 
+        "Orto Ignatiussen", 
+        "Phaldut Sharma", 
+        "Amy Warren", 
+        "Basher Savage", 
+        "Adam Cozens"
+    ], 
+    "director": [
+        "Alfonso Cuar\u00f3n"
+    ], 
+    "genres": [
+        "Drama", 
+        "Sci-Fi", 
+        "Thriller"
+    ], 
+    "name": "Gravity", 
+    "plot": "Two astronauts work together to survive after an accident which leaves them alone in space.", 
+    "rating": 7.8, 
+    "releaseDate": "28 August 2013 (Venice Film Festival)", 
+    "type": "movie"
+}

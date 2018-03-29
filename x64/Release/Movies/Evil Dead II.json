@@ -1,0 +1,40 @@
+{
+    "actorList": [
+        "Bruce Campbell", 
+        "Sarah Berry", 
+        "Dan Hicks", 
+        "Kassie Wesley DePaiva", 
+        "Ted Raimi", 
+        "Denise Bixler", 
+        "Richard Domeier", 
+        "John Peakes", 
+        "Lou Hancock", 
+        "Snowy Winters", 
+        "Sol Abrams", 
+        "Josh Becker", 
+        "Scott Spiegel", 
+        "Thomas Kidd", 
+        "Mitch Cantor", 
+        "Jenny Griffith", 
+        "William Preston Robertson", 
+        "Tony Elwood", 
+        "David Goodman", 
+        "Gary Jones", 
+        "Greg Nicotero", 
+        "Sam Raimi", 
+        "Rob Tapert", 
+        "John W. Walter"
+    ], 
+    "director": [
+        "Sam Raimi"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Horror"
+    ], 
+    "name": "Evil Dead II", 
+    "plot": "The lone survivor of an onslaught of flesh-possessing spirits holes up in a cabin with a group of strangers while the demons continue their attack.", 
+    "rating": 7.8, 
+    "releaseDate": "13 March 1987", 
+    "type": "movie"
+}

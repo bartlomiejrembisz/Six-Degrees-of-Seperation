@@ -1,0 +1,52 @@
+{
+    "actorList": [
+        "Paul Newman", 
+        "Jackie Gleason", 
+        "Piper Laurie", 
+        "George C. Scott", 
+        "Myron McCormick", 
+        "Murray Hamilton", 
+        "Michael Constantine", 
+        "Stefan Gierasch", 
+        "Clifford A. Pellow", 
+        "Jake LaMotta", 
+        "Gordon B. Clarke", 
+        "Alexander Rose", 
+        "Carolyn Coates", 
+        "Carl York", 
+        "Vincent Gardenia", 
+        "William Adams", 
+        "Tom Ahearne", 
+        "Charles Andre", 
+        "Don Crabtree", 
+        "Gloria Curtis", 
+        "Robert Daget", 
+        "Don De Leo", 
+        "Charles Dierkop", 
+        "William Duell", 
+        "James Dukas", 
+        "Brendan Fay", 
+        "Larry Gaynes", 
+        "Jack Healy", 
+        "Hoke Howell", 
+        "Don Koll", 
+        "Charles McDaniel", 
+        "Charles Mosconi", 
+        "Willie Mosconi", 
+        "Sid Raymond", 
+        "Art Smith", 
+        "Blue Washington"
+    ], 
+    "director": [
+        "Robert Rossen"
+    ], 
+    "genres": [
+        "Drama", 
+        "Sport"
+    ], 
+    "name": "The Hustler", 
+    "plot": "An up-and-coming pool player plays a long-time champion in a single high-stakes match.", 
+    "rating": 8.0, 
+    "releaseDate": "25 September 1961 (Washington, D.C.)\n (premiere)", 
+    "type": "movie"
+}

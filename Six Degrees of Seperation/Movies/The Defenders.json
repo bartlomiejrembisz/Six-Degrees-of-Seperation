@@ -1,0 +1,88 @@
+{
+    "actorList": [
+        "Finn Jones", 
+        "Mike Colter", 
+        "Charlie Cox", 
+        "Jessica Henwick", 
+        "Krysten Ritter", 
+        "Sigourney Weaver", 
+        "Elodie Yung", 
+        "Rosario Dawson", 
+        "Babs Olusanmokun", 
+        "Elden Henson", 
+        "Simone Missick", 
+        "Rachael Taylor"
+    ], 
+    "director": [
+        "S.J. Clarkson"
+    ], 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Crime", 
+        "Sci-Fi"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "18 Aug. 2017", 
+            "episodeName": "Episode #1.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Aug. 2017", 
+            "episodeName": "Episode #1.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Aug. 2017", 
+            "episodeName": "Episode #1.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Aug. 2017", 
+            "episodeName": "Episode #1.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Aug. 2017", 
+            "episodeName": "Episode #1.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Aug. 2017", 
+            "episodeName": "Episode #1.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Aug. 2017", 
+            "episodeName": "Episode #1.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Aug. 2017", 
+            "episodeName": "Episode #1.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "The Defenders", 
+    "plot": "Daredevil, Jessica Jones, Luke Cage, and Iron Fist team up to fight crime in New York City.", 
+    "rating": 0, 
+    "releaseDate": "18 August 2017 (internet)", 
+    "type": "tvserie"
+}

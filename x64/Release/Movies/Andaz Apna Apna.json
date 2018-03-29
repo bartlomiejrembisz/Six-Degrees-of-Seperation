@@ -1,0 +1,36 @@
+{
+    "actorList": [
+        "Aamir Khan", 
+        "Salman Khan", 
+        "Raveena Tandon", 
+        "Karisma Kapoor", 
+        "Paresh Rawal", 
+        "Viju Khote", 
+        "Shehzad Khan", 
+        "Mehmood", 
+        "Deven Verma", 
+        "Jagdeep", 
+        "Tiku Talsania", 
+        "Suresh Bhagwat", 
+        "Harish Patel", 
+        "Javed Khan", 
+        "Anand Mishra", 
+        "Sanjay Batra", 
+        "Shakti Kapoor", 
+        "Govinda", 
+        "Juhi Chawla"
+    ], 
+    "director": [
+        "Rajkumar Santoshi"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Family", 
+        "Romance"
+    ], 
+    "name": "Andaz Apna Apna", 
+    "plot": "Two slackers competing for the affections of an heiress, inadvertently become her protectors from an evil criminal.", 
+    "rating": 8.3, 
+    "releaseDate": "4 November 1994", 
+    "type": "movie"
+}

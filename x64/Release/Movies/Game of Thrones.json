@@ -1,0 +1,578 @@
+{
+    "actorList": [
+        "Peter Dinklage", 
+        "Lena Headey", 
+        "Emilia Clarke", 
+        "Kit Harington", 
+        "Sophie Turner", 
+        "Maisie Williams", 
+        "Nikolaj Coster-Waldau", 
+        "Iain Glen", 
+        "Alfie Allen", 
+        "John Bradley", 
+        "Conleth Hill", 
+        "Aidan Gillen", 
+        "Gwendoline Christie", 
+        "Isaac Hempstead Wright", 
+        "Jerome Flynn", 
+        "Julian Glover", 
+        "Liam Cunningham", 
+        "Rory McCann", 
+        "Nathalie Emmanuel", 
+        "Ben Crompton", 
+        "Daniel Portman", 
+        "Charles Dance", 
+        "Carice van Houten", 
+        "Natalie Dormer", 
+        "Jack Gleeson", 
+        "Michelle Fairley", 
+        "Kristofer Hivju", 
+        "Ian McElhinney", 
+        "Jacob Anderson", 
+        "Stephen Dillane", 
+        "Kristian Nairn"
+    ], 
+    "director": [
+        "Alan Taylor", 
+        "David Nutter", 
+        "Alex Graves", 
+        "Mark Mylod", 
+        "Jeremy Podeswa", 
+        "Daniel Minahan", 
+        "Alik Sakharov", 
+        "Michelle MacLaren", 
+        "Miguel Sapochnik", 
+        "Brian Kirk", 
+        "Timothy Van Patten", 
+        "Neil Marshall", 
+        "David Petrarca", 
+        "Michael Slovis", 
+        "Jack Bender", 
+        "Daniel Sackheim", 
+        "Matt Shakman"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Drama", 
+        "Fantasy", 
+        "Romance"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "17 Apr. 2011", 
+            "episodeName": "Winter Is Coming", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nJon Arryn, the Hand of the King, is dead. King Robert Baratheon plans to ask his oldest friend, Eddard Stark, to take Jon's place. Across the sea, Viserys Targaryen plans to wed his sister to a nomadic warlord in exchange for an army.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Apr. 2011", 
+            "episodeName": "The Kingsroad", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhile Bran recovers from his fall, Ned takes only his daughters to Kings Landing. Jon Snow goes with his uncle Benjen to The Wall. Tyrion joins them.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 May 2011", 
+            "episodeName": "Lord Snow", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nLord Stark and his daughters arrive at King's Landing to discover the intrigues of the king's realm.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 May 2011", 
+            "episodeName": "Cripples, Bastards, and Broken Things", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nEddard investigates Jon Arryn's murder. Jon befriends Samwell Tarly, a coward who has come to join the Night's Watch.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 May 2011", 
+            "episodeName": "The Wolf and the Lion", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nCatelyn has captured Tyrion and plans to bring him to her sister, Lysa Arryn, at The Vale, to be tried for his, supposed, crimes against Bran. Robert plans to have Daenerys killed, but Eddard refuses to be a part of it and quits.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 May 2011", 
+            "episodeName": "A Golden Crown", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhile recovering from his battle with Jamie, Eddard is forced to run the kingdom while Robert goes hunting. Tyrion demands a trial by combat for his freedom. Viserys is losing his patience with Drogo.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 May 2011", 
+            "episodeName": "You Win or You Die", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nRobert has been injured while hunting and is dying. Jon and the others finally take their vows to the Night's Watch. A man, sent by Robert, is captured for trying to poison Daenerys. Furious, Drogo vows to attack the Seven Kingdoms.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Jun. 2011", 
+            "episodeName": "The Pointy End", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nEddard and his men are betrayed and captured by the Lannisters. When word reaches Robb, he plans to go to war to rescue them. The White Walkers attack The Wall. Tyrion returns to his father with some new friends.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Jun. 2011", 
+            "episodeName": "Baelor", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nRobb goes to war against the Lannisters. Jon finds himself struggling on deciding if his place is with Robb or the Night's Watch. Drogo has fallen ill from a fresh battle wound. Daenerys is desperate to save him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Jun. 2011", 
+            "episodeName": "Fire and Blood", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWith Ned dead, Robb vows to get revenge on the Lannisters. Jon must officially decide if his place is with Robb or the Night's Watch. Daenerys says her final goodbye to Drogo.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Apr. 2012", 
+            "episodeName": "The North Remembers", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nTyrion arrives at Kings Landing to take his father's place as Hand of the King. Stannis Baratheon plans to take the Iron Throne for his own. Robb tries to decide his next move in the war. The Night's Watch arrive at the house of Craster.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Apr. 2012", 
+            "episodeName": "The Night Lands", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nArya makes friends with Gendry. Tyrion tries to take control of the small council. Theon arrives at his home, Pyke, in order to persuade his father into helping Robb with the war. Jon tries to investigate Craster's secret.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Apr. 2012", 
+            "episodeName": "What Is Dead May Never Die", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTyrion tries to see who he can trust in the small council. Catelyn visits Renly to try and persuade him to join Robb in the war. Theon must decide if his loyalties lie with his own family or with Robb.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Apr. 2012", 
+            "episodeName": "Garden of Bones", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nLord Baelish arrives at Renly's camp just before he faces off against Stannis. Daenerys and her company are welcomed into the city of Qarth. Arya, Gendry, and Hot Pie find themselves imprisoned at Harrenhal.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Apr. 2012", 
+            "episodeName": "The Ghost of Harrenhal", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nTyrion investigates a secret weapon that King Joffrey plans to use against Stannis. Meanwhile, as a token for saving his life, Jaqen H'ghar offers to kill three people that Arya chooses.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 May 2012", 
+            "episodeName": "The Old Gods and the New", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTheon seizes control of Winterfell. Jon captures a wildling, named Ygritte. The people of King's Landing begin to turn against King Joffrey. Daenerys looks to buy ships to sail for the Seven Kingdoms.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 May 2012", 
+            "episodeName": "A Man Without Honor", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nBran and Rickon have escaped Winterfell. Theon tries to hunt them down. Daenerys' dragons have been stolen. Jon travels through the wilderness with Ygritte as his prisoner. Sansa has bled and is now ready to have Joffrey's children.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 May 2012", 
+            "episodeName": "The Prince of Winterfell", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nStannis is just days from King's Landing. Tyrion prepares for his arrival. Jon and Qhorin are taken prisoner by the wildlings. Catelyn is arrested for releasing Jamie. Arya, Gendry, and Hot Pie plan to escape from Harrenhal.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 May 2012", 
+            "episodeName": "Blackwater", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nStannis Baratheon's fleet and army arrive at King's Landing and the battle for the city begins. Cersei plans for her and her children's future.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Jun. 2012", 
+            "episodeName": "Valar Morghulis", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nJoffrey puts Sansa aside for Margaery Tyrell. Robb marries Talisa Maegyr. Jon prepares to meet Mance Rayder. Arya says farewell to Jaqen H'ghar. Daenerys tries to rescue her dragons.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Mar. 2013", 
+            "episodeName": "Valar Dohaeris", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nJon is brought before Mance Rayder, the King Beyond the Wall, while the Night's Watch survivors retreat south. In King's Landing, Tyrion asks for his reward. Littlefinger offers Sansa a way out.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Apr. 2013", 
+            "episodeName": "Dark Wings, Dark Words", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nBran and company meet Jojen and Meera Reed. Arya, Gendry, and Hot Pie meet the Brotherhood. Jaime travels through the wilderness with Brienne. Sansa confesses her true feelings about Joffery to Margaery.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Apr. 2013", 
+            "episodeName": "Walk of Punishment", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nRobb and Catelyn arrive at Riverrun for Lord Hoster Tully's funeral. Tywin names Tyrion the new Master of Coin. Arya says goodbye to Hot Pie. The Night's Watch returns to Craster's. Brienne and Jamie are taken prisoner.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2013", 
+            "episodeName": "And Now His Watch Is Ended", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJamie mopes over his lost hand. Cersei is growing uncomfortable with the Tyrells. The Night's Watch is growing impatient with Craster. Daenerys buys the Unsullied.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Apr. 2013", 
+            "episodeName": "Kissed by Fire", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nRobb's army is falling apart. Jamie reveals a story, to Brienne, that he has never told anyone. Jon breaks his vows. The Hound is granted his freedom. The Lannisters hatch a new plan.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 May 2013", 
+            "episodeName": "The Climb", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nJon and the wildlings scale The Wall. The Brotherhood sells Gendry to Melisandre. Robb does what he can to win back the Freys. Tyrion tells Sansa about their engagement.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 May 2013", 
+            "episodeName": "The Bear and the Maiden Fair", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nJon and the wildlings travel south of The Wall. Talisa tells Robb that she's pregnant. Arya runs away from the Brotherhood. Daenerys arrives at Yunkai. Jamie leaves Brienne behind at Harrenhal.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 May 2013", 
+            "episodeName": "Second Sons", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nDaenerys tries to persuade the Second Sons to join her against Yunkai. Stannis releases Davos from the dungeons. Sam and Gilly are attacked by a White Walker. Sansa and Tyrion wed.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 Jun. 2013", 
+            "episodeName": "The Rains of Castamere", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nRobb and Catelyn arrive at the Twins for the wedding. Jon is put to the test to see where his loyalties truly lie. Bran's group decides to split up. Daenerys plans an invasion of Yunkai.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 Jun. 2013", 
+            "episodeName": "Mhysa", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBran and company travel beyond The Wall. Sam returns to Castle Black. Jon says good bye to Ygritte. Jamie returns to King's Landing. The Night's Watch asks for help from Stannis.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Apr. 2014", 
+            "episodeName": "Two Swords", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nTyrion welcomes a guest to King's Landing. At Castle Black, Jon stands trial. Daenerys is pointed to Meereen, the mother of all slave cities. Arya runs into an old enemy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Apr. 2014", 
+            "episodeName": "The Lion and the Rose", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nJoffrey and Margaery's wedding has come. Tyrion breaks up with Shae. Ramsay tries to prove his worth to his father. Bran and company find a Weirwood tree.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Apr. 2014", 
+            "episodeName": "Breaker of Chains", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTyrion is arrested for the murder of Joffery and awaits trial. Sansa escapes King's Landing. Sam sends Gilly to Mole's Town as the Night's Watch finds itself in a tight spot. Meereen challenges Daenerys.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Apr. 2014", 
+            "episodeName": "Oathkeeper", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJaime entrusts a task to Brienne. Daenerys frees Meereen. Jon is given permission to lead a group of Night's Watchmen to Craster's Keep. Bran and company are taken hostage.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 May 2014", 
+            "episodeName": "First of His Name", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nTommen is crowned King of the Seven Kingdoms. Cersei builds her case against Tyrion. Sansa and Lord Baelish arrive at the Eyrie. The Night's Watch attacks Craster's Keep.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 May 2014", 
+            "episodeName": "The Laws of Gods and Men", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTyrion's trial has come. Yara and her troops storm the Dreadfort to free Theon. Daenerys meets Hizdar zo Loraq. Stannis makes a deal with the Iron Bank of Braavos.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 May 2014", 
+            "episodeName": "Mockingbird", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nTyrion tries to find a champion. Daenerys sleeps with Daario. The Hound becomes wounded. Jon's advice is ignored at Castle Black. Brienne and Podrick receive a tip on Arya's whereabouts.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Jun. 2014", 
+            "episodeName": "The Mountain and the Viper", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nTheon helps Ramsay seize Moat Cailin. The wildlings attack Mole's Town. Sansa comes up with a story to protect Lord Baelish. Daenerys finds out a secret about Ser Jorah. Oberyn Martell faces Ser Gregor Clegane.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Jun. 2014", 
+            "episodeName": "The Watchers on the Wall", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe battle between the Night's Watch and the Wildlings has come.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Jun. 2014", 
+            "episodeName": "The Children", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe Night's Watch story continues, with surprising developments. Daenerys experiences new consequences. Brienne and Podrick have an unexpected encounter. Bran achieves a goal, while Tyrion makes an important discovery.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Apr. 2015", 
+            "episodeName": "The Wars to Come", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCersei and Jaime adjust to a world without Tywin. Tyrion and Varys arrive at Pentos. In Meereen, a new enemy emerges. Jon is caught between two kings.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "19 Apr. 2015", 
+            "episodeName": "The House of Black and White", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nArya arrives in Braavos. Jamie takes on a secret mission. Ellaria Sand seeks revenge for Oberyn's death. Stannis makes Jon a generous offer as the Night's Watch elects a new Lord Commander. Daenerys is faced with a difficult decision.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "26 Apr. 2015", 
+            "episodeName": "High Sparrow", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTommen and Margaery wed. Arya has trouble adapting to her new life. Littlefinger reveals his plans to Sansa. Jon gives his first orders as Lord Commander. Tyrion and Varys arrive in Volantis.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 May 2015", 
+            "episodeName": "Sons of the Harpy", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJorah Mormont sets sail alongside his prisoner, Tyrion. Cersei makes a move against the Tyrells. Jaime and Bronn sneak into Dorne. Ellaria and the Sand Snakes make their plans. Melisandre tempts Jon. The Harpies attack.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 May 2015", 
+            "episodeName": "Kill the Boy", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nDaenerys arrests the heads of Meereen's great families. Jon makes a difficult decision. Theon is forced to face Sansa. Stannis rides south. Tyrion and Jorah enter the ruins of Old Valyria.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 May 2015", 
+            "episodeName": "Unbowed, Unbent, Unbroken", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nArya is put to the test. Tyrion and Jorah are captured by slavers. Loras Tyrell is judged by the Sparrows. Jaime and Bronn face the Sand Snakes. Sansa marries Ramsay Bolton.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 May 2015", 
+            "episodeName": "The Gift", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nJon heads east as trouble begins to stir for Sam and Gilly at Castle Black. Sansa asks Theon for help. Tyrion and Jorah are sold as slaves. Cersei savors her triumph over the Tyrells as new plots are developed in the shadows.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "31 May 2015", 
+            "episodeName": "Hardhome", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nTyrion advises Daenerys. Sansa forces Theon to tell her a secret. Cersei remains stubborn. Arya meets her first target. Jon and Tormund meet with the Wildling Elders.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "7 Jun. 2015", 
+            "episodeName": "The Dance of Dragons", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJon and the Wildlings return to Castle Black. Jaime meets with Doran Martell. Stannis makes a hard choice. Arya runs into Ser Meryn Trant. Daenerys attends the grand reopening of the fighting pits.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "14 Jun. 2015", 
+            "episodeName": "Mother's Mercy", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nStannis arrives at Winterfell. Tyrion runs Meereen as Daario and Jorah go after Daenerys. Jaime and Myrcella leave Dorne. Jon sends Sam and Gilly to Oldtown. Arya challenges the Many-Faced God. Cersei confesses her sins.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Apr. 2016", 
+            "episodeName": "The Red Woman", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe fate of Jon Snow is revealed. Daenerys is brought before Khal Moro. Tyrion gets used to living in Meereen. Ramsay sends his dogs after Theon and Sansa. Ellaria and the Sand Snakes make their move. Cersei mourns for Myrcella.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "1 May 2016", 
+            "episodeName": "Home", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nBran trains with the Three-Eyed Raven. Tommen meets with Cersei. Tyrion makes a bold move. Theon leaves while at Pyke new issues arise. Ramsay's brother is born. Davos asks Melisandre for a miracle.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "8 May 2016", 
+            "episodeName": "Oathbreaker", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDaenerys arrives at Vaes Dothrak. Sam and Gilly sail for Horn Hill. Arya trains as No One. Varys finds information on the Sons of the Harpy. Ramsay receives a gift. Tommen meets with the High Sparrow. At Castle Black, a miracle occurs.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "15 May 2016", 
+            "episodeName": "Book of the Stranger", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nSansa arrives at Castle Black. Tyrion makes a deal with the Slave Masters. Jorah and Daario sneak into Vaes Dothrak. Ramsay sends a letter to Jon. Theon arrives at Pyke. Cersei and Olenna Tyrell plot against the High Sparrow.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 May 2016", 
+            "episodeName": "The Door", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSansa and Jon make plans. Arya is given another chance to prove herself. Jorah confesses a secret to Daenerys. Tyrion meets with a Red Priestess. Yara finds her rule tested. Bran discovers the origin of the White Walkers.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "29 May 2016", 
+            "episodeName": "Blood of My Blood", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nBran and Meera find a new ally. Gilly meets Sam's family. Arya makes a difficult choice. The Lannisters and Tyrells march against the High Sparrow.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "5 Jun. 2016", 
+            "episodeName": "The Broken Man", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nJon and Sansa gather troops. Jaime arrives at Riverrun. Olenna Tyrell plans to leave King's Landing. Theon and Yara plan a destination. Arya makes plans to leave.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Jun. 2016", 
+            "episodeName": "No One", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nBrienne arrives at Riverrun. Arya seeks shelter. Jaime meets with Edmure Tully. Cersei challenges the Faith. Sandor Clegane hunts for revenge. Tyrion faces the consequences of earlier decisions.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Jun. 2016", 
+            "episodeName": "Battle of the Bastards", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJon and Sansa face Ramsay Bolton on the fields of Winterfell. Daenerys strikes back at her enemies. Theon and Yara arrive in Meereen.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 Jun. 2016", 
+            "episodeName": "The Winds of Winter", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nCersei and Loras Tyrell stand trial by the gods. Daenerys prepares to set sail for Westeros. Davos confronts Melisandre. Sam and Gilly arrive in The Citadel. Bran discovers a long kept secret. Lord Frey has an uninvited guest.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Jul. 2017", 
+            "episodeName": "Episode #7.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "23 Jul. 2017", 
+            "episodeName": "Episode #7.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe plot is unknown at this time    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "30 Jul. 2017", 
+            "episodeName": "Episode #7.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 Aug. 2017", 
+            "episodeName": "Episode #7.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "13 Aug. 2017", 
+            "episodeName": "Episode #7.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "20 Aug. 2017", 
+            "episodeName": "Episode #7.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "27 Aug. 2017", 
+            "episodeName": "Episode #7.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #8.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #8.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #8.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #8.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #8.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #8.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }
+    ], 
+    "name": "Game of Thrones", 
+    "plot": "Nine noble families fight for control over the mythical lands of Westeros; A forgotten race returns after being dormant for thousands of years.", 
+    "rating": 9.5, 
+    "releaseDate": "17 April 2011", 
+    "type": "tvserie"
+}

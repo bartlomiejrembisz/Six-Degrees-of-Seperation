@@ -1,0 +1,37 @@
+{
+    "actorList": [
+        "Gene Hackman", 
+        "John Cazale", 
+        "Allen Garfield", 
+        "Frederic Forrest", 
+        "Cindy Williams", 
+        "Michael Higgins", 
+        "Elizabeth MacRae", 
+        "Teri Garr", 
+        "Harrison Ford", 
+        "Mark Wheeler", 
+        "Robert Shields", 
+        "Phoebe Alexander", 
+        "Ramon Bieri", 
+        "Gian-Carlo Coppola", 
+        "Robert Duvall", 
+        "Richard Hackman", 
+        "George Meyer", 
+        "Al Nalbandian", 
+        "Erick Vinther", 
+        "Billy Dee Williams"
+    ], 
+    "director": [
+        "Francis Ford Coppola"
+    ], 
+    "genres": [
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "The Conversation", 
+    "plot": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that a couple he is spying on will be murdered.", 
+    "rating": 7.9, 
+    "releaseDate": "7 April 1974 (Los Angeles, California)", 
+    "type": "movie"
+}

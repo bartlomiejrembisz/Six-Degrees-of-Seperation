@@ -1,0 +1,111 @@
+{
+    "actorList": [
+        "Pierce Brosnan", 
+        "Henry Garrett", 
+        "Paola Nu\u00f1ez", 
+        "Zahn McClarnon", 
+        "Elizabeth Frances", 
+        "Shane Graham", 
+        "Jess Weixler", 
+        "Caleb Burgess", 
+        "Tatanka Means", 
+        "Alexis West", 
+        "Jacob Lofland", 
+        "Carlos Bardem", 
+        "David Wilson Barnes", 
+        "Natan Cruz", 
+        "Nia Weryackwe", 
+        "Sydney Lucas", 
+        "James Parks", 
+        "Matthew Posey", 
+        "Electra Avellan", 
+        "Sean Stone", 
+        "Nina Laskowski"
+    ], 
+    "director": [
+        "Kevin Dowling", 
+        "Olatunde Osunsanmi", 
+        "Jeremy Webb"
+    ], 
+    "genres": [
+        "Drama", 
+        "Western"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "8 Apr. 2017", 
+            "episodeName": "First Son of Texas", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n\"First Son of Texas\" Eli McCullough must survive a frontier Comanche attack in 1849 and lead his family's empire through difficult times in 1915.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Apr. 2017", 
+            "episodeName": "The Plum Tree", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nYoung Eli must learn how to live among the Comanches in 1849. In 1915, Eli and Pete clash over how to respond to an unexpected attack on their home.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Apr. 2017", 
+            "episodeName": "Second Empire", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nYoung Eli trains as a warrior, but makes enemies in 1849. In 1915, Eli and Phineas struggle to help the family in Austin while Pete faces his demons.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Apr. 2017", 
+            "episodeName": "Death Song", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nYoung Eli faces a life-or-death test of survival in 1849. In 1915, the McCulloughs enact a dangerous plan to take the fight to their enemy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Apr. 2017", 
+            "episodeName": "No Prisoners", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAn enemy forces Young Eli to question his loyalties in 1849. In 1915, the McCulloughs' past comes back to haunt them with deadly results.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 May 2017", 
+            "episodeName": "The Buffalo Hunter", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 May 2017", 
+            "episodeName": "Marriage Bond", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 May 2017", 
+            "episodeName": "Honey Hunt", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 May 2017", 
+            "episodeName": "Episode #1.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Jun. 2017", 
+            "episodeName": "Episode #1.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "The Son", 
+    "plot": "A multi-generational epic telling of the story of America's birth as a superpower through the bloody rise and fall of one Texas oil empire.", 
+    "rating": 0, 
+    "releaseDate": "8 April 2017", 
+    "type": "tvserie"
+}

@@ -1,0 +1,37 @@
+{
+    "actorList": [
+        "James Fox", 
+        "Mick Jagger", 
+        "Anita Pallenberg", 
+        "Mich\u00e8le Breton", 
+        "Ann Sidney", 
+        "John Bindon", 
+        "Stanley Meadows", 
+        "Allan Cuthbertson", 
+        "Anthony Morton", 
+        "Johnny Shannon", 
+        "Anthony Valentine", 
+        "Kenneth Colley", 
+        "John Sterland", 
+        "Laraine Wickens", 
+        "Helen Booth", 
+        "Terry Duggan", 
+        "Reg Lye", 
+        "Ian McShane", 
+        "Billy Murray", 
+        "Anthony Roye"
+    ], 
+    "director": [
+        "Donald Cammell", 
+        "Nicolas Roeg"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama"
+    ], 
+    "name": "Performance", 
+    "plot": "Chas, a violent and psychotic East London gangster needs a place to lie low after a hit that should never have been carried out...", 
+    "rating": 7.0, 
+    "releaseDate": "3 August 1970 (New York City, New York)", 
+    "type": "movie"
+}

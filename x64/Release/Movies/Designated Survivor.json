@@ -1,0 +1,190 @@
+{
+    "actorList": [
+        "Kiefer Sutherland", 
+        "Natascha McElhone", 
+        "Adan Canto", 
+        "Italia Ricci", 
+        "LaMonica Garrett", 
+        "Kal Penn", 
+        "Maggie Q", 
+        "Tanner Buchanan", 
+        "Malik Yoba", 
+        "Virginia Madsen", 
+        "Ashley Zukerman", 
+        "Reed Diamond", 
+        "Vanessa Burns", 
+        "Mckenna Grace", 
+        "Jeff Lillico"
+    ], 
+    "director": [
+        "Fred Toye", 
+        "Chris Grismer", 
+        "Paul A. Edwards", 
+        "Mike Listo"
+    ], 
+    "genres": [
+        "Drama", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "21 Sep. 2016", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA low-level Cabinet member becomes President of the United States after a catastrophic attack kills everyone above him in the Presidential line of succession.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Sep. 2016", 
+            "episodeName": "The First Day", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHours after the attack on the Capitol, President Kirkman steps into his role as Commander-in-Chief in the midst of chaos and confusion.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Oct. 2016", 
+            "episodeName": "The Confession", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTom juggles dealing with a security breach and preparing for his first television interview as the FBI continues to investigate the Capitol bombing.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Oct. 2016", 
+            "episodeName": "The Enemy", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nKirkman learns who is behind the attack and needs to grapple not only with the prospect of war, but brewing domestic troubles as well. Kirkman taps Emily to monitor the domestic situation, while Alex may be in for more than she bargains for when she seeks out help from Hookstraten.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Oct. 2016", 
+            "episodeName": "The Mission", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAfter realizing that diplomacy isn't going to work with Algeria, President Kirkman decides the send the Navy SEALs on a mission; the probe into the Capitol bombing continues.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Nov. 2016", 
+            "episodeName": "The Interrogation", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA shooting at the White House during a Governors Summit throws President Kirkman's plans to elect a new Congress into turmoil; Agent Hannah makes a shocking discovery in her investigation of the capitol bombing.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Nov. 2016", 
+            "episodeName": "The Traitor", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAn American track-and-field coach's trip to Russia forces Kirkman into a hostage exchange involving the CIA and the Russian government; Agent Wells and Deputy Director Atwood's investigation uncovers dangerous information.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Nov. 2016", 
+            "episodeName": "The Results", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nOn the eve of the country voting to elect a new House of Representatives, an unexpected development forces Kirkman to consider cancelling the elections entirely. Meanwhile, news has leaked about Majid Nassar's death, and Kirkman has to handle the fallout.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Dec. 2016", 
+            "episodeName": "The Blueprint", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhen classified government documents are leaked online, President Kirkman searches for the party responsible only to find that they have taken refuge inside a foreign embassy and are beyond even his reach. Meanwhile, Agent Hannah Wells races furiously to gather evidence of MacLeish's involvement in the conspiracy before he can be confirmed as the country's next Vice President.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Dec. 2016", 
+            "episodeName": "The Oath", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nPresident Kirkman fears there could be a traitor in the White House when he discovers shocking information connected to the Capitol Bombing. Confiding in Emily, Kirkman puts her in charge of quietly investigating.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Mar. 2017", 
+            "episodeName": "Warriors", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe nation reels from the aftermath of the shooting; Emily struggles with the knowledge there may be a traitor in the White House; Wells wrestles with her decision to reveal what she knows about the conspiracy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Mar. 2017", 
+            "episodeName": "The End of the Beginning", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nCircles must tighten as a new discovery within the conspiracy emerges. Meanwhile, tension rises between Aaron and Emily as suspicions loom in the White House. Finally, a new lead places Agent Wells closer than before to the truth.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Mar. 2017", 
+            "episodeName": "Backfire", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAn investigative journalist shocks the White House when he reveals classified information during a press briefing; Hannah discovers a connection between MacLeish and the conspiracy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Mar. 2017", 
+            "episodeName": "Commander-in-Chief", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nTurmoil in an African country forces President Kirkman to rely on an unlikely ally for help, as Hannah's investigation into the Capitol bombing takes an unexpected turn. Meanwhile, Emily settles into her new role as chief of staff while Aaron has to make a difficult choice.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Apr. 2017", 
+            "episodeName": "One Hundred Days", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAs President Kirkman releases an agenda to reset his presidency, Alex makes a controversial public statement that threatens to derail it. Meanwhile, FBI agent Hannah Wells unknowingly finds herself in the center of a dangerous trap while getting closer to the truth. While the country still mourns the loss of their Vice President.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Apr. 2017", 
+            "episodeName": "Party Lines", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nPresident Kirkman forms an unlikely alliance in the hopes of passing his first bill while Agent Ritter is briefed by FBI Agent Hannah Wells about a new alarming threat to the nation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Apr. 2017", 
+            "episodeName": "The Ninth Seat", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nAs President Kirkman struggles to put together a new Supreme Court, FBI Agent Hannah Wells goes undercover and discovers much more than she ever could have imagined. Meanwhile, Seth Wright has to contend with journalist Abe Leonard, who returns from the Middle East with an explosive story.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Apr. 2017", 
+            "episodeName": "Lazarus", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAs President Kirkman considers candidates for Vice President, Kimble Hookstraten finds herself embroiled in scandal. Agent Wells and Jason Atwood return from North Dakota with a critical new lead while journalist Abe Leonard's investigation takes an unexpected turn.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 May 2017", 
+            "episodeName": "Misalliance", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAs the White House gears up for President Kirkman's first international summit, Kimble Hookstraten faces her toughest political battle yet when her speakership is challenged. Meanwhile, Alex wrestles with whether or not to bring the kids back to Washington.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 May 2017", 
+            "episodeName": "Bombshell", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nPresident Kirkman's first international summit is derailed when journalist Abe Leonard publishes an explosive article. Meanwhile, Hannah Wells uncovers the conspiracy's next target.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 May 2017", 
+            "episodeName": "Brace for Impact", 
+            "episodeNumber": 21, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #1.22", 
+            "episodeNumber": 22, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "Designated Survivor", 
+    "plot": "A low-level Cabinet member becomes President of the United States after a catastrophic attack kills everyone above him in the Presidential line of succession.", 
+    "rating": 0, 
+    "releaseDate": "21 September 2016", 
+    "type": "tvserie"
+}

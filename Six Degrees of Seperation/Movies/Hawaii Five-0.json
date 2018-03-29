@@ -1,0 +1,1234 @@
+{
+    "actorList": [
+        "Alex O'Loughlin", 
+        "Scott Caan", 
+        "Daniel Dae Kim", 
+        "Grace Park", 
+        "Masi Oka", 
+        "Taylor Wily", 
+        "Chi McBride", 
+        "Jorge Garcia", 
+        "Dennis Chun"
+    ], 
+    "director": [
+        "Bryan Spicer", 
+        "Larry Teng", 
+        "Joe Dante", 
+        "Steve Boyum", 
+        "Jerry Levine", 
+        "Maja Vrvilo", 
+        "Brad Turner", 
+        "Sylvain White", 
+        "Peter Weller", 
+        "Jeffrey G. Hunt", 
+        "Duane Clark", 
+        "Eagle Egilsson", 
+        "Fred Toye", 
+        "Matt Earl Beesley", 
+        "Eric Laneuville", 
+        "Stephen Herek", 
+        "Brad Tanenbaum", 
+        "Paul A. Edwards", 
+        "Chris Fisher", 
+        "Christine Moore", 
+        "Allison Liddi-Brown", 
+        "Jeff Cadiente", 
+        "Bobby Roth", 
+        "Bronwen Hughes"
+    ], 
+    "genres": [
+        "Action", 
+        "Crime", 
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "20 Sep. 2010", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe governor of Hawaii authorizes Navy intelligence officer Steve McGarrett to put together a special unit whose first job is to capture the man who killed McGarrett's father.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Sep. 2010", 
+            "episodeName": "Ohana", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe team works to rescue a computer expert who has been kidnapped by Serbian mobsters.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Oct. 2010", 
+            "episodeName": "Malama Ka Aina", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen an escalating gang war spills into the stands of the local high school football game, injuring several bystanders and killing a gang leader, Five-0 uncovers an unlikely partnership between Samoan gangs and a mainland mob.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Oct. 2010", 
+            "episodeName": "Lanakila", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMcGarrett is on the trail of an escaped prisoner who is trying to take advantage of an opportunity to get his money back from his former crime partner.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Oct. 2010", 
+            "episodeName": "Nalowale", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nOne daughter of the U.S. ambassador to the Philippines is killed and another daughter is missing, and governor Jameson brings McGarrett's team to lead the investigation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Oct. 2010", 
+            "episodeName": "Ko'olauloa", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen the CEO of a hugely successful surf company is murdered, Kono revisits her past while Five-0 is thrown headlong into the varied but interconnected worlds of North Shore surfing.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Nov. 2010", 
+            "episodeName": "Ho'apono", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMcGarrett places himself in the middle of a hostage situation on the USS Missouri. The hostage-taker is an ex-Navy SEAL suffering from post-traumatic stress disorder, who is the prime suspect in the murder of his wife.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Nov. 2010", 
+            "episodeName": "Mana'o", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nDanny's ex-partner from the Honolulu P.D. is found dead in a luau barbecue pit. Danny demands the team must take his word that the man was incorruptible, although evidence piles up that he was involved in corruption surrounding the Mexican Ochoa cocaine cartel. Internal Affairs Sergeant Cage, who damaged Chin's reputation, is on the case but fails to shield it as HPD Detective Ahuna discretely joins the Five-O investigation. The deeper they dig, the dirtier everyone looks. Jailed human trafficker Sang Min holds a trump card, so Danny bids on it.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Nov. 2010", 
+            "episodeName": "Po'ipu", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nFive-0 is assigned to help stop an assassination plot against a despicable foreign leader, with the help of one of McGarrett's old SEAL buddies. But is his friend actually in on the conspiracy?    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Nov. 2010", 
+            "episodeName": "Heihei", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe team is on the trail of a team of bandits who are planning a robbery during the Honolulu triathlon, and they are forced to turn to Danno's ex-wife for help.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Dec. 2010", 
+            "episodeName": "Palekaiko", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAfter a woman escapes from abduction and her new husband is found dead in their hotel room, Five-0 discovers that they are dealing with a serial killer who targets newlywed couples.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Dec. 2010", 
+            "episodeName": "Hana 'a'a Makehewa", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nMcGarrett discovers that the man who killed his father is still alive, and threatening to kill Chin Ho with a bomb unless his ransom demand is met.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Jan. 2011", 
+            "episodeName": "Ke Kinohi", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nMcGarrett's father's toolbox is stolen, and his sister is kidnapped for investigating their mother's death. McGarrett soon discovers that his father was investigating a suspected Yakuza leader before his death.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Jan. 2011", 
+            "episodeName": "He Kane Hewa' Ole", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nFive-0 searches for identity and motive when a box with a severed head falls out of an overturned stolen car during a police chase--a task made more difficult when the driver dies at the scene.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Jan. 2011", 
+            "episodeName": "Kai e' e", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe island's leading tsunami expert is kidnapped on the same day that ocean reports indicate that a huge tsunami is headed to Hawaii. However, Five-0 soon suspects that the report is a hoax and is related to the kidnapping.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Feb. 2011", 
+            "episodeName": "E Malama", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nMcGarrett and Chin Ho try to rescue and protect a federal witness on the run from assassins, while Danny tries to get to the bottom of his daughter and ex-wife's carjacking.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Feb. 2011", 
+            "episodeName": "Powa Maka Moana", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nFive-0 searches for a group of Spring Breakers who are being held for ransom by a group of pirates.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Feb. 2011", 
+            "episodeName": "Loa Aloha", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhile Five-0 races to stop a mad bomber before he kills again, Danny gets an unexpected visit from his little brother, Matt, a fun-loving, Wall Street broker. The family reunion is cut short, however, when Danny discovers the real reason that Matt is in Hawaii.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Mar. 2011", 
+            "episodeName": "Ne Me'e Laua Na Paio", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nFive-0 must unravel the mystery of why a mild-mannered sci-fi fan wearing a cape was given truth serum before being tossed out of a 21st-story window. Meanwhile, McGarrett gets an unexpected visit from a CIA agent who shares his personal interest in tracking down the Yakuza who had his parents killed.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Apr. 2011", 
+            "episodeName": "Ma Ke Kahakai", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe team investigates the death of a commercial fisherman whose body was found in an unexpected place, while the imminent death of Chin Ho's aunt could reveal surprising new details about the stolen drug money.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Apr. 2011", 
+            "episodeName": "Ho'opa'i", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nFive-0 turns up the heat on a crime boss after the safe house of an undercover police officer who infiltrated his organization is compromised and his wife is killed.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 May 2011", 
+            "episodeName": "Ho'ohuli Na'au", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nWhile investigating the murder of a professional photographer, Five-0 discovers a connection to a local bookie. Meanwhile, Chin Ho covers for his uncle and claims that he has the stolen police money.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 May 2011", 
+            "episodeName": "Ua Hiki Mai Kapalena Pau", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nDanny is exposed to sarin while Five-0 tries to track down Wo Fat, and Chin Ho's plan to quietly return the money his uncle stole hits a snag.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 May 2011", 
+            "episodeName": "Oia'i'o", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nAfter one of governor Jameson's assistants is killed, McGarrett discovers that the governor may have been working with Wo Fat and may have been the target of his father's investigation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Sep. 2011", 
+            "episodeName": "Ha'i'ole", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMcGarrett escapes from prison and sets out for revenge on Wo Fat, with the help of his now-disbanded Five-0 team and the man who trained him in the Navy.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Sep. 2011", 
+            "episodeName": "Ua Lawe Wale", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe governor appoints a new member to the Five-0 team, who is trying to find a kidnapped 15-year-old girl. Meanwhile, Kono comes under investigation by Internal Affairs.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Oct. 2011", 
+            "episodeName": "Kame'e", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWith the help of Joe White, McGarrett tries to find a killer targeting members a of a Navy SEAL team, while Kono contemplates a job offer from the underworld.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Oct. 2011", 
+            "episodeName": "Mea Makamae", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe team discovers that a dead salvage diver was looking for more than sunken treasure, Chin Ho discovers that Kono accessed his police account, and McGarrett becomes curious about what's delaying the DOD findings about his father.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Oct. 2011", 
+            "episodeName": "Ma'eme'e", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe University of Hawaii women's volleyball coach is killed, and Five-0's investigation leads back to the disgraced ex-cop that Kono now works for.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Oct. 2011", 
+            "episodeName": "Ka Hakaka Maika'i", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhile Five-0 tries to figure out who killed a well-known Honolulu businessman, Joe gets an unwelcome visitor while trying to search for answers about the video.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Oct. 2011", 
+            "episodeName": "Ka Iwi Kapu", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nTwo ghost-hunting filmmakers are killed at a historic traditional burial site, and when the team discovers more dead bodies at the site, they suspect that they could be after a serial killer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Nov. 2011", 
+            "episodeName": "Lapa'au", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhen an ICE agent is killed, Five-0 must find out which smuggling ring she was investigating in order to find her killer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Nov. 2011", 
+            "episodeName": "Ike Maka", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe team tries to uncover the identity of a man who recently had plastic surgery but was found dead in the trunk of a stolen muscle car--which will hopefully lead them to his killer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Nov. 2011", 
+            "episodeName": "Ki'ilua", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhile Five-0 investigates the death of a muckraking reporter, Jenna returns to ask McGarrett for help finding her fianc\u00e9 in North Korea--which is actually part of Wo Fat's revenge plot--and Joe White leads the mission to bring them home.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Dec. 2011", 
+            "episodeName": "Pahele", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA team of drug dealers kidnaps a busload of school children in order to get Five-0 to return the drugs they confiscated, while Joe White goes on a personal mission to uncover the identity of \"Shelbourne\" before Wo Fat does.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Dec. 2011", 
+            "episodeName": "Alaheo Pau'ole", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAs the gang gets ready for Chin Ho's wedding, Five-0 discovers that a man shot in a military bunker was in Hawaii to search for his missing son, and Steve begins to suspect that Joe is hiding secrets about the investigation from him.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Jan. 2012", 
+            "episodeName": "Ka Ho' Oponopono", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhile Five-0 tries to figure out who smothered a high school girl in her bed, the Yakuza targets Joe because they believe he killed their leader.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Jan. 2012", 
+            "episodeName": "Pu'olo", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nFive-0 investigates the hijacking of a delivery truck in which the driver is killed, Danny's ex-wife goes into labor, and both Steve and the Yakuza put pressure on Joe to give answers.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Feb. 2012", 
+            "episodeName": "Mai Ka Wa Kahiko", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAn enemy from Danny's past comes to the island for revenge, and the life of Danny's daughter, Grace, could hang in the balance.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Feb. 2012", 
+            "episodeName": "I Helu Pu", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA woman is murdered during the governor's fund raising dinner, and Five-0 gets in trouble with the governor when the team goes too far trying to catch the killer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Feb. 2012", 
+            "episodeName": "Kupale", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nFive-0 investigates the murder of a shipping businessman who was supposed to be participating in a historical Hawaiian battle reenactment.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Feb. 2012", 
+            "episodeName": "Lekio", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nA retired New York police officer helps the team figure out who killed one of his close friends, a pirate radio disc jockey.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Mar. 2012", 
+            "episodeName": "Kalele", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhile Steve's sister Mary accidentally gets caught in the middle of a plot to smuggle conflict diamonds, Five-0 and HPD get the help of an elderly ex-con recently released from prison to find the smugglers.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Apr. 2012", 
+            "episodeName": "Ha'alele", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nMax reveals shocking information about his childhood to help the team track a serial killer who may have ties to Max's past.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Apr. 2012", 
+            "episodeName": "Pa Make Loa", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nDanny and Chin Ho partner with NCIS agents Sam Hanna and G. Callen to track down a suspect who's threatening to release a deadly virus on the population.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 May 2012", 
+            "episodeName": "Ua Hopu", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nJust as McGarrett finally gets his hands on his arch nemesis Wo Fat in a special ops raid, he's blindsided when he finds that the Japanese Yakuza is hot on their trail and wants them both dead.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 May 2012", 
+            "episodeName": "Ua Hala", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nFive-0 needs the help of an imprisoned dirty cop to track down a suspect who killed captain Fryer and set off a bomb in the HPD. Meanwhile, Joe White returns and promises to reveal to McGarrett the identity of Shelbourne.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Sep. 2012", 
+            "episodeName": "La O Na Makuahine", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMcGarrett brings his mother back to the island. But her life may be in danger after Wo Fat escapes from prison with the help of an unlikely partner: Frank Delano.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Oct. 2012", 
+            "episodeName": "Kanalua", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFive-0 turns to August March for help in finding a pair of art thieves who are involved in a kidnapping, but is March actually in on the plot?    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Oct. 2012", 
+            "episodeName": "Lana I Ka Moana", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDuring a fishing trip, McGarrett and Danny wind up stranded in the ocean on a leaking dinghy after a killer steals their boat at gunpoint.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Oct. 2012", 
+            "episodeName": "Popilikia", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhile Five-0 investigates the beheading of a polo player, McGarrett's mom returns to pay him a surprise visit.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Nov. 2012", 
+            "episodeName": "Mohai", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA gruesome murder on Halloween night appears to be related to a Satanic ritual, and Five-0 must find the killer before he claims a second victim.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Nov. 2012", 
+            "episodeName": "I Ka Wa Mamua", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhile Five-0 discovers a terrorist cell on the island, Danny has a flashback to one of the most eventful days of his life while working as a Newark police officer in 2001.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Nov. 2012", 
+            "episodeName": "Ohuna", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMary arrives in Hawaii and finds out that her Mom is still alive, while Five-O team tries to find out why a high-school boy gets kidnapped.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Nov. 2012", 
+            "episodeName": "Wahine'inoloa", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nMcGarrett is convinced that a psychiatrist murdered one of her patients, but will she get the last laugh? Meanwhile, Catherine discovers that an assassin is on the island and is looking for Doris McGarrett.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Dec. 2012", 
+            "episodeName": "Ha'awe Make Loa", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMcGarrett discovers that a botched bank robbery actually wasn't about the money, while Danny protects a Victoria's Secret supermodel who has been threatened by a stalker.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Dec. 2012", 
+            "episodeName": "Huaka'i Kula", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMcGarrett and a young girl are held hostage by a diamond thief during a campout, and Kono's boyfriend, Adam, welcomes his brother back from prison and gives him an offer to become a legitimate businessman.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Dec. 2012", 
+            "episodeName": "Kahu", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe team helps find a boy's father, and discovers that his disappearance is related to moonshiners and a reclusive bank robber.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Jan. 2013", 
+            "episodeName": "Kapu", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA college professor is murdered, but who is the killer: his boss, his teaching assistant, or one of his students? Meanwhile, Kono is assigned to protect an annoying witness released from federal prison.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Jan. 2013", 
+            "episodeName": "Olelo Ho'Opa'I Make", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nChin Ho is drugged, kidnapped, and placed in a maximum security prison as retaliation for Frank Delano's death, but will he be able to make it out alive?    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Jan. 2013", 
+            "episodeName": "Hana I Wa 'Ia", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe governor asks Five-0 to handle a delicate investigation involving a dead prostitute, but is he really trying to cover up the case for an important political ally?    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Feb. 2013", 
+            "episodeName": "Hookman", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA sniper with two prosthetic hands is killing police officers, and McGarrett may be on his list.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Feb. 2013", 
+            "episodeName": "Kekoa", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nFive-0 connects the murder of a local businessman to a fight club, and McGarrett asks an old friend to do surveillance work on his mother.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Feb. 2013", 
+            "episodeName": "Pa'ani", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMcGarrett and Danny's plans to go to the NFL Pro Bowl are interrupted when a computer executive is murdered during a team-building exercise at a corporate retreat.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Mar. 2013", 
+            "episodeName": "Na Ki'i", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nFive-0 discovers that a murdered kindergarten teacher had a secret life as a roller derby star, and some very important information is stolen from Doris McGarrett's safe and could put her in danger.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Mar. 2013", 
+            "episodeName": "Hoa Pili", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAfter an explosion on a shark tour boat, one of the boat's owners is found dead in a submerged shark cage. Meanwhile, McGarrett helps Kamekona get his helicopter pilot license.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Apr. 2013", 
+            "episodeName": "Olelo Pa'a", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nMcGarrett and Catherine go in a secret mission to North Korea to find the body of one of McGarrett's fallen SEAL buddies.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Apr. 2013", 
+            "episodeName": "Imi Loko Ka 'Uhane", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nA talk show host and crew follow Five-0 around as they try to solve a grisly murder with ties to both Wo Fat and the Russian mob.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 May 2013", 
+            "episodeName": "Ho'opio", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nFive-0 discovers the body of a missing 17 year old girl who was kidnapped 10 years earlier, and soon learn that the captors may already have a new victim. Meanwhile, Kono suspects that her boyfriend may bee keeping secrets from her.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 May 2013", 
+            "episodeName": "He welo 'oihana", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nMcGarrett helps Doris on a dangerous mission to retrieve stolen microfilm, and Kono is shot while investigating a lead about Yakuza secret burial site that may be connected to her boyfriend.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 May 2013", 
+            "episodeName": "Aloha. Malama Pono", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nWhile Five-0 searches for an escaped federal prisoner connected to a terrorist plot, Kono tries to clear her name after her gun is used in a murder.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Sep. 2013", 
+            "episodeName": "Aloha Ke Kahi I Ke Kahi", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nBefore McGarrett can get answers about his mother from Wo Fat, terrorists break into the prison and also take hostages at Five-0 headquarters.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Oct. 2013", 
+            "episodeName": "A'ale Ma'a Wau", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA hard-as-nails Texas Ranger arrives on the island to look for his missing daughter, Kono and Adam's secure location is compromised, and an old friend comes to Catherine with a job offer.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Oct. 2013", 
+            "episodeName": "Ka 'oia'i'o ma loko", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA married couple's execution leads Five-0 to a mystery involving stolen artifacts and a long-forgotten secret society, and Catherine goes through her last day with the Navy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Oct. 2013", 
+            "episodeName": "A ia la aku", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAs Five-0 deals with the murder of an ex-con wedding crasher, McGarrett and Danny deal are forced to deal with problems in their relationships.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Oct. 2013", 
+            "episodeName": "Kupu'eu", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMcGarrett tries to find the man who killed his old SEAL friend Billy while he and Catherine were working a surveillance job, and he also turns to Joe White to track down his mother.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Nov. 2013", 
+            "episodeName": "Kupouli 'la", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAfter a \"zombie attack\" at a Halloween party, Five-0 discovers a mad doctor who is conducting bizarre human experiments.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Nov. 2013", 
+            "episodeName": "Ua Nalohia", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFive-0 tries to figure out who killed an officer who was working undercover for the ATF, while also babysitting for McGarrett's sister Mary's new baby.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Nov. 2013", 
+            "episodeName": "Akanahe", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nMcGarrett and Grover reluctantly work together to issue a summons to a young man who turns out to be a dangerous cyberterrorist.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Nov. 2013", 
+            "episodeName": "Hau'oli La Ho'omoaika'i", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe death of a secret service agent leads Five-0 to believe an assassin is targeting the president during a trip to Hawaii, and McGarrett gets a surprise Thanksgiving visit from his Aunt Deb.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Dec. 2013", 
+            "episodeName": "Ho'onani Makuakane", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA murder attempt on a Pearl Harbor veteran leads Five-0 to use decades old evidence to investigate a deadly crime committed in an internment camp on Oahu during WWII.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Dec. 2013", 
+            "episodeName": "Pukana", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhile investigating a homicide during an attempted home burglary, Five-0 stumbles onto a serial killer, and Chin Ho may be his next victim.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Jan. 2014", 
+            "episodeName": "O kela me keia manawa", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhen Captain Grover's friend disappears, Five-0 discovers that his friend was hiding a dangerous secret. Meanwhile, Danny befriends a New Yorker new to the island, and Kono reunites with Adam.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jan. 2014", 
+            "episodeName": "Hana Lokomaika'i", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nInternal Affairs questions Chin about his father's murder 15 years ago and his relationship with Malia.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "31 Jan. 2014", 
+            "episodeName": "Na hala a ka makua", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nA convicted murderer escapes from custody, holds McGarrett and Danny hostage, and claims that he was framed for the crime.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Feb. 2014", 
+            "episodeName": "Pale 'la", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nFive-0 investigates the murder of a real estate agent, Danny's mother comes to Hawaii with big surprise news, and captain Grover reveals a secret about his past to McGarrett.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Mar. 2014", 
+            "episodeName": "Hoku Welowelo", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nFive-0 investigates a triple homicide connected to a downed top-secret Chinese satellite, while Grover takes Danny's mother on a ride-along.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Mar. 2014", 
+            "episodeName": "Ma lalo o ka 'ili", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nFive-0 looks for a 16-year-old girl who is kidnapped after her father is murdered, Danny launches a plan to keep his mother from getting a divorce, and Jerry uncovers a new clue for McGarrett related to \"Shelbourne.\"    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Apr. 2014", 
+            "episodeName": "Ho'i Hou", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nOne of Chin Ho and Jerry's high school classmates is killed during their class reunion, and McGarrett and Danny find a new clue at the secret burial site.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Apr. 2014", 
+            "episodeName": "Ku I Ka Pili Koko", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nMcGarrett and Danny are trapped in the rubble of a blown-up building after an informant's tip on a gun buy goes wrong.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Apr. 2014", 
+            "episodeName": "Pe'epe'e Kainaka", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe team uncovers an Islamic terrorist plot involving American college students.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 May 2014", 
+            "episodeName": "Makani 'Olu a Holo Malie", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nWhile Five-0 investigates a homicide related to a stolen transplant organ, McGarrett joins Catherine for a trip to Afghanistan so she can help a friend whose son has been kidnapped by the Taliban.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 May 2014", 
+            "episodeName": "O ka Pili'Ohana ka 'Oi", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nCyber-criminal Ian Wright holds Grover's daughter hostage and demands that Grover help him out with a multi-million dollar heist. Meanwhile, Wo Fat escapes from maximum security in Colorado.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "26 Sep. 2014", 
+            "episodeName": "A'ohe Kahi e Pe'e Ai", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFive-0 must find out who has hijacked a drone and used it to attack civilians and why.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 Oct. 2014", 
+            "episodeName": "Ka Makuakaneka", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe young daughter of a Navy SEAL in Afghanistan is kidnapped, but Five-0 soon discovers that the kidnappers took the wrong girl and are negotiating with the wrong family.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Oct. 2014", 
+            "episodeName": "Kanalu Hope Loa", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThree surfers get more than they bargained for when they rob a tour bus, Jerry continues his investigation of a counterfeiter, and Danny searches for his brother's missing money.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 Oct. 2014", 
+            "episodeName": "Ka No'eau", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFive-0 deals with a mob contract killer who has literally and figuratively had a change of heart. Danny finds his brother's money but is short five and a half million dollars, and his brother's life may be in the balance.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Oct. 2014", 
+            "episodeName": "Ho'oilina", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMcGarrett meets an old acquaintance of his father's at his gravesite, which prompts him to investigate an old case his father was working on just before his death.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "31 Oct. 2014", 
+            "episodeName": "Ho'oma'ike", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nIt's Halloween and Five-o must track down a serial killer who is copying murders depicted in a cult slasher film. Meanwhile, McGarrett must help Jerry after he is kidnaped by the counterfeiters he has been tracking.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "7 Nov. 2014", 
+            "episodeName": "Ina Paha", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWo Fat kidnaps McGarrett to get answers about his father. He drugs McGarrett during his interrogation, which causes him to have hallucinations that his father is still alive.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "21 Nov. 2014", 
+            "episodeName": "Ka Hana Malu", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA man who conned people with bad investments is murdered along with his wife, and their children are suspects. Meanwhile, McGarrett's Aunt Deb returns to Hawaii with surprise news.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Dec. 2014", 
+            "episodeName": "Ke Koho Mamao Aku", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nIt's Christmas and the team are off to the Big Island to solve a cowboy's murder.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 Jan. 2015", 
+            "episodeName": "Wawahi moe'uhane", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWith the help of an ex-HPD officer-turned private detective, Five-0 tries to solve the homicide of a woman who was working for a hula dancing company that is actually a front for an escort service.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Jan. 2015", 
+            "episodeName": "Ua 'aihue", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFive-0 runs into problems as they try to capture an international art thief who stole a priceless Van Gogh painting, and Kamekona gets help from an \"Iron Chef\" to win a shrimp cook-off.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "16 Jan. 2015", 
+            "episodeName": "Poina 'ole", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe murder of a surgeon leads Five-0 to a 40-year-old mystery involving four boys who disappeared from a reform school. Meanwhile, McGarrett tries to find out who stole his prized car.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 Jan. 2015", 
+            "episodeName": "La Po'ino", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWith the help of Joe White, Five-0 must stop a terrorist group trying to weaponize a virus deadly enough to wipe out the entire world's population.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Feb. 2015", 
+            "episodeName": "Powehiwehi", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nKono must fight for her life after discovering a notorious criminals identity; Adam's ties to his formerly corrupt family business leaves Kono feeling concerned.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Feb. 2015", 
+            "episodeName": "E 'Imi pono", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAfter investigating the death of an investigative journalist, Five-0 discovers that a violent Congolese warlord who was reportedly killed is actually living in Honolulu.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Feb. 2015", 
+            "episodeName": "Nanahu", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nFive-0 works with a California ATF agent to locate a serial arsonist targeting couples on Oahu. Danny and Amber's romantic getaway is ruined when her abusive ex-husband tracks them down.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Kuka'awale", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMcGarrett and Danny work on their relationship as they stakeout a woman's apartment following a diamond robbery.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Mar. 2015", 
+            "episodeName": "Pono Kaulike", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nDanny and Chin Ho are arrested for the roles in the death of Marco Reyes, the Colombian drug lord who killed Danny's brother. But with the help of Joe White, McGarrett discovers that there's more to their arrests than meets the eye.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Mar. 2015", 
+            "episodeName": "Kahania", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nMcGarrett and Odell come under siege in Odell's barbershop when they try to protect a man who is being hunted by a gang. Meanwhile, Jerry is wrongfully accused of committing a series of home invasions.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 Apr. 2015", 
+            "episodeName": "Ike Hanau", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nGrover's closest friend's wife is killed on their anniversary trip to Hawaii, but Grover suspects that he may have killed her. Meanwhile, Danny is stuck in an elevator with a dead body and a medical examiner.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "Ua helele'i ka hoku", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe poisoning death of an Elvis impersonator leads to a mystery involving smuggled diamonds and a couple of familiar faces from Five-0's past.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Apr. 2015", 
+            "episodeName": "Ho'amoano", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThree middle-aged accountants find a dead body in their hotel room after a night of Spring Break partying. Meanwhile, Jerry stumbles on a murder involving a possible sex slave trafficking ring while making a delivery for Kamekona.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 May 2015", 
+            "episodeName": "Mo'o 'olelo Pu", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nWhile Chin Ho faces an old nemesis when Five-0 tracks down a meth ring associated with a murder, Kono is lost at sea during a solo journey after a violent storm.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 May 2015", 
+            "episodeName": "Luapo'i", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nWhile Five-0 investigates the murder of a bounty hunter after he apprehended a fugitive hiding out in Hawaii, Rachel reveals a long-held secret to Danny that has serious ramifications.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 May 2015", 
+            "episodeName": "A Make Kaua", 
+            "episodeNumber": 25, 
+            "episodePlot": "\nWhile Five-0 searches the island for a stolen nuclear warhead, Catherine returns to the island just in time to attend Kono and Adam's wedding.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Sep. 2015", 
+            "episodeName": "Mai ho'oni i ka wai lana m\u00e2lie", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA murder mystery sends Five-0 in search of pirate treasure. Meanwhile, Gabriel Waincroft holds Kono and Adam hostage after their wedding and demands the money they were using to pay off the Yakuza.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 Oct. 2015", 
+            "episodeName": "Lehu a Lehu", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFive-0 needs the help of an imprisoned bomber to find a copycat on the loose, but is he somehow related to the crime? Meanwhile, Kono and Adam discover that they're being watched after Adam recovers from the shooting.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Oct. 2015", 
+            "episodeName": "Ua 'o'oloku ke anu i na mauna", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhile the team tries to track down the owner of a gun found in the ocean that was responsible for two deaths, McGarrett and Catherine reach a crossroads in their relationship.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Oct. 2015", 
+            "episodeName": "Ka Papahana Holo Pono", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFive-0 investigates when a wealthy recluse is found dead in a remote field with nearly one million dollars in counterfeit bills. Also, Adam is kidnapped by the Yakuza and forced to torture one of Gabriel's men. Jerry Rice guest stars.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Oct. 2015", 
+            "episodeName": "Ka 'alapahi nui", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nFive-0 interrogates members of a stunt biker gang to locate a killer who escaped by jumping his motorcycle from one rooftop to another. Meanwhile, the riders prepare to race in a Tough Mudder competition.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "30 Oct. 2015", 
+            "episodeName": "Na Pilikua Nui", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nFive-0 is in search of a serial killer who may be a modern-day Dr. Frankenstein, while also dealing with a hostage situation after a blood bank robbery. Meanwhile, Danny is frustrated after Grace goes to a Halloween party behind his back.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 Nov. 2015", 
+            "episodeName": "Na Kame Hele", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhile snorkeling off a deserted island McGarrett and his new girlfriend stumble onto the hideout of a wanted gangster while Chin, Kono and Grover must track down a gambler who is forcing a high school quarterback to throw a playoff game.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 Nov. 2015", 
+            "episodeName": "Piko Pau 'iole", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nFive-0 works with a conman to find a killer after his partner is murdered. A San Francisco police inspector helps Chin Ho investigate the murder of Chinese arms dealers. Adam receives some unsettling news after meeting with the Yakuza boss.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "20 Nov. 2015", 
+            "episodeName": "Hana Keaka", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAfter a college professor is murdered, Danny goes undercover as his replacement and Eric poses a college student. McGarrett gives advice to a young man after his dad returns from jail and wants to get back in his life.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "11 Dec. 2015", 
+            "episodeName": "Ka Makau Kaa Kaua", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe brother of a local boxer is killed the night before his championship bout, and Five-0 connects it to Gabriel Waincroft, who has an even bigger target in mind. Meanwhile, Adam takes a plea and prepares to serve his sentence.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "8 Jan. 2016", 
+            "episodeName": "Kuleana", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nChin Ho asks Kamekona to go undercover to help solve the murder of a former drug-dealing associate from his past, while Steve and Danny go to a couples retreat to work on their relationship..    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "15 Jan. 2016", 
+            "episodeName": "Ua ola loko i ke aloha", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nFive-0 uncovers a Japanese World War II spy mystery after a young boy is shot in a long-forgotten bunker. Meanwhile, Aunt Deb returns to Hawaii to visit the McGarretts so she can help finish her recently-deceased husband's \"bucket list.\"    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 Jan. 2016", 
+            "episodeName": "Umia Ka Hanu", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nLou takes extreme measures to expose the truth about a friend's death, while Danny, Steve, Kono, and Chin compete in a friendly wager that turns deadly.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Feb. 2016", 
+            "episodeName": "Hoa 'inea", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe team unravels a plot to murder a pair of unfaithful spouses, while each member also recounts their disastrous Valentine's Day mishaps.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Feb. 2016", 
+            "episodeName": "Ke Koa Lokomaika'i", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAn autistic man helps Five-0 uncover the details of a daring bank heist, which ultimately leads to another showdown with Gabriel Waincroft. Meanwhile, Danny learns that the Feds want to talk to his mother about his brother's death.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 Feb. 2016", 
+            "episodeName": "Ka Pohaku Kihi Pa'a", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen Five-0's sketchy confidential informant is accused of murder, McGarrett asks his old friend Odell Martin to defend him. Michael Imperioli returns and Ziggy Marley guest stars.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "11 Mar. 2016", 
+            "episodeName": "Waiwai", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMcGarrett and Five-0 must track down a Russian spy who has stolen a flash drive containing classified NSA information that puts the life of a member of their Ohana at risk. Also, McGarrett finally learns why Catherine left him, and Abby continues to conceal her actual mission from Chin and Five-0.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "1 Apr. 2016", 
+            "episodeName": "Kanaka Hahai", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nFive-0 tries to shut down an offshore fishing boat that is using slave labor. Meanwhile, Danny tracks down a pair of violent criminals who stole his car, and inspector Dunn comes clean about her secret mission.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "8 Apr. 2016", 
+            "episodeName": "Malama ka Po'e", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nGrover is forced to take himself and his family off the grid without notice when he discovers that an enemy from his FBI undercover days has tracked him down.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "15 Apr. 2016", 
+            "episodeName": "Ka Haunaele", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe team discovers that the prototype for a high-tech body armor suit has been stolen, and Jerry finds out that his sister is involved with the release of an elephant that is still on the loose.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 Apr. 2016", 
+            "episodeName": "Ka Pono Ku'oko'a", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nFive-0 goes on a manhunt when a chemical spill permits six dangerous inmates to escape, including Kono's husband, Adam.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "29 Apr. 2016", 
+            "episodeName": "I'ike Ke Ao", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nFive-0 must save a kidnapped college student from a dangerous vigilante. Also Max, Kamekona and Flippa try to survive after being shipwrecked.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 May 2016", 
+            "episodeName": "Pilina Koko", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nWhile investigating the murder of a woman connected to the drug trade, Five-0 discovers that the victim's daughter has a close personal connection to both Chin Ho and Gabriel Waincroft.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 May 2016", 
+            "episodeName": "Pa'a Ka 'ipuka I Ka 'Upena Nananana", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nFive-0 captures a seriously wounded Gabriel Waincroft and prepare to bring him in, but Michelle Shioma wants him for herself to avenge the death of her father, and her men will stop at nothing to get him for themselves.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 May 2016", 
+            "episodeName": "O Ke Ali'i Wale No Ka'u Makemake", 
+            "episodeNumber": 25, 
+            "episodePlot": "\nIn order to stop a meth epidemic on the Island, McGarrett and Danny go undercover as pilots, but when McGarrett is seriously wounded, Danny is forced to break their cover in order to save his partner's life.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Sep. 2016", 
+            "episodeName": "Makaukau 'oe e Pa'ani?", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWhen the bodies of two serial killers are found on Five-0 property with chess pieces in their mouths, McGarrett and the team hunt for a vigilante as fear grows that tourists aren't safe in Hawaii.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "30 Sep. 2016", 
+            "episodeName": "No ke ali'i wahine a me ka 'aina", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFive-0 works with a British secret agent who is on a very secret and personal mission to track down a deadly device and a dangerous terrorist.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "7 Oct. 2016", 
+            "episodeName": "He Moho Hou", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen FBI Profiler Alicia Brown finds a body in her bed, she is forced to join McGarrett in the hunt for the chess-piece killer. Also, Kono reconnects with a former surfing competitor, who is now a disabled and homeless war vet    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "14 Oct. 2016", 
+            "episodeName": "Hu a'e ke ahi lanakila a Kamaile", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFive-0 must find McGarrett and Alicia when they are kidnapped by the serial killer they've been hunting.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "21 Oct. 2016", 
+            "episodeName": "Ke Ku 'Ana", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhen a cache of guns is stolen from a gun range, Five-0 discovers the culprit is intent on making a dramatic and potentially deadly statement on gun violence. Also, Kono and Adam are finally reunited when he is released from prison.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "28 Oct. 2016", 
+            "episodeName": "Ka hale ho 'okauweli", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nOn Halloween, Five-0 investigates the murder of a medium with a checkered past who was apparently scared to death by a poltergeist. Also, Kono and Adam are kidnapped by what appears to be a death cult.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "4 Nov. 2016", 
+            "episodeName": "Ka makuahine a me ke keikikane", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMcGarrett's long-lost love, Catherine, returns to Hawaii unexpectedly to tell Steve that Doris is in trouble and needs his help to be rescued.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "11 Nov. 2016", 
+            "episodeName": "Hana Komo Pae", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhile Danny chaperones Grace's winter formal, terrorists seize the venue and hold everyone hostage in order to kidnap a diplomat's son.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "18 Nov. 2016", 
+            "episodeName": "Elua la ma Nowemapa", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA conspiracy theorist with compelling information that JFK's own cabinet planned his assassination is murdered. Jerry tells the story of the Honolulu Conference on November 20. 1963.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "9 Dec. 2016", 
+            "episodeName": "Ka Luhi", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFive-0 investigates the 10-year-old cold case of a missing teen when a boy suffering from PTSD undergoes hypnosis and realizes he may have witnessed her murder. Also, Danny's sister, Bridget (guest star Missy Peregrym), visits Oahu for a business conference, and he suspects that she may be getting too close to a co-worker.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "16 Dec. 2016", 
+            "episodeName": "Ka'ili aku", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFive-0 heads to Mexico where Chin risks his life to rescue his kidnapped niece.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 Jan. 2017", 
+            "episodeName": "Ka 'Aelike", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe team handles the fallout in Mexico after Chins problems, back on the Island Grover goes undercover.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "13 Jan. 2017", 
+            "episodeName": "Ua ho'i ka 'opua i Awalua", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs Max prepares to say goodbye to his Five-0 ohana, they must investigate a murder during a police convention on the Island.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "20 Jan. 2017", 
+            "episodeName": "Ka Laina Ma Ke One", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nFive-0 must go up against an aggressive U.S. marshall, Lincoln, when a man wanted for murder escapes capture and seeks asylum in the sovereign land belonging to the Nation of Hawaii.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "3 Feb. 2017", 
+            "episodeName": "Ka pa'ani nui", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nFive-0 uncovers the possibility that a Nazi war criminal may be hiding in an old leprosy colony.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "10 Feb. 2017", 
+            "episodeName": "Poniu I Ke Aloha", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nMcGarrett and Danny spend Valentine's Day with their girlfriends, while the rest of Five-0 investigates the murder of a man who had been taking classes on picking up women.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "17 Feb. 2017", 
+            "episodeName": "Hahai I Na Pilikua Nui", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMcGarrett and Five-0 once again become entangled in the twisted mind games of serial killer Dr. Madison Gray when she stumbles into HPD covered in blood that matches Alicia Brown's, and claims amnesia.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "24 Feb. 2017", 
+            "episodeName": "E malama pono", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nMacGarrett and Danny finally track down the missing uranium, which has been used to build a bomb located in the middle of the jungle. Now, they must carefully extract the unstable explosive through treacherous terrain before it detonates.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "10 Mar. 2017", 
+            "episodeName": "Puka 'ana", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nMcGarrett and Kono suspect that an abused young girl may be the victim of a sex trafficking ring on the Island. Also, Chin and Grover investigate a murder at a sober living facility.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Huikau na makau a na lawai'a", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nFive-0 helps PI Harry Brown work the case of a kidnapped wealthy woman whose husband may have something to hide. Also, Rachel tells Danny that she is getting a divorce from Stan.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "7 Apr. 2017", 
+            "episodeName": "Ua Malo'o Ka Wai", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nMcGarrett and Five-0 are captured and face certain death after tracking a dangerous nemesis to the Island of Lanai. Also, Grover takes his son to Chicago where he testifies against a dirty cop from his past.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "14 Apr. 2017", 
+            "episodeName": "Waimaka 'ele'ele", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nMcGarrett works the murder case one of the last survivors of the USS Arizona. Adam uncovers bone fragments at his new construction job.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "28 Apr. 2017", 
+            "episodeName": "Wehe 'ana", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nDanny protects a coma patient showing signs of waking who was the key witness from his last HPD case before he met Steve and joined Five-0. Lori Petty guest stars as Nurse Jenny Kitson, and Michael Paul Chan guest stars as Danny's former HPD Captain, Tanaka.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "5 May 2017", 
+            "episodeName": "Ua mau ke ea o ka 'aina i ka pono", 
+            "episodeNumber": 24, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "12 May 2017", 
+            "episodeName": "Episode #7.25", 
+            "episodeNumber": 25, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }
+    ], 
+    "name": "Hawaii Five-0", 
+    "plot": "Steve McGarrett returns home to Oahu, in order to find his father's killer. The governor offers him the chance to run his own task force (Five-0). Steve's team is joined by Chin Ho Kelly, Danny \"Danno\" Williams, and Kono Kalakaua.", 
+    "rating": 7.4, 
+    "releaseDate": "20 September 2010", 
+    "type": "tvserie"
+}

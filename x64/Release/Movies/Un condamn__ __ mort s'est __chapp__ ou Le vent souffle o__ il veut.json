@@ -1,0 +1,32 @@
+{
+    "actorList": [
+        "Fran\u00e7ois Leterrier", 
+        "Charles Le Clainche", 
+        "Maurice Beerblock", 
+        "Roland Monod", 
+        "Jacques Ertaud", 
+        "Jean Paul Delhumeau", 
+        "Roger Treherne", 
+        "Jean Philippe Delamarre", 
+        "Jacques Oerlemans", 
+        "Klaus Detlef Grevenhorst", 
+        "Leonhard Schmidt", 
+        "Roger Planchon", 
+        "Andr\u00e9 Collombet", 
+        "C\u00e9sar Gattegno", 
+        "Max Schoendorff"
+    ], 
+    "director": [
+        "Robert Bresson"
+    ], 
+    "genres": [
+        "Drama", 
+        "Thriller", 
+        "War"
+    ], 
+    "name": "Un condamn\u00e9 \u00e0 mort s'est \u00e9chapp\u00e9 ou Le vent souffle o\u00f9 il veut", 
+    "plot": "A captured French Resistance fighter during WWII engineers a daunting escape from prison.", 
+    "rating": 8.2, 
+    "releaseDate": "11 November 1956", 
+    "type": "movie"
+}

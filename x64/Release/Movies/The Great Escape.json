@@ -1,0 +1,47 @@
+{
+    "actorList": [
+        "Steve McQueen", 
+        "James Garner", 
+        "Richard Attenborough", 
+        "James Donald", 
+        "Charles Bronson", 
+        "Donald Pleasence", 
+        "James Coburn", 
+        "Hannes Messemer", 
+        "David McCallum", 
+        "Gordon Jackson", 
+        "John Leyton", 
+        "Angus Lennie", 
+        "Nigel Stock", 
+        "Robert Graf", 
+        "Jud Taylor", 
+        "Hans Reiser", 
+        "Harry Riebauer", 
+        "William Russell", 
+        "Robert Freitag", 
+        "Ulrich Beiger", 
+        "George Mikell", 
+        "Lawrence Montaigne", 
+        "Robert Desmond", 
+        "Til Kiwe", 
+        "Heinz Weiss", 
+        "Tom Adams", 
+        "Karl-Otto Alberty", 
+        "Arthur Atkinson"
+    ], 
+    "director": [
+        "John Sturges"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Drama", 
+        "History", 
+        "Thriller", 
+        "War"
+    ], 
+    "name": "The Great Escape", 
+    "plot": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.", 
+    "rating": 8.2, 
+    "releaseDate": "20 June 1963 (London)\n (premiere)", 
+    "type": "movie"
+}

@@ -1,0 +1,696 @@
+{
+    "actorList": [
+        "Gabriel Macht", 
+        "Patrick J. Adams", 
+        "Rick Hoffman", 
+        "Meghan Markle", 
+        "Sarah Rafferty", 
+        "Gina Torres"
+    ], 
+    "director": [
+        "Anton Cropper", 
+        "Michael Smith", 
+        "Kevin Bray", 
+        "Roger Kumble", 
+        "Silver Tree", 
+        "John Scott", 
+        "Christopher Misiano", 
+        "Cherie Nowlan", 
+        "F\u00e9lix Enr\u00edquez Alcal\u00e1", 
+        "Patrick J. Adams", 
+        "Terry McDonough", 
+        "Jennifer Getzinger", 
+        "James Whitmore Jr.", 
+        "Kate Dennis", 
+        "Gabriel Macht"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "23 Jun. 2011", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA \"closer\" for one of New York City's most successful law firms decides to hire an aloof genius who has passed the bar but never went to law school as his associate.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Jun. 2011", 
+            "episodeName": "Errors and Omissions", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHarvey discovers that the judge in his patent case has a personal vendetta against him, while Louis tries to blackmail Mike in order to get his help bringing in a valuable client.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Jul. 2011", 
+            "episodeName": "Inside Track", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nHarvey asks Mike to find a loophole so that he can oust the incoming CEO of a motor company he represents, while Louis puts outrageous demands on Mike as he tries to make arrangements for the Rookie Dinner.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Jul. 2011", 
+            "episodeName": "Dirty Little Secrets", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHarvey defends someone from Jessica's past. Meanwhile, Mike is assigned his first solo case and his secret is almost discovered.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Jul. 2011", 
+            "episodeName": "Bail Out", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHarvey is a witness for his driver in a civil suit, and has to rely on Louis for help. Mike bails his old friend Trevor out of jail.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Jul. 2011", 
+            "episodeName": "Tricks of the Trade", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nHarvey and Mike try to prove that a woman accused of insider trading is innocent. Mike also tries to help Rachel study for the LSAT, but he soon finds out she is close to uncovering his secret.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Aug. 2011", 
+            "episodeName": "Play the Man", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMike takes on Louis' prot\u00e9g\u00e9 during a mock trial, but his conflict with Rachel could hurt his chances of winning. Elsewhere, Harvey works on a merger between two hotel chains, but his past with the opposing counsel complicates matters.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Aug. 2011", 
+            "episodeName": "Identity Crisis", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nHarvey and Louis come to blows after Louis' reckless behavior threatens to cost the firm a case, while Mike is assigned to a businessman who is trying to get back money from his estranged daughter.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Aug. 2011", 
+            "episodeName": "Undefeated", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nHarvey meets his match in a cocky opposing counsel in a class action lawsuit, and Mike unknowingly helps frame Rachel as a traitor to the firm.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Aug. 2011", 
+            "episodeName": "The Shelf Life", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nHarvey must fire an accountant for falsifying his credentials, but Mike finds a more sinister motive for his termination and becomes concerned about his own employment. Meanwhile, Louis thinks he's found his future wife.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Sep. 2011", 
+            "episodeName": "Rules of the Game", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nHarvey is threatened with disbarment if he doesn't testify against his old mentor in the DA's office. Meanwhile, Harvey wagers Mike's services in a bet with Louis, and Mike goes out on an awkward double date.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Sep. 2011", 
+            "episodeName": "Dog Fight", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nIn the first-season finale, Harvey tries to free an innocent man,Clifford Danner (Neil Brown Jr.), but hits a wall when he goes to the district attorney (Chi McBride), who seems more focused on preserving the system than seeking justice. Elsewhere, Trevor causes problems for Mike when he shows up on his doorstep.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Jun. 2012", 
+            "episodeName": "She Knows", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWhen Jessica learns about Mike, she tells Harvey, thinking that he doesn't know, and tells him to fire him. But Harvey tries to stall hoping to find a way not to. And when Daniel Hardman, the Hardman in Pearson Hardman, decides to return to the firm, Jessica is not happy about that.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Jun. 2012", 
+            "episodeName": "The Choice", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWith Hardman back and knowing that it's a matter of time before he challenges Jessica for control. She decides to make sure she has enough support. So she asks Harvey to go out and get it. Problem is that he rubbed so many members of the firm the wrong way. He tries to get the head of the firm's bankruptcy department to side with Jessica when the time comes but the man feels Jessica treats him like dirt. Harvey tries to get his support by trying to get a man who is building a building that's over budget, to declare bankruptcy. But the man doesn't want to do it so ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Jun. 2012", 
+            "episodeName": "Meet the New Boss", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen Hardman comes in, he tries to ingratiate himself by asking Jessica to let him handle a case wherein they're trying to keep some nurses from going on strike by negotiating a contract. But Jessica says that she already gave it to Harvey which was a lie. And Hardman tries to horn in by getting Mike to give him some info. And Jessica tells Louis that Harvard is considering not allowing them to recruit because the firm's approval rating is low. So he brings in someone from Harvard to check them out but she tells Louis something that he doesn't like.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Jul. 2012", 
+            "episodeName": "Discovery", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nTravis Tanner returns and he is suing a client of Harvey's and Harvey claiming they deliberately withheld information and slandered someone. Harvey claims he did nothing but Tanner shows him a document which Harvey claims he never saw. So Harvey tries to sort it out by having Donna look for the document and talking to the client. But when the client hires another lawyer as a precaution, Harvey gets into an argument with him which ends with Harvey getting fired. Jessica doesn't want Hardman to know and Harvey agrees. Louis asks Harvey for Mike and initially refuses but...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Jul. 2012", 
+            "episodeName": "Break Point", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHarvey balks when Jessica puts him in the passenger seat on a lawsuit that could make or break the firm, and his back seat driving may have far reaching consequences. Mike takes the lead on a case that pits a tennis phenom against his trainer who also happens to be the athlete's father.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Jul. 2012", 
+            "episodeName": "All In", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nHarvey's personal history with a client forces him and Mike to take on an unorthodox case from which they'd normally walk away. Louis and Rachel team up to save a mutually beloved institution from ruin. Jessica runs into an unexpected roadblock while defending the firm against a lawsuit.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Aug. 2012", 
+            "episodeName": "Sucker Punch", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAs the fallout continues to reverberate from the pending lawsuit against Pearson Hardman, Harvey turns to a former colleague, with whom he has a thorny past, for help in proving the firm's case.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Aug. 2012", 
+            "episodeName": "Rewind", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWith the vote for managing partner approaching, Harvey decides to take off but before leaving he gives Mike an assignment. We then take a look at of how things were 5 years ago; Harvey is an associate and Hardman was still managing partner and Jessica learns that someone in the firm is stealing so she has Harvey find out who. Mike is struggling to make ends meet after getting kicked out of school and how he and Trevor first met Jenny and how her friend takes a special interest in Mike.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Aug. 2012", 
+            "episodeName": "Asterisk", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nHarvey and Jessica get ready for the vote. They learn that the vote is split after Hardman got rid of one of Jessica's supporters and that Hardman made Louis a Senior Partner and as a result is the deciding vote. Jessica wants Harvey to get him to vote for her. Harvey and Mike are working on a case wherein a reporter is being sued by a baseball player when he accuses the man of using steroids. The reporter claims the story is accurate because he has a source whom he will not reveal. And Mike's grandmother comes to the office.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Aug. 2012", 
+            "episodeName": "High Noon", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFinally, the voting occurs and, seems Hardman wins by the vote of Louis. Hardman and Louis make Harvey's life hell and Mike goes wayward with death of his granny. Having a night-out with Mike, Harvey catches Louis in his office and the whole conspiracy game by Hardman comes out. Mike throws a trick and Hardman gets voted out of the firm. The unfolding of the conspiracy makes a really interesting climax...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Jan. 2013", 
+            "episodeName": "Blind-Sided", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nMike gets too emotional when Harvey asks him to negotiate a hit-and-run settlement, and Louis runs into trouble as he tries to hire his first associate.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Jan. 2013", 
+            "episodeName": "Blood in the Water", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAnother firm, led by a familiar face, makes an aggressive play to steal Pearson Hardman's associates and clients, and the fallout could affect Louis Litt's future at the firm.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Jan. 2013", 
+            "episodeName": "Zane vs. Zane", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nRachel's father becomes the defense attorney in a gender discrimination lawsuit being prosecuted by Pearson Hardman, and Louis wages war against the new associate hired by Harvey.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Feb. 2013", 
+            "episodeName": "He's Back", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nDaniel Hardman plays a dirty trick his old firm when he takes over the defense in the gender discrimination case, and Rachel has second thoughts about applying to Harvard Law School.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2013", 
+            "episodeName": "Normandy", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nHarvey joins forces with and old familiar face to take down Daniel Hardman, Mike and Katrina play a sneaky game of one-upsmanship, and Rachel gets some bad news about her Harvard application.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Feb. 2013", 
+            "episodeName": "War", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nHarvey puts his name partnership on the line to prevent the merger from going through, Louis clashes his counterpart from the other firm, and Rachel puts Mike in a no-win situation by asking for a recommendation to Harvard.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Jul. 2013", 
+            "episodeName": "The Arrangement", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nJessica's new partnership with Darby is tested when he assigns Harvey a high-profile client who faces the loss of her company if Harvey can't prove her innocence.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Jul. 2013", 
+            "episodeName": "I Want You to Want Me", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nLouis offers Mike a case that could change his future at the firm. Also, Harvey and Jessica team up to bring down an old nemesis who complicates their case to keep Ava Hessington out of jail.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "30 Jul. 2013", 
+            "episodeName": "Unfinished Business", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nCameron Dennis strikes back at Harvey by arresting one of his clients for murder. Meanwhile, Katrina Bennet and a British version of Harvey arrive to stir things up at the firm.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Aug. 2013", 
+            "episodeName": "Conflict of Interest", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHarvey's defense of Ava hits a roadblock when the interests of her murder trial are at odds with Louis' work to thwart a hostile takeover of Hessington Oil by a rival businessman.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Aug. 2013", 
+            "episodeName": "Shadow of a Doubt", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHarvey and Mike try to find a way to get Cameron removed as the prosecutor of Ava's case. When Stephen learns of their plan he offers to help and even bets Harvey that his idea will work. So Harvey kicks Mike off the case. so Mike works on a different case and asks Rachel to work with him. It involves proving a man embezzled from their client and getting him to return the money. They talk to some of the people he works with and discover that one of the women he works with, is involved with him. And they try to get her to testify against him. And Mike joins Rachel when...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Aug. 2013", 
+            "episodeName": "The Other Time", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nCameron's continuing use of shady tactics on Ava's case brings up memories of why Harvey left the DA's office to work for Jessica. Mike looks back on what cost him his one chance at a degree.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Aug. 2013", 
+            "episodeName": "She's Mine", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nHarvey clashes with Stephen over Ava's case. Also, Louis enlists Rachel in his battle with Nigel over a broken contract...and heart.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Sep. 2013", 
+            "episodeName": "Endgame", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAs Ava Hessington's murder trial begins. Harvey, Mike and Jessica fight off betrayal from both inside the firm and out. Meanwhile, Louis and Donna seek to even the score with those who have done them wrong.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Sep. 2013", 
+            "episodeName": "Bad Faith", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nPearson Darby Specter's \"divorce\" brings trust issues to the forefront. Also, Mike asks Rachel to take a big step forward in their relationship.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Sep. 2013", 
+            "episodeName": "Stay", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAva Hessington hires Travis Tanner to handle her malpractice suit against the firm. And he rekindles his rivalry with Harvey. And he deposes him and even Dana. Mike finds himself in a quandary with Rachel. And when Jessica finds out about them she wants something from Rachel and tells Mike to ask her for it.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Mar. 2014", 
+            "episodeName": "Buried Secrets", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThings get complicated when Harvey (Gabriel Macht) mixes business with pleasure and gets caught between Jessica (Gina Torres) and Scottie (guest star Abigail Spencer). Painful memories plague Mike (Patrick J. Adams) as he uses a case to exorcise demons against an old foe, while Louis' (Rick Hoffman) suspicions threaten to expose Mike.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Mar. 2014", 
+            "episodeName": "Yesterday's Gone", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nLouis is prepared to use the smoking gun that proves once and for all that Mike did not attend Harvard, and Jessica clashes with her ex-husband's widow and lawyer when he dies and she is named executor of his will.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Mar. 2014", 
+            "episodeName": "Moot Point", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nHarvey finally gets his chance to take on Elliott Stemple, a man who beat Harvey three times in moot court and has avoided him since. Meanwhile, Dana Scott picks a fight with Louis.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Mar. 2014", 
+            "episodeName": "Heartburn", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nWhile Harvey and Mike have unpleasant work to do for one of their biggest clients, Louis faces a huge challenge and Rachel tries to collect on an old debt.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Apr. 2014", 
+            "episodeName": "Know When to Fold 'Em", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA persistent attorney goes after one of Harvey's clients; Mike is faced with a difficult decision; former name partner Charles Van Dyke returns with revenge on his mind.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Apr. 2014", 
+            "episodeName": "No Way Out", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nMike is brought into the US Attorneys office for questioning by an Attorney who hates dirty lawyers. Meanwhile, Dana Scott re-evaluates her relationship with Harvey.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2014", 
+            "episodeName": "One-Two-Three Go...", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMike, now working as an investment banker, comes to Harvey with a plan to buy out a corporation, but Harvey is soon stuck with a conflict of interest. Meanwhile, Jessica must choose between a romantic or professional relationship.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Jun. 2014", 
+            "episodeName": "Breakfast, Lunch and Dinner", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nMike and Harvey go into battle with each other when Harvey leaves Mike high and dry, and Rachel is stuck in the middle. Meanwhile, Louis is threatened by Jessica's latest hire.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Jun. 2014", 
+            "episodeName": "Two in the Knees", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nLogan Sanders orders Harvey to play dirty in his battle with Mike, and Mike's reputation and relationship with Rachel are not off limits. Meanwhile, Louis tries to bury the hatchet and make friends with Jeff Malone.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Jul. 2014", 
+            "episodeName": "Leveraged", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMike crosses the line to gain leverage on Harvey and Louis, Jeff and Jessica take their fight to the SEC, and Rachel comes to Logan's assistance.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Jul. 2014", 
+            "episodeName": "Pound of Flesh", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMike tries to bluff Harvey with his newfound money, but the move backfires, and the case takes a physical toll on Rachel. Meanwhile, Louis helps Donna memorize some Shakespeare for a play.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Jul. 2014", 
+            "episodeName": "Litt the Hell Up", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMike suddenly has leverage, and Harvey and Logan are ready to make a deal, until Louis finds a way to turn the tables on everyone. Meanwhile, Rachel's actions could add insult to injury for Mike.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Jul. 2014", 
+            "episodeName": "We're Done", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMike's problems are compounded when Rachel reveals her secret, Harvey looks for a way to get Mike back on his feet, and Jessica gives Louis a chance to choose a reward after his big win.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Aug. 2014", 
+            "episodeName": "Exposure", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe firm is under attack when Sean Cahill stops at nothing to get the documents on the Gillis takeover, including the one Louis and Katrina tried to bury. Rachel tries to repair things with Mike.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Aug. 2014", 
+            "episodeName": "Gone", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAfter Louis confesses his wrongdoings in the Forstman deal to Jessica, the firm is forced to go on the offensive against Sean Cahill. But will Harvey be able to save Louis from getting fired, or has Jessica finally had enough?    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Aug. 2014", 
+            "episodeName": "This Is Rome", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAfter Louis resigns from Pearson Specter, Harvey, Mike and Donna try to help him get back on his feet, but Jessica's refusal to budge on his contract could hurt all of them in the long run.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Jan. 2015", 
+            "episodeName": "Enough Is Enough", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nLouis uses his new leverage to become a name partner, rub Jessica and Harvey's noses in it, and promises to make Mike's life a living Hell until he breaks his will and resigns.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Feb. 2015", 
+            "episodeName": "Respect", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nHarvey takes on Professor Gerard as a client in a bribery investigation and discovers that he may have committed an ethics violation, and Louis makes a catastrophic mistake with his first client as name partner.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Feb. 2015", 
+            "episodeName": "Fork in the Road", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhile Harvey helps Mike and Louis settle their differences on a road trip to see a client, Harvey flashes back six years to his initial rift with Louis, and Mike flashes back to his first encounter with the firm.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Feb. 2015", 
+            "episodeName": "Derailed", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nMike takes on a whistleblower case at professor Gerard's request, and Jeff uses the office receptionists to get under Louis' skin.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Feb. 2015", 
+            "episodeName": "Intent", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nHarvey finds out that Donna may have broken the law to help Mike get a document in the whistleblower case, but he may not be able to save her. Meanwhile, Jessica tries to figure out her next step in her relationship with Jeff.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2015", 
+            "episodeName": "Not Just a Pretty Face", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nSean Cahill comes to Harvey asking for one more chance to take a shot at Charles Forstman, and Donna is left with a tough decision after Louis' secretary Norma dies.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Jun. 2015", 
+            "episodeName": "Denial", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMike and Rachel's engagement is put on the back burner as Donna leaves Harvey to work for Louis. Harvey is in denial and is confident she will return, but will he be able to handle it when he discovers she's not bluffing?    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Jul. 2015", 
+            "episodeName": "Compensation", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nJessica thinks that Harvey is putting out his \"Donna anger\" on Louis, as an ambitious senior partner tries to take on Harvey's salary. Rachel's dad insists that Mike and Rachel sign a prenup.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Jul. 2015", 
+            "episodeName": "No Refills", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMike teams up with his future father-in-law after Jessica says no to his case. Meanwhile, Harvey uses Charles Barkley to retaliate against Jack Soloff, but the fight and another confrontation with Donna triggers another anxiety attack.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Jul. 2015", 
+            "episodeName": "No Puedo Hacerlo", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nLouis's sister wants to get a divorce, without getting her brother involved. Harvey takes her case. Zane & Mike are having some major disagreements on their case.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Jul. 2015", 
+            "episodeName": "Toe to Toe", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHarvey's rival claims to be a changed man; Harvey's sessions with Dr. Agard continue; Jessica asks Louis to make things right between himself and Harvey.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Jul. 2015", 
+            "episodeName": "Privilege", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nHarvey's relationship with Dr. Agard gets personal, when she has to testify against one of his clients.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "5 Aug. 2015", 
+            "episodeName": "Hitting Home", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMike teams up with Jack Soloff to co-counsel a case; Esther Litt returns to solve a problem; Donna and Harvey work on their friendship. Louis get into a fight with Harvey    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Aug. 2015", 
+            "episodeName": "Mea Culpa", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nHarvey confesses and apologizes to Louis for punching him, but will it be enough to keep him from getting revenge? Mike's promotion goes through, but the opponent in his first case as partner knows his secret.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "19 Aug. 2015", 
+            "episodeName": "Uninvited Guests", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJack Soloff initiates Daniel Hardman's power play to get back in the firm and take away Harvey's clients. Louis tries to find the dirt Hardman has on Soloff. Rachel discovers that her mom's big wedding plans could reveal Mike's secret.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "26 Aug. 2015", 
+            "episodeName": "Faith", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nHardman prepares his takeover of the firm, Jessica appears to be on her way out, and Harvey is nowhere to be found. Meanwhile, Mike turns to the church to come up with a solution for his dilemma with Rachel.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "27 Jan. 2016", 
+            "episodeName": "Blowback", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nMike is arrested for fraud and is offered a deal if he gives up Harvey. Rachel is in a tough spot after her father finds out. Harvey is forced to represent Mike but keep up appearances that he has resigned to appease Charles Forstman.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 Feb. 2016", 
+            "episodeName": "Live to Fight...", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nHarvey returns to the firm and Mike urges the firm to go on the offensive. The prosecutor uses Donna's father as leverage against Harvey. Louis figures out who wrote the email against Mike. Jessica turns to Jeff Malone for help in the case.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Feb. 2016", 
+            "episodeName": "God's Green Earth", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nMike is furious when Anita Gibbs tries to scare Rachel into making a deal, while he turns to Dana to help save Harvey. A scathing newspaper article damages the firm's reputation, leaving Jack and Louis to resort to desperate measures.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 Feb. 2016", 
+            "episodeName": "Self Defense", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nJessica and Harvey try to convince Mike not to represent himself at trial, but Anita Gibbs blindsides them again at the last minute. Louis is concerned about his own culpability after he finds out that Shelia's secret location is found.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Feb. 2016", 
+            "episodeName": "Tick Tock", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAs Mike's case goes to the jury, he becomes distracted by a new case. Jessica and Harvey develop a new strategy to keep Mike in the clear, which sends Louis over the edge with his partners.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 Mar. 2016", 
+            "episodeName": "25th Hour", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nMike takes a deal, but he has big plans for Rachel before he goes to prison. Harvey goes to the jury foreman to find out if Mike made the right choice. Robert Zane uses the deal as leverage to try to blow up Pearson Specter Litt.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Jul. 2016", 
+            "episodeName": "To Trouble", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nOn his first night in prison, Mike creates a big problem for himself and Harvey. Meanwhile, Jessica, Harvey and Louis are left to deal with the aftermath of Mike's decision and the departure of the entire firm's staff.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "20 Jul. 2016", 
+            "episodeName": "Accounts Payable", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nLouis, Jessica and Harvey fend off a class action lawsuit from PSL's former clients. Meanwhile, Mike runs afoul of a fellow prisoner due to reasons beyond his own control.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "27 Jul. 2016", 
+            "episodeName": "Back on the Map", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMike tries to remain safe without breaking Danbury's unwritten rules; Jessica and Harvey try to land a whale; Louis searches for an office tenant; and Rachel faces a fellow student.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "3 Aug. 2016", 
+            "episodeName": "Turn", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHarvey and Sean Cahill launch a plan to get Mike to take a deal, but Harvey calls an audible at the last minute. Rachel takes a case involving a death row inmate. Jessica steps in to settle a dispute between Louis and their new tenant.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "10 Aug. 2016", 
+            "episodeName": "Trust", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe plan to get Mike out early becomes more complicated when Harvey and Sean Cahill become opposing counsel. Rachel needs a new sponsor for her death row case. Louis needs Donna's help buying a summer home to get a woman.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "17 Aug. 2016", 
+            "episodeName": "Spain", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nJessica makes a play for Sutter's business that could jeopardize Mike's deal, and Kevin's confession creates a rift between him and Mike. Meanwhile, Rachel catches a break in her death row case, and Louis has to get a Hamptons home ASAP.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "24 Aug. 2016", 
+            "episodeName": "Shake the Trees", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nHarvey, Louis and Donna search for a missing link to Sutter's inside trading. Mike takes a drastic step to get Kevin on his side. Rachel and Jessica give Leonard Bailey some bad news.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "31 Aug. 2016", 
+            "episodeName": "Borrowed Time", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nHarvey counters Cahill's star witness; Mike tries to deliver a witness himself; Jessica and Rachel try to delay Leonard's execution; Louis adjusts to life as the other man.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "7 Sep. 2016", 
+            "episodeName": "The Hand That Feeds You", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nNew developments threaten the deals to get both Mike and Frank Gallo out of prison, forcing Mike and Harvey to improvise. Rachel disagrees with Jessica's strategy in the Leonard Bailey case. Louis gets another round of bad news from Tara.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 Sep. 2016", 
+            "episodeName": "P.S.L.", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nEven with Mike now out of prison, the partners face a crisis that could be a death blow to the firm. Rachel and Jessica call a trick play in the Leonard Bailey trial. Louis contemplates his next move with Tara after another bombshell.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "25 Jan. 2017", 
+            "episodeName": "She's Gone", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nJessica has left Pearson Specter Litt and now Harvey and Louis have to figure out how things will proceed with the firm's future lying exclusively in their hands only.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "1 Feb. 2017", 
+            "episodeName": "The Painting", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nHarvey tries to repair a broken relationship, leaving Louis, Donna and Rachel to manage PSL in his absence. Meanwhile, Mike gets a helping hand from an unexpected place.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "8 Feb. 2017", 
+            "episodeName": "Teeth, Nose, Teeth", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nRachel receives a letter that creates an unexpected issue for Harvey and Louis. Mike's mentorship of Oliver and Marissa gets put to the test. And Donna gets a surprise from the IT department.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "15 Feb. 2017", 
+            "episodeName": "Admission of Guilt", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nHarvey and Mike team up to take on Velocity for Mike's admission in the bar. Meanwhile Lewis tries to retain a huge client on his own.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 Feb. 2017", 
+            "episodeName": "Quid Pro Quo", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhen Mike's class action hits a snag, it might cost him more than the case. Harvey, Louis and Rachel consider getting their hands dirty. And Donna and Benjamin seek an investor.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "1 Mar. 2017", 
+            "episodeName": "Character and Fitness", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAll Harvey and Mike's work comes down to one hearing, but there's still one more challenge neither of them saw. Louis tries his best to resolve his fight with Tara, but is there any going back from what he told her.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "21 Jun. 2017", 
+            "episodeName": "Episode #7.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #7.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }
+    ], 
+    "name": "Suits", 
+    "plot": "On the run from a drug deal gone bad, Mike Ross, a brilliant college-dropout, finds himself a job working with Harvey Specter, one of New York City's best lawyers.", 
+    "rating": 8.7, 
+    "releaseDate": "23 June 2011", 
+    "type": "tvserie"
+}

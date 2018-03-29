@@ -1,0 +1,47 @@
+{
+    "actorList": [
+        "Victor Sj\u00f6str\u00f6m", 
+        "Bibi Andersson", 
+        "Ingrid Thulin", 
+        "Gunnar Bj\u00f6rnstrand", 
+        "Jullan Kindahl", 
+        "Folke Sundquist", 
+        "Bj\u00f6rn Bjelfvenstam", 
+        "Naima Wifstrand", 
+        "Gunnel Brostr\u00f6m", 
+        "Gertrud Fridh", 
+        "Sif Ruud", 
+        "Gunnar Sj\u00f6berg", 
+        "Max von Sydow", 
+        "\u00c5ke Fridell", 
+        "Yngve Nordwall", 
+        "Per Sj\u00f6strand", 
+        "Gio Petr\u00e9", 
+        "Gunnel Lindblom", 
+        "Maud Hansson", 
+        "Ann-Marie Wiman", 
+        "Eva Nor\u00e9e", 
+        "Lena Bergman", 
+        "Monica Ehrling", 
+        "G\u00f6ran Lundquist", 
+        "Josef Norman", 
+        "Gunnar Olsson", 
+        "Vendela Rudb\u00e4ck", 
+        "Per Skogsberg", 
+        "Peder Hellman", 
+        "Ulf Johansson", 
+        "Helge Wulff"
+    ], 
+    "director": [
+        "Ingmar Bergman"
+    ], 
+    "genres": [
+        "Drama", 
+        "Romance"
+    ], 
+    "name": "Smultronst\u00e4llet", 
+    "plot": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.", 
+    "rating": 8.2, 
+    "releaseDate": "26 December 1957", 
+    "type": "movie"
+}

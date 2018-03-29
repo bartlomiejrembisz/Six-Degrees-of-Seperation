@@ -1,0 +1,51 @@
+{
+    "actorList": [
+        "Thomas Turgoose", 
+        "Stephen Graham", 
+        "Jo Hartley", 
+        "Andrew Shim", 
+        "Vicky McClure", 
+        "Joseph Gilgun", 
+        "Rosamund Hanson", 
+        "Andrew Ellis", 
+        "Perry Benson", 
+        "George Newton", 
+        "Frank Harper", 
+        "Jack O'Connell", 
+        "Kriss Dosanjh", 
+        "Kieran Hardcastle", 
+        "Chanel Cresswell", 
+        "Danielle Watson", 
+        "Sophie Ellerby", 
+        "Hannah Walters", 
+        "Dave Laws", 
+        "Michael Socha", 
+        "Ian Smith", 
+        "Dave Blant", 
+        "Matthew Blamires", 
+        "James Burrows", 
+        "Harpal Hayer", 
+        "Terry Haywood", 
+        "Nimesh Jani", 
+        "David Claridge", 
+        "Duran Duran", 
+        "Simon Le Bon", 
+        "Prince Charles", 
+        "Princess Diana", 
+        "Ronald Reagan", 
+        "Robert Stone", 
+        "Margaret Thatcher"
+    ], 
+    "director": [
+        "Shane Meadows"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama"
+    ], 
+    "name": "This Is England", 
+    "plot": "A young boy becomes friends with a gang of skinheads. Friends soon become like family, and relationships will be pushed to the very limit.", 
+    "rating": 7.7, 
+    "releaseDate": "12 September 2006 (Toronto International Film Festival)", 
+    "type": "movie"
+}

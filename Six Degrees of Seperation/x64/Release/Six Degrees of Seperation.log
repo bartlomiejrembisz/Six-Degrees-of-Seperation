@@ -1,0 +1,12 @@
+﻿  Actor.cpp
+  ActorDialog.cpp
+  ActorInfo.cpp
+  BFS.cpp
+  Episode.cpp
+  EpisodeInfo.cpp
+  MovieDialog.cpp
+  MovieInfo.cpp
+  SeperationDialog.cpp
+  SixDegreesofSeperation.cpp
+  Generating Code...
+  Six Degrees of Seperation.vcxproj -> C:\Users\Bartek\Desktop\SDI Project extras\Six Degrees of Seperation\x64\Release\Six Degrees of Seperation.exe

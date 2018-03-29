@@ -1,0 +1,535 @@
+{
+    "actorList": [
+        "Gustaf Skarsg\u00e5rd", 
+        "Katheryn Winnick", 
+        "Alexander Ludwig", 
+        "Travis Fimmel", 
+        "Clive Standen", 
+        "Maude Hirst", 
+        "Alyssa Sutherland", 
+        "Moe Dunford", 
+        "Linus Roache", 
+        "Jordan Patrick Smith", 
+        "Alex H\u00f8gh Andersen", 
+        "George Blagden", 
+        "Jennie Jacques", 
+        "Robert MacDomhnail", 
+        "John Kavanagh", 
+        "Georgia Hirst", 
+        "Jessalyn Gilsig", 
+        "Peter Franz\u00e9n", 
+        "Jasper P\u00e4\u00e4kk\u00f6nen", 
+        "Edvin Endre"
+    ], 
+    "director": [
+        "Ken Girotti", 
+        "Ciaran Donnelly", 
+        "Jeff Woolnough", 
+        "Stephen St. Leger", 
+        "Helen Shaver", 
+        "Daniel Grou", 
+        "Johan Renck", 
+        "Kari Skogland", 
+        "Kelly Makin", 
+        "Sarah Harding", 
+        "Ben Bolt", 
+        "David Wellington"
+    ], 
+    "genres": [
+        "Action", 
+        "Drama", 
+        "History", 
+        "Romance", 
+        "War"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "3 Mar. 2013", 
+            "episodeName": "Rites of Passage", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nRagnar goes on a trip of initiation with his son. Meanwhile, he thinks he has finally found a way to sail ships to the west. However, his beliefs are seen as insane so he chooses to go against the law.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Mar. 2013", 
+            "episodeName": "Wrath of the Northmen", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe stage is set for the first journey west by Ragnar Lothbrok as he gathers a crew willing to risk their lives to travel into the unknown.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2013", 
+            "episodeName": "Dispossessed", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA monastery in Lindesfarne, England is about to get a firsthand look at how the Vikings operate.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Mar. 2013", 
+            "episodeName": "Trial", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe Vikings head back to England to see what other treasures this new world has to offer. This go round Ragnar and his crew sail out with Earl Haraldson's permission.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2013", 
+            "episodeName": "Raid", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nIn the Great Hall of Kattegat, a seer reads Earl Haraldson's future and tells him that Ragnar Lothbrok searches for his death.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Apr. 2013", 
+            "episodeName": "Burial of the Dead", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nRagnar, weak and still hurt, must meet the Earl head-on after it comes to light that Rollo has been tortured on Haraldson's orders.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Apr. 2013", 
+            "episodeName": "A King's Ransom", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThree Viking ships sail upriver towards the very heart of power in eastern England: the Royal Villa of King Aelle.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2013", 
+            "episodeName": "Sacrifice", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe traditional pilgrimage to Uppsalla to thank the gods brings a torrent of emotions for Ragnar, Lagertha, and Athelstan.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Apr. 2013", 
+            "episodeName": "All Change", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAt the behest of King Horik, Ragnar assembles a small party to travel to Gotaland (modern day Sweden) to resolve a land dispute with the area's leader, Jarl Borg.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Feb. 2014", 
+            "episodeName": "Brother's War", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe battle begins between Ragnar and King Horik's forces against Jarl Borg. Borg is joined by Rollo, and this Viking clash pits brother against brother.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Mar. 2014", 
+            "episodeName": "Invasion", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFour peaceful years have since passed with Ragnar as Earl. The time has come for an unlikely alliance to band together in pursuit of a common goal - a new raid on England. A storm pushes the Viking fleet to a new destination, and on the beaches of Wessex, Ragnar and his men may have met their match.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Mar. 2014", 
+            "episodeName": "Treachery", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe Wessex Viking raid is in full swing and King Ecbert finds himself facing an entirely new kind of foe. While Ragnar races to dominate in the West, Jarl Borg has his own plans in store for the future of Kattegat.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Mar. 2014", 
+            "episodeName": "Eye for an Eye", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA meeting between two great men may pave the way for future compromise as Ragnar and Ecbert come face to face. Jarl Borg now rules Kattegat and with an iron fist and Rollo must now become the leader his people need in Ragnar's absence.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Mar. 2014", 
+            "episodeName": "Answers in Blood", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nLagertha and Ragnar unite once again; Aslaug must face the truth of her prophecies; Athelstan struggles to define his faith; Bjorn must once again make a choice.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Apr. 2014", 
+            "episodeName": "Unforgiven", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nKing Horik returns to Kattegat with a surprising proposition for Ragnar; Lagertha runs into a less than enthusiastic homecoming from her new husband; Athelstan becomes confidant to King Ecbert.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Apr. 2014", 
+            "episodeName": "Blood Eagle", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nRagnar and King Horik clash over differences; King Aelle arrives in Wessex; Ecbert has an eye on a new alliance.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Apr. 2014", 
+            "episodeName": "Boneless", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nPrincess Aslaug's latest prophecy comes to fruition; Ragnar and Horik have very different ideas about the true purpose of their trip to Wessex.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Apr. 2014", 
+            "episodeName": "The Choice", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nRagnar's warriors march on to King Ecbert's villa and are met with a vicious surprise.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 May 2014", 
+            "episodeName": "The Lord's Prayer", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nRagnar returns to Kattegat after the defeat in Wessex and places his trust in those who have stayed by his side all this time.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Feb. 2015", 
+            "episodeName": "Mercenary", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nRagnar and Lagertha's fleets depart Kattegat once more for Wessex but this time they bring settlers.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Feb. 2015", 
+            "episodeName": "The Wanderer", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nLagertha and Athelstan help to set up the Viking settlement; a mysterious wanderer turns up.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Mar. 2015", 
+            "episodeName": "Warrior's Fate", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nKing Ecbert visits the developing Viking settlement as the first harvest is sown.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Mar. 2015", 
+            "episodeName": "Scarred", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThere is bitterness in the camp, Floki is angry over the alliance with Ecbert.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Mar. 2015", 
+            "episodeName": "The Usurper", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe fleet returns to Kattegat to discover tragic circumstances await.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Mar. 2015", 
+            "episodeName": "Born Again", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nPreparations for the Paris raid pick up speed, and Rollo thinks about the Seer's prophecy.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 Apr. 2015", 
+            "episodeName": "Paris", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe Viking fleet causes panic in Paris; the Emperor Charles declares he will remain in the city.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 Apr. 2015", 
+            "episodeName": "To the Gates!", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe Viking army sets out and Paris goes into lockdown as the army prepares the defense.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Apr. 2015", 
+            "episodeName": "Breaking Point", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe Vikings hit Paris with a second assault; Emperor Charles has to make a difficult decision.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Apr. 2015", 
+            "episodeName": "The Dead", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWith one last chance to take Paris, Ragnar and his Viking troops take a daring chance. Ragnar asks Bjorn for a favor that could change the course of Viking history.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Feb. 2016", 
+            "episodeName": "A Good Treason", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAs Ragnar lies in his sick bed in Kattegat, events unfold beyond his control.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Feb. 2016", 
+            "episodeName": "Kill the Queen", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nRagnar and Floki are still at odds; Rollo makes great attempts to win over his new bride, Princess Gisla; Bjorn's survival skills are put to the test; King Ecbert sets the task for his son Aethelwulf to rescue Queen Kwenthrith.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Mar. 2016", 
+            "episodeName": "Mercy", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nRagnar tells Floki he has to pay a heavy price for his actions. Rollo finds an ally in Count Odo. Bjorn Ironside finds more than he bargained for in the wilderness.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Mar. 2016", 
+            "episodeName": "Yol", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nRagnar gets to know the new slave woman while Rollo reveals his ambitions to his wife. Bjorn meets an unexpected warrior on his way home.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Mar. 2016", 
+            "episodeName": "Promised", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHalfdan the Black arrives in Kattegat. Floki reveals a secret to Finehair. Ragnar and Yidu become closer. Meanwhile Lagertha settles a score.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Mar. 2016", 
+            "episodeName": "What Might Have Been", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nRagnar reveals his plan to raid Paris again, and although the fleet is storm-tossed as it sets out, the challenge lies in Frankia where Rollo awaits. Meanwhile, Ecbert dispatches Aethelwulf and Alfred on a pilgrimage to Rome.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "31 Mar. 2016", 
+            "episodeName": "The Profit and the Loss", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nNow aware that Rollo has betrayed him, Ragnar carries out his plan of attack, which has dire consequences. Ecbert is given an offer from Prince Wigstan of Mercia. Harbard causes a stir with the women of Kattegat.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Apr. 2016", 
+            "episodeName": "Portage", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAfter facing defeat on the river, Ragnar refuses to retreat, prompting him to change his methods of attacking Paris. Count Odo's plot against Charles and Rollo backfires. Ecbert now rules Mercia, which dissatisfies Kwenthrith.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Apr. 2016", 
+            "episodeName": "Death All 'Round", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe Vikings finally reach the river. Aetheulwulf and Alfred reach Rome. Erlendur makes his move against Bjorn. Sigurd makes a shocking discovery in Kattegat. Ecbert is crowned king in Mercia.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Apr. 2016", 
+            "episodeName": "The Last Ship", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA ferocious battle between the Vikings and the Franks eventually comes down to Ragnar against Rollo. The outcome will seal the fate of the two brothers.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Nov. 2016", 
+            "episodeName": "The Outsider", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nRagnar has returned to Kattegat where he devises a plan to return to Wessex to right past wrongs.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Dec. 2016", 
+            "episodeName": "The Vision", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nRagnar seeks to equip his voyage to Wessex, even while being warned that the gods have deserted him. Bjorn prepares to fulfill his dream of exploring the Mediterranean.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Dec. 2016", 
+            "episodeName": "Two Journeys", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nRagnar and Ivar face a difficult decision in regards to their crew; Bjorn has an unexpected reunion.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Dec. 2016", 
+            "episodeName": "In the Uncertain Hour Before the Morning", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nLagertha attempts to fulfill a long-held ambition; Ragnar negotiates an unexpected concession from King Ecbert.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Dec. 2016", 
+            "episodeName": "All His Angels", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nKing Aelle can't hide his pleasure when Ragnar arrives in a cage and shows him no mercy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Jan. 2017", 
+            "episodeName": "Crossings", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nBjorn's fleet sails onward and launches a surprise attack. Back in Kattegat, Lagertha continues in her quest for power.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Jan. 2017", 
+            "episodeName": "The Great Army", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe Great Army is gathering in Kattegat, as Lagertha is saved by Bjorn Ironside from the hands of Ragnar's sons. Rollo is establishing the kingdom of Normandie as a safe-heaven for all vikings in search for land.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Jan. 2017", 
+            "episodeName": "Revenge", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nRagnar's plan comes to fruition; the Viking army lands on the coast of Northumbria.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Jan. 2017", 
+            "episodeName": "On the Eve", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nThe Viking army causes panic in the English countryside as King Ecbert and Aethelwulf plan the defense of the Kingdom of Wessex.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Feb. 2017", 
+            "episodeName": "The Reckoning", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nPrince Aethelwulf finds himself subject to the Vikings' battle master plan; Ecbert remains behind with a plan of his own.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 Sep. 2017", 
+            "episodeName": "Episode #5.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.14", 
+            "episodeNumber": 14, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.15", 
+            "episodeNumber": 15, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.16", 
+            "episodeNumber": 16, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.17", 
+            "episodeNumber": 17, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.18", 
+            "episodeNumber": 18, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.19", 
+            "episodeNumber": 19, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.20", 
+            "episodeNumber": 20, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }
+    ], 
+    "name": "Vikings", 
+    "plot": "The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.", 
+    "rating": 8.7, 
+    "releaseDate": "3 March 2013", 
+    "type": "tvserie"
+}

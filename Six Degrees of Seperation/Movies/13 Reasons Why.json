@@ -1,0 +1,154 @@
+{
+    "actorList": [
+        "Dylan Minnette", 
+        "Katherine Langford", 
+        "Christian Navarro", 
+        "Alisha Boe", 
+        "Brandon Flynn", 
+        "Justin Prentice", 
+        "Miles Heizer", 
+        "Ross Butler", 
+        "Devin Druid", 
+        "Amy Hargreaves", 
+        "Derek Luke", 
+        "Kate Walsh", 
+        "Nina Cheek", 
+        "Marissa Freeman", 
+        "Jesus N Jimenez", 
+        "Michael Sadler", 
+        "Steven Silver", 
+        "Michele Selene Ang", 
+        "Megan Stack", 
+        "Brian d'Arcy James", 
+        "Josh Hamilton", 
+        "Ajiona Alexus", 
+        "Bryan Box", 
+        "Shadia Iman", 
+        "Tommy Dorfman", 
+        "Bryan Irwin Thompson", 
+        "Eric L. Horwitz", 
+        "Vanessa Ross", 
+        "Joey Ruggiero", 
+        "Sosie Bacon", 
+        "Timothy Granaderos", 
+        "Steven Weber", 
+        "Cassandra Hendry", 
+        "Ke'Mari Moore", 
+        "Vaughn Myovich", 
+        "Jonathan Christopher Snyder", 
+        "Keiko Agena", 
+        "Brandon Larracuente", 
+        "Rachel Matsuoka", 
+        "Jeff Redlick"
+    ], 
+    "director": [
+        "Kyle Patrick Alvarez", 
+        "Gregg Araki", 
+        "Carl Franklin", 
+        "Tom McCarthy", 
+        "Helen Shaver", 
+        "Jessica Yu"
+    ], 
+    "genres": [
+        "Drama", 
+        "Mystery"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Tape 1, Side A", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAs the school mourns the death of Hannah Baker, her friend Clay receives a box of tapes with messages she recorded before commiting suicide.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Tape 1, Side B", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHannah makes friends with Jessica and Alex, two other new students. Justin doesn't show up at school; Hannah's mother finds something troubling.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Tape 2, Side A", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJealousy and gossip take a toll on Hannah's relationships; Alex struggles with feelings of regret; Clay is pressured into getting drunk.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Tape 2, Side B", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHannah thinks someone is stalking her and sets a trap; Hannah's mother confronts the principal; Clay strikes back at someone who wronged Hannah.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Tape 3, Side A", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHannah and Clay connect at the school dance, but a crass rumor ruins the mood. Clay takes Courtney to visit Hannah's grave.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Tape 3, Side B", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nHannah's date on Valentine's Day doesn't go as planned. Alex gets in a big fight at school and has to face the honor board.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Tape 4, Side A", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAnother student sabotages Hannah during a class project. Clay's nightmares about Hannah spill over into the daytime.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Tape 4, Side B", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nInspired by a friend's poetry reading, Hannah pours her heart out. Tony confides in Clay about the night of Hannah's death.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Tape 5, Side A", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nHannah witnesses a traumatic event at a summertime party. Clay tries to reason with Justin, and Marcus warns him that the worst is yet to come.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Tape 5, Side B", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA distraught Hannah gets a ride home from the party. Jessica's behaviour grows increasingly erratic, and Clay learns the truth behind a tragedy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Tape 6, Side A", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nClay and Hannah grow closer. While Clay spends a heartbreaking night listening to his tape with Tony, tensions boil over at Bryce's house.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Tape 6, Side B", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nHannah winds up at a party after an argument with her parents. The students are served with subpoenas, and Justin wrestles with conflicting loyalties.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Tape 7, Side A", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nHannah seeks help from Mr. Porter, the school counselor. Clay plays the new tape for Tony and weighs what to do next.    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "13 Reasons Why", 
+    "plot": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.", 
+    "rating": 0, 
+    "releaseDate": "31 March 2017 (internet)", 
+    "type": "tvserie"
+}

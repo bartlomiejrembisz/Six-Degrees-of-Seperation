@@ -1,0 +1,31 @@
+{
+    "actorList": [
+        "Judd Hirsch", 
+        "Danny DeVito", 
+        "Marilu Henner", 
+        "Tony Danza", 
+        "Andy Kaufman", 
+        "Christopher Lloyd", 
+        "J. Alan Thomas", 
+        "Jeff Conaway"
+    ], 
+    "director": [
+        "James Burrows", 
+        "Noam Pitlik", 
+        "Michael Zinberg", 
+        "Richard Sakai", 
+        "Michael Lessac", 
+        "Danny DeVito", 
+        "Howard Storm", 
+        "Stan Daniels", 
+        "Harvey Miller"
+    ], 
+    "genres": [
+        "Comedy"
+    ], 
+    "name": "Taxi", 
+    "plot": "The staff of a New York City taxicab company go about their job while they dream of greater things.", 
+    "rating": 7.7, 
+    "releaseDate": "12 September 1978", 
+    "type": "movie"
+}

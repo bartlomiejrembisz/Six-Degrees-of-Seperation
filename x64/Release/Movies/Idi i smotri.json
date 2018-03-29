@@ -1,0 +1,43 @@
+{
+    "actorList": [
+        "Aleksey Kravchenko", 
+        "Olga Mironova", 
+        "Liubomiras Laucevicius", 
+        "Vladas Bagdonas", 
+        "J\u00fcri Lumiste", 
+        "Viktor Lorents", 
+        "Kazimir Rabetsky", 
+        "Evgeniy Tilicheev", 
+        "Aleksandr Berda", 
+        "G. Velts", 
+        "V. Vasilyev", 
+        "Igor Gnevashev", 
+        "Vasiliy Domrachyov", 
+        "G. Yelkin", 
+        "Evgeniy Kryzhanovskiy", 
+        "N. Lisichenok", 
+        "Viktor Manaev", 
+        "Takhir Matyullin", 
+        "Pyotr Merkurev", 
+        "Valentin Mishatkin", 
+        "Gennadiy Matytsky", 
+        "Yevgeniya Polyakova", 
+        "Anatoly Slivnikov", 
+        "Georgiy Strokov", 
+        "Tatyana Shestakova", 
+        "Oleg Shapko", 
+        "Adolf Hitler"
+    ], 
+    "director": [
+        "Elem Klimov"
+    ], 
+    "genres": [
+        "Drama", 
+        "War"
+    ], 
+    "name": "Idi i smotri", 
+    "plot": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.", 
+    "rating": 8.3, 
+    "releaseDate": "10 July 1985 (Moscow Film Festival)", 
+    "type": "movie"
+}

@@ -1,0 +1,1021 @@
+{
+    "actorList": [
+        "Stephen Amell", 
+        "David Ramsey", 
+        "Paul Blackthorne", 
+        "Willa Holland", 
+        "Emily Bett Rickards", 
+        "Katie Cassidy", 
+        "John Barrowman"
+    ], 
+    "director": [
+        "John Behring", 
+        "Michael Schultz", 
+        "Wendey Stanzler", 
+        "Glen Winter", 
+        "Guy Norman Bee", 
+        "Nick Copus", 
+        "Jesse Warn", 
+        "Gregory Smith", 
+        "James Bamford", 
+        "Thor Freudenthal", 
+        "Eagle Egilsson", 
+        "Rob Hardy", 
+        "Dermott Downs", 
+        "Antonio Negret", 
+        "Laura Belsey", 
+        "David Barrett", 
+        "Kenneth Fink", 
+        "Douglas Aarniokoski", 
+        "Kevin Tancharoen", 
+        "Gordon Verheul"
+    ], 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Sci-Fi"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "10 Oct. 2012", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nBillionaire playboy, Oliver Queen, has been considered dead for five years. Now, he has returned. But something, during those five years, has changed him into a mysterious green hooded archer.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Oct. 2012", 
+            "episodeName": "Honor Thy Father", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nArrow moves further along his father's list while battling family issues with his mother, Moira, and especially with his sister. He also makes amends for past difficulties with Laurel.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Oct. 2012", 
+            "episodeName": "Lone Gunmen", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA mysterious sniper called Deadshot is taking out bidders at an auction for an industry company. The bidders include Oliver's stepfather, Walter Steele.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Oct. 2012", 
+            "episodeName": "An Innocent Man", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPeter Declan has been charged with murdering his wife, and only Oliver believes he's innocent. Arrow asks Laurel to look into Declan's case. Meanwhile, Walter investigates a warehouse that Moira mysteriously bought with the company's money.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Nov. 2012", 
+            "episodeName": "Damaged", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nOliver is accused of being the hooded archer and is put under house arrest. Also, he thinks back to his time on the island, where he first met Edward Fyers and Deathstroke.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Nov. 2012", 
+            "episodeName": "Legacies", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nOliver's next target is Scott Morgan, a power executive who jacks up prices for electricity when people most need it. John Diggle suggests they go after the gang of bank robbers that recently wounded a police officer during a daytime heist. Oliver is not so keen but John isn't the kind of guy who gives up very easily. Oliver quickly identifies one of them as a high school acquaintance, Derek Reston - and learns that Reston may have turned to crime because of something Oliver's father did. Tommy meanwhile isn't having much luck with his hoped for romance with Laurel. ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Nov. 2012", 
+            "episodeName": "Muse of Fire", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nA new vigilante is killing off the people that work for mob boss, Frank Bertinelli.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Dec. 2012", 
+            "episodeName": "Vendetta", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nOliver Queen attempts to train Helena Bertinelli in the hopes that she will join him in his fight for justice. Meanwhile, Walter Steele delves deeper into his wife's secrets.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Dec. 2012", 
+            "episodeName": "Year's End", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nOliver Queen attempts to track down a mysterious copycat vigilante who is killing people on the list.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Jan. 2013", 
+            "episodeName": "Burned", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nOliver's confidence is shaken after being beaten by the Dark Archer and he takes a break from being Arrow. However, when Laurel calls Arrow for help investigating a firefighter's suspicious death, he reluctantly agrees but his hesitance while fighting almost costs him his life. Meanwhile, Tommy throws a benefit for the firefighters and Thea tries to lift Moira out of her depressive state.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Jan. 2013", 
+            "episodeName": "Trust But Verify", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAfter a string of violent armored car robberies, Oliver suspects that Ted Gaynor of Black Hawk Security is the mastermind. His name is also on the list. It leads to a major disagreement with Digg as Gaynor was his training officer on his first tour of duty in Afghanistan. Digg learns that people change. Meanwhile, Tommy is hesitant at his father's attempt at reconciliation - and with good reason. Thea celebrates a birthday but has trouble with the police when she's arrested after a car accident for driving under the influence of a narcotic.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Jan. 2013", 
+            "episodeName": "Vertigo", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThea is about to go to trial for being under the influence but she doesn't care because she is convinced that her mother was unfaithful to her father. Oliver tries to tell her the truth and he decides to go after who is behind the drug that she was on called Vertigo. So he tracks down one of the dealers and gets him to say who is the one behind it and he gets the name The Count. He eventually goes after him but the Count gives him some Vertigo which nearly kills him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Feb. 2013", 
+            "episodeName": "Betrayal", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nQuentin Lance's ongoing attempt to capture the vigilante is put to a halt when a recently released criminal kidnaps his daughter to get to Arrow. Meanwhile, John Diggle insists on spying on Moira Queen to learn her secrets.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Feb. 2013", 
+            "episodeName": "The Odyssey", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nOliver's heavy-handed approach to getting information from his mother backfires and she manages to shoot him in the shoulder. He turns to Felicity Smoak for help getting back to his hideaway. She and Digg do their best to nurse him back to health. Flashbacks to Oliver's time on the island reveals an early attempt to escape. Oliver's loyalties however prevent him from taking advantage of the situation. The reason for Yao Fei's betrayal is revealed.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Feb. 2013", 
+            "episodeName": "Dodger", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA jewel thief known as the Dodger who coerces people to steal for him by strapping an explosive to them, is in town. So Oliver decides to use his family's jewels as bait to lure him. But he chooses someone close to Oliver to plant the explosive. Thea's purse is stolen by a young man and she sets out to find him. And when she finds him and has him arrested, her outlook changes when she hears why he stole. And Moira is trying to make contact with someone.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Feb. 2013", 
+            "episodeName": "Dead to Rights", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe plan to kill Malcolm Merlyn goes into operation. Arrow kills one assassin who has just arrived in the city and retrieves his cellphone. It's up to Felicity to break into it and find out just who the target is. A birthday dinner for Tommy Merlyn is interrupted by his father who brings him a present. Tommy makes it clear that he is not welcome and does not want a relationship with him. Malcolm is to receive an award at a civic gala and after a heart to heart with Oliver, Tommy decides to attend. When Oliver learns that Malcolm is the target, he races to save Tommy. ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Mar. 2013", 
+            "episodeName": "The Huntress Returns", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nHelena is back to seek vengeance, but Oliver still has feeling toward her. The Arrow must stop and kill her, but at what costs? Now that several of his closest friends know about his true identity, no one is safe.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Mar. 2013", 
+            "episodeName": "Salvation", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAfter a major fire, Oliver decides it's time to eliminate real estate developer and slumlord John Nicol, another person on his father's list. He's beaten to the punch when another vigilante, The Savior, who kidnaps Nicol and ultimately executes him - broadcasting the whole thing over the Internet. The new vigilante is identified as a man whose wife was killed in a bodega robbery in the Glades district. When he kidnaps Thea's new boyfriend, Roy Harper, Oliver decides to stop him. Meanwhile, Laurel is upset to find that her father has come around to her mother's belief ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Apr. 2013", 
+            "episodeName": "Unfinished Business", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nVertigo is again appearing on the market even though The Count, who created the drug, is still in a psychiatric hospital. Soon after Oliver confirms that he's still there, he somehow manages to escape. The Count's psychiatrist says his patient overpowered him and has concluded that his insanity was just a ruse. The police suspect Tommy may be dealing drugs from the club and Det. Lance gets a search warrant. Oliver is not sure what to believe and Tommy, feeling his onetime friend has no respect for him, quits. He turns to his father for a job. Digg gives information ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Apr. 2013", 
+            "episodeName": "Home Invasion", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nOliver decides that his next target is going to be someone on Digg's list: Deadshot. They set a trap for him and Digg's spy friends get involved as well. Meanwhile, Laurel's latest clients are Eric and Nancy Moore who have agreed to testify against Edward Rasmus, a financial advisor who swindled them. The night before their deposition however, they are assassinated. Laurel takes charge of their now orphaned son, Taylor, but he saw his parents killed and is now the assassins next target. Oliver steps in to stop him but in doing so fails to back up Digg and Deadshot ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 May 2013", 
+            "episodeName": "The Undertaking", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAfter taking a mob accountant's laptop, Oliver plans to return the money to its rightful owners. Felicity however finds that Dominic Alonzo - the operator of an illegal casino and the head of a gang known for kidnapping - was paid $2 million to kidnap Walter. Arrow pays him a visit and is told that Walter is dead. He tells his mother and Thea but Moira rushes to Malcolm Merlyn demanding to know why he broke their agreement. He assures her that Walter is alive and will be released as long as she continues to cooperate. Oliver is listening to the entire conversation and...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 May 2013", 
+            "episodeName": "Darkness on the Edge of Town", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe time is fast approaching for the Undertaking to occur and Malcolm Merlyn begins to tidy up the loose ends, beginning with the scientists at UNIDAC. Oliver and Digg trick Moira into telling just what the Undertaking is about. Oliver realizes that even if he manages to eliminate everyone on his father's list he has only, in his own words, eliminated the symptoms and not the disease. Felicity locates the UNIDAC device - sort of. Thea and Roy's relationship comes to head when they are unable to locate the vigilante. Walter files for divorce. Laurel and Oliver begin a ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 May 2013", 
+            "episodeName": "Sacrifice", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nOliver awakens to find himself Malcolm Merlyn's prisoner. He manages to escape and away with help from Digg. Malcolm accelerates his timetable as a result. Felicity is questioned by Det. Lance about her hacking activities but is interrupted by Oliver who tells him about Malcolm's plan to destroy the Glades. Tommy confronts Oliver about Laurel but refuses to believe that his father is up to no good. Malcolm comes clean about his plans and Tommy realizes that his father is insane. Moira goes public with what she knows, urging the residents of the Glades to evacuate. Roy...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Oct. 2013", 
+            "episodeName": "City of Heroes", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nDiggle and Felicity return to island to convince Oliver to return as the Arrow.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Oct. 2013", 
+            "episodeName": "Identity", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nNow that Oliver no longer has the list to work from, he's not sure what's next. Roy continues doing his own vigilantism and has to be bailed out of jail by Thea. When he mentions to Oliver that someone is hijacking medical deliveries to the Glades Memorial hospital, the Arrow knows exactly what he wants to do. His visit to the hospital doesn't go well when local politician Sebastian Blood takes him to task for what his family has done. When he tries to stop a hijacking, Arrow comes up against China White and her new partner Bronze Tiger. Thea tells Roy she's not going...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Oct. 2013", 
+            "episodeName": "Broken Dolls", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen a dangerous criminal from Lance's past (MICHAEL EKLUND) escapes from prison, Felicity offers herself up as bait so Arrow, Diggle and Lance can capture him...but plans go awry.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Oct. 2013", 
+            "episodeName": "Crucible", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nOliver discovers a man who goes by the name \"The Mayor\" is bringing illegal guns in to The Glades, so Oliver sponsors a \"Cash for Guns\" event to help clean up the city. Unfortunately, The Mayor crashes the event with his gang and seriously injures Sin. The Canary is furious when she learns her friend is in the hospital and sets out for revenge. Meanwhile, Felicity stuns Oliver with a bit of information about the Canary, Donner asks Laurel to dinner, and Diggle reconnects with an old friend.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Nov. 2013", 
+            "episodeName": "League of Assassins", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhile Oliver tends to the Canary's wounds, he tries to get her to talk about where she came from but she refuses. However, after Oliver and Canary are attacked at the Queen mansion by a trained killer from the League of Assassins, she confesses to how she's connected with the nefarious group. Meanwhile with Moira facing multiple counts of murder and conspiracy for her part in the destruction of The Glades, the Assistant District Attorney offers her a choice - plead guilty now and avoid the death penalty or take your chances in court. Thea begs her mother to fight for ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Nov. 2013", 
+            "episodeName": "Keep Your Enemies Closer", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAmanda Waller sends A.R.G.U.S. agents to kidnap Diggle. Waller informs Diggle that Lyla has gone missing after following a lead on Deadshot in Moscow. When Diggle tells the team he's headed to Russia to rescue Lyla, Oliver and Felicity decide to join, but things get messy when Isabel shows up on the tarmac and insists on joining Oliver's \"work trip\". Meanwhile, Moira's lawyer, Jean, tells Thea that dating Roy, a known criminal, is hurting her mother's case.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Nov. 2013", 
+            "episodeName": "State v. Queen", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nOliver is concerned when a mysterious illness sweeps the city, infecting hundreds of people, including Diggle. Oliver discovers Vertigo in Diggle's blood and realizes The Count has broken out of prison and is once again distributing his drug. Meanwhile, Moira goes on trial for her participation in the Undertaking. ADA Adam Donner collapses in court with Vertigo symptoms so Laurel must step in and try the case against Moira. Oliver is torn between standing by his family during the trial and catching The Count. However, things change when Felicity follows a lead and ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Dec. 2013", 
+            "episodeName": "The Scientist", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAfter an impossible break in at Queen Consolidated, CSI Barry Allen comes to Starling to help with the investigation, Sin asks Roy for help so Thea tags along.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Dec. 2013", 
+            "episodeName": "Three Ghosts", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAfter a fight with Cyrus Gold, aka the Acolyte, Oliver is drugged and left for dead. Determined to cure him, Felicity makes a risky decision. The cure causes Oliver to hallucinate, and what he sees forces him to confront his past. Meanwhile, Barry Allen continues to help Felicity, and their connection grows stronger. The Arrow asks Quentin to look into Gold, but when the stakeout on Gold goes bad, someone is killed. Roy is captured and tortured by Brother Blood.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Jan. 2014", 
+            "episodeName": "Blast Radius", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nOliver must tackle a new threat to the city when bombs start to go off in Starling City. Felicity discovers the person setting them off is Mark Scheffer, a man who goes by the nickname Shrapnel. The Arrow discovers Shrapnel's next target is Sebastian Blood's \"Unity Rally\" and tries to talk the alderman out of hosting it, but he refuses. The Arrow sets off to stop the bombing, but Shrapnel tricks him and traps him in a bomb-laced antique store where he is unable to move without setting off the device. While Felicity helps Oliver, Diggle races to the plaza to find the ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Jan. 2014", 
+            "episodeName": "Blind Spot", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nOliver is conflicted after Laurel reaches out to the Arrow asking him to investigate Sebastian Blood. Oliver is unsure whether to believe her accusations against the man he has publicly supported for mayor, but decides to trust Laurel. However, when the pair gets too close to the truth, Sebastian exposes Laurel's drug addiction and has her arrested. Meanwhile, Roy reveals his new super-strength to Sin who wants to test out his abilities. Unfortunately, Roy isn't able to contain his rage once unleashed and almost kills a man. Back on the island, Oliver is surprised ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Jan. 2014", 
+            "episodeName": "Tremors", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nArrow offers to train Roy so he can learn to control his newfound super-strength. However, Roy is a rebellious student and refuses to listen unless Arrow reveals his true identity, which Oliver refuses to do. Meanwhile, the Bronze Tiger escapes from prison and steals Malcolm's earthquake machine to sell to the highest bidder. Oliver, Diggle and Felicity attempt to stop the transfer, but Roy gets in the way, putting everyone in danger. Laurel is disbarred and spirals out of control. Moira is thrilled when Walter asks her to dinner, but his reason surprises her. Thea ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Feb. 2014", 
+            "episodeName": "Heir to the Demon", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nLaurel continues to unravel, Oliver and Lance try to convince Sara to stay in Starling City and finally reunite with Laurel and Dinah. However, Sara's fellow League of Assassins member, Nyssa, comes to bring Sara back to the fold, but when Sara refuses, Nyssa kidnaps Dinah. Realizing she's putting her family in danger by staying in town, Sara considers re-joining the league.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Feb. 2014", 
+            "episodeName": "Time of Death", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nOliver brings Sara into the Arrow team. Watching Oliver and Diggle spar with Sara and talk old scars, Felicity starts to feel left out. The team is investigating a villain named William Tockman, a.k.a. The Clock King, who is a brilliant thief armed with technology that can open any bank vault in Starling City. After The Clock King infiltrates the computer systems in the lair, Felicity feels pressure to prove her worth. When she gets a lead on Tockman's whereabouts, she heads out without the team, putting her in peril. Meanwhile, Oliver throws Sara a welcome home party...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Mar. 2014", 
+            "episodeName": "The Promise", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nOliver is shocked when he learns that Slade has come to Starling City. Back on the island, as Oliver, Slade and Sara prepare to take over the freighter from Ivo, Sara pulls Oliver aside and tells him he needs to kill Ivo to prevent him from telling Slade what happened with Shado. Oliver feels immense guilt over the situation but realizes Slade's growing rage from the Mirakuru makes him unpredictable and he could turn on his friends if he thinks Oliver is to blame. Oliver agrees to kill Ivo and the battle begins.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Mar. 2014", 
+            "episodeName": "Suicide Squad", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nLyla asks Diggle to go on a mission alongside the Suicide Squad, a team assembled by Amanda Waller to undertake high-risk missions, even though the team includes Diggle's nemesis, Deadshot, and Oliver's enemy, Bronze Tiger.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Mar. 2014", 
+            "episodeName": "Birds of Prey", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhen Frank Bertinelli is arrested, Oliver knows it's only a matter of time before his daughter, Helena, AKA The Huntress, returns to town. To make matters worse, Laurel is picked to try Frank's case, putting her right in the path of Helena. Oliver tells Sara he will handle his ex-girlfriend, but when Helena takes hostages at the courthouse, including Laurel, the Canary will stop at nothing to save her sister. When The Huntress and Canary meet, an epic battle begins. Meanwhile, Roy realizes he needs to keep Thea safe, but doesn't like the way he is forced to go about ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Apr. 2014", 
+            "episodeName": "Deathstroke", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAfter taking a ride home from Slade, Thea becomes his prisoner. Can Oliver and his friends save her? Also, someone close to Oliver is working for Slade, since his return from the Island after Tommy's death.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Apr. 2014", 
+            "episodeName": "The Man Under the Hood", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nOliver, Canary, Diggle, and Felicity return to the lair and find Slade waiting for them. An epic battle breaks out and one member of Team Arrow is sent to the hospital. Thea hits her breaking point, but just as Oliver is about to reach her, Slade intervenes and Oliver is faced with a choice - his battle with Slade or his family. Meanwhile, Laurel struggles with a new secret.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Apr. 2014", 
+            "episodeName": "Seeing Red", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe mirakuru sends Roy into a rage rampage across the city. Sara thinks that the only way to stop him is to kill him but Oliver thinks he can still save him. Meanwhile, Slade is continuing his plan to make Oliver pay.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Apr. 2014", 
+            "episodeName": "City of Blood", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAfter Slade threatens to take everything Oliver loves away, Oliver decides the fastest way to stop further bloodshed is to surrender to his enemy. Knowing that surrender will surely lead to Oliver's death, Diggle and Felicity go to extreme measures to keep Oliver from confronting Slade. Meanwhile, Thea considers leaving town, and Laurel resumes her crusade against Sebastian Blood. Finally, Slade unleashes his assault on Starling City.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 May 2014", 
+            "episodeName": "Streets of Fire", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nOliver rallies his team as Slade's soldiers attack the city. Felicity gets a call from S.T.A.R. Labs with game-changing news and Thea comes face-to-face with her father.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 May 2014", 
+            "episodeName": "Unthinkable", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nAs Oliver's face off with Slade escalates, his resolve to the no-kill rule is tested. Especially as Slade targets the woman Oliver loves.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Oct. 2014", 
+            "episodeName": "The Calm", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAs a new enemy emerges seven months after Slade's attack upon Starling City, Oliver battles with the help of his teammate Roy. However, with the Arrow's presence elsewhere someone he had loved dearly is hurt.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Oct. 2014", 
+            "episodeName": "Sara", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nTeam Arrow is in pursuit of a new villain who poses a threat to Starling City. Meanwhile, Oliver is worried about not having heard from Thea.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Oct. 2014", 
+            "episodeName": "Corto Maltese", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nOliver decides it's time for Thea to come back to Starling City, so he packs for Corto Maltese, where Felicity has traced Thea's whereabouts. Lyla asks Diggle to go with Oliver because one of her field operatives, Mark Shaw, has gone dark in Corto Maltese and she'd like him to look into it. Feeling responsible for Thea's departure, Roy joins Oliver and Diggle on their journey. Shaw double-crosses Diggle, putting numerous A.R.G.U.S. agents, including Lyla, at risk. Meanwhile, Laurel meets Ted Grant, and Felicity adjusts to her new job.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Oct. 2014", 
+            "episodeName": "The Magician", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nNyssa and Oliver join forces to go after the Dark Archer.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Nov. 2014", 
+            "episodeName": "The Secret Origin of Felicity Smoak", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nFelicity's family and backstory come to the fore. Felicity tries to find common ground with her mother but it is clear the two are very different.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Nov. 2014", 
+            "episodeName": "Guilty", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTed Grant becomes the primary suspect when a body is found in the Wildcat gym and Roy shares a secret with Felicity.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Nov. 2014", 
+            "episodeName": "Draw Back Your Bow", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nOliver must stop an Arrow-obsessed serial killer, Carrie Cutter, who is convinced that The Arrow is her one true love and will stop at nothing to get his attention. Unfortunately, her way of getting his attention is to kill people. Meanwhile, Ray asks Felicity to be his date for a work dinner with important clients. Thea auditions new DJs for Verdant and meets Chase, a brash DJ with whom she immediately clashes.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Dec. 2014", 
+            "episodeName": "The Brave and the Bold", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAs Oliver, Arsenal, and Diggle pursue a killer named Digger Harkness, they encounter an ARGUS team; Oliver and the Flash team up to try and stop Harkness.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Dec. 2014", 
+            "episodeName": "The Climb", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe League of Assassins give Oliver 48 hours to find Sara's killer, or Starling City citizens will die. Oliver then has an epic confrontation with Ra's al Ghul.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Jan. 2015", 
+            "episodeName": "Left Behind", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe Team's worst fears are realized when Meryln informs them of Oliver's death. Meanwhile Ray Palmer tests part of his ATOM suit out and Laurel Lance decides to pursue justice outside of the law by taking up the mantle of the Black Canary.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Jan. 2015", 
+            "episodeName": "Midnight City", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nArsenal and Diggle confront Laurel about trying to step into her sister's shoes and warn her to stop before she gets herself killed. However, the villan Brick kidnaps the city's Aldermen and threatens to kill them all unless the police evacuate The Glades, it's all suits on deck. Meanwhile, Ray steps in to help Lance and the police force fight Brick, showing Felicity a new side of her boss. Malcom tells them that Ra's al Ghul is after his family and they must leave town immediately.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Feb. 2015", 
+            "episodeName": "Uprising", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nStill operating without Oliver and desperate to stop Brick, Team Arrow is forced to consider Malcolm's offer to help shut Brick down as Malcolm has a personal score to settle with the felon. Roy and Laurel point out that the team could use some help to save the innocents of The Glades, but Felicity is adamantly against it. They look to Diggle to make the final decision. Meanwhile, the flashbacks chronicle Malcolm's descent from kind-hearted father and husband to cold-blooded killer after the murder of his wife.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Feb. 2015", 
+            "episodeName": "Canaries", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nOliver struggles to adjust to the changes that have taken place within Team Arrow; Laurel ignores Oliver and pursues Vertigo - who injects her with the drug; Thea receives a surprise visitor.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Feb. 2015", 
+            "episodeName": "The Return", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nMalcolm puts Oliver and Thea in a dangerous situation that lands them on Lian Yu with Oliver's former enemy, Deathstroke. A flashback reveals when Oliver and Maseo returned to Starling City to retrieve the Omega bio weapon, and despite being under strict orders from Amanda Waller not to reveal himself to anyone, Oliver looks in on his family, Laurel and Tommy.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Feb. 2015", 
+            "episodeName": "Nanda Parbat", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nMalcolm is captured by Ra's al Ghul and taken to Nanda Parbat. Because of his love for Thea, Oliver considers saving Merlyn. Ray is obsessed with finishing his Atom suit so he can save the city but Felicity fears he is heading down the same path as Oliver and tries to pull him out of the lab.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Mar. 2015", 
+            "episodeName": "The Offer", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nOliver thinks about the offer Ra's Al Ghul gave him, but to do so theres a catch.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Mar. 2015", 
+            "episodeName": "Suicidal Tendencies", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nIt's celebration time as Diggle and Lyla get married. However, Deadshot interrupts their honeymoon and tells them the Suicide Squad has been given a new mission - rescue United States Senator Joseph Cray from a hostage situation in the Republic of Kasnia. Amanda Waller breaks down the mission and introduced them to the newest member of the Suicide Squad, Cupid. Meanwhile, Oliver learns about Ray's new Atom costume and the two have a heated stand-off. Felicity and Ray hit a rough patch.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Apr. 2015", 
+            "episodeName": "Public Enemy", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nDuring an attack on the mayor's office, Ray is critically injured. Felicity is pleasantly surprised when her mother, Donna Smoak, shows up at the hospital to offer her support. With the SCPD out in full force looking for the assailant, Oliver and his team work hard to stay one step ahead of the police to find the man responsible. However, things come to a head when Ra's al Ghul kidnaps Captain Lance.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Apr. 2015", 
+            "episodeName": "Broken Arrow", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nJake Simmons, a metahuman from Central City, terrorizes the Starling City. Quentin Lance's mission bounds Oliver Queen to ask Ray (Atom) for help.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Apr. 2015", 
+            "episodeName": "The Fallen", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nRa's al Ghul finally makes Oliver an offer he can't refuse. The team joins Oliver on his journey to Nanda Parbat where a heartbroken Felicity decides to take matters into her own hands.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Apr. 2015", 
+            "episodeName": "Al Sah-Him", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nOliver goes through a transformation; Laurel asks Felicity and Diggle to help Nyssa face the League of Assassins.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 May 2015", 
+            "episodeName": "This Is Your Sword", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nOliver must complete two final tasks before becoming the next Ra's al Ghul; Nyssa is threatened; Malcolm makes an offer to the team; Thea visits Roy.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 May 2015", 
+            "episodeName": "My Name Is Oliver Queen", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nRa's al Ghul sets his plan in motion, putting everyone in danger; Oliver must decide if he is strong enough to handle his new role - and what it will mean for his team and his soul.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Oct. 2015", 
+            "episodeName": "Green Arrow", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA new enemy lures Oliver Queen back to Starling City and forces him to put on the hood once more.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Oct. 2015", 
+            "episodeName": "The Candidate", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nOliver and Thea are concerned when a family friend plans to run for mayor; Thea starts to exhibit side effects from the Lazarus Pit; Felicity asks an employee for help with a business decision.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Oct. 2015", 
+            "episodeName": "Restoration", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe growing tension between Oliver and Diggle puts both their lives at risk when they go after Damien Darhk and a H.I.V.E. deployed meta-human. Meanwhile, Laurel talks Thea into returning to Nanda Parbat to ask her father to put Sara into the Lazarus Pit. However, Laurel is surprised when Nyssa refuses to do it.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Oct. 2015", 
+            "episodeName": "Beyond Redemption", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nLaurel must deal with the repercussions of taking Sara to Nanda Parbat. Meanwhile, Oliver asks Captain Lance for a favor and while he's not surprised at the response, he is surprised at what he finds out next.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Nov. 2015", 
+            "episodeName": "Haunted", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nOliver calls in a favor from old friend John Constantine when Sara takes a turn for the worse.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Nov. 2015", 
+            "episodeName": "Lost Souls", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nFelicity is frantic when she learns that Ray is alive and being held by Damien Darhk. Felicity's guilt over not finding Ray sooner causes tension between her and Oliver.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Nov. 2015", 
+            "episodeName": "Brotherhood", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nA shocking revelation complicates the battle between Team Arrow and Damien Darhk; Thea loses control in front of Alex.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 Dec. 2015", 
+            "episodeName": "Legends of Yesterday", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nOliver and Barry hide Kendra and Carter in a remote location while they try to figure out how to defeat Vandal Savage; Felicity, Thea, Diggle and Laurel work to come up with a weapon to destroy Vandal.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Dec. 2015", 
+            "episodeName": "Dark Waters", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nOliver moves against HIVE; Malcolm goes to see Thea, leaving her with a warning; Damien Darhk retaliates at Oliver's holiday party.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Jan. 2016", 
+            "episodeName": "Blood Debts", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nOliver must deal with the devastating consequences of Darhk's last attack. Seeking revenge, Oliver goes on a brutal manhunt looking for Dahrk.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Jan. 2016", 
+            "episodeName": "A.W.O.L.", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAn agent of Shadowspire who was an enemy from Diggle and Andy's wartime past shows up to Star City. Diggle must learn to trust Andy but he got more than he wanted about their shared time from war. Oliver however must learn a new way of life when Felicity is now in a wheelchair and receives her codename.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Feb. 2016", 
+            "episodeName": "Unchained", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe team faces off against a formidable villain nicknamed The Calculator (guest star Tom Amandes). Meanwhile, Nyssa (guest star Katrina Law) makes her move and Roy Harper (guest star Colton Haynes) returns to Star City.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Feb. 2016", 
+            "episodeName": "Sins of the Father", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nOliver receives an offer from Nyssa that is hard to refuse, Meanwhile Thea continues to battle the bloodlust Malcolm steps in to help his daughter, and Laurel has a Heart to Heart talk with Nyssa.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Feb. 2016", 
+            "episodeName": "Code of Silence", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nTeam Arrow uncovers HIVE's plan to take them out for good, leading Lance to wonder if Donna is better off without him and Oliver to consider telling Felicity about his son.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Feb. 2016", 
+            "episodeName": "Taken", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nOliver calls in his old friend Vixen for help in fighting Darhk, while Thea has a heart-to-heart talk with Malcolm.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Mar. 2016", 
+            "episodeName": "Broken Hearts", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nFollowing the events of William's kidnapping, Darhk has become less powerful, but Carrie Cutter, a.k.a. Cupid, has emerged into Star City to cause chaos on the city and the Green Arrow.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Mar. 2016", 
+            "episodeName": "Beacon of Hope", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe Bug-Eyed Bandit escapes from jail and turns up at Palmer Tech threatening to kill everyone in the building unless she gets the bio-chip that was implanted in Felicity's spine.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Apr. 2016", 
+            "episodeName": "Eleven-Fifty-Nine", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nOliver and Diggle find out Merlyn wants to break Darhk out of prison; Laurel gets a surprise offer.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Apr. 2016", 
+            "episodeName": "Canary Cry", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nOliver and the team struggle to come to terms with a friend's death, especially Diggle, who is overwhelmed with guilt for choosing to believe Andy had changed.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 May 2016", 
+            "episodeName": "Genesis", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nAs Oliver and Felicity look for a magical solution to defeat Darhk, a vengeance-driven Diggle gets a lead on Andy's whereabouts and heads off to confront his brother. Meanwhile, Alex takes Thea on a vacation that quickly turns into a nightmare.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 May 2016", 
+            "episodeName": "Monument Point", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nWhen Team Arrow learns what Damien Darhk's next move is, Felicity realizes she needs to ask her father, Noah Kuttler, for help. Noah and Oliver have a heart to heart talk that leaves Oliver rattled.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 May 2016", 
+            "episodeName": "Lost in the Flood", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nFollowing the shocking events in the previous episode, Oliver and Diggle race to rescue Thea, while Felicity, Curtis and Noah join together to stop Darhk.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 May 2016", 
+            "episodeName": "Schism", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nOliver teams up with a surprising force in an attempt to stop Damien Darhk and his magic once and for all.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 Oct. 2016", 
+            "episodeName": "Legacy", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter Laurel's death and the departures of both Diggle and Thea from Team Arrow, Oliver takes to the streets solo to protect Star City's citizens as the Green Arrow.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Oct. 2016", 
+            "episodeName": "The Recruits", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nOliver recruits Curtis, Wild Dog and Evelyn Sharp for his team, but his training methods prove to be too much for some to handle. In flashbacks, Oliver continues his initiation into the Bratva.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "19 Oct. 2016", 
+            "episodeName": "A Matter of Trust", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe Green Arrow is forced to face a powerful new drug dealer when Wild Dog goes off on his own.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "26 Oct. 2016", 
+            "episodeName": "Penance", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nOliver and Lyla team up on a secret mission for Diggle. Felicity finds out and disapproves of the plan and opts to stay behind. When Tobias Church launches a deadly assault against the city, Felicity must decide if she wants to send the recruits out sans the Green Arrow.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 Nov. 2016", 
+            "episodeName": "Human Target", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhen Tobias Church captures and tortures one of Oliver's new recruits, Oliver must turn to an old friend, Christopher Chance AKA the Human Target, for help. Meanwhile, Felicity's worlds collide when Detective Malone joins the ACU.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Nov. 2016", 
+            "episodeName": "So It Begins", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nFelicity and Curtis learn that Prometheus's victims have a mysterious link to Oliver's past that could up-end his new team.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "16 Nov. 2016", 
+            "episodeName": "Vigilante", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nOliver discovers there's a new vigilante in Star City when the bodies of two criminals are dropped at the SCPD. In flashbacks, Oliver faces Konstantin Kovar.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 Nov. 2016", 
+            "episodeName": "Invasion!", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nOliver wakes up to a life in which his parents are alive and he is about to marry Laurel; Felicity faces a new threat with the help of The Flash and Supergirl.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "7 Dec. 2016", 
+            "episodeName": "What We Leave Behind", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAfter the attack on Curtis, Oliver realizes Prometheus is planning to make a deadly move on all of Team Arrow; Felicity and Malone find a clue that ties Prometheus to Oliver's past.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Jan. 2017", 
+            "episodeName": "Who Are You?", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWorried that Prometheus may be right about him being a killer, Oliver finds a ray of hope in the apparent return of Laurel. Felicity swears revenge against Prometheus for causing Malone's death.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Feb. 2017", 
+            "episodeName": "Second Chances", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nTalia al Ghul helps Oliver take down Kovar, but he isn't sure he wants it when she reveals what she requests in return.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Feb. 2017", 
+            "episodeName": "Bratva", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA mission sends Team Arrow to Russia where Oliver encounters an old friend.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Feb. 2017", 
+            "episodeName": "Spectre of the Gun", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nFollowing a traumatic attack on City Hall, flashbacks show how Rene became Wild Dog.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Feb. 2017", 
+            "episodeName": "The Sin-Eater", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThree of Oliver's old foes break out of prison and form an alliance; Meanwhile, Lance is confronted about an old partnership.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Mar. 2017", 
+            "episodeName": "Fighting Fire with Fire", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhen Vigilante attacks Oliver while he's acting as mayor, Diggle leads the team on a mission to stop Vigilante for good.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Mar. 2017", 
+            "episodeName": "Checkmate", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nOliver gets closer to the truth about Prometheus; Helix refuses to continue helping Felicity until she does a favor for them.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Mar. 2017", 
+            "episodeName": "Kapiushon", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nPrometheus goes to extreme lengths to destroy Oliver. In flashbacks, Oliver's violent tendencies come to a head in a confrontation with Anatoly.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Mar. 2017", 
+            "episodeName": "Disbanded", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nDiggle and Felicity are shocked by Oliver's decision to ask the Bratva for help in taking down Prometheus.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "26 Apr. 2017", 
+            "episodeName": "Dangerous Liaisons", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nOliver, Team Arrow, ARGUS and the SCPD kick off a citywide manhunt for Adrian Chase. Helix tells Felicity they have a way to find Chase but they will need something big, and illegal, from her in return.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 May 2017", 
+            "episodeName": "Underneath", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nOliver and Felicity get trapped in the bunker together, while Diggle and Lyla deal with marital issues.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 May 2017", 
+            "episodeName": "Honor Thy Fathers", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nOliver faces the forced release of criminals prosecuted by Adrian Chase, while a crate is delivered to Oliver's office containing a corpse in concrete.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 May 2017", 
+            "episodeName": "Missing", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nBlack Siren returns to give Chase help; Felicity plans a birthday party for Oliver; Lance is angry with Rene for missing the custody hearing about his daughter.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 May 2017", 
+            "episodeName": "Lian Yu", 
+            "episodeNumber": 23, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #5.24", 
+            "episodeNumber": 24, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #6.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.14", 
+            "episodeNumber": 14, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.15", 
+            "episodeNumber": 15, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.16", 
+            "episodeNumber": 16, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.17", 
+            "episodeNumber": 17, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.18", 
+            "episodeNumber": 18, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.19", 
+            "episodeNumber": 19, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.20", 
+            "episodeNumber": 20, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.21", 
+            "episodeNumber": 21, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #6.22", 
+            "episodeNumber": 22, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #6.23", 
+            "episodeNumber": 23, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }
+    ], 
+    "name": "Arrow", 
+    "plot": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.", 
+    "rating": 7.8, 
+    "releaseDate": "10 October 2012", 
+    "type": "tvserie"
+}

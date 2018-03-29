@@ -1,0 +1,350 @@
+{
+    "actorList": [
+        "Rose McIver", 
+        "Malcolm Goodwin", 
+        "Rahul Kohli", 
+        "Robert Buckley", 
+        "David Anders", 
+        "Aly Michalka", 
+        "Bryce Hodgson"
+    ], 
+    "director": [
+        "Michael Fields", 
+        "Mairzee Almas", 
+        "Jason Bloom", 
+        "John T. Kretchmer", 
+        "Viet Nguyen", 
+        "Michael Wale", 
+        "Zetna Fuentes", 
+        "Dan Etheridge", 
+        "Rob Thomas"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Crime", 
+        "Drama", 
+        "Horror"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "17 Mar. 2015", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nOlivia \"Liv\" Moore was a rosy-cheeked, disciplined, over-achieving medical resident who had her life path completely mapped out, until the night she attended a party that unexpectedly turned into a zombie feeding frenzy. Now as one of the newly undead, Liv has devised a clever way to resist her baser urges to devour fresh human brains - she's taken a job in the Seattle coroner's office. In this appropriately dead-end job, Liv can secretly snack on the brains of the many Jane and John Doe corpses that make a final stop in the morgue.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Mar. 2015", 
+            "episodeName": "Brother, Can You Spare a Brain?", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nLiv and Clive work together to solve the mysterious death of a well known painter.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2015", 
+            "episodeName": "The Exterminator", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nLiv and Babineaux learn the victim in a hit and run was the killer in one of Peyton's cases.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Apr. 2015", 
+            "episodeName": "Liv and Let Clive", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nClive refuses Liv's help when one of his former criminal contacts is murdered.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Apr. 2015", 
+            "episodeName": "Flight of the Living Dead", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nLiv must eat the brains of her murdered sorority sister in order to gain insight about the crime.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2015", 
+            "episodeName": "Virtual Reality Bites", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nLiv inherits agoraphobia -- and computer gaming skills -- after eating a hacker's brain.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Apr. 2015", 
+            "episodeName": "Maternity Liv", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen a pregnant woman dies, Liv develops a strong maternal instinct from eating her brain.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 May 2015", 
+            "episodeName": "Dead Air", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nLiv gains insight after eating the brains of a talk show host who specialized in relationships.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 May 2015", 
+            "episodeName": "Patriot Brains", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nLiv and Clive investigate the death of a former sniper; Major gets closer to the truth.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 May 2015", 
+            "episodeName": "Mr. Berserk", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA journalist working on a story linking psychotic episodes with an energy drink is murdered.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 May 2015", 
+            "episodeName": "Astroburger", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA person close to Major dies of an apparent suicide; a secret computer file comes to light.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Jun. 2015", 
+            "episodeName": "Dead Rat, Live Rat, Brown Rat, White Rat", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAfter a group of drunken teenagers cover up an accident, one of them is murdered.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Jun. 2015", 
+            "episodeName": "Blaine's World", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nLiv and Clive discover new evidence in the Max Rager case and go see Vaughn Du Clark.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Oct. 2015", 
+            "episodeName": "Grumpy Old Liv", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nLiv eats a cantankerous old man's brain to learn the details of his death; Ravi thinks Major is experiencing a side effect of the cure; Liv visits Blaine.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Oct. 2015", 
+            "episodeName": "Zombie Bro", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nLiv eats the brain of a murdered, hard-partying fraternity brother; Ravi asks Major to come with him as he searches desperately for the cure; Blaine meets with a mysterious person from his past.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Oct. 2015", 
+            "episodeName": "Real Dead Housewife of Seattle", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nLiv eats the brains of a trophy wife who was pushed to her death from her home's balcony by a hired hit man; Liv and Ravi discover Peyton is back in Seattle.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Oct. 2015", 
+            "episodeName": "Even Cowgirls Get the Black and Blues", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDuring an investigation, Liv consumes the brain of a country-singing waitress; Blaine tries to reunite with a former business associate; Ravi is thrown by Peyton's return; Major's downward spiral continues.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Nov. 2015", 
+            "episodeName": "Love & Basketball", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nLiv, Babineaux and Ravi investigate a peewee coach's death; Liv gives Major a pep talk; Blaine and Ravi work together on the cure; Suzuki's widow visits Babineaux.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Nov. 2015", 
+            "episodeName": "Max Wager", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nLiv unwittingly crosses paths with the most dangerous man in Seattle, a slimy crime lord named Stacey Boss, while investigating the murder of degenerate gambler Harry. Detective Babineaux has a super-fan moment when he and Liv question NBA Hall of Famer Calvin Owens at Harry's funeral. Meanwhile, Blaine's father makes a huge discovery about his son, and Ravi delivers some bad news. Also, Major continues to struggle with his reluctant role of being a zombie killer for Max Rager Corp.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Nov. 2015", 
+            "episodeName": "Abra Cadaver", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen a macabre celebrity magician is killed while attending a magic conference, Liv must eat his brain to figure out which of his many rivals or detractors killed him. Detective Babineaux and the rest of Liv's friends are treated to a goth-magician version of her that no one truly enjoys. Meanwhile, Blaine comes to Liv seeking her help in stopping whoever is killing zombies. Can she unmask the murderers, and then make them disappear (right into a jail cell) or will she be the one getting sawed in half?    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Dec. 2015", 
+            "episodeName": "The Hurt Stalker", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nBabineaux arrives at a crime scene only to discover the murder victim was an ex of his who had been stalking him, making him the primary suspect; Major struggles to deal with Liv on stalker brains.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Dec. 2015", 
+            "episodeName": "Cape Town", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMr. Boss is in the picture as Liv gets super-hero brains. Major gets some real insight into zombie functioning. Ravi gets more desperate to find a cure for zombies.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Jan. 2016", 
+            "episodeName": "Method Head", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nLiv and Clive visit the set of a popular TV show to find out who killed one of the main characters.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Feb. 2016", 
+            "episodeName": "Fifty Shades of Grey Matter", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThings become interesting for Liv when she and Clive investigate the murder of a young librarian who was secretly a writer of erotic fiction. Meanwhile, things heat up between Blaine and someone quite unexpected, and Major is hit with an unforeseen snag in his plan.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Feb. 2016", 
+            "episodeName": "Physician, Heal Thy Selfie", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDetective Babineaux and Liv are investigating a triple homicide, and Liv is shocked to learn that the victims' bodies are missing their heads. A very hungry Liv is forced to consume the brain of an unfortunate social media-hungry soul who was recently run over by a bus. Meanwhile, Peyton leans on Ravi for support, and things get interesting when Blaine's worlds start to collide.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Feb. 2016", 
+            "episodeName": "The Whopper", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nLiv investigates the murder of Big Fish, a pathological liar. After chewing down a brain burger, she see-saws between spouting truth and lies the whole episode.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Feb. 2016", 
+            "episodeName": "Eternal Sunshine of the Caffeinated Mind", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe death of the owner of Ravi's favorite coffee shop, 'Positivity', leaves Liv seeing the bright side to everything around her. Meanwhile, the newly found tainted Utopium has unexpected effects on the latest guinea pig. Blaine finds himself in a sticky situation and Liv makes an important discovery about her room mate.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Mar. 2016", 
+            "episodeName": "He Blinded Me... With Science", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhile investigating the murder of a research scientist who was recently demoted at her job, Liv and Detective Babineaux are shocked to learn where she had been employed. Meanwhile, Blaine pays Ravi a visit at the morgue, and Liv discovers something new about Drake. Lastly, Vaughn du Clark confronts Major.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Mar. 2016", 
+            "episodeName": "Pour Some Sugar, Zombie", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nLiv consumes the brain of a recently murdered stripper and uncovers some extremely useful information. Meanwhile, Blaine isn't quite himself lately, and Ravi makes a startling discovery. Lastly, Major and Ravi are helping Peyton move back in with Liv when she receives a surprising phone call.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Apr. 2016", 
+            "episodeName": "Reflections of the Way Liv Used to Be", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nLiv and detective Babineaux are investigating the murder of Bailey Barker, a type-A, ambitious, hyper-competitive and driven student near the top of her class. After consuming Bailey's brain, Liv becomes very much like the girl she was before becoming a zombie.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Apr. 2016", 
+            "episodeName": "Dead Beat", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nLiv and Ravi are in need of help and find an unlikely ally in Blaine. Detective Babineaux and Dale Bozzio pursue a new lead on an old case. Meanwhile, when Major finds himself in a world of trouble, sleazebag Brant Stone comes to his rescue. Vaughn's evil side reaches a whole new level of mean.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Apr. 2016", 
+            "episodeName": "Salivation Army", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWorking together on a mission, Liv, Detective Babineaux and Major crash Vaughn's Super Max Rager party, where singer Rob Thomas performs a song from his solo repertoire. Meanwhile, Blaine reaches out to Peyton for help, which does not sit well with Ravi.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Apr. 2017", 
+            "episodeName": "Heaven Just Got a Little Bit Smoother", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nLiv has discovered there are more zombies living in Seattle than she previously believed. In fact, there's a private military contractor employing a small zombie army, and that army is preparing for the day humans learn of their existence. Major was exonerated for the crimes of the Chaos Killer, but is still considered a pariah. He manages to land a job with the one and only place that will hire him. Meanwhile, Blaine is accused of lying.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Apr. 2017", 
+            "episodeName": "Zombie Knows Best", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhen Liv, Clive and Ravi arrive at the scene to investigate a fatal car accident, they begin to suspect foul play was involved. Both starving, Liv and Major consume the brains of the accident victims, a well-meaning father and his angsty teenage daughter. Meanwhile, when Clive is brought in for questioning about a family that was murdered, he's forced to reveal his past history with them. Lastly, Peyton extends an olive branch to Ravi, and Major hits a road block in his search for Natalie.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "Eat, Pray, Liv", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTo help Clive solve the murder of a lifestyle guru, Liv consumes his brain and takes on his zen approach to life. Ravi's old boss, Katty Kupps, is getting closer to discovering the truth while also getting closer to Ravi. Meanwhile, Blaine and Peyton continue their budding friendship, much to Ravi's dismay. Lastly, Major is struggling a bit at his new job.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Apr. 2017", 
+            "episodeName": "Wag the Tongue Slowly", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nClive's patience is tested when Liv consumes the brain of a murder victim who had the reputation of being the ultimate office gossip. Meanwhile, Blaine and Peyton continue to grow closer as they wait to see if Ravi (Rahul Kohli) is able to reverse the effects of the cure. Lastly, Major is one step away from fulfilling a promise.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 May 2017", 
+            "episodeName": "Spanking the Zombie", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhen Liv consumes the brains of a dominatrix, her bossy and controlling personality makes everyone a little uncomfortable, especially Clive. Meanwhile, Blaine and Peyton have a heart-to-heart.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 May 2017", 
+            "episodeName": "Some Like It Hot Mess", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 May 2017", 
+            "episodeName": "Dirt Nap Time", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Eat a Knievel", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Twenty-Sided, Die", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Looking for Mr. Goodbrain, Part 1", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Jun. 2017", 
+            "episodeName": "Looking for Mr. Goodbrain, Part 2", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "iZombie", 
+    "plot": "A medical resident finds that being a zombie has its perks, which she uses to assist the police.", 
+    "rating": 8.0, 
+    "releaseDate": "17 March 2015", 
+    "type": "tvserie"
+}

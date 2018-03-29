@@ -1,0 +1,27 @@
+{
+    "actorList": [
+        "Yaniv Schulman", 
+        "Ariel Schulman", 
+        "Henry Joost", 
+        "Angela Wesselman-Pierce", 
+        "Melody C. Roscher", 
+        "Wendy Whelan", 
+        "Craig Hall", 
+        "Tiler Peck", 
+        "Drew Jacoby", 
+        "Rubi Pronk", 
+        "Adrian Danchig-Waring"
+    ], 
+    "director": [
+        "Henry Joost", 
+        "Ariel Schulman"
+    ], 
+    "genres": [
+        "Documentary"
+    ], 
+    "name": "Catfish", 
+    "plot": "Young filmmakers document their colleague's budding online friendship with a young woman and her family which leads to an unexpected series of discoveries.", 
+    "rating": 7.1, 
+    "releaseDate": "22 January 2010 (Sundance Film Festival)", 
+    "type": "movie"
+}

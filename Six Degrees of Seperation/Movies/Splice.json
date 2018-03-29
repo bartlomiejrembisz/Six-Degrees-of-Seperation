@@ -1,0 +1,25 @@
+{
+    "actorList": [
+        "Adrien Brody", 
+        "Sarah Polley", 
+        "Delphine Chan\u00e9ac", 
+        "Brandon McGibbon", 
+        "Simona Maicanescu", 
+        "David Hewlett", 
+        "Abigail Chu", 
+        "Doug Hicton"
+    ], 
+    "director": [
+        "Vincenzo Natali"
+    ], 
+    "genres": [
+        "Drama", 
+        "Horror", 
+        "Sci-Fi"
+    ], 
+    "name": "Splice", 
+    "plot": "Genetic engineers Clive Nicoli and Elsa Kast hope to achieve fame by successfully splicing together the DNA of different animals to create new hybrid animals for medical use.", 
+    "rating": 5.8, 
+    "releaseDate": "6 October 2009 (Sitges International Festival of Fantastic and Horror Cinema)", 
+    "type": "movie"
+}

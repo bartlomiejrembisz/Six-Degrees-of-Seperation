@@ -1,0 +1,40 @@
+{
+    "actorList": [
+        "Maria Falconetti", 
+        "Eugene Silvain", 
+        "Andr\u00e9 Berley", 
+        "Maurice Schutz", 
+        "Antonin Artaud", 
+        "Michel Simon", 
+        "Jean d'Yd", 
+        "Louis Ravet", 
+        "Armand Lurville", 
+        "Jacques Arnna", 
+        "Alexandre Mihalesco", 
+        "L\u00e9on Larive", 
+        "Jean Aym\u00e9", 
+        "Gilbert Dacheux", 
+        "Gilbert Dalleu", 
+        "Paul Delauzac", 
+        "Dimitri Dimitriev", 
+        "Fournez-Goffard", 
+        "Henri Gaultier", 
+        "Paul Jorge", 
+        "Marie Lacroix", 
+        "Henri Maillard", 
+        "Raymond Narlay"
+    ], 
+    "director": [
+        "Carl Theodor Dreyer"
+    ], 
+    "genres": [
+        "Biography", 
+        "Drama", 
+        "History"
+    ], 
+    "name": "La passion de Jeanne d'Arc", 
+    "plot": "A chronicle of the trial of Jeanne d'Arc on charges of heresy, and the efforts of her ecclesiastical jurists to force Jeanne to recant her claims of holy visions.", 
+    "rating": 8.3, 
+    "releaseDate": "1928", 
+    "type": "movie"
+}

@@ -1,0 +1,167 @@
+{
+    "actorList": [
+        "Evan Rachel Wood", 
+        "Thandie Newton", 
+        "James Marsden", 
+        "Jeffrey Wright", 
+        "Ed Harris", 
+        "Anthony Hopkins"
+    ], 
+    "director": [
+        "Jonathan Nolan", 
+        "Fred Toye"
+    ], 
+    "genres": [
+        "Drama", 
+        "Mystery", 
+        "Sci-Fi", 
+        "Western"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "2 Oct. 2016", 
+            "episodeName": "The Original", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nBernard alerts Ford of aberrant behavior from recoded hosts; Dolores encounters gunslinger Teddy, but their narrative is upended by a mysterious Man in Black.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Oct. 2016", 
+            "episodeName": "Chestnut", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWilliam and Logan arrive with different expectations; Maeve's emotions are tweaked; The Man in Black seeks help from a ruthless bandit.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Oct. 2016", 
+            "episodeName": "The Stray", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nElsie and Stubbs search for a missing host; Teddy gets a new backstory; Bernard investigates the origins of madness and hallucinations within the hosts.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Oct. 2016", 
+            "episodeName": "Dissonance Theory", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDolores joins William and Logan on a bounty hunt; The Man in Black makes a significant discovery; Ford and Theresa discuss the park's future.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Oct. 2016", 
+            "episodeName": "Contrapasso", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nDolores, William and Logan reach Pariah, and are recruited for a dangerous mission; The Man in Black meets an unlikely ally.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Nov. 2016", 
+            "episodeName": "The Adversary", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMaeve charms Felix; Elsie discovers evidence that could point to sabotage; Teddy and the Man in Black conflict with a garrison.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Nov. 2016", 
+            "episodeName": "Trompe L'Oeil", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDolores, William and Lawrence journey into treacherous terrain; Maeve presents her demand; Bernard considers his next move.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Nov. 2016", 
+            "episodeName": "Trace Decay", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nBernard struggles with a mandate; Teddy is troubled by dark memories; Maeve looks to change her script.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Nov. 2016", 
+            "episodeName": "The Well-Tempered Clavier", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nDolores and Bernard reconnect with their pasts; Maeve makes a bold proposition to Hector; Teddy finds enlightenment, at a price.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Dec. 2016", 
+            "episodeName": "The Bicameral Mind", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFord unveils his bold new narrative; Dolores embraces her identity; Maeve sets her plan in motion.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }
+    ], 
+    "name": "Westworld", 
+    "plot": "Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite, no matter how noble or depraved, can be indulged without consequence.", 
+    "rating": 0, 
+    "releaseDate": "2 October 2016", 
+    "type": "tvserie"
+}

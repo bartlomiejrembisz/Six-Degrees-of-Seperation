@@ -1,0 +1,52 @@
+{
+    "actorList": [
+        "Michael Berryman", 
+        "Peter Brocco", 
+        "Dean R. Brooks", 
+        "Alonzo Brown", 
+        "Scatman Crothers", 
+        "Mwako Cumbuka", 
+        "Danny DeVito", 
+        "William Duell", 
+        "Josip Elic", 
+        "Lan Fendors", 
+        "Louise Fletcher", 
+        "Nathan George", 
+        "Ken Kenny", 
+        "Mel Lambert", 
+        "Sydney Lassick", 
+        "Kay Lee", 
+        "Christopher Lloyd", 
+        "Dwight Marfield", 
+        "Ted Markland", 
+        "Louisa Moritz", 
+        "Jack Nicholson", 
+        "William Redfield", 
+        "Philip Roth", 
+        "Will Sampson", 
+        "Mimi Sarkisian", 
+        "Vincent Schiavelli", 
+        "Mews Small", 
+        "Delos V. Smith Jr.", 
+        "Tin Welch", 
+        "Brad Dourif", 
+        "Aurore Cl\u00e9ment", 
+        "Bill Gratton", 
+        "Anjelica Huston", 
+        "Audrey Landers", 
+        "Tom McCall", 
+        "James V. Shore", 
+        "Saul Zaentz"
+    ], 
+    "director": [
+        "Milos Forman"
+    ], 
+    "genres": [
+        "Drama"
+    ], 
+    "name": "One Flew Over the Cuckoo's Nest", 
+    "plot": "A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.", 
+    "rating": 8.7, 
+    "releaseDate": "November 1975 (Paris Film Festival)", 
+    "type": "movie"
+}

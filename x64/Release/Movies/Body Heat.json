@@ -1,0 +1,43 @@
+{
+    "actorList": [
+        "William Hurt", 
+        "Kathleen Turner", 
+        "Richard Crenna", 
+        "Ted Danson", 
+        "J.A. Preston", 
+        "Mickey Rourke", 
+        "Kim Zimmer", 
+        "Jane Hallaren", 
+        "Lanna Saunders", 
+        "Carola McGuinness", 
+        "Michael Ryan", 
+        "Larry Marko", 
+        "Deborah Lucchesi", 
+        "Lynn Hallowell", 
+        "Thom Sharp", 
+        "Ruth Thom", 
+        "Diane Lewis", 
+        "Robert Traynor", 
+        "Meg Kasdan", 
+        "Ruth P. Strahan", 
+        "Filomena Triscari", 
+        "Bruce A. Lee", 
+        "Ramiro Velasco", 
+        "Tomas Choy", 
+        "Servio T. Moreno"
+    ], 
+    "director": [
+        "Lawrence Kasdan"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Romance", 
+        "Thriller"
+    ], 
+    "name": "Body Heat", 
+    "plot": "In the midst of a searing Florida heat wave, a woman persuades her lover, a small-town lawyer, to murder her rich husband.", 
+    "rating": 7.4, 
+    "releaseDate": "28 August 1981", 
+    "type": "movie"
+}

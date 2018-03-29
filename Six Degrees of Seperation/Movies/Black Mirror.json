@@ -1,0 +1,160 @@
+{
+    "actorList": [
+        "Chris Martin Hill", 
+        "Hannah John-Kamen", 
+        "Beatrice Robertson-Jones", 
+        "Bryony Neylan-Francis", 
+        "Shawn Aldin-Burnett", 
+        "Mia Mills", 
+        "Paul Blackwell"
+    ], 
+    "director": [
+        "Owen Harris", 
+        "Carl Tibbetts"
+    ], 
+    "genres": [
+        "Drama", 
+        "Sci-Fi", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "4 Dec. 2011", 
+            "episodeName": "The National Anthem", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nPrime Minister Michael Callow faces a shocking dilemma when Princess Susannah, a much-loved member of the Royal Family, is kidnapped.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Dec. 2011", 
+            "episodeName": "Fifteen Million Merits", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nIn a world where people's lives consist of riding excercise bikes to gain credits, Bing tries to help a woman get on to a singing competition show.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Dec. 2011", 
+            "episodeName": "The Entire History of You", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nIn the near future, everyone has access to a memory implant that records everything they do, see and hear - a sort of Sky Plus for the brain. You need never forget a face again - but is that always a good thing?    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Feb. 2013", 
+            "episodeName": "Be Right Back", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter learning about a new service that lets people stay in touch with the deceased, a lonely, grieving Martha reconnects with her late lover.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Feb. 2013", 
+            "episodeName": "White Bear", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nVictoria wakes up and cannot remember anything about her life. Everyone she encounters refuses to communicate with her.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Feb. 2013", 
+            "episodeName": "The Waldo Moment", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA failed comedian who voices a popular cartoon bear named Waldo finds himself mixing in politics when TV executives want Waldo to run for office.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Dec. 2014", 
+            "episodeName": "White Christmas", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThree interconnected tales of technology run amok during the Christmas season are told by two men at a remote outpost in a frozen wilderness.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Oct. 2016", 
+            "episodeName": "Nosedive", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA woman desperate to boost her social media score hits the jackpot when she's invited to a swanky wedding, but the trip doesn't go as planned.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Oct. 2016", 
+            "episodeName": "Playtest", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAn American traveler short on cash signs up to test a revolutionary new gaming system, but soon can't tell where the hoot game ends and reality begins.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Oct. 2016", 
+            "episodeName": "Shut Up and Dance", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen withdrawn Kenny stumbles headlong into an online trap, he is quickly forced into an uneasy alliance with shifty Hector, both at the mercy of persons unknown.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Oct. 2016", 
+            "episodeName": "San Junipero", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nIn a seaside town in 1987, a shy young woman and an outgoing party girl strike up a powerful bond that seems to defy the laws of space and time.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Oct. 2016", 
+            "episodeName": "Men Against Fire", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nFuture soldiers Stripe and Raiman must protect frightened villagers from an infestation of vicious feral mutants.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Oct. 2016", 
+            "episodeName": "Hated in the Nation", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nIn near-future London, police detective Karin Parke, and her tech-savvy sidekick Blue, investigate a string of mysterious deaths with a sinister link to social media.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #4.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #4.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #4.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #4.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #4.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #4.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }
+    ], 
+    "name": "Black Mirror", 
+    "plot": "A television anthology series that shows the dark side of life and technology.", 
+    "rating": 8.9, 
+    "releaseDate": "4 December 2011", 
+    "type": "tvserie"
+}

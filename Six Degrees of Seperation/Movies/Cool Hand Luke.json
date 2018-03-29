@@ -1,0 +1,53 @@
+{
+    "actorList": [
+        "Paul Newman", 
+        "George Kennedy", 
+        "J.D. Cannon", 
+        "Lou Antonio", 
+        "Robert Drivas", 
+        "Strother Martin", 
+        "Jo Van Fleet", 
+        "Clifton James", 
+        "Morgan Woodward", 
+        "Luke Askew", 
+        "Marc Cavell", 
+        "Richard Davalos", 
+        "Robert Donner", 
+        "Warren Finnerty", 
+        "Dennis Hopper", 
+        "John McLiam", 
+        "Wayne Rogers", 
+        "Harry Dean Stanton", 
+        "Charles Tyner", 
+        "Ralph Waite", 
+        "Anthony Zerbe", 
+        "Buck Kartalian", 
+        "Joy Harmon", 
+        "Joe Don Baker", 
+        "James Bradley Jr.", 
+        "James Gammon", 
+        "Norman Goodwins", 
+        "Chuck Hicks", 
+        "Rance Howard", 
+        "James Jeter", 
+        "Kim Kahana", 
+        "Robert Luster", 
+        "Donn Pearce", 
+        "John Pearce", 
+        "Cyril 'Chips' Robinson", 
+        "Eddie Rosson", 
+        "Rush Williams"
+    ], 
+    "director": [
+        "Stuart Rosenberg"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama"
+    ], 
+    "name": "Cool Hand Luke", 
+    "plot": "A man refuses to conform to life in a rural prison.", 
+    "rating": 8.2, 
+    "releaseDate": "1 November 1967", 
+    "type": "movie"
+}

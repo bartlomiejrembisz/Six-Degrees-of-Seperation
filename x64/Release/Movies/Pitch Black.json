@@ -1,0 +1,33 @@
+{
+    "actorList": [
+        "Vin Diesel", 
+        "Radha Mitchell", 
+        "Cole Hauser", 
+        "Keith David", 
+        "Lewis Fitz-Gerald", 
+        "Claudia Black", 
+        "Rhiana Griffith", 
+        "John Moore", 
+        "Simon Burke", 
+        "Les Chantery", 
+        "Sam Sari", 
+        "Firass Dirani", 
+        "Ric Anderson", 
+        "Vic Wilson", 
+        "Angela Moore", 
+        "Peter Chiang", 
+        "Ken Twohy"
+    ], 
+    "director": [
+        "David Twohy"
+    ], 
+    "genres": [
+        "Horror", 
+        "Sci-Fi"
+    ], 
+    "name": "Pitch Black", 
+    "plot": "A commercial transport ship and its crew are marooned on a planet full of bloodthirsty creatures that only come out to feast at night. But then, they learn that a month-long eclipse is about to occur.", 
+    "rating": 7.1, 
+    "releaseDate": "18 February 2000", 
+    "type": "movie"
+}

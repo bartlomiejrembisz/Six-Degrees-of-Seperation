@@ -1,0 +1,49 @@
+{
+    "actorList": [
+        "Anupam Kher", 
+        "Naseeruddin Shah", 
+        "Jimmy Shergill", 
+        "Deepal Shaw", 
+        "Aamir Bashir", 
+        "Kali Prasad Mukherjee", 
+        "Mukesh Bhatt", 
+        "Gaurav Kapoor", 
+        "Chetan Pandit", 
+        "Veerendra Saxena", 
+        "Snehal Dabi", 
+        "Rohitashv Gour", 
+        "Vije Bhatia", 
+        "Aayam Mehta", 
+        "Rajendra Chawla", 
+        "Alok Narula", 
+        "Parth", 
+        "Seema Malik", 
+        "Vicky Ahuja", 
+        "Namrata Sawhney", 
+        "Parag Tyagi", 
+        "Manoj Verma", 
+        "Bhagwan Tiwari", 
+        "Danish", 
+        "Jaywant Wadkar", 
+        "Sabudeen", 
+        "Dhananjay Singh", 
+        "Jitendra Kumar", 
+        "Jani Karan", 
+        "Mahesh Kanual", 
+        "Siddharth Bajaj"
+    ], 
+    "director": [
+        "Neeraj Pandey"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "A Wednesday", 
+    "plot": "A retiring police officer reminisces about the most astounding day of his career. About a case that was never filed but continues to haunt him in his memories - the case of a man and a Wednesday.", 
+    "rating": 8.3, 
+    "releaseDate": "5 September 2008", 
+    "type": "movie"
+}

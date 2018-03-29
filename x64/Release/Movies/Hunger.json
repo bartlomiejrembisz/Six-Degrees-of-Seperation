@@ -1,0 +1,41 @@
+{
+    "actorList": [
+        "Stuart Graham", 
+        "Laine Megaw", 
+        "Brian Milligan", 
+        "Liam McMahon", 
+        "Karen Hassan", 
+        "Michael Fassbender", 
+        "Frank McCusker", 
+        "Lalor Roddy", 
+        "Helen Madden", 
+        "Des McAleer", 
+        "Geoff Gatt", 
+        "Rory Mullen", 
+        "Ben Peel", 
+        "Helena Bereen", 
+        "Paddy Jenkins", 
+        "Liam Cunningham", 
+        "Billy Clarke", 
+        "Ciaran Flynn", 
+        "B.J. Hogg", 
+        "Neal Hughes", 
+        "Larry Cowan", 
+        "Tom Dart", 
+        "Denis Halligan", 
+        "Thomas James Scott", 
+        "Margaret Thatcher"
+    ], 
+    "director": [
+        "Steve McQueen"
+    ], 
+    "genres": [
+        "Biography", 
+        "Drama"
+    ], 
+    "name": "Hunger", 
+    "plot": "Irish republican Bobby Sands leads the inmates of a Northern Irish prison in a hunger strike.", 
+    "rating": 7.6, 
+    "releaseDate": "15 May 2008 (Cannes Film Festival)", 
+    "type": "movie"
+}

@@ -1,0 +1,31 @@
+{
+    "actorList": [
+        "Cillian Murphy", 
+        "Michelle Yeoh", 
+        "Troy Garity", 
+        "Rose Byrne", 
+        "Hiroyuki Sanada", 
+        "Benedict Wong", 
+        "Chris Evans", 
+        "Cliff Curtis", 
+        "Mark Strong", 
+        "Paloma Baeza", 
+        "Archie Macdonald", 
+        "Sylvie Macdonald", 
+        "Chipo Chung", 
+        "Kevin Hudson"
+    ], 
+    "director": [
+        "Danny Boyle"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Sci-Fi", 
+        "Thriller"
+    ], 
+    "name": "Sunshine", 
+    "plot": "A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.", 
+    "rating": 7.3, 
+    "releaseDate": "23 March 2007 (Bochum Fantasy Filmfest Nights)", 
+    "type": "movie"
+}

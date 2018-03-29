@@ -1,0 +1,50 @@
+{
+    "actorList": [
+        "John Turturro", 
+        "John Goodman", 
+        "Judy Davis", 
+        "Michael Lerner", 
+        "John Mahoney", 
+        "Tony Shalhoub", 
+        "Jon Polito", 
+        "Steve Buscemi", 
+        "David Warrilow", 
+        "Richard Portnow", 
+        "Christopher Murney", 
+        "I.M. Hobson", 
+        "Meagen Fay", 
+        "Lance Davis", 
+        "Harry Bugin", 
+        "Anthony Gordon", 
+        "Jack Denbo", 
+        "Max Grod\u00e9nchik", 
+        "Robert Beecher", 
+        "Darwyn Swalve", 
+        "Gayle Vance", 
+        "Johnny Judkins", 
+        "Jana Marie Hupp", 
+        "Isabelle Townsend", 
+        "William Preston Robertson", 
+        "Mamie Jean Calvert", 
+        "Joe James", 
+        "Frances McDormand", 
+        "Bubba Dean Rambo", 
+        "Barry Sonnenfeld", 
+        "Vincent Tumeo", 
+        "Rob Wegner"
+    ], 
+    "director": [
+        "Joel Coen", 
+        "Ethan Coen"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "Barton Fink", 
+    "plot": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.", 
+    "rating": 7.7, 
+    "releaseDate": "18 May 1991 (Cannes Film Festival)", 
+    "type": "movie"
+}

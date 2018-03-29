@@ -1,0 +1,47 @@
+{
+    "actorList": [
+        "Alfred Abel", 
+        "Gustav Fr\u00f6hlich", 
+        "Rudolf Klein-Rogge", 
+        "Fritz Rasp", 
+        "Theodor Loos", 
+        "Erwin Biswanger", 
+        "Heinrich George", 
+        "Brigitte Helm", 
+        "Fritz Alberti", 
+        "Grete Berger", 
+        "Olly Boeheim", 
+        "Max Dietze", 
+        "Ellen Frey", 
+        "Beatrice Garga", 
+        "Heinrich Gotho", 
+        "Dolly Grey", 
+        "Anny Hintze", 
+        "Georg John", 
+        "Walter Kuehle", 
+        "Margarete Lanner", 
+        "Rose Lichtenstein", 
+        "Hanns Leo Reich", 
+        "Arthur Reinhardt", 
+        "Curt Siodmak", 
+        "Henrietta Siodmak", 
+        "Olaf Storm", 
+        "Erwin Vater", 
+        "Rolf von Goth", 
+        "Helen von M\u00fcnchofen", 
+        "Helene Weigel", 
+        "Hilde Woitscheff"
+    ], 
+    "director": [
+        "Fritz Lang"
+    ], 
+    "genres": [
+        "Drama", 
+        "Sci-Fi"
+    ], 
+    "name": "Metropolis", 
+    "plot": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.", 
+    "rating": 8.3, 
+    "releaseDate": "10 January 1927 (Berlin)\n (premiere)", 
+    "type": "movie"
+}

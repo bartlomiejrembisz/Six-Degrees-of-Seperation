@@ -1,0 +1,112 @@
+{
+    "actorList": [
+        "Tom Hardy", 
+        "Leo Bill", 
+        "Oona Chaplin", 
+        "David Hayman", 
+        "Edward Hogg", 
+        "Jonathan Pryce", 
+        "Richard Dixon", 
+        "Jessie Buckley", 
+        "Stephen Graham", 
+        "Franka Potente", 
+        "Michael Kelly", 
+        "Ruby-May Martinwood", 
+        "James Greaves", 
+        "Jefferson Hall", 
+        "Jason Watkins", 
+        "Louis Ashbourne Serkis", 
+        "Danny Ligairi", 
+        "Scroobius Pip", 
+        "Tallulah Rose Haddon", 
+        "Mark Gatiss", 
+        "Tom Hollander", 
+        "Nicholas Woodeson"
+    ], 
+    "director": [
+        "Anders Engstr\u00f6m", 
+        "Kristoffer Nyholm"
+    ], 
+    "genres": [
+        "Drama", 
+        "Fantasy", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "10 Jan. 2017", 
+            "episodeName": "Episode #1.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter being presumed dead, James Delaney resurfaces in London seeking revenge for the death of his father and inheriting the family shipping empire, which threatens the ambitions of his half-sister and the East India Company.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Jan. 2017", 
+            "episodeName": "Episode #1.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nDespite Delaney's return to London setting tongues wagging, he enlists allies in his quest to reclaim his legacy, while an unexpected arrival at the reading of the will disrupts his plans and reveals the nature of his inheritance.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Jan. 2017", 
+            "episodeName": "Episode #1.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDelaney receives medical help from an unexpected source, before outwitting the East India Company, which turns its attentions to Delaney's new ally, Lorna.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Jan. 2017", 
+            "episodeName": "Episode #1.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe plot against Delaney puts Lorna in danger, Delaney enlists help for a scheme of his own, and an invitation to an opulent ball leads to unexpected consequences.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Feb. 2017", 
+            "episodeName": "Episode #1.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA duel at dawn takes a surprising turn, Zilpha is met with darkness, the East India Company is under investigation, and Delaney faces a race against time to keep his plot a secret.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Feb. 2017", 
+            "episodeName": "Episode #1.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen his plot is betrayed and Zilpha takes drastic action against her husband, Delaney faces all out chaos, complicated further by a family revelation and the increasingly desperate East India Company.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Feb. 2017", 
+            "episodeName": "Episode #1.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nA tragic event leads to the betrayal of Delaney, who must use all of his wits and strength to salvage his plans.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Feb. 2017", 
+            "episodeName": "Episode #1.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nDelaney delivers an ultimatum, arrangements for immediate departure begin, while Strange has a final ace to play.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }
+    ], 
+    "name": "Taboo", 
+    "plot": "Adventurer James Keziah Delaney returns to London during the War of 1812 to rebuild his late father's shipping empire. However, both the government and his biggest competitor want his inheritance at any cost - even murder.", 
+    "rating": 8.7, 
+    "releaseDate": "7 January 2017", 
+    "type": "tvserie"
+}

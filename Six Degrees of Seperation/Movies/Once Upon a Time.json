@@ -1,0 +1,998 @@
+{
+    "actorList": [
+        "Jennifer Morrison", 
+        "Lana Parrilla", 
+        "Jared Gilmore", 
+        "Robert Carlyle", 
+        "Ginnifer Goodwin", 
+        "Josh Dallas", 
+        "Emilie de Ravin", 
+        "Colin O'Donoghue", 
+        "Rebecca Mader", 
+        "Beverley Elliott", 
+        "Sean Maguire"
+    ], 
+    "director": [
+        "Ralph Hemecker", 
+        "Ron Underwood", 
+        "Dean White", 
+        "Romeo Tirone", 
+        "Gwyneth Horder-Payton", 
+        "Billy Gierhart", 
+        "David Solomon", 
+        "Milan Cheylov", 
+        "Alrick Riley", 
+        "Eagle Egilsson", 
+        "Steve Pearlman", 
+        "David Barrett", 
+        "Paul A. Edwards", 
+        "Guy Ferland", 
+        "Mario Van Peebles", 
+        "Jon Amiel", 
+        "Morgan Beggs"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Fantasy", 
+        "Romance"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "23 Oct. 2011", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nEmma Swan's world is turned upside down when the son she gave up 10 years ago knocks on her door. Holding a book of fairy tales he claims are real, he tells her that she is not only in the book but that she is the only hope of freeing a town called Storybrooke from an evil curse.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Oct. 2011", 
+            "episodeName": "The Thing You Love Most", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nRegina tries to push Emma out of Storybrooke and Henry's life, as flashbacks detail information about the Evil Queen's curse.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Nov. 2011", 
+            "episodeName": "Snow Falls", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAt Henry's urging, Emma convinces Mary Margaret to pay a visit to a comatose man in the hospital and read to him from the storybook, as flashbacks show how Snow White and Prince Charming first met.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Nov. 2011", 
+            "episodeName": "The Price of Gold", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nEmma tries to help a young pregnant woman escape from the clutches of Mr. Gold, as flashbacks show when Cinderella made a regrettable deal with Rumplestiltskin.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Nov. 2011", 
+            "episodeName": "That Still Small Voice", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAs Graham makes Emma a deputy, a mysterious sinkhole appears at the edge of town and Henry's life is placed in danger, while flashbacks show Jiminy Cricket's yearning to leave the family business.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Dec. 2011", 
+            "episodeName": "The Shepherd", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nDavid is caught between his feelings for Mary Margaret and his marriage to Kathryn, as flashbacks detail information about Charming's life.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Dec. 2011", 
+            "episodeName": "The Heart is a Lonely Hunter", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nGraham starts to remember details about his life before Storybrooke, while flashbacks show when the Evil Queen sent an assassin to kill Snow White.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Jan. 2012", 
+            "episodeName": "Desperate Souls", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nGold and Regina play dirty politics and take opposite sides when Emma runs against Sidney for Sheriff, as flashbacks show Rumplestiltskin desperately try to find a way to save his son from being enlisted into war.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Jan. 2012", 
+            "episodeName": "True North", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nEmma tries to save two children from foster care by trying to find their birth father, as flashbacks show the Evil Queen coercing Hansel and Gretel into stealing an important artifact from a blind witch.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Jan. 2012", 
+            "episodeName": "7:15 A.M.", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMary Margaret and David struggle with their feelings for each other, while Emma and Regina become suspicious of a mysterious arrival in Storybrooke.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Jan. 2012", 
+            "episodeName": "Fruit of the Poisonous Tree", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA dejected Sidney asks Emma for help uncovering evidence that could expose Regina's corruption, while Mary Margaret and David start seeing each other in secret.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Feb. 2012", 
+            "episodeName": "Skin Deep", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nEmma suspects Gold is planning vigilante justice when his house is robbed, as flashbacks show when Belle made a deal with Rumplestiltskin.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Feb. 2012", 
+            "episodeName": "What Happened to Frederick", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nDavid finally agrees to tell Kathryn about his relationship with Mary Margaret, as flashbacks show Charming helping Princess Abigail with a dangerous mission.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Mar. 2012", 
+            "episodeName": "Dreamy", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nEmma investigates Kathryn's sudden disappearance and Mary Margaret and Leroy help the Nuns sell candles at the Miner's Day festival, as flashbacks show when Grumpy fell in love with a fairy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Mar. 2012", 
+            "episodeName": "Red-Handed", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nDavid faces questions about Kathryn's disappearance and Emma gives Ruby a job as her assistant, as flashbacks show Red Riding Hood attempt to kill a wolf preying on her village.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Mar. 2012", 
+            "episodeName": "Heart of Darkness", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nMary Margaret hires Gold as her attorney when she is arrested for the suspected murder of Kathryn, while flashbacks show Charming try to find Snow, whose memory is clouded by Rumplestiltskin's potion.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Mar. 2012", 
+            "episodeName": "Hat Trick", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nDuring her search for Mary Margaret, Emma finds herself trapped in the home of a strange man, as flashbacks show the Mad Hatter helping the Evil Queen in exchange for his daughter's safety.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Apr. 2012", 
+            "episodeName": "The Stable Boy", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nEmma continues to search for evidence that will prove Mary Margaret's innocence, as flashbacks reveal the reason behind the Evil Queen's hatred for Snow White.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Apr. 2012", 
+            "episodeName": "The Return", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nRegina's plan for Mary Margaret is thwarted following Kathryn's sudden re-appearance and Gold becomes wary of August, as flashbacks show what happened to Baelfire after Rumplestiltskin became the Dark One.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Apr. 2012", 
+            "episodeName": "The Stranger", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nAugust's real identity is revealed as his condition worsens. Regina tries to seduce David to spite Mary Margaret.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 May 2012", 
+            "episodeName": "An Apple Red as Blood", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nRegina works with Jefferson on a plan to get rid of Emma, as flashbacks show Snow attempt to reunite with Charming after he is kidnapped by the Evil Queen.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 May 2012", 
+            "episodeName": "A Land Without Magic", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nEmma and Regina are forced to work together in order to save Henry's life, while flashbacks show Charming's mission to save Snow's life after escaping from the Evil Queen.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Sep. 2012", 
+            "episodeName": "Broken", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter Emma breaks the curse and everyone regains their memories, Gold brings magic to Storybrooke, and a new danger lurks in the Enchanted Forest.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Oct. 2012", 
+            "episodeName": "We Are Both", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAs David tries to restore order in Storybrooke, Regina continues to seek a way to regain her powers, and the Dwarves make a discovery when they investigate the town line.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Oct. 2012", 
+            "episodeName": "Lady of the Lake", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMary Margaret, Emma, Mulan and Aurora head for Snow White's castle to find a portal to Storybrooke, as flashbacks show King George curse Snow, preventing her from being able to conceive a child.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Oct. 2012", 
+            "episodeName": "The Crocodile", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nBelle threatens to leave Gold if he doesn't change his ways and the Dwarves try to find fairy dust, as flashbacks show Rumplestiltskin's wife join a band of pirates.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Oct. 2012", 
+            "episodeName": "The Doctor", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMary Margaret, Emma, Mulan and Aurora return to their camp only to find everyone dead. Back in Storybrooke, Regina begins to see a ghost from her past, as flashbacks show her training with Rumplestiltskin.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Nov. 2012", 
+            "episodeName": "Tallahassee", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAs Emma and Hook climb a beanstalk in search of a magic compass, flashbacks show Emma's past and how she met Henry's father.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Nov. 2012", 
+            "episodeName": "Child of the Moon", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen a murder occurs in Storybrooke on a full moon, Spencer tries to bring the town against David by implicating Ruby, as flashbacks show Red Riding Hood find a pack of wolves who adopt her into their family.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Nov. 2012", 
+            "episodeName": "Into the Deep", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nCora does everything in her power to steal the compass and find a way to Storybrooke, while after Aurora is kidnapped, and to protect Henry from further danger, Mary Margaret and David try to communicate with each other in the Netherworld.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Dec. 2012", 
+            "episodeName": "Queen of Hearts", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMary Margaret, Emma, Mulan and Aurora try to prevent Cora and Hook from getting to Storybrooke, as flashbacks show Regina enlist the help of Hook to find and kill Cora.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Jan. 2013", 
+            "episodeName": "The Cricket Game", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs Hook and Cora arrive in Storybrooke, Regina struggles to gain the trust of the town, as flashbacks show Snow and Charming disagree over how to handle Regina now that they have taken over the kingdom.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Jan. 2013", 
+            "episodeName": "The Outsider", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nGold's plans to cross the town line to find his son without losing his memories are thwarted by Hook, forcing Belle to intervene, as flashbacks show her befriend Mulan on a quest to destroy a beast.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Jan. 2013", 
+            "episodeName": "In the Name of the Brother", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAs a stranger poses a potential threat to Storybrooke, Cora approaches Regina, and Whale battles his inner demons, as flashbacks detail information about Victor Frankenstein's life.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Feb. 2013", 
+            "episodeName": "Tiny", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nEmma and Henry accompany Gold on his quest to find his son, while Mary Margaret, David and Leroy deal with a vengeful giant, as flashbacks detail information about his life.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Feb. 2013", 
+            "episodeName": "Manhattan", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nEmma is shocked when she learns the true identity of Gold's son, as flashbacks show when Rumplestiltskin was called to war. Back in Storybrooke, Regina, Cora and Hook search for Rumplestiltskin's dagger.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Mar. 2013", 
+            "episodeName": "The Queen Is Dead", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nHook hunts down Gold in New York and Mary Margaret learns of Regina and Cora's plan for the dagger, as flashbacks show a young Snow White faced with a difficult choice when her mother falls ill.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Mar. 2013", 
+            "episodeName": "The Miller's Daughter", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nMary Margaret is tempted by dark magic and David, Emma and Neal attempt to protect Gold from Regina and Cora, as flashbacks show a young Cora seek revenge against the royal family after they degrade her in public.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Mar. 2013", 
+            "episodeName": "Welcome to Storybrooke", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nEmma and David enlist Gold's help to protect Mary Margaret from a vengeful Regina, as flashbacks show a father and son stumble upon Storybrooke when the curse was first cast.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Mar. 2013", 
+            "episodeName": "Selfless, Brave and True", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nMary Margaret encounters a completely wooden August and Neal's fianc\u00e9e arrives in Storybrooke, as flashbacks show August seek the help of a healer in Phuket when he starts to turn into wood.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Apr. 2013", 
+            "episodeName": "Lacey", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nGreg and Tamara continue to plot and Regina gives Belle false memories, as flashbacks show Belle just after being imprisoned by Rumplestiltskin.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Apr. 2013", 
+            "episodeName": "The Evil Queen", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nEmma grows suspicious of Tamara and Hook helps Regina retrieve the fail-safe key that will destroy Storybrooke, as flashbacks show the Evil Queen go undercover in order to kill Snow White.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 May 2013", 
+            "episodeName": "Second Star to the Right", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nWhen Regina goes missing, Emma immediately suspects Tamara. Meanwhile, flashbacks show what happened to Baelfire after leaving the Enchanted Forest.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 May 2013", 
+            "episodeName": "And Straight on 'til Morning", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAs Greg and Tamara set out to destroy Storybrooke, the inhabitants of the town race to stop the destruction, while flashbacks show Hook take Baelfire on as a crew member on his ship.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Sep. 2013", 
+            "episodeName": "The Heart of the Truest Believer", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nTension runs high as Hook's ship sets sail for Neverland to rescue Henry, Neal travels to Rumplestiltskin's castle with Mulan, and Henry finds himself on the run from the Lost Boys after Greg and Tamara are ambushed.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Oct. 2013", 
+            "episodeName": "Lost Girl", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nEmma meets Peter Pan, who gives her a map that will reveal Henry's whereabouts as soon as she accepts her true identity, while flashbacks show the Evil Queen present Snow with an offer, which Charming does not want her to take.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Oct. 2013", 
+            "episodeName": "Quite a Common Fairy", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTo find Pan's hideout, Hook suggests tracking down Tinker Bell, who has a bitter past with Regina, and Robin Hood and Mulan help Neal get to Neverland.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Oct. 2013", 
+            "episodeName": "Nasty Habits", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nGold is reunited with Neal, as flashbacks show Rumplestiltskin go in search of a missing Baelfire, who has followed a mysterious figure who steals away children with his music.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Oct. 2013", 
+            "episodeName": "Good Form", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHook tries to help save David's life as the dreamshade takes its effect, as flashbacks show Hook's first visit to Neverland along with his brother.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Nov. 2013", 
+            "episodeName": "Ariel", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMary Margaret, Emma, David and Hook attempt to rescue Neal and Gold and Regina begrudgingly agree to work together to take down Pan, as flashbacks show Snow White help Ariel get acquainted with Prince Eric.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Nov. 2013", 
+            "episodeName": "Dark Hollow", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nGold and Regina send Ariel to Storybrooke to help Belle locate an artefact that could help take down Pan, while Emma, Neal and Hook attempt to find Dark Hollow in order to capture Pan's shadow.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Nov. 2013", 
+            "episodeName": "Think Lovely Thoughts", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAs Pan leads Henry to a cave where he plans on stealing his heart to gain immortality, Emma and the others race to save him, as flashbacks show when a young Rumplestiltskin was given a magical item that could help him make a fresh start with his father.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Dec. 2013", 
+            "episodeName": "Save Henry", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAs Henry's life hangs in the balance, the race is on to stop Pan from gaining full power from the heart of the truest believer, as flashbacks show when Regina first adopted Henry.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Dec. 2013", 
+            "episodeName": "The New Neverland", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs Hook's ship returns to Storybrooke, a well-hidden Pan puts a new plan into motion, while flashbacks show Snow and Charming go in search of a mythical being that could stop the Evil Queen cold in her tracks.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Dec. 2013", 
+            "episodeName": "Going Home", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe residents of Storybrooke race to stop Pan from placing another curse on the town.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 Mar. 2014", 
+            "episodeName": "New York City Serenade", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nEveryone returns to the Enchanted Forest, except for Emma and Henry, who now live in New York and remember nothing of their time spent in Storybrooke.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Mar. 2014", 
+            "episodeName": "Witch Hunt", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nEmma works with Regina to find out who took everyone's memories from the past year, as flashbacks show the Evil Queen and Robin Hood attempt to break into her castle, which has been overtaken by the Wicked Witch.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Mar. 2014", 
+            "episodeName": "The Tower", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAs the hunt for the Wicked Witch continues, she sets a plan for David into motion, as flashbacks show Charming encounter Rapunzel and assists her in facing her fears.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "30 Mar. 2014", 
+            "episodeName": "Quiet Minds", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nNeal finds himself back in Storybrooke, as flashbacks show Baelfire and Belle attempt to bring Rumplestiltskin back from the dead.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Apr. 2014", 
+            "episodeName": "It's Not Easy Being Green", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAfter Neal is laid to rest, Zelena challenges Regina to a fight to the death, as flashbacks show Zelena's past and the reason behind her hatred for Regina.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Apr. 2014", 
+            "episodeName": "The Jolly Roger", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nRegina instructs Emma in magic and Ariel arrives in Storybrooke looking for Eric, as flashbacks show Ariel and Hook's encounter during the missing year.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Apr. 2014", 
+            "episodeName": "Bleeding Through", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAfter Zelena steals Regina's heart, Regina casts a spell to discover the truth about why Cora abandoned Zelena. Meanwhile, Belle discovers Zelena's plan.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Apr. 2014", 
+            "episodeName": "A Curious Thing", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nZelena threatens to kill Henry if Hook doesn't kiss Emma and take her magic away, as flashbacks show when the curse to send everyone back to Storybrooke was cast during the missing year.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 May 2014", 
+            "episodeName": "Kansas", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe residents of Storybrooke try to prevent Zelena from stealing Mary Margeret's newborn baby for use in her evil plan, as flashbacks show Glinda attempt to convince Zelena to fight her evil tendencies and join her as a protector of Oz.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 May 2014", 
+            "episodeName": "Snow Drifts", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nWhen Zelena's time portal re-opens and sends Emma and Hook into the Enchanted Forest of the past, their actions have dire consequences for the future.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 May 2014", 
+            "episodeName": "There's No Place Like Home", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nEmma and Hook attempt to rectify the mistakes they made in the Enchanted Forest of the past and find their way back to Storybrooke in the present.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Sep. 2014", 
+            "episodeName": "Storybrooke Has Frozen Over", 
+            "episodeNumber": 0, 
+            "episodePlot": "\nSummarizes the series up to this point.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Sep. 2014", 
+            "episodeName": "A Tale of Two Sisters", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nRegina struggles to cope following Marian's arrival in Storybrooke, as a mysterious woman roams the town after emerging from Zelena's time portal.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 Oct. 2014", 
+            "episodeName": "White Out", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nElsa accidentally places Emma's life in danger when she traps both of them inside an ice cave, as flashbacks show Anna help a younger Charming to fight a warlord named Bo Peep.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Oct. 2014", 
+            "episodeName": "Rocky Road", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen an icy spell is cast on Marian, the residents of Storybrooke place the blame on Elsa, unaware the mysterious woman who runs the town's ice cream parlor has the same powers as Elsa and is trying to frame her.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 Oct. 2014", 
+            "episodeName": "The Apprentice", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHook asks Gold for his hand to be reattached for a first date with Emma, as flashbacks show when Anna made a deal with Rumplestiltskin.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "26 Oct. 2014", 
+            "episodeName": "Breaking Glass", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nRegina reluctantly teams up with Emma to search for the Snow Queen after Sidney discovers her whereabouts, as flashbacks show a young Emma befriend a girl who, like her, is a runaway orphan.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 Nov. 2014", 
+            "episodeName": "Family Business", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nEmma becomes determined to discover the Snow Queen's plan after discovering she was once her foster mother and Belle searches for the Snow Queen's hideout, as flashbacks show her travel to Arendelle to discover the fate of her mother.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Nov. 2014", 
+            "episodeName": "The Snow Queen", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nEmma captures the Snow Queen and interrogates her at the sheriff's station and Regina and Robin's relationship grows increasingly complex, as flashbacks detail information about the Snow Queen's life in Arendelle.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Nov. 2014", 
+            "episodeName": "Smash the Mirror: Part 1", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nGold interferes with the Snow Queen's plans for his own agenda, as flashbacks show the Snow Queen try to pit Elsa and Anna against each other. Emma turns to Gold for help getting her powers under control.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Nov. 2014", 
+            "episodeName": "Smash the Mirror: Part 2", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAs everyone races to stop Emma from giving up her powers, Robin finds a clue that could point Regina to the elusive author of the storybook.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Nov. 2014", 
+            "episodeName": "Fall", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs the Spell of Shattered Sight approaches Storybrooke, Emma and Elsa search for Anna, Belle and the fairies work on an antidote, and Gold, with a reluctant Hook as his servant, works on an exit strategy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Dec. 2014", 
+            "episodeName": "Shattered Sight", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAs the Spell of Shattered Sight hits Storybrooke, Emma and Elsa race against the clock to free themselves of the ribbons and take down the Snow Queen.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Dec. 2014", 
+            "episodeName": "Heroes and Villains", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nIn the aftermath of the Snow Queen's curse; Emma looks for a portal so Elsa, Anna and Kristoff can return to Arendelle, Regina makes a difficult choice, and Gold's quest for power reaches a dramatic conclusion.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Mar. 2015", 
+            "episodeName": "Darkness on the Edge of Town", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nHook and Belle search for a way to release the fairies from the Sorcerer's hat, Emma, Regina and Henry continue to look for clues that could lead them to the Author, and Gold and Ursula enlist Cruella to join their cause, as flashbacks show their first meeting.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Mar. 2015", 
+            "episodeName": "Unforgiven", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nRegina and Henry turn to Marco and Pinocchio for help in their quest to find the Author. Emma worries that Mary Margaret and David are hiding something from her as they remain wary of Cruella and Ursula.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Mar. 2015", 
+            "episodeName": "Enter the Dragon", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nIn order to infiltrate the Queens of Darkness as a spy, Regina has to prove that she is still a villain. Meanwhile, Hook asks Belle for an unusual favor, and Henry makes progress on his search for the Author.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Mar. 2015", 
+            "episodeName": "Poor Unfortunate Soul", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nHook tries to make a deal with Ursula as flashbacks show their complicated past, while Regina struggles to maintain her cover with Gold, Cruella and Maleficent.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Mar. 2015", 
+            "episodeName": "Best Laid Plans", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMaleficent puts Storybrooke under a sleeping curse in an attempt to steal the page that the Author is trapped inside. Mary Margaret and David struggle with their guilt as flashbacks show them go to extreme lengths to protect their unborn child from darkness.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Apr. 2015", 
+            "episodeName": "Heart of Gold", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe Author joins forces with Gold and Regina fears for Robin's safety, as flashbacks show what happened to Robin after leaving Storybrooke with Marian and Roland.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 Apr. 2015", 
+            "episodeName": "Sympathy for the De Vil", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nRegina's plans to head to New York to rescue Robin from Zelena are halted when Cruella kidnaps Henry, as flashbacks show her encounter the Author, who encourages her to stand up to her oppressive mother.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "26 Apr. 2015", 
+            "episodeName": "Lily", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nEmma realizes Maleficent's daughter is her former childhood friend Lily and leaves Storybrooke with Regina to find her, as well as to rescue Robin from Zelena.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 May 2015", 
+            "episodeName": "Mother", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nEmma reunites Maleficent with Lily, who is still hell bent on seeking revenge against Mary Margaret and David. Meanwhile, Regina and Robin struggle to cope with the implications of Zelena's pregnancy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 May 2015", 
+            "episodeName": "Operation Mongoose: Part 1", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe Author proves to be a formidable wild card and forges an alliance with Gold. Emma, her parents, Hook and Regina scramble to stop them, but when Gold and the Author turn the tables on heroes and villains alike, the prospect of any happy outcome appears worlds away. Henry discovers he has big shoes to fill as he steps up to save his family before the story's final page is turned. It's a race to the finish, and everything culminates with a shocking twist that will leave the residents of Storybrooke reeling.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 May 2015", 
+            "episodeName": "Operation Mongoose: Part 2", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nThe author aligns with Gold, while Emma, her parents, Hook and Regina try to stop them; Henry steps up to save his family.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Sep. 2015", 
+            "episodeName": "The Dark Swan", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWith Emma now facing the nature of the Darkness in herself, she encounters Merida. Her family and friends go to extreme measurements to find Emma and bring her home safely.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "4 Oct. 2015", 
+            "episodeName": "The Price", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhile Prince Arthur organizes a ball in Camelot, darkness rises in Storybrooke, to the search of a savior.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "11 Oct. 2015", 
+            "episodeName": "Siege Perilous", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA royal ball is held in Camelot, but a dark turn of events forces David and Robin to take action. Meanwhile, Regina's fortitude is tested as she tries to safeguard Emma; and back in Storybrooke, Hook attempts to bring Emma back to the light.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "18 Oct. 2015", 
+            "episodeName": "The Broken Kingdom", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nIn Rumplestiltskin return, Emma takes her chance at the taking of Excalibur, while King Arthur's real identity is revealed.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Oct. 2015", 
+            "episodeName": "Dreamcatcher", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nEmma and Regina devise a plan to free Merlin, but they lack a pivotal ingredient. Meanwhile, Mary Margaret and David seek an important dagger; Henry asks Violet to go on a date; and Merida attempts to carry out a covert mission Emma has assigned her.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Nov. 2015", 
+            "episodeName": "The Bear and the Bow", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nGold and Merida are tested to their limits, can they be the heroes they need to be? King Arthur's help is needed to contact Merlin but can he be trusted    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Nov. 2015", 
+            "episodeName": "Nimue", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nEmma's darkness is tested while she has an encounter with the first \"dark one\". The history of Excalibur is revealed.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Nov. 2015", 
+            "episodeName": "Birth", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nHook risks everything to uncover the truth about what Emma did in Camelot.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Nov. 2015", 
+            "episodeName": "The Bear King", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nRed and Mulan return to help Merida uncover the truth about her father's death.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Nov. 2015", 
+            "episodeName": "Broken Heart", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nHook's centuries old lust for revenge against Rumpelstiltskin is reignited. Destiny collides as the forces of light and dark are on a charged confrontation.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Dec. 2015", 
+            "episodeName": "Swan Song", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe dark siege of Storybrooke is underway as all of the resurrected Dark Ones target a living soul for sacrifice so that they can return to the realm of the living.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Mar. 2016", 
+            "episodeName": "Souls of the Departed", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe mission to rescue Hook from the Underworld turns out to be more difficult than expected as the heroes encounter souls with unfinished business.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Mar. 2016", 
+            "episodeName": "Labor of Love", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe heroes join forces with an old friend of Snow's to defeat an obstacle standing in the way of finding Hook. Meanwhile, Hook encounters challenges of his own.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Mar. 2016", 
+            "episodeName": "Devil's Due", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nHook's captivity takes a dark turn when Hades threatens to condemn him to the River of Lost Souls after Hook refuses to choose which three of his friends will have to remain in the Underworld.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "27 Mar. 2016", 
+            "episodeName": "The Brothers Jones", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA surprise visit from hooks brother Liam May provide Hook and Emma with the tools they need to defeat Hades; and in flashbacks, the bond between the Jones Brothers is tested as their merchant ships head into a storm.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 Apr. 2016", 
+            "episodeName": "Our Decay", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nGold creates a Storybrooke portal; Zelena and Regina clash; Belle and Rumple are reunited; Snow and David try to send a message from the Underworld to their son, Neal.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Apr. 2016", 
+            "episodeName": "Her Handsome Hero", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nBelle turns to Rumplestiltskin with hope of finding a way to protect their child from Hades. However, they disagree over whether to use dark magic, as Belle forbids Rumplestiltskin from using his powers for evil.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 Apr. 2016", 
+            "episodeName": "Ruby Slippers", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nIn flashbacks, Ruby and Mulan find themselves in Oz, where they meet Dorothy. After the three witness Zelena's return to Oz, they look for a way to defeat her once and for all. However, Dorothy mysteriously disappears.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Apr. 2016", 
+            "episodeName": "Sisters", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nNow that Hades and Zelena have been reunited, Hades tells Zelena about his plan to leave the underworld forever and Cora reveals information from the past that will change the lives of Regina and Zelena forever.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 May 2016", 
+            "episodeName": "Firebird", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nHades turns to the heroes to ask for help with getting Zelena back from Rumplestiltskin and Peter Pan. In flashbacks, Emma searches for answers about her family and makes an unexpected friendship.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 May 2016", 
+            "episodeName": "Last Rites", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nEmma, David, Regina, Robin and Henry are finally back home in Storybrooke and reunited with Snow, but, unfortunately, they still have to contend with Hades, who continues to deceive Zelena as he lays out his plan to use the all-powerful Olympian Crystal to take over the town. The heroes desperately search for a way to defeat Hades while Hook does the same in the Underworld, looking for those missing storybook pages. Regina and Robin take a more direct approach, which culminates in an epic showdown that will leave our heroes forever changed.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 May 2016", 
+            "episodeName": "Only You", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nRegina grieves over Robin Hood's death and Henry sets out to destroy all magic    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 May 2016", 
+            "episodeName": "An Untold Story", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nRegina and Emma set out to find Henry before Gold does. Meanwhile Snow, David, Hook, and Zelena are imprisoned.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Sep. 2016", 
+            "episodeName": "Once Upon a Time: Evil Reigns Once More", 
+            "episodeNumber": 0, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "25 Sep. 2016", 
+            "episodeName": "The Savior", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nRegina and Zelena come to terms with their newfound sisterhood, while Emma sees a vision and Mr. Gold visits Belle in a dream.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 Oct. 2016", 
+            "episodeName": "A Bitter Draught", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhen a mysterious man from the Land of Untold Stories arrives in Storybrooke, David and Snow work together with Regina to neutralize the threat. Belle seeks Hook's help finding a safe place to hide away from her husband, Mr. Gold. Elsewhere, the Evil Queen continues to try to win Zelena over to her side, while Emma resumes her therapy sessions with Archie and shares her terrifying vision of the future.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Oct. 2016", 
+            "episodeName": "The Other Shoe", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAshley is intent on settling unfinished business with her step-family; Regina tries to bribe Mr. Hyde for information on how to beat the Evil Queen; David makes a deal with Gold for information about his father.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Oct. 2016", 
+            "episodeName": "Strange Case", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe Evil Queen seeks to get her hands on Dr. Jekyll's serum. Snow has her first day back as a school teacher. Hook tries to save Belle from Mr. Gold.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Oct. 2016", 
+            "episodeName": "Street Rats", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nIn a flashback, Aladdin helps Princess Jasmine recover a secret weapon that could release Jafar's hold on the Sultan and save the city; in Storybrooke, the evil queen tricks Hook and tries to divide the family.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "30 Oct. 2016", 
+            "episodeName": "Dark Waters", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nEmma tries to convince Aladdin to work with Jasmine to help Agrabah, while Regina teams up with Mary Margaret and David to free Archie from Zelena. The Evil Queen sows suspicion between Henry and Hook, even as Mr. Gold reminds her of his most important lesson. Meanwhile, in the past, Hook finds himself kidnapped by the mysterious Captain Nemo and held captive inside his legendary submarine, the Nautilus.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 Nov. 2016", 
+            "episodeName": "Heartless", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nSnow White and Charming need to give up their hearts if they want to save Storybrooke from the Evil Queen. A magical sapling is sought. Snow White tries to get away from the Woodcutter. David has plans to sell the family farm.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 Nov. 2016", 
+            "episodeName": "I'll Be Your Mirror", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nEmma and Regina work together and form a plan to trap the Evil Queen, while Snow White and David get used to life without each other. Henry anxiously prepares to take Violet to the school dance, but the Evil Queen has other plans. Meanwhile Zelena and Belle form an alliance and recruit Aladdin to steal a magical object from Mr. Gold that could protect Belle and her unborn child from him forever.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "27 Nov. 2016", 
+            "episodeName": "Changelings", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nIn the Enchanted Forest, Rumplestiltskin steals Jack and Jill's newborn child in order to contact a powerful fairy, while in Storybrooke he uses fast-aging magic to send a message to Belle regarding their son. Meanwhile, The Evil Queen attempts to kill Zelena to earn Gold's favor and Jasmine discovers a magical lamp.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "4 Dec. 2016", 
+            "episodeName": "Wish You Were Here", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe Evil Queen sends Emma back to the Enchanted Forest and Regina must remind her of who she is. Belle and Rumplestiltskin try to figure out where their son is and David makes a wish that comes with a price.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "5 Mar. 2017", 
+            "episodeName": "Tougher Than the Rest", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nEmma and Regina try to figure out a way to get out of the Enchanted Forest. Hook and David try to find Gideon.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Mar. 2017", 
+            "episodeName": "Murder Most Foul", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nHook agrees to help David uncover the truth about his father, hoping to gain his respect; Regina discovers Robin has a dark side that may complicate his acclimation to life in Storybrooke.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Mar. 2017", 
+            "episodeName": "Ill-Boding Patterns", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nMr. Gold attempts to help Gideon avoid the taint of dark magic, Emma learns that Hook is keeping a secret from her, and Zelena and Robin make a dangerous duo.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 Mar. 2017", 
+            "episodeName": "Page 23", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe Evil Queen uses Robin as bait in order to trap Regina into battle; Hook goes to Captain Nemo for advice so he can make things work with Emma; Enchanted Forest flashbacks include the Evil Queen's father trying to give her advice on how to be a better queen for the people while she's chasing Snow White.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 Apr. 2017", 
+            "episodeName": "A Wondrous Place", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nHook finds himself trapped in another realm and races to get back to Emma; Regina and Snow try to take Emma's mind off from Hook's disappearance; Jasmine befriends Ariel.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Apr. 2017", 
+            "episodeName": "Mother's Little Helper", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nRegina, Snow and Emma set on to defeat Black Fairy once and for all.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Apr. 2017", 
+            "episodeName": "Awake", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nHook finds an unexpected ally in Neverland, who may be able to return him to Storybrooke.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Apr. 2017", 
+            "episodeName": "Where Bluebirds Fly", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWith the Final Battle approaching, the Black Fairy confronts Zelena and threatens her child. But Zelena will protect her child at all costs.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "30 Apr. 2017", 
+            "episodeName": "The Black Fairy", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nThe Black Fairys past is revealed as we discover the true reason she gave Rumple up. Emma helps Gold as he searches for answers, will he get what he is looking for.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "7 May 2017", 
+            "episodeName": "The Song in Your Heart", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThis is the special Musical Episode of Once Upon A Time. Its's Emma and Hook's big day but what happens when Emma starts too get worried about being a good wife, so will she try to pull out of the wedding last minute?    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 May 2017", 
+            "episodeName": "The Final Battle: Part 1", 
+            "episodeNumber": 21, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 May 2017", 
+            "episodeName": "The Final Battle: Part 2", 
+            "episodeNumber": 22, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }
+    ], 
+    "name": "Once Upon a Time", 
+    "plot": "A young woman with a troubled past is drawn to a small town in Maine where fairy tales are to be believed.", 
+    "rating": 7.9, 
+    "releaseDate": "23 October 2011", 
+    "type": "tvserie"
+}

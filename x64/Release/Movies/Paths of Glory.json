@@ -1,0 +1,43 @@
+{
+    "actorList": [
+        "Kirk Douglas", 
+        "Ralph Meeker", 
+        "Adolphe Menjou", 
+        "George Macready", 
+        "Wayne Morris", 
+        "Richard Anderson", 
+        "Joe Turkel", 
+        "Christiane Kubrick", 
+        "Jerry Hausner", 
+        "Peter Capell", 
+        "Emile Meyer", 
+        "Bert Freed", 
+        "Kem Dibbs", 
+        "Timothy Carey", 
+        "Fred Bell", 
+        "John Stein", 
+        "Harold Benedict", 
+        "Leon Briggs", 
+        "Paul B\u00f6s", 
+        "Herbert Ellis", 
+        "Wally Friedrichs", 
+        "Halder Hanson", 
+        "James B. Harris", 
+        "Rolf Kralovitz", 
+        "Ira Moore", 
+        "Marshall Rainer", 
+        "Roger Vagnoid"
+    ], 
+    "director": [
+        "Stanley Kubrick"
+    ], 
+    "genres": [
+        "Drama", 
+        "War"
+    ], 
+    "name": "Paths of Glory", 
+    "plot": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.", 
+    "rating": 8.5, 
+    "releaseDate": "November 1957", 
+    "type": "movie"
+}

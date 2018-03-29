@@ -1,0 +1,43 @@
+{
+    "actorList": [
+        "Albert Brooks", 
+        "Ellen DeGeneres", 
+        "Alexander Gould", 
+        "Willem Dafoe", 
+        "Brad Garrett", 
+        "Allison Janney", 
+        "Austin Pendleton", 
+        "Stephen Root", 
+        "Vicki Lewis", 
+        "Joe Ranft", 
+        "Geoffrey Rush", 
+        "Andrew Stanton", 
+        "Elizabeth Perkins", 
+        "Nicholas Bird", 
+        "Bob Peterson", 
+        "Barry Humphries", 
+        "Eric Bana", 
+        "Bruce Spence", 
+        "Bill Hunter", 
+        "LuLu Ebeling", 
+        "Jordan Ranft", 
+        "Erica Beck", 
+        "Erik Per Sullivan", 
+        "John Ratzenberger"
+    ], 
+    "director": [
+        "Andrew Stanton", 
+        "Lee Unkrich"
+    ], 
+    "genres": [
+        "Animation", 
+        "Adventure", 
+        "Comedy", 
+        "Family"
+    ], 
+    "name": "Finding Nemo", 
+    "plot": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.", 
+    "rating": 8.1, 
+    "releaseDate": "30 May 2003", 
+    "type": "movie"
+}

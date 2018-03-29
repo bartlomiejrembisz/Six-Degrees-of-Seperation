@@ -1,0 +1,2125 @@
+{
+    "actorList": [
+        "Ellen Pompeo", 
+        "Justin Chambers", 
+        "Chandra Wilson", 
+        "James Pickens Jr.", 
+        "Patrick Dempsey", 
+        "Sara Ramirez", 
+        "Sandra Oh", 
+        "Kevin McKidd", 
+        "Jessica Capshaw", 
+        "Jesse Williams", 
+        "Sarah Drew", 
+        "Eric Dane", 
+        "Katherine Heigl"
+    ], 
+    "director": [
+        "Rob Corn", 
+        "Chandra Wilson", 
+        "Kevin McKidd", 
+        "Debbie Allen", 
+        "Jeannot Szwarc", 
+        "Tony Phelan", 
+        "Tom Verica", 
+        "Mark Jackson", 
+        "Peter Horton", 
+        "Nicole Rubio", 
+        "Jeff Melman", 
+        "Jessica Yu", 
+        "Edward Ornelas", 
+        "Stephen Cragg", 
+        "Daniel Minahan", 
+        "Julie Anne Robinson", 
+        "James Frawley", 
+        "Bill D'Elia", 
+        "Allison Liddi-Brown", 
+        "Ron Underwood", 
+        "Adam Davidson", 
+        "Wendey Stanzler", 
+        "Randy Zisk", 
+        "Michael Grossman", 
+        "Steve Robin", 
+        "Mark Tinker", 
+        "Michael Pressman", 
+        "Susan Vaill", 
+        "David Greenspan", 
+        "Rob J. Greenlea", 
+        "Bobby Roth", 
+        "Chris Hayden", 
+        "Tony Goldwyn", 
+        "Adam Arkin", 
+        "Seith Mann", 
+        "Christopher Misiano", 
+        "Greg Yaitanes", 
+        "Eric Stoltz", 
+        "Rob Hardy", 
+        "Cherie Nowlan", 
+        "Geary McLeod", 
+        "Zetna Fuentes", 
+        "Eric Laneuville", 
+        "Kevin Rodney Sullivan"
+    ], 
+    "genres": [
+        "Drama", 
+        "Romance"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "27 Mar. 2005", 
+            "episodeName": "A Hard Day's Night", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe first shift for new surgical interns Meredith, Cristina, Izzie, George and Alex proves eventful and backbreaking.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Apr. 2005", 
+            "episodeName": "The First Cut Is the Deepest", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA rape victim is admitted, who managed to hold onto part of her attacker; Izzie has difficulty with a patient who cannot speak English; Meredith becomes concerned about a sick baby.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2005", 
+            "episodeName": "Winning a Battle, Losing the War", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nIzzie and Cristina are assigned a close-to-brain-dead John Doe who may be a viable candidate for organ donation, and helpful to George's patient, who needs a new liver. Meanwhile, Meredith and Alex butt heads over a patient of their own.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Apr. 2005", 
+            "episodeName": "No Man's Land", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAlex uses Izzie's modeling against her, and her last ad causes a patient to reject her care. Meredith finds parallels between a patient and her mother, and Christina must deal with a hospital-savvy patient.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Apr. 2005", 
+            "episodeName": "Shake Your Groove Thing", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMeredith worries she did something wrong during a heart bypass, an error in a past procedure is discovered, putting a staff member's conduct under scrutiny, while a party thrown by Izzie to introduce her boyfriend becomes a fiasco.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 May 2005", 
+            "episodeName": "If Tomorrow Never Comes", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA woman with a massive tumor is admitted, with all the surgeons required to scrub in. In their absence, Meredith is assigned a patient with Parkinson's and, because Alex's pager is not working, Izzie is left in charge of the floor herself.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 May 2005", 
+            "episodeName": "The Self-Destruct Button", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nIzzie and George find out about Meredith and Derek, while Cristina makes a discovery of her own. George thinks an anesthesiologist is drinking on the job, and Meredith deals with a young girl who has had illegal surgery.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 May 2005", 
+            "episodeName": "Save Me", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nMeredith wants to learn more about Derek, but he remains cagey. Meanwhile, a supposedly psychic patient proves bothersome, Alex must convince a young girl to agree to a life saving operation, and Cristina is conflicted about her pregnancy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 May 2005", 
+            "episodeName": "Who's Zoomin' Who?", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nGeorge discovers he has syphilis, and it soon emerges that the disease is rampant among the hospital staff. Suspicious about a patient's death, Izzie and Cristina perform an unauthorized autopsy, and Richard requires an emergency operation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Sep. 2005", 
+            "episodeName": "Raindrops Keep Falling on My Head", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMeredith, shattered by revelations, is forced to work with Addison, Joe collapses at the bar, Cristina has some pretty shattering news of her own, and Alex starts working on Izzie.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Oct. 2005", 
+            "episodeName": "Enough Is Enough", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA family is admitted after being involved in a car crash, but there is more to them than meets the eye. Meanwhile, Bailey and her team deal with a strange case, and relationship woes plague Meredith, Cristina and George.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Oct. 2005", 
+            "episodeName": "Make Me Lose Control", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMeredith is horrified when her mother is admitted, and everyone is concerned when Cristina collapses in the operating room. Meanwhile, Addison is determined to save a very sick baby.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Oct. 2005", 
+            "episodeName": "Deny, Deny, Deny", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nCristina is determined to get back to work, and despite not being fully recovered, she manages to crack an odd case. Meanwhile, Addison offers to help Bailey with a complicated surgery, and Alex receives important news.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Oct. 2005", 
+            "episodeName": "Bring the Pain", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA storm rages, causing power outages and jamming the elevator, trapping George and Alex inside with a vulnerable patient. Meanwhile, Meredith and Derek arrange a religious ritual for a young woman, and Cristina deals with an unusual case.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Oct. 2005", 
+            "episodeName": "Into You Like a Train", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA train wreck brings in multiple casualties, leaving Meredith hanging for her answer. Meanwhile, Alex finds working without his mojo a disheartening experience, and Cristina searches high and low for a missing appendage.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Nov. 2005", 
+            "episodeName": "Something to Talk About", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDerek reluctantly attends marriage counseling with Addison, while Meredith, Izzie and Cristina steal a patient with an unusual problem. Alex helps a young patient gain her independence, and Cristina thinks Bailey knows about her and Burke.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Nov. 2005", 
+            "episodeName": "Let It Be", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nFriends of Derek and Addison come from New York for a preventative surgery that causes discord among both couples. Meanwhile, George helps a man who has fallen from a roof, and Bailey delivers news to the Chief.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Nov. 2005", 
+            "episodeName": "Thanks for the Memories", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThanksgiving sends the occupants of Meredith's house in different directions: Meredith escapes to the hospital, George goes hunting with his family, and Izzie throws a dinner to which it appears no one is coming.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Nov. 2005", 
+            "episodeName": "Much Too Much", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMeredith's one night stand causes complications when he shows up at the hospital with an embarrassing problem. Meanwhile, Burke tries to push Cristina toward the next step, and Alex's problems affect his performance.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Dec. 2005", 
+            "episodeName": "Owner of a Lonely Heart", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe mother of the quints blames herself. Meanwhile, Izzy becomes attached to her patient, Karev must face the consequences of his actions, and Cristina takes care of an inmate desperate to stay at the hospital.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Dec. 2005", 
+            "episodeName": "Grandma Got Run Over by a Reindeer", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nChristmas hits Seattle, with Izzie caring for a man who fell from his roof while hanging decorations. Meanwhile, Cristina helps perform a heart transplant on a depressed boy, and George has to contend with the family from Hell.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Jan. 2006", 
+            "episodeName": "Begin the Begin", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nIzzie becomes attracted to a male patient with a heart condition, and George treats Bex, an intersex patient. Meanwhile, Meredith's mother receives a visitor, and Derek and Addison's relationship is still rocky.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Jan. 2006", 
+            "episodeName": "Tell Me Sweet Little Lies", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nMeredith must choose between her dog and her roommates. Meanwhile, George deals with an elderly patient who has outstayed her welcome, Bailey's pregnancy has complications, Alex gets his exam results, and Richard has a strike on his hands.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Jan. 2006", 
+            "episodeName": "Break on Through", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe nurses are striking, and George refuses to cross the picket line. The interns are surprised by Bailey's seemingly immature replacement, Izzie connects with a pregnant girl, and an elderly woman's plight pushes Meredith to the limit.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Feb. 2006", 
+            "episodeName": "It's the End of the World", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe lives of everyone in the OR are threatened when a patient enters with a bomb inside him, and a young paramedic with her arm inside the cavity is the only thing keeping it from going off.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Feb. 2006", 
+            "episodeName": "As We Know It", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhile the man with the bomb lodged in his chest remains in Burke's OR with Meredith's hand in the cavity, Bailey's injured husband remains in Derek's. Meanwhile, Bailey's distress puts her unborn baby at risk.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Feb. 2006", 
+            "episodeName": "Yesterday", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nDerek and Addison are shaken by the arrival of a figure from their past. Meanwhile, Burke learns Cristina's secret, Izzie deals with a very unusual case, Meredith delves into her family's dirty laundry, and George pours his heart out.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Feb. 2006", 
+            "episodeName": "What Have I Done to Deserve This?", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nMeredith and George face the consequences of their actions, Izzie gets closer to Denny, who has been readmitted, and Addison asks for Bailey's help with an embarrassing ailment.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Mar. 2006", 
+            "episodeName": "Band-Aid Covers the Bullet Hole", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nCristina babysits for Bailey and does not take to it well at all. Meanwhile, Addison and Derek come to terms with their relationship, George connects with Callie, and Denny continues to come between Alex and Izzie.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Mar. 2006", 
+            "episodeName": "Superstition", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nSuperstition strikes, with the interns convinced a series of deaths will occur. A complication from the LVAD surgery puts Denny in the OR, Cristina plans to make George move out, and Richard's old AA sponsor is admitted for treatment.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Apr. 2006", 
+            "episodeName": "The Name of the Game", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nCristina is desperate for George to move out of the apartment, while Izzie is jealous of Callie's relationship with him. Meanwhile, Cristina and Richard are rivals in a surgery seminar, and Meredith discovers a secret about her father.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Apr. 2006", 
+            "episodeName": "Blues for Sister Someone", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nMeredith considers going on a date with Finn, and Izzie tries to find out more about George and Callie. Meanwhile, Alex clashes with Addison over a sensitive case, and Burke is nervous about operating on a patient who is one of his heroes.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 May 2006", 
+            "episodeName": "Damage Case", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nThe victims of a serious car accident are admitted, with every surgeon required to help. Meanwhile, Callie's forwardness grates on Izzie, Addison makes Alex suffer, and Derek takes his frustration out on Meredith.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 May 2006", 
+            "episodeName": "17 Seconds", 
+            "episodeNumber": 25, 
+            "episodePlot": "\nThe victims of a workplace shooting are admitted. Izzie puts her job on the line to ensure Denny gets a new heart, Callie makes an effort with Meredith, and Addison is suspicious of Derek.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 May 2006", 
+            "episodeName": "Deterioration of the Fight or Flight Response", 
+            "episodeNumber": 26, 
+            "episodePlot": "\nBurke is admitted as a patient, along with Richard's niece. Izzie and the others fight to keep Denny alive, while Alex tries to secure the donor heart for him.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 May 2006", 
+            "episodeName": "Losing My Religion", 
+            "episodeNumber": 27, 
+            "episodePlot": "\nRichard is determined to discover the guilty party, and punishes the interns by making them arrange a prom for his niece. Meanwhile, Callie presses George about his feelings, and Derek and Meredith have to make a decision about Doc.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Sep. 2006", 
+            "episodeName": "Time Has Come Today", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nEveryone reminisces about the past. Meanwhile, Izzie is emotionally devastated, with the others trying to help her, Adele gives Richard an ultimatum, and George and Derek are put in quarantine when an outbreak of the plague is suspected.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Sep. 2006", 
+            "episodeName": "I Am a Tree", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nIzzie copes with her grief by baking furiously, and George has to deal with an obstinate patient. Meanwhile, Meredith must choose between Derek and Finn, Addison drowns her sorrows in alcohol, and Cristina meets Burke's difficult mother.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Oct. 2006", 
+            "episodeName": "Sometimes a Fantasy", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nIzzie returns to the hospital, but finds it difficult to go inside, and George is tired of Callie's presence at home. Meanwhile, Addison cannot seem to get rid of Mark, and Cristina tries to cope with caring for Burke.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Oct. 2006", 
+            "episodeName": "What I Am", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMeredith becomes a patient, and Derek and Addison are equally angry at Richard for allowing Mark to join the staff. Meanwhile, Izzie receives a visit from Denny's father, and Burke is plagued by doubt over his ability to return to surgery.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Oct. 2006", 
+            "episodeName": "Oh, the Guilt", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nGuilt causes different actions in everyone, the interns are allowed to attend an M&M meeting, and Derek and Addison finalize things.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 Nov. 2006", 
+            "episodeName": "Let the Angels Commit", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nIzzie returns to the hospital under probation, and George tries to make amends with Callie. Meanwhile, Cristina's deletion of Bailey's name on Burke's OR board makes her assume he is against her, and Derek's irritating sister Nancy visits.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 Nov. 2006", 
+            "episodeName": "Where the Boys Are", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDerek, George, Alex, Burke, Richard, Joe and Walter go on a camping trip. Meanwhile, Meredith assists Mark with gender reassignment surgery, Izzie avoids discussing her grief, Addison works with Callie, and Cristina feels Bailey's wrath.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Nov. 2006", 
+            "episodeName": "Staring at the Sun", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nGeorge must deal with his family's presence when his father is admitted. Meanwhile, Burke's secret is almost out, Alex tries to get close to Izzie again, and Richard comes to a decision about his marriage.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Nov. 2006", 
+            "episodeName": "From a Whisper to a Scream", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA traumatic car accident fills the ER. Cristina has a crisis of conscience about her deceptive teamwork with Burke, Izzie pushes the boundaries of her probation, and Callie tries to explain herself to George.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "30 Nov. 2006", 
+            "episodeName": "Don't Stand So Close to Me", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBailey is adamant that Burke and Cristina should be punished, Derek doubts his abilities, Izzie tries to take a stand against Mark's patronizing behavior, and Meredith deals with family in two very different ways.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jan. 2007", 
+            "episodeName": "Six Days: Part 1", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAs George's father's surgery approaches, he begins to realize how serious his condition is. Meanwhile, Izzie has to prove to Bailey that she is ready to scrub in on a surgery, and Meredith keeps running into her father.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Jan. 2007", 
+            "episodeName": "Six Days: Part 2", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nGeorge's father's surgery has left him very weak, Izzie's act of generosity backfires on her, Cristina and Burke continue their war of silence, and Meredith reaches out to her father.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Jan. 2007", 
+            "episodeName": "Great Expectations", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nGeorge deals with his grief, Cristina and Burke continue to ignore each other, Addison avoids Alex, and Izzie decides to help Bailey with a project. Meanwhile, Richard makes a decision which sends all the attendings scrambling.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Feb. 2007", 
+            "episodeName": "Wishin' and Hopin'", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nA toxic patient wreaks havoc. Meanwhile, Bailey opens the free clinic, but the lack of patients makes Izzie question her investment. Meredith's mother is admitted again, and Cristina makes Burke wait for an answer.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Feb. 2007", 
+            "episodeName": "Walk on Water", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe interns each react differently to a mass-casualty incident. Meanwhile, George crosses the professional line with Callie, Cristina asks Burke to keep quiet about their engagement, and Richard dons a new hairstyle.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Feb. 2007", 
+            "episodeName": "Drowning on Dry Land", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nIzzie fights to save her patient's life, George searches for the son of his patient, and Alex has to contend with the relatives of victims. Meanwhile, Meredith is unconscious underwater, with Derek her only hope.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Feb. 2007", 
+            "episodeName": "Some Kind of Miracle", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nAn unconscious Meredith interacts with some ghosts from her past while Richard, Burke and Bailey devise an unusual method of reviving her. A despondent Cristina leaves during her shift, and Derek speaks his mind to Meredith's mother.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Mar. 2007", 
+            "episodeName": "Scars and Souvenirs", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nA Korean war veteran with a bullet lodged in his shoulder is admitted. Meanwhile, tensions escalate between Izzie and George, Callie reveals a big secret, Cristina contends with an old flame, and Alex continues to work with the Jane Doe.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Mar. 2007", 
+            "episodeName": "My Favorite Mistake", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nThe attendings face their board interviews. Meanwhile, Izzie seems to be the only one who remembers the night before, Derek is overly protective of Meredith when Mark offers her a surgery, and Callie's father pays a visit.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Apr. 2007", 
+            "episodeName": "Time After Time", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nMeredith deals with her over protective stepmother, Cristina is caught between Burke and Marlow, and Derek fights to become Chief. Meanwhile, Alex continues the search for Jane Doe's identity, and Izzie's past comes back to haunt her.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Apr. 2007", 
+            "episodeName": "Desire", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe Chairman of Seattle Grace's board of directors is admitted, and the attendings vie for his favor, while the interns study for exams. Izzy and George are reminded of their infidelity, and Burke presses Cristina about wedding plans.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 May 2007", 
+            "episodeName": "The Other Side of This Life: Part 1", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAddison heads for warmer climes to figure things out, Meredith's stepmother visits the clinic, Cristina's perfect wedding is challenged when she and Burke's mothers visit, and Izzie tries to talk to George.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 May 2007", 
+            "episodeName": "The Other Side of This Life: Part 2", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nAddison is pulled into the case of a high-risk surrogate mother, Meredith's stepmother develops a complication, Izzie struggles with George's decision, and Ava has surgery which may restore her memory.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 May 2007", 
+            "episodeName": "Testing 1-2-3", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nThe interns face their first year medical exams. With the interns busy, the attendings must do their own legwork, Burke appoints a new best man, Cristina writes her vows, and Callie grows suspicious of George and Izzie.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 May 2007", 
+            "episodeName": "Didn't We Almost Have It All?", 
+            "episodeNumber": 25, 
+            "episodePlot": "\nThe wedding day arrives. Richard chooses the new Chief and Chief Resident, the interns receive their exam results, Callie drops a bombshell on George while Izzie pours her heart out to him, and Burke makes an important decision.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Sep. 2007", 
+            "episodeName": "A Change Is Gonna Come", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe interns, now residents, deal with their own crops of interns. Callie struggles with her new position, and Burke makes a decision.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Oct. 2007", 
+            "episodeName": "Love/Addiction", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nLexie persists in trying to get to know Meredith, and Mama Burke descends once more.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Oct. 2007", 
+            "episodeName": "Let the Truth Sting", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nCallie hides in her office, frustrating Bailey who's itching to teach someone. Elsewhere, age becomes the theme as Izzie tries to convince 'Really Old Guy' he shouldn't die, Webber and Sloan set out to prove they're not too old to learn a new technique, and Karev is saddled with an intern who's past his prime.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Oct. 2007", 
+            "episodeName": "The Heart of the Matter", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMeredith and her intern lose a patient after they give her the wrong diagnosis, Callie confronts Izzie, and McDreamy bonds with the other Grey.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Oct. 2007", 
+            "episodeName": "Haunt You Every Day", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMeredith feels she's being haunted by her Mother's ashes, and Cristina is denied a surgery for a surprising reason.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Nov. 2007", 
+            "episodeName": "Kung Fu Fighting", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA man survives a parachute accident without serious injury, two women refuse treatment because of a wedding contest, and Cristina and Izzie jockey for inclusion in Hahn's surgeries.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Nov. 2007", 
+            "episodeName": "Physical Attraction... Chemical Reaction", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nHahn bans Cristina from her service, Bailey covers more and more of Torres' duties, and Izzie and George go to extreme lengths to recapture the magic of their first encounter.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Nov. 2007", 
+            "episodeName": "Forever Young", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nBailey crosses the line when the guy she had a crush on in high school shows up in the ER during an onslaught of high school students involved in a bus crash. The Grey sisters run and hide when their father shows up drunk, while Derek tries to get back into the dating scene with another doctor and Cristina tries her best to get back into Hahn's good graces.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Nov. 2007", 
+            "episodeName": "Crash Into Me: Part 1", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAn accident in the ER bay leaves two paramedics fighting for their lives, and a third who refuses Bailey's care. Meanwhile, Alex juggles two women, and Lexie begins to bond with a patient.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Dec. 2007", 
+            "episodeName": "Crash Into Me: Part 2", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nTragedy abounds for everyone at Seattle Grace as they all continue in efforts to get the paramedic out of the overturned ambulance, stop the bleeding of a man who won't quit, and a bigot with a Nazi tattoo on his stomach. On the personal side, Rebecca returns to spend time with Alex, Miranda's husband finds it harder to wait for her while she's in surgery, and Cristina still tries to get on Hahn's good side, even though Bailey has put her elsewhere.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Jan. 2008", 
+            "episodeName": "Lay Your Hands on Me", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nBailey's son comes to the ER, Derek takes a housing step that puts pressure on Meredith, Izzie has a crisis of faith, and Cristina's choice may change her course with Hahn.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Apr. 2008", 
+            "episodeName": "Where the Wild Things Are", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe judgment of the residents is skewed by a competition, Meredith tries therapy and a bear attack may be more than it appears.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 May 2008", 
+            "episodeName": "Piece of My Heart", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAddison is not prepared for all the changes that greet her upon her return to Seattle Grace for a specialized surgery, Meredith and Derek begin their clinical trial, Izzie feels left out, and Karev is confronted with an unexpected announcement.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 May 2008", 
+            "episodeName": "The Becoming", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe new clinical trial patient has a secret, Yang is dealt a blow from a distance by Burke, the nurses refuse to work with Sloan, and Meredith's therapist tells her some home truths.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 May 2008", 
+            "episodeName": "Losing My Mind", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nCristina is still in her slump and turning mean, Izzie finally confronts Ava/Rebecca, and Meredith's anger with her therapist is challenged by a patient with a Cinderella story.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 May 2008", 
+            "episodeName": "Freedom: Part 1", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA surgical team battles the clock as they try to save a boy encased in cement, Karev's situation with an ever-disintegrating Ava brings back painful memories that interfere with his judgment, Derek and Meredith have one last chance at their clinical trial.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 May 2008", 
+            "episodeName": "Freedom: Part 2", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMeredith and Derek are at odds over whether or not to continue with their 13th clinical trial patient and the doctors lift the final critical pieces of cement from the young boy's body. Meanwhile, Alex rushes Ava into the hospital and is forced to confront the reality of her condition.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Sep. 2008", 
+            "episodeName": "Dream a Little Dream of Me: Part 1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMeredith and Derek find that \"happily ever after\" isn't as easy as they hoped, Cristina finds interest in a military doctor, and the Chief is surprised to hear that Seattle Grace is no longer ranked as a top-tier teaching hospital.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Sep. 2008", 
+            "episodeName": "Dream a Little Dream of Me: Part 2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAs a group of best friends deal with the aftermath of their car crash, Dr. Torres takes the lead on a groundbreaking course of treatment for one of the patients. Meanwhile, Major Hunt starts to irritate other attendings with his presence in the hospital.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Oct. 2008", 
+            "episodeName": "Here Comes the Flood", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDetermined to reverse Seattle Grace's slide into mediocrity, the chief lays down some new rules for interns and residents with which no one's happy. Derek asks Meredith for further changes in her living arrangements. Lexie challenges Cristina's diagnosis for a patient with a persistent headache, and the chief's preoccupation with reputation blinds him to problems with the physical plant.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "16 Oct. 2008", 
+            "episodeName": "Brave New World", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nCalllie worries over her first real date with Erica. Cristina stumbles upon a neglected area of the hospital.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "23 Oct. 2008", 
+            "episodeName": "There's No 'I' in Team", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nBailey's dream of a domino surgery is scuppered when one of the donors learns of her husband's affair, and Meredith is insulted when she gets no credit for the procedure she and Derek worked on together.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 Oct. 2008", 
+            "episodeName": "Life During Wartime", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe new trauma surgeon shocks everyone with his methods, Bailey is asked to save a girl with an inoperable tumor, and Callie's not sure what she wants.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Nov. 2008", 
+            "episodeName": "Rise Up", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe residents and interns squabbling over procedures upsets Dr. Hunt, Erica discovers what happened to the heart she lost, and Derek asks Sloan to break out the McSteamy to distract Yang.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Nov. 2008", 
+            "episodeName": "These Ties That Bind", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nIzzie wrestles with her ghost, Torres uses a ground-breaking procedure to get her mind off of Hahn, and the interns continue teaching themselves spurred on by a new cohort.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Nov. 2008", 
+            "episodeName": "In the Midnight Hour", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSadie manipulates the interns into performing a procedure that goes horribly wrong, Izzie's ghost refuses to leave, and Mark bonds with a girl who's taken responsibility for her sleep-walking father.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "4 Dec. 2008", 
+            "episodeName": "All by Myself", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe residents make their cases for the solo surgery, Sadie chafes at her restrictions, and Sloan battles his desires.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Jan. 2009", 
+            "episodeName": "Wish You Were Here", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nDerek has trouble with objectivity concerning his death row patient, Cristina and Meredith continue their feud, Izzie confides her problem to Alex, and the Chief faces what's become of his life's work.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Jan. 2009", 
+            "episodeName": "Sympathy for the Devil", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDerek's mother visits, the death row patient starts angling for death in the hospital, Izzie craves more in her relationships, and Jackson's need for organs becomes critical.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Jan. 2009", 
+            "episodeName": "Stairway to Heaven", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nMeredith and Miranda each cross a line, William Dunn regrets his decision and Izzie finally confronts what Denny's appearance means.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "5 Feb. 2009", 
+            "episodeName": "Beat Your Heart Out", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nCristina carries on an intense flirtation with Owen, Derek gets advice from everyone on how to propose, Izzie gets some tests done, and Bailey's promotion may stand in the way of a new career possibility.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Feb. 2009", 
+            "episodeName": "Before and After", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nOwen runs into someone very special from his past. Izzie employs her fellow doctors in a medical game made to help teach the interns. Naomi, Sam and Addison rush Archer to Seattle Grace and meet with Derek and Mark to save his life.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "19 Feb. 2009", 
+            "episodeName": "An Honest Mistake", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAddison and Derek differ on the treatment plan for their patient, Cristina discovers malpractice in high places, Izzie gets bad news, and Mark spectacularly mistimes his confession.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Mar. 2009", 
+            "episodeName": "I Will Follow You Into the Dark", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nDerek's malpractice deposition reveals an unhappy statistic, the interns finally diagnose 'Patient X', Karev stands up to two attendings to save a band geek, and when Webber shuts Miranda out completely she makes a call.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "19 Mar. 2009", 
+            "episodeName": "Stand by Me", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nSloane's facial transplant fades to the background as the interns begin squabbling, Bailey's attempts to reach Derek unexpectedly clear surgeons from the hospital, and Cristina juggles her first solo surgery with treating a resistant Izzie.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "26 Mar. 2009", 
+            "episodeName": "Elevator Love Letter", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nOwen's PTSD endangers Cristina, Izzie's illness leaves the residents dealing with guilt and anger - at her expense, and Derek's fear causes him to persevere for Meredith's answer.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "23 Apr. 2009", 
+            "episodeName": "Sweet Surrender", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nIzzie bites off more than she can chew on her first day of chemotherapy, Mark and Derek are forced to work on the same patient, Meredith's plans for a simple wedding take a turn, and Karev finds himself split between worry over Izzie and excelling as a resident.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 Apr. 2009", 
+            "episodeName": "No Good at Saying Sorry (One More Chance)", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nIzzie's mother comes to town, a little girl shoots her father triggering a conflict between Meredith and the chief, Thatcher reappears, and Callie gets her first taste of life without her trust fund.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "7 May 2009", 
+            "episodeName": "What a Difference a Day Makes", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nA car crash involving students going to their college graduation takes its toll on the residents in the ER, Derek's wedding gift is uniquely suited for Meredith - even if the oversight is not. Meanwhile, Denny's return has Derek and Bailey searching for the cause, and the results will change the outcome of the day.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "14 May 2009", 
+            "episodeName": "Here's to Future Days", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nIzzie is torn over whether to have Derek's proposed brain surgery. A soldier on medical leave asks for a radical operation so he can return to active duty. The Chief tries to lure Bailey back to general surgery with a new toy, and Mark shifts into high gear with major life changes.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "14 May 2009", 
+            "episodeName": "Now or Never", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nIzzie's memory problems panic Alex, the team takes care of a John Doe who was hit by a bus, Bailey rethinks her pediatrics fellowship, and the hospital endures losses.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Sep. 2009", 
+            "episodeName": "Good Mourning", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCovering days one through 13, everyone at Seattle Grace fights to save Izzie and George's lives and then deals with the aftermath. Elsewhere, Hunt treats a double amputation, and Arizona has a teen with painful growth spurts.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "24 Sep. 2009", 
+            "episodeName": "Goodbye", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nDuring days 20 through 40 the staff continues toward acceptance. Meanwhile, Arizona takes a manipulative step to diagnose her pain patient and Hunt's amputee patient sinks into a deep depression.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "1 Oct. 2009", 
+            "episodeName": "I Always Feel Like Somebody's Watchin' Me", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAs hospital personnel jockey for notice to keep from being fired, Izzie returns to surgery early and Bailey's triple aneurysm patient refuses her procedure because of her schizophrenic son.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "8 Oct. 2009", 
+            "episodeName": "Tainted Obligation", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThatcher is hospitalized with liver failure, and Meredith fights anger and guilt while deciding her responsibility. Sloan treats an octogenarian who wants an implant. Izzie's interference in Hunt's cancer case may have deadly consequences.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "15 Oct. 2009", 
+            "episodeName": "Invasion", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAs Mercy West merges with Seattle Grace, battle lines are drawn between the two hospital's residents over the patients.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 Oct. 2009", 
+            "episodeName": "I Saw What I Saw", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAfter a burn victim unexpectedly dies in the midst of a chaotic ER, the Chief and board member Jennings interrogate the residents to find the culprit, as all the Mercy West and Seattle Grace residents defend their actions in an effort to save their jobs.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "29 Oct. 2009", 
+            "episodeName": "Give Peace a Chance", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen Isaac, the hospital lab tech, has an inoperable tumor wrapped around his spine, he turns to Dr. Derek Shepherd to do the impossible, and Derek tests the Chief's authority when Richard objects to moving forward with the risky surgery.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "5 Nov. 2009", 
+            "episodeName": "Invest in Love", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA generous donation is offered to Seattle Grace by the parents of Arizona's 10-year-old patient. When his condition worsens, however, she finds herself with a conflict of interest. Meanwhile, Cristina tests her boundaries with Owen at the hospital and, adding insult to injury, Alex is left with all of Izzie's hospital bills to contend with.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Nov. 2009", 
+            "episodeName": "New History", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhen Owen recruits his fellow Iraqi War vet, Dr. Teddy Altman, as the new cardiothoracic surgeon, Cristina questions Teddy's abilities in the OR and the nature of their past relationship. Meanwhile Izzie returns to Seattle Grace with her high school mentor seeking treatment for his dementia, and the stress of Richard's responsibilities, post-merger, are taking their toll.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Nov. 2009", 
+            "episodeName": "Holidaze", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs Thanksgiving, Christmas and New Year's pass, Miranda is visited by her father, William, who disapproves of her choices in life; meanwhile, Mark and Lexie must cope with the shocking arrival of a woman from his past, and Thatcher Grey questions the Chief's recent behavior as Meredith comes to his defense.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 Jan. 2010", 
+            "episodeName": "Blink", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nMark flies Addison to Seattle to help with a difficult procedure on his pregnant daughter, Sloan, Owen questions Teddy's motives when she assigns Cristina the lead on a complicated surgery, and Derek's suspicions are raised when the Chief recruits Meredith to assist with a high profile operation on.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "21 Jan. 2010", 
+            "episodeName": "I Like You So Much Better When You're Naked", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAfter learning of Richard's drinking problem, Derek confronts him for the sake of his friend and the hospital, Izzie returns, hoping to reconcile with Alex, and tensions run high between Teddy, Cristina and Owen in the aftermath of Cristina's startling confession.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "4 Feb. 2010", 
+            "episodeName": "State of Love and Trust", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAn intra-operative crisis casts a shadow over Derek's first day as interim chief, Owen's influence worries Cristina, Karev's first pediatric surgery case turns out to be more than babysitting and Webber resents the decision he must make.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "11 Feb. 2010", 
+            "episodeName": "Valentine's Day Massacre", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nIt's Valentine's Day and the doctors must treat dozens of injured people after the roof collapses at a popular romantic restaurant; Derek tries to manage his busy schedule as Chief of Surgery; Meredith wrestles with her new duties as the Chief's wife; and Mark and Callie team up to convince Sloane to do the right thing for her baby.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "18 Feb. 2010", 
+            "episodeName": "The Time Warp", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nIn his new role as Chief, Derek restores the hospital lecture series, and Richard, Bailey and Callie present to the group pivotal surgical cases from their pasts - Bailey reflects on her first days as a shy resident, Callie looks back on a polio case, and Richard recalls a case in which he and Ellis worked on a patient diagnosed with GRID, a virus later called HIV.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "4 Mar. 2010", 
+            "episodeName": "Perfect Little Accident", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen Avery's grandfather comes to the ER, Webber's wish for a stress-free first day back is lost after the surgeon requests an awake surgery. Elsewhere, Cristina and Teddy attempt a hand-me-down lung transplant for a cancer survivor.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "11 Mar. 2010", 
+            "episodeName": "Push", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nA patient who needs an extremely difficult surgery comes to Seattle Grace, and it's Richard and Owen who vie for the opportunity to tackle it. But the decision lies in the hands of Derek, who deems that Owen should take on the surgery, leaving Richard bitter. Meanwhile, Bailey deals with her own personal struggles when she nervously prepares for another date with Ben.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "25 Mar. 2010", 
+            "episodeName": "Suicide Is Painless", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhen Teddy's patient seeks to end treatment and her life, she turns to Hunt for help. The situation triggers Hunt's memories of his life at war and his past relationship with Teddy. Meanwhile, Callie and Arizona have a difference in opinion on what their future holds, and Richard tries to adjust to his role as a surgeon.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "1 Apr. 2010", 
+            "episodeName": "Sympathy for the Parents", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAlex' brother Aaron comes to Seattle to have an operation-probono. Having children are on everyone's minds and tensions are high.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "29 Apr. 2010", 
+            "episodeName": "Hook, Line and Sinner", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nSloan returns to Mark's apartment, just as she's going into labor, and Teddy, Mark and the still-fighting Callie and Arizona are there to help with the birth and to get Mark through his grandson's pending adoption. Meanwhile Teddy sees Derek's invitation to illustrious cardiothoracic surgeon Tom Evans' as a threat to her future employment at the hospital, and the team work on a crab boat captain who has been stabbed with a giant shark hook.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 May 2010", 
+            "episodeName": "How Insensitive", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nBailey preps the team with mandatory sensitivity training prior to admitting a 700-pound patient with compounded medical issues, and the case proves to be challenging. Meanwhile Derek has to come face to face with a former patient's husband in a wrongful death deposition, and spending time with a heart patient's daughter opens up some old wounds for Cristina.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 May 2010", 
+            "episodeName": "Shiny Happy People", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAn elderly patient admitted into the E.R. for a heart condition sees a familiar face, a long lost love who happens to be in the E.R. as well for a fractured arm, and the staff find themselves caught up in their love story. Meanwhile, Karev treats a troubled teenage patient whose parents brought her in for schizophrenia, and Meredith can't help but tell Cristina about her suspicions of Owen -- which inevitably messes with Cristina's head.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "20 May 2010", 
+            "episodeName": "Sanctuary", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nSeattle Grace Hospital is hit with a crisis like no other in its history.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "20 May 2010", 
+            "episodeName": "Death and All His Friends", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nCristina and Meredith's surgical skills are put to the ultimate test.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Sep. 2010", 
+            "episodeName": "With You I'm Born Again", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe staff tries to deal with physical and emotional trauma in the wake of the deadly rampage.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "30 Sep. 2010", 
+            "episodeName": "Shock to the System", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAfter weeks of concealing the fact she was pregnant and miscarried, Meredith at last tells Derek and is finally cleared to return to her surgical duties in the wake of the hospital shooting spree; Cristina experiences post-traumatic stress disorder in the midst of an operation; and Bailey refuses to let Alex operate until he agrees to have the bullet in his chest removed.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "7 Oct. 2010", 
+            "episodeName": "Superfreak", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen Derek receives an unexpected and unwelcome visit from his estranged sister, Amelia, issues between the siblings -- both past and present -- come to the surface; the Chief tries to help Alex when he notices that he's refusing to use the elevators after his near-fatal shooting; and Meredith and Derek continue their efforts to ease Cristina back into surgery after her post-traumatic stress.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "14 Oct. 2010", 
+            "episodeName": "Can't Fight Biology", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThings are hostile on all fronts when a visit to the obstetrician results in some disturbing news for Meredith and Derek and Lexie loses it when she notices Meredith and April getting closer. Meanwhile, a car crash brings in multiple traumas and Jackson tries using his physical attributes to get ahead in the operating room, while Cristina's self-doubt carries outside of the hospital and into her house-hunting with Owen.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "21 Oct. 2010", 
+            "episodeName": "Almost Grown", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAs part of their training, the Chief puts Seattle Grace's residents -- including Meredith, Cristina, April and Jackson -- in charge; meanwhile, Derek, Callie, Owen and the other attending surgeons compete for a million-dollar grant.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "28 Oct. 2010", 
+            "episodeName": "These Arms of Mine", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA documentary film crew visits the hospital six months after the shooting to document the road to recovery for doctors and patients. The camera lenses follow Derek, Owen, Mark & Callie as they ambitiously perform a rare arm transplant surgery, Meredith helps Cristina put on a brave face for the cameras, and Bailey's patient, Mary, returns for her surgery -- which marks the first time they've all seen of each other since that fateful day.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "4 Nov. 2010", 
+            "episodeName": "That's Me Trying", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe residents are pushed to their limits when Owen puts them through a rigorous trauma certification drill; meanwhile, Cristina is also tested when left alone to monitor a very ill lung transplant patient.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "11 Nov. 2010", 
+            "episodeName": "Something's Gotta Give", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nTop security measures go into place as a team of doctors, led by the Chief, try to save the life of a major political figure from the Middle East. Meanwhile Cristina decides to finally decorate her new place and throw a housewarming party, and Alex shows up late from a weekend getaway to his first day of rounds with the new Pediatrics Attending, Dr. Robert Stark.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "18 Nov. 2010", 
+            "episodeName": "Slow Night, So Long", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nDerek lands the grant he needs for his clinical trial and all the attendings take him out to Joe's Bar to celebrate, but they get a surprise when they see someone they know already at the bar. Meanwhile, Meredith and Alex have to fend for themselves during the night shift with a nine-year-old patient who's experiencing post-surgical complications and his very pushy mother.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 Dec. 2010", 
+            "episodeName": "Adrift and at Peace", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nDespite Meredith's objections to the idea, a concerned Derek takes Cristina on a fishing trip in order to get away from it all, while Teddy, feeling directionless without Cristina, directs all of her efforts and compassion towards a dying patient who lacks the proper insurance to seek medical treatment.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 Jan. 2011", 
+            "episodeName": "Disarm", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nNews of the incoming mass causalities after a gunman opens fire at a local college hits the staff hard when they must spring into action, even while their own wounds are still fresh; and Arizona does not receive a warm welcome home at the hospital.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "13 Jan. 2011", 
+            "episodeName": "Start Me Up", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nArizona seeks Mark's advice as she tries to reconcile with Callie, who has big news of her own; Teddy must make a key decision for Henry during his surgery; and on the same day the residents receive a new crop of interns, the Chief announces he is looking for a new Chief Resident.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "3 Feb. 2011", 
+            "episodeName": "Don't Deceive Me (Please Don't Go)", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nMeredith feels left out when Derek breaks ground on his clinical trial; Bailey's new idea does not go over well with the chief; Callie irritates her new obstetrician.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "10 Feb. 2011", 
+            "episodeName": "P.Y.T. (Pretty Young Thing)", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThatcher Grey, Meredith and Lexie's father, returns to Seattle Grace with stomach pains and a new, twenty-something tattooed girlfriend, Danielle. Meanwhile, Alex clashes with the new OB, Dr. Lucy Fields, over a patient and Mark places Jackson on his service in exchange for information on Lexie.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "17 Feb. 2011", 
+            "episodeName": "Golden Hour", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nMeredith, looking to prove she is Chief Resident material, learns that anything and everything can happen in an hour's time when she steps up to run the ER for a night; meanwhile, Bailey sneaks off with Eli and gets into a little mischief, and everyone is surprised when the Chief's wife, Adele, shows up as one of the ER patients.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "24 Feb. 2011", 
+            "episodeName": "Not Responsible", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nMeredith must choose between her fertility treatments and her eyesight when she begins having trouble seeing, Mark makes it clear to Callie and Arizona that he takes his role as father-to-be very seriously, and April discovers there's more to Dr. Stark than first appears.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "24 Mar. 2011", 
+            "episodeName": "This Is How We Do It", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nRichard is desperate for Derek and Meredith to accept Adele into their Alzheimer's trial, but will Adele stand in her own way? Meanwhile Mark and Arizona have conflicting ideas of the kind of baby shower Callie wants, Teddy is freaked out when Henry has another health complication -- leaving them both a little exposed -- and the competitiveness amongst the residents for the Chief Resident position is amplified when Richard receives the green light for his diabetes clinical trial.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "31 Mar. 2011", 
+            "episodeName": "Song Beneath the Song", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nIn a series first, the music that has been at the heart of the show and been beloved by fans comes to life for Grey's Anatomy: The Music Event. A cataclysmic event rattles the doctors of Seattle Grace to the core, as Callie, on the verge of an enormous life-changing moment with Arizona, envisions her hospital and friends as it has never-been-seen before. \"Chasing Cars\" (Snow Patrol), \"How to Save a Life\" (The Fray) and \"The Story\" (Brandi Carlile) are among the songs performed by the cast.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "28 Apr. 2011", 
+            "episodeName": "It's a Long Way Back", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nEveryone pulls together to help Callie and baby Sofia on their painstaking journeys to recovery in hopes of allowing mother and baby to finally meet; the sudden death of a clinical trial patient has Derek proceeding with more caution while Meredith makes a calculated and risky move; Alex treats a cranky old rich woman dying of cancer and gets an idea for a grandiose endeavor that is sure to get him the Chief Resident spot; and Teddy is pleasantly surprised by the return of a familiar face.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "5 May 2011", 
+            "episodeName": "White Wedding", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nAs Callie and Arizona's wedding approaches, the couple quickly realize that the day they've been looking forward to is not turning out the way they'd envisioned. Meanwhile Alex continues to make the other residents jealous as he appears to be the top contender for Chief Resident, Meredith and Derek make a decision that will change their lives forever, and Dr. Perkins presents Teddy with a very tempting proposition.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "12 May 2011", 
+            "episodeName": "I Will Survive", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAs the official Chief Resident interviews begin, everyone steps up their game in the hopes of impressing Owen. Meanwhile, Meredith anxiously prepares for her first interview with the social worker and Christina fights for a shot in the operating room.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "19 May 2011", 
+            "episodeName": "Unaccompanied Minor", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nNews of Meredith's dishonesty in the clinical trial comes to light, leading to unanticipated consequences for both her and others. Cristina finds herself in a compromising situation, which forces her to decide between her career and her relationship. Meanwhile, Owen posts his decision for chief resident and Teddy makes a surprising choice regarding her love life -- and her future.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "22 Sep. 2011", 
+            "episodeName": "Free Falling", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMeredith faces the repercussions of messing with the medical trial.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "22 Sep. 2011", 
+            "episodeName": "She's Gone", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nNews of Meredith and Derek's unsteady relationship raises a red flag for Zola's adoption counselor; Alex quickly realizes that he has become the outcast of the group after ratting out Meredith; and Cristina makes a tough decision regarding her unexpected pregnancy. Also, Chief Webber brings Henry in for a last minute surgery, alarming Teddy.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "29 Sep. 2011", 
+            "episodeName": "Take the Lead", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe chief makes a decision that shocks everyone at Seattle Grace.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "6 Oct. 2011", 
+            "episodeName": "What Is It About Men", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA stampede at a comic book convention leads to an influx of patients.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "13 Oct. 2011", 
+            "episodeName": "Love, Loss and Legacy", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe residents try to impress Jackson's mother, Catherine Avery.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "20 Oct. 2011", 
+            "episodeName": "Poker Face", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMeredith tries to get Derek interested in a patient's rare brain tumor.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "27 Oct. 2011", 
+            "episodeName": "Put Me in, Coach", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nOwen organizes a baseball game against Seattle Presbyterian.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "3 Nov. 2011", 
+            "episodeName": "Heart-Shaped Box", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nJackson's suspicions about Mark and Lexie interfere with work.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "10 Nov. 2011", 
+            "episodeName": "Dark Was the Night", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nTeddy is called away on another case, as Henry is brought in for surgery.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "5 Jan. 2012", 
+            "episodeName": "Suddenly", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nTeddy asks Cristina to help with an OR patient.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "12 Jan. 2012", 
+            "episodeName": "This Magic Moment", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe doctors form two teams to operate on conjoined twins.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "19 Jan. 2012", 
+            "episodeName": "Hope for the Hopeless", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhile Derek prepares to operate on a tumor deemed entirely inoperable, Hunt pressures Meredith to declare a specialty. As Cristina and Teddy try to steal a prized cardio surgery, the doctors celebrate Richard's 10,000th surgery.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2 Feb. 2012", 
+            "episodeName": "If/Then", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nMeredith dreams of what her life would have been.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "9 Feb. 2012", 
+            "episodeName": "All You Need Is Love", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nOn Valentine's Day Lexie volunteers to watch Zola for Meredith and Derek; Callie plans an evening for Arizona; and Ben shows Bailey how much he cares. Meanwhile, Christina and Owen drift farther apart despite the fact that he saves her when a car crashes into the hospital. Meredith and Bailey treat a woman who has headaches and seizures. Webber and Lexie treat a man who was hit by a car during a fight with his girlfriend. Alex treats a 10-year-old girl who has a severe reaction to peanuts when her boyfriend gives her a Valentine's Day gift.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "16 Feb. 2012", 
+            "episodeName": "Have You Seen Me Lately?", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nIn a final attempt to save Erica's life, Amelia arrives at Seattle Grace to beg Derek for help with the gliosarcoma case; Cristina and Owen engage in heated arguments during marriage counseling; Alex realizes that in order to be a good doctor, he'll need to improve his people skills; and Meredith is given a chance to shine when a man enters the ER after getting his hand stuck in meat grinder. Meanwhile, the residents continue to study for their upcoming oral boards.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "23 Feb. 2012", 
+            "episodeName": "If Only You Were Lonely", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAs Adele's condition continues to deteriorate, Richard considers altering their living situation; an explosion at a local coffee shop results in a busy day in the ER for the doctors; Callie takes Meredith under her wing by helping her study for her boards; Lexie joins Arizona and Alex in peds, as they continue to care for intern Morgan's premature son; and when Jackson snaps at a patient, Mark encourages him to find ways to relieve his stress. Meanwhile, Cristina lets her suspicions get the best of her.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "15 Mar. 2012", 
+            "episodeName": "One Step Too Far", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nDerek encourages a hesitant Meredith to work with him again in neurology; Jackson's mother, Catherine Avery, returns to Seattle Grace with a urology fellow and develops an interest in Richard; and Cristina becomes increasingly suspicious of Owen's every move. Meanwhile, Alex tries to deny the fact that Morgan may be falling for him.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "5 Apr. 2012", 
+            "episodeName": "The Lion Sleeps Tonight", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nA pet lion on the loose gives the hospital some fierce injuries to deal with. Meanwhile, Cristina continues to ignore Owen, Lexie reconsiders her feelings for Mark, Callie has to face Arizona's romantic past with other hospital staff, and Alex starts to feel uncomfortable about his relationship with Morgan.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "12 Apr. 2012", 
+            "episodeName": "Support System", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nGrey, Bailey, and Webber work on a multi-organ transplant but run into some barriers when Dr. Sloan, the temporary Chief, orders them to cancel the surgery. Meanwhile, Cristina and Owen spend the day at home, working through their marital problems.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "19 Apr. 2012", 
+            "episodeName": "The Girl with No Name", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nWhile the hospital becomes the center of attention as the victim of a famous kidnapping case is brought to the hospital, the fifth years take their placement interviews. Meanwhile, Adele Webber's memory continues to deteriorate, forcing Richard to reconsider their relationship.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "26 Apr. 2012", 
+            "episodeName": "Moment of Truth", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAs the fifth-years head off to San Francisco to take the most important exam of their lives there are some surprises along the way; Owen and Teddy continue to fight back at the hospital; Mark and Lexie reconnect; and Tommy's condition worsens.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "3 May 2012", 
+            "episodeName": "Let the Bad Times Roll", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nSix hours after their oral boards, the fifth years relive their answers and worry about their chances. Back at the hospital, Bailey has to woo potential candidates for the hospital and Mark is startled when Julia makes a proposal about their future.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "10 May 2012", 
+            "episodeName": "Migration", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nBefore the Seattle Grace doctors head to Boise to take part in an operation on conjoined twins, the Attendings pressure the 5th years for final decisions on their posts next year. Meanwhile, Arizona must face the reality of her friend's condition and Ben tries to get Bailey to go on a special lunch date.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "17 May 2012", 
+            "episodeName": "Flight", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nAs Meredith, Cristina, Derek, Mark, Lexie, and Arizona face the aftermath of their accident, the doctors back at the hospital face the future that seems to be taking them all in different directions.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "27 Sep. 2012", 
+            "episodeName": "Going Going Gone", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMonths after the plane crash, the doctors at Seattle continue to try and find a new sense of normalcy. With a new set of interns to put through the ringer, the new fellows and attendings get used to their roles while Cristina adjusts to her new life in Minnesota. But the life of one doctor hangs in the balance and it's clear that Seattle Grace Mercy West is not the same.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "4 Oct. 2012", 
+            "episodeName": "Remember the Time", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nEach of the doctors involved in the crash experiences flashbacks that take them back to their time of rescue and explain how they got to where they are now.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "18 Oct. 2012", 
+            "episodeName": "Love the One You're With", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe survivors of the crash are presented with a settlement offer, forcing them to choose between putting the incident behind them or investigating the true cause. Meanwhile, Jackson and April struggle to work with each other, Bailey is annoyed by the new attendings' behaviors, Callie struggles to communicate with Arizona, and Cristina learns to work with her new colleagues in Minnesota.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "25 Oct. 2012", 
+            "episodeName": "I Saw Her Standing There", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAs Cristina begins to make new \"friends\" in Minnesota, Meredith struggles with whether or not to tell Derek about an extremely rare case she is working on. Meanwhile, Arizona begins work with her new prosthetist and tensions flare around work when Jackson's mother comes into town.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "8 Nov. 2012", 
+            "episodeName": "Beautiful Doom", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSplit between Meredith in Seattle and Cristina in Minnesota, this episode shows each surgeon tackling an incredibly challenging surgery. Meredith must juggle work and parental obligations while Cristina is caught between Dr. Thomas and Dr. Parker.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "15 Nov. 2012", 
+            "episodeName": "Second Opinion", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nCristina's return to Seattle proves to be awkward when she and Owen must face each other again. Meanwhile, Jackson and April continue to try and negotiate their relationship, Jo deals with a perplexing case, and Bailey attempts to get Arizona into the hospital. Then, the survivors of the crash are shocked with new information about the cause of the crash.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "29 Nov. 2012", 
+            "episodeName": "I Was Made for Lovin' You", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nIt's Arizona's first day back at work and Callie tries to keep things as normal as possible for her. Meanwhile, Bailey argues with Ben over wedding plans and Cristina and Owen continue to struggle with their relationship while Owen faces his first set of meetings about the plane crash.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "6 Dec. 2012", 
+            "episodeName": "Love Turns You Upside Down", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nIn an intern-centered episode, Jo and Alex work closely together and Jo discovers she has a certain image. Meanwhile, Meredith's intern is forced to find a donor nerve for Derek's hand and Cristina pits two of her interns against one another in competition for time in the OR.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "13 Dec. 2012", 
+            "episodeName": "Run, Baby, Run", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAs a jittery Bailey prepares for her wedding, Meredith and Derek disagree on whether or not to go through with the nerve transplant from Lizzie. Then, Cristina learns of the real reason behind Owen's plea for a divorce and Jo finds herself in trouble when she accuses Alex of mishandling her training. Then, a last minute emergency changes everything.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "10 Jan. 2013", 
+            "episodeName": "Things We Said Today", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs Bailey puts her wedding on hold to tend to Adele, a biker gang floods the hospital with injuries for all the other doctors to tend to. Meanwhile, Cristina and Owen make a final decision about the divorce and Callie and Arizona try to reconnect.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "17 Jan. 2013", 
+            "episodeName": "The End Is the Beginning Is the End", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe survivors receive a final verdict about the plane crash. Meanwhile, Derek continues to undergo rehabilitation on his hand, Cristina and Owen enjoy their new relationship with each other and Richard tried to avoid Catherine's advances.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "24 Jan. 2013", 
+            "episodeName": "Walking on a Dream", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nArizona is grappling with the pain of Phantom Limb when a consultant arrives at the hospital to begin investigations. While Derek embarks on his first major surgery, Meredith faces her biggest fear as she experiences pregnancy mood swings.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "31 Jan. 2013", 
+            "episodeName": "Bad Blood", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhile Derek and April try and find a way to save the ER, Cristina and Leah struggle to keep a patient alive while respecting his wishes. Alana is pulled into a surgery with Owen that may change the way she views the hospital's ER.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "7 Feb. 2013", 
+            "episodeName": "The Face of Change", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAlex and Jackson are pitted against each other to become the next \"face\" of Seattle Grace while they work on a sex reassignment surgery for a trans-gender teen. Then, April brings in an emergency trauma case which requires the help and discretion of many of the doctors. Meanwhile, Callie and Richard visit a recently revitalized hospital to understand what they are all in for.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "14 Feb. 2013", 
+            "episodeName": "Hard Bargain", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAs the hospital inches closer to finding a buyer, many of the doctors don't like the new changes being made, causing the crash survivors to consider a crazy idea. Meanwhile, April's relationship with Matthew progresses and she asks Jackson for advice.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "21 Feb. 2013", 
+            "episodeName": "This Is Why We Fight", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe crash survivors race against the clock to find a buyer for the hospital before Pegasus closes in. Meanwhile, the interns and other doctors at SGMW plan for what they believe will be their imminent departure while Jackson's mother continues to try to convince him to move to Boston.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "14 Mar. 2013", 
+            "episodeName": "Transplant Wasteland", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe transition to new management has the doctors at each others throats. Matters become worse when Owen quits, leaving the OR board in complete disarray.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "21 Mar. 2013", 
+            "episodeName": "Idle Hands", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWith the new Grey Sloan Memorial Hospital up and running smoothly, everyone is happy about the new changes. Meredith worries about the health of her baby while Bailey tries to get the board members to fund her new plan for genome mapping. Meanwhile, Arizona's new prosthetic gives her the confidence to reignite her relationship with Callie. With the help of a patient, Alex pulls some pranks on Jo's new boyfriend and Cristina tries to get involved in groundbreaking cardio research.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "28 Mar. 2013", 
+            "episodeName": "Can't Fight This Feeling", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhen a giant gas tanker explodes on a highway, a couple of parents are admitted to the hospital while Owen looks after their son. Matthew is caught in the explosion and is admitted to the hospital while a single mother fights to find out what mysterious illness is plaguing her son.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "4 Apr. 2013", 
+            "episodeName": "She's Killing Me", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nA couple of Syrian doctors arrive at Grey Sloan Memorial to learn field techniques for war zones. Then, when a series of patients return with post-op infections, one doctor's work falls under suspicion.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "25 Apr. 2013", 
+            "episodeName": "Sleeping Monster", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAt Jackson's request, the CDC arrives at the hospital to begin an investigation surrounding Bailey's patients. April blames Jackson for her breakup with Matthew and Alex tries to be nice to Jason. Owen continues to get closer to Ethan as his dad's health remains uncertain.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "2 May 2013", 
+            "episodeName": "Do You Believe in Magic", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nA magician's assistant arrives at the hospital with a severe injury that has all the general surgeons involved, except for Bailey who is ignoring all of the attendings. As Cristina searches for a way to wake his father up, Ethan has a medical emergency of his own. Alex tries to avoid Jo at the hospital and a new cranial-facial specialist flirts with Arizona.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "9 May 2013", 
+            "episodeName": "Readiness Is All", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nWith a major storm rolling in, the hospital is chaotic. When Jason comes into the hospital in critical condition, Alex does everything he can to protect Jo. With Meredith's due date just weeks away, Derek urges her to slow down.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "16 May 2013", 
+            "episodeName": "Perfect Storm", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nAs Seattle is plunged into a major storm, Meredith goes into labour. When the hospital loses power, her doctor and all the others are forced to work in the dark. Cristina must perform surgery in almost complete darkness while Arizona, Alex, and Lauren must ward off terrified parents. Then, just outside the hospital, a school bus full of people crashes and flips over, forcing several doctors to rescue its passengers. Cristina finally confronts Owen on his desire to have kids.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "26 Sep. 2013", 
+            "episodeName": "Seal Our Fate", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFollowing the storm, a mudslide injures first responders and citizens.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "26 Sep. 2013", 
+            "episodeName": "I Want You with Me", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nCallie makes a decision about her relationship.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "3 Oct. 2013", 
+            "episodeName": "Everybody's Crying Mercy", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDerek and Meredith adjust to life at home with their newborn.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "10 Oct. 2013", 
+            "episodeName": "Puttin' on the Ritz", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe doctors put together a fundraising gala.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "17 Oct. 2013", 
+            "episodeName": "I Bet It Stung", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMeredith struggles to balance her roles as a surgeon and a mother.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "24 Oct. 2013", 
+            "episodeName": "Map of You", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nCallie and Derek collaborate on a brain mapping project.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "31 Oct. 2013", 
+            "episodeName": "Thriller", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nCostumed patients create a challenge for the doctors; Derek and Ben work on a new surgical technique; Richard asks a resident to perform his next surgery, angering Bailey.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "7 Nov. 2013", 
+            "episodeName": "Two Against One", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA betrayal intensifies the issues between Cristina and Meredith; Matthew and April make a decision about their relationship; Bailey faces difficulties with Ben's return.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "14 Nov. 2013", 
+            "episodeName": "Sorry Seems to Be the Hardest Word", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nCallie's career is on the line when she is being sued for negligence after an operation on a star athlete goes horribly wrong.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "21 Nov. 2013", 
+            "episodeName": "Somebody That I Used to Know", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBen worries that an innocent conversation with Derek could end up causing problems for Bailey; Cristina turns to Shane as tension with Meredith increases; April's upcoming wedding creates an uncomfortable situation for Stephanie and Jackson.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "5 Dec. 2013", 
+            "episodeName": "Man on the Moon", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nApril's visiting sisters get on her nerves; when Matthew and Jackson witness an accident, they must work together; Callie and Arizona work on their relationship.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "12 Dec. 2013", 
+            "episodeName": "Get Up, Stand Up", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nMeredith and Cristina bicker about their careers; Bailey talks to Ben about him moving back to Seattle; Shane puts himself in a risky situation; Derek receives a life-changing phone call.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "27 Feb. 2014", 
+            "episodeName": "Take It Back", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe doctors face the consequences of the events that took place at April's wedding. Meredith feels betrayed when Derek goes back on a promise, Alex is furious after returning to the hospital and hearing the news about his father, and Arizona and Callie decide whether or not to move forward together. Meanwhile, Bailey realizes she was wrong about the motive behind Ben's decision to move back to Seattle.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "6 Mar. 2014", 
+            "episodeName": "You've Got to Hide Your Love Away", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nCouples panic when the hospital announces a nonfraternization policy; Owen and Emma discuss the future; Meredith and Cristina have some girl time; Richard asks the residents for help with a rare cancer case.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "13 Mar. 2014", 
+            "episodeName": "Throwing It All Away", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nArizona's bad day escalates when she advises a patient on a potential double amputation; Derek breaks a promise; Stephanie and Jo find an abandoned baby; the nonfraternization rule leads to a suspension.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "20 Mar. 2014", 
+            "episodeName": "We Gotta Get Out of This Place", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nRichard is given a rare case for his birthday, given by Bailey. Catherine Avery returns to try to talk sense into Jackson for marrying April.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "27 Mar. 2014", 
+            "episodeName": "Do You Know?", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nFollows Christina's life as she wonders how her life would take shape based on a single decision.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "3 Apr. 2014", 
+            "episodeName": "You Be Illin'", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe doctors of Grey Sloan Memorial Hospital succumb to an infection that spreads like wildfire. Cristina deals with a complex case involving siblings and Alex begins to consider his future in the hospital.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "10 Apr. 2014", 
+            "episodeName": "I'm Winning", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nMeredith and Bailey tackle jealousy as Cristina receives an early morning phone call that might change her life; Callie comes to a shocking realization and Alex makes a decision.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "17 Apr. 2014", 
+            "episodeName": "Go It Alone", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nCallie and Arizona discuss having another baby, Derek has a hard time juggling work and family, Jackson and April have their first big fight and Christina attends the Harper Avery Award Ceremony. But is she going to win?    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "24 Apr. 2014", 
+            "episodeName": "Change of Heart", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nDerek's sister Amelia comes for a visit; Alex confronts Arizona and the rest of the hospital about his decision; Dr Webber finds out the truth about Harper Avery award from Catherine.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "1 May 2014", 
+            "episodeName": "We Are Never Ever Getting Back Together", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe doctors work together to operate on two sisters joined at the head; Cristina travels to Zurich where she deals with a blast from her past; Richard voices his concern over the hospital's allegiance with the Harper Avery Foundation.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "8 May 2014", 
+            "episodeName": "Everything I Try to Do, Nothing Seems to Turn Out Right", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nWhile Bailey faces dire consequences for her reckless behavior, Cristina interviews candidates for Dr. Russell's replacement. Alex returns with a motive, disappointment hits Callie and Derek brings forth a shocking proposal to Meredith.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "15 May 2014", 
+            "episodeName": "Fear (of the Unknown)", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nCristina must head to Zurich soon but she is unprepared to leave behind her life in Seattle. Fear runs amok throughout the hospital as an explosion in a shopping mall results in a mass casualty situation.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "25 Sep. 2014", 
+            "episodeName": "I Must Have Lost It on the Wind", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCallie and Arizona have to make a choice regarding surrogacy while the board has to decide whether to give Cristina's seat on the board to Alex or Bailey. Amelia overhears the truth about Maggie Pierce.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2 Oct. 2014", 
+            "episodeName": "Puzzle with a Piece Missing", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nIn this Maggie-centric episode, she continues to try to make a positive impression at the hospital but finds herself in extremely unfortunate situations. Meanwhile, Richard continues to hold onto his secret and the doctors work with a dying woman who is being kept alive by her daughter.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "9 Oct. 2014", 
+            "episodeName": "Got to Be Real", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nOwen introduces Callie to the Veterans Hospital patients in hopes that she will help them with her robotic limb lab, Jo becomes jealous of Alex and Meredith's friendship, and Maggie continues to confide in Richard. Meanwhile, Alex and Bailey prepare to go in front of the board.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "16 Oct. 2014", 
+            "episodeName": "Only Mama Knows", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nSecrets from Ellis Grey's past come to light when Meredith watches old videos and reads through her mother's journals. Meanwhile, Maggie rocks the hospital with an unexpected announcement; Alex gets new responsibilities and Callie focuses her attention on the Veterans' project.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "23 Oct. 2014", 
+            "episodeName": "Bend & Break", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nCallie and Arizona examine their marital problems and what's contributed to them. Meanwhile, Callie devotes herself to the veterans' project; Arizona strives to impress Dr. Herman; and Richard seeks guidance from Bailey.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "6 Nov. 2014", 
+            "episodeName": "Don't Let's Start", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA woman comes in badly hurt from a car jack and Owen pays some extra attention when she is found to have served in the military. Derek desperately tries to organize a dinner binding together Meredith's complicated family but is fought from every angle. Meanwhile April reacts strongly to the arrival of her mother and Arizona is fighting hard to manage under the pressure from her new \"boss\".    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "13 Nov. 2014", 
+            "episodeName": "Could We Start Again, Please?", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nArizona has to take care of one of Herman's patients. Everybody finds out Amelia was a drug addict and Derek lets her down. Jo has her first solo surgery. Maggie is invited to Ellis' house and Arizona decides to move in with Alex.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "20 Nov. 2014", 
+            "episodeName": "Risk", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nPierce and Grey disagree with Derek about the best way to approach a patient's case, which lead the couple to a very big argument. Meanwhile Callie feels responsible for one of her veterans when he is pushed too far and a doctor's routine procedure shows devastating results.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "29 Jan. 2015", 
+            "episodeName": "Where Do We Go From Here?", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMeredith keeps herself busy while Derek prepares for his move; Jackson and April get difficult news; Arizona and Amelia talk about how best to approach Dr. Herman.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "5 Feb. 2015", 
+            "episodeName": "The Bed's Too Big Without You", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nApril stays positive as tests are run on her baby; Dr. Herman plans a crash course in fetal surgery; Callie and Owen encourage each other to return to the dating scene; Bailey, Meredith and Maggie try to learn more about a patient's tumor.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "12 Feb. 2015", 
+            "episodeName": "All I Could Do Was Cry", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nMeredith tries to find a sitter so she can go visit Derek, Amelia and Stephanie work together on a case.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "19 Feb. 2015", 
+            "episodeName": "The Great Pretender", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nMaggie gets upset when Meredith dodges her questions about DC; Bailey and Ben become concerned about Ben's brother after he is admitted to the hospital, and Dr. Herman starts to warm up to Arizona. Meanwhile, Richard feels manipulated by Catherine.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "26 Feb. 2015", 
+            "episodeName": "Staring at the End", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe hospital doctors become fascinated with Dr. Herman's case when Amelia gives a lecture detailing the intricacies of the surgery. Arizona and Herman continue to bond over the amount of cases they are trying to complete before the big surgery. Meanwhile, Bailey brings them a case of a pregnant woman who is close to her heart.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "5 Mar. 2015", 
+            "episodeName": "The Distance", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe moment of truth has arrived. Amelia begins the daunting surgery to remove Dr. Herman's tumor. Meanwhile, Arizona takes the lead on a case that means a lot to Dr. Bailey.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "12 Mar. 2015", 
+            "episodeName": "I Feel the Earth Move", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAn earthquake leaves Maggie trapped in an elevator and threatens Meredith's streak of successful surgeries; Owen gives medical advice over the phone; Ben opens up Jackson.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "19 Mar. 2015", 
+            "episodeName": "Don't Dream It's Over", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA man with Alzheimer's crashes into a pregnant woman; Meredith worries about Derek cheating on her and the date of their marriage.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "26 Mar. 2015", 
+            "episodeName": "With or Without You", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nRattled by recent events, Meredith tries to decide what to do about Derek; Owen is stunned when his mother is admitted to the hospital.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2 Apr. 2015", 
+            "episodeName": "When I Grow Up", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nA group of children visit the hospital on a field trip and observe two injured cops rushed into the emergency room. Meanwhile, Stephanie develops a crush on one of the chaperones, and Amelia's forced to confront her feelings about Owen.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "9 Apr. 2015", 
+            "episodeName": "Crazy Love", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nUpon realizing that Owen and Amelia have been seeing each other behind her back, Meredith comes down hard on her sister-in-law causing Amelia to rethink things. Meanwhile, Catherine springs into action when a man is brought into the hospital after his wife seeks revenge on his cheating ways.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "16 Apr. 2015", 
+            "episodeName": "One Flight Down", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nA small plane crash results in multiple casualties, bringing back terrible memories.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "23 Apr. 2015", 
+            "episodeName": "How to Save a Life", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nDerek witnesses a horrible car crash and jumps in to save lives.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "30 Apr. 2015", 
+            "episodeName": "She's Leaving Home", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nJackson struggles to understand April's decision; Ben & Bailey discuss their future; a patient revisits Callie; Amelia tries to deal with her past.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "7 May 2015", 
+            "episodeName": "Time Stops", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nThe doctors must set their emotions aside and focus on a catastrophe.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "14 May 2015", 
+            "episodeName": "You're My Home", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nAs the doctors continue to tackle an unfathomable crisis, they are reminded of what is important and brought closer together.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "24 Sep. 2015", 
+            "episodeName": "Sledgehammer", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe doctors from Grey Sloan Memorial Hospital spring into action to save the lives of two girls with a powerful story. Meanwhile, Meredith tries to cope with the fact that Amelia is now living with her and Jackson prepares for April's return back to Seattle.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "1 Oct. 2015", 
+            "episodeName": "Walking Tall", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe pressure is on as a determined Bailey tackles her first day as Chief; meanwhile, April's marriage is in jeopardy and she finds herself unable to address her problems; Meredith struggles to juggle all her responsibilities and Amelia works to define her relationship with Owen.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "8 Oct. 2015", 
+            "episodeName": "I Choose You", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen Maggie gets an invitation to her ex-boyfriend's wedding, she starts to reevaluate her choices.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "15 Oct. 2015", 
+            "episodeName": "Old Time Rock and Roll", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nOwen suggests the interns learn about breaking bad news to patients' families.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "22 Oct. 2015", 
+            "episodeName": "Guess Who's Coming to Dinner", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMaggie leaves her dinner party and races to the hospital, so April takes over the cooking duties in an attempt to avoid Jackson. Meanwhile, Arizona is extremely anxious about meeting Callie's new girlfriend, who happens to be a familiar face in Meredith's life.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "5 Nov. 2015", 
+            "episodeName": "The Me Nobody Knows", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA transfer resident arrives at the hospital. Meanwhile, Richard wants his relationship with Maggie to evolve; gossip follows a patient who mistakenly sent his sex tape to his congregation; and April presents a case involving a boy from the Middle East.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "12 Nov. 2015", 
+            "episodeName": "Something Against You", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nA high-stakes case is tackled by a team of doctors, and the atmosphere grows tense. Meanwhile, Bailey pressures Ben to evict their roommate; and Arizona enthusiastically reenters the dating scene with a new wingman.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "19 Nov. 2015", 
+            "episodeName": "Things We Lost in the Fire", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAs the rumor mill around the hospital continues to spiral out of control, Grey Sloan Memorial is flooded with injured firefighters from a nearby wildfire. Maggie struggles to keep things with Andrew professional at work; meanwhile, Jo questions Alex's priorities. Also, Alex decides to make a big step in his life.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "11 Feb. 2016", 
+            "episodeName": "The Sound of Silence", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMeredith is attacked by a patient, and Penny finds her injured. The staff of GreySloanMemorial is standing by Meredith trying to save her life.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "18 Feb. 2016", 
+            "episodeName": "All I Want Is You", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs the hospital deals with Meredith's trauma, Callie and Maggie perform a risky, experimental surgery on Alex's 15-year-old patient against his professional opinion. Meanwhile, Owen and Nathan are still at odds with each other, and Maggie and Andrew's relationship continues to develop.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "25 Feb. 2016", 
+            "episodeName": "Unbreak My Heart", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFlashbacks reveal the evolution of April and Jackson's relationship, beginning with their initial meeting, and the years-long process of one of Jackson's patients. Also, April finds out something life changing.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "3 Mar. 2016", 
+            "episodeName": "My Next Life", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA patient from Meredith's first surgery as an intern is re-admitted to the hospital with an aneurysm; Maggie thinks Richard knows about her relationship with Andrew; Arizona considers dating again.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "10 Mar. 2016", 
+            "episodeName": "All Eyez on Me", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nMeredith, Jo, Bailey, Callie and Jackson head to a Veterans hospital for an spectacular yet unusual surgery. Meanwhile, a group of snobby cheerleaders come into the ER and Warren makes a risky decision.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "17 Mar. 2016", 
+            "episodeName": "Odd Man Out", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nRichard swaps pairings among the residents and attendings, baffling everyone. Meanwhile, Arizona makes a bold decision as she treats a woman who's carrying quadruplets; April faces a tough choice.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "24 Mar. 2016", 
+            "episodeName": "I Am Not Waiting Anymore", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nJackson learns about April's pregnancy, while Alex and the team of doctors handles a long triple-organ transplant surgery. Meredith considers dating again, and Andrew insists on not receiving special treatment after he and Maggie go public.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "31 Mar. 2016", 
+            "episodeName": "When It Hurts So Bad", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nMeredith takes a step forward with Will but quickly regrets it; Maggie senses a disconnection with Andrew; and Amelia reevaluates her relationship with Owen. Meanwhile, Catherine comes into town and really shakes things up with April and Jackson    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "7 Apr. 2016", 
+            "episodeName": "I Wear the Face", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nApril and Arizona find themselves arguing in switched positions. Richard tries to stop Catherine interfering in others' lives. Meanwhile residents are motivated to compete for a great research grant.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "14 Apr. 2016", 
+            "episodeName": "There's a Fine, Fine Line", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAfter a missing child forces the hospital into lockdown, Ben decides to operate on a pregnant mother without the proper surgical equipment. Miranda, as Chief, is faced with the repercussions of the event.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "14 Apr. 2016", 
+            "episodeName": "It's Alright, Ma (I'm Only Bleeding)", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nMiranda is faced with the repercussions of Ben's actions; Miranda forms an advisory committee    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "21 Apr. 2016", 
+            "episodeName": "Trigger Happy", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe doctors work frantically to save a young boy who was accidentally shot. Meanwhile, Arizona is upset when Callie tries to make an important decision about Sophia's future without consulting her.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "28 Apr. 2016", 
+            "episodeName": "You're Gonna Need Someone on Your Side", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nStephanie's relationship to Kyle becomes complicated. Meredith encourages Amelia and Owen to take a chance and choose to be a real couple. Arizona and Callie are at odds and put their friends in the middle of an uncomfortable situation.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "5 May 2016", 
+            "episodeName": "Mama Tried", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nCallie and Arizona are at odds over Sofia's future, and Stephanie questions the status of her relationship with Kyle. Meanwhile, Alex and April work on a pregnant teen that is readmitted to Grey Sloan Memorial.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "12 May 2016", 
+            "episodeName": "At Last", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nOwen and Amelia take their relationship to the next level; Alex has a clearer view of his future with Jo; Callie and Arizona struggle with custody arrangements.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "19 May 2016", 
+            "episodeName": "Family Affair", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nMeredith and Maggie support Amelia on an important day; Jo reveals that she has been keeping secrets from Alex while Arizona and Callie deal with the impact of their custody arrangement. Meanwhile, Ben leaps into action to help a friend.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "22 Sep. 2016", 
+            "episodeName": "Undo", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWhen one of Grey Sloan's own lands in the hospital, Bailey tries to figure out what happened while the rest of the doctors jump in to help; Meredith juggles huge secrets that affect her relationships with Alex and Maggie; Richard helps Jo with a big decision; April and Catherine clash over the new baby.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "29 Sep. 2016", 
+            "episodeName": "Catastrophe and the Cure", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nMeredith thinks about her loyalties while Alex deals with the fallout of his actions; Amelia and Owen host a dinner party with surprising guests; Jackson makes a suggestion to help April through her recovery.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "6 Oct. 2016", 
+            "episodeName": "I Ain't No Miracle Worker", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA family argues at the hospital following a car crash at a funeral; Arizona is caught between Alex and Andrew; Ben has a new parenting role; Amelia helps Meredith and Maggie work through a problem.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "13 Oct. 2016", 
+            "episodeName": "Falling Slowly", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAlex realizes the clinic doesn't make him less of a doctor while Meredith struggles with professionalism with Riggs    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "20 Oct. 2016", 
+            "episodeName": "Both Sides Now", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMeredith and Bailey both have liver transplant patients; Owen needs to look after Harriet.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "27 Oct. 2016", 
+            "episodeName": "Roar", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA familiar face returns to Grey Sloan throwing many of the doctors through a loop. With Catherine putting on the pressure, Bailey has to make a decision about Alex while a tough ER case makes Amelia's bad day even worse.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "3 Nov. 2016", 
+            "episodeName": "Why Try to Change Me Now", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe arrival of a new consultant puts the doctors on edge; Amelia and Owen bring their personal problems into the hospital; April explores some unfamiliar territory.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "10 Nov. 2016", 
+            "episodeName": "The Room Where It Happens", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA surgery brings back memories for Meredith, Richard, Owen and Stephanie.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "17 Nov. 2016", 
+            "episodeName": "You Haven't Done Nothin'", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAlex makes a decision about his future when it looks like he'll be going to jail. In the meantime, Richard wants to know why Eliza is at Seattle Grace as victims of a building collapse are brought in.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "26 Jan. 2017", 
+            "episodeName": "You Can Look (But You'd Better Not Touch)", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBailey, Arizona and Jo treat a violent teenage girl and her unborn baby in a women's prison.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "2 Feb. 2017", 
+            "episodeName": "Jukebox Hero", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe attendings plot to make Eliza's first day at Grey Sloan difficult.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "9 Feb. 2017", 
+            "episodeName": "None of Your Business", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nMaggie's mother unexpectedly visits; Bailey is forced to make a tough decision when an attending won't work with Eliza; Stephanie gets involved in Owen and Amelia's drama.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "16 Feb. 2017", 
+            "episodeName": "It Only Gets Much Worse", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe residents get caught up in a conflict between attending physicians; April has a rough first day in her new role at the hospital.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "23 Feb. 2017", 
+            "episodeName": "Back Where You Belong", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAlex learns a lot has changed at the hospital since he left; Jo has to make a tough decision on a case; Arizona tries to keep her distance from Eliza.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "9 Mar. 2017", 
+            "episodeName": "Civil War", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nRichard, Jackson, April and Catherine tackle a grueling trauma case intensified by hospital politics; Amelia finally faces her feelings about Owen; Meredith gets caught between Nathan and Alex over a patient.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "16 Mar. 2017", 
+            "episodeName": "Who Is He (And What Is He to You)?", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nJackson and April go to Montana to perform a complicated surgery on a young patient.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "23 Mar. 2017", 
+            "episodeName": "'Till I Hear It from You", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nDiane Pierce returns to Grey Sloan while Owen and Amelia collaborate on a trauma case.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "30 Mar. 2017", 
+            "episodeName": "Be Still, My Soul", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhen Maggie's mom's health deteriorates, the doctors are at odds over how to treat her. Meanwhile, Richard comes to grips with Bailey's betrayal over the Residency Program.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "6 Apr. 2017", 
+            "episodeName": "What's Inside", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhen Maggie takes on a big case, many of the doctors are worried she's not the right one for the job; Stephanie makes the mistake of treating one of Grey Sloan's own.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "13 Apr. 2017", 
+            "episodeName": "In the Air Tonight", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nMeredith and Nathan must face their feelings when they end up next to each other on a plane.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "27 Apr. 2017", 
+            "episodeName": "Don't Stop Me Now", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nBailey and April work to fix things between Richard and Catherine; Eliza continues to pursue Arizona; one of Alex's previous patients returns to Grey-Sloan.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "4 May 2017", 
+            "episodeName": "Leave It Inside", 
+            "episodeNumber": 22, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "11 May 2017", 
+            "episodeName": "True Colors", 
+            "episodeNumber": 23, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "18 May 2017", 
+            "episodeName": "Ring of Fire", 
+            "episodeNumber": 24, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #14.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 14
+        }
+    ], 
+    "name": "Grey's Anatomy", 
+    "plot": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.", 
+    "rating": 7.7, 
+    "releaseDate": "27 March 2005", 
+    "type": "tvserie"
+}

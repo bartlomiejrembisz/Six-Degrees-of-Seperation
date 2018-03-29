@@ -1,0 +1,312 @@
+{
+    "actorList": [
+        "Titus Welliver", 
+        "Jamie Hector", 
+        "Amy Aquino", 
+        "Lance Reddick", 
+        "Madison Lintz", 
+        "Troy Evans", 
+        "Scott Klace", 
+        "Gregory Scott Cummins", 
+        "Steven Culp", 
+        "DaJuan Johnson"
+    ], 
+    "director": [
+        "Alex Zakrzewski", 
+        "Ernest R. Dickerson", 
+        "Kevin Dowling", 
+        "Adam Davidson", 
+        "Christine Moore"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "6 Feb. 2014", 
+            "episodeName": "Chapter One: 'Tis the Season", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAn LAPD homicide detective works to solve the murder of a 13-year-old boy while standing trial in federal court for the murder of a serial killer. Based on Michael Connelly's best-selling book series, 'Bosch'.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Feb. 2015", 
+            "episodeName": "Chapter Two: Lost Light", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA routine traffic stop lands a suspect who poses a lethal new threat, while Bosch and J. Edgar (Jamie Hector) pursue a promising lead in the bones case. Bosch locks horns with Deputy Chief Irving (Lance Reddick) over his ongoing court battle, just as his relationship with Brasher picks up. And murder suspect Raynard Waits (Jason Gedrick) makes a startling confession about Bosch's cold case.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Feb. 2015", 
+            "episodeName": "Chapter Three: Blue Religion", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAfter the young victim in the bones case is identified, Bosch and J. Edgar are pulled into the troubled world of the boy's family. As Bosch's own trial escalates, his romance with Brasher takes a turn. And an intense confrontation with Raynard Waits forces Bosch to rethink everything.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Feb. 2015", 
+            "episodeName": "Chapter Four: Fugazi", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe bones investigation uncovers the family's dark past. As Bosch's court case reaches a climactic verdict, he gets caught up in a dangerous field trip with Waits, who may be setting him up. A stunning turn of events leads to a frantic citywide manhunt, and Bosch is back on the hot seat.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Feb. 2015", 
+            "episodeName": "Chapter Five: Mama's Boy", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAs the Raynard Waits matter escalates, Deputy Chief Irving sidelines Bosch. The detective turns his focus to unraveling the mystery of the bones case - until he becomes ensnared in a dangerous game of cat and mouse.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Feb. 2015", 
+            "episodeName": "Chapter Six: Donkey's Years", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nBosch travels to Las Vegas to see his teenage daughter, Maddie, and to gain insight into Waits from his ex-wife, Eleanor Wish, once a brilliant forensic profiler. Back in LA, Waits taunts Bosch as he begins backing up his threats. Bosch returns to a maelstrom as the simple questioning of a witness in the bones case endangers Brasher.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Feb. 2015", 
+            "episodeName": "Chapter Seven: Lost Boys", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nBosch struggles to manage both professional and personal fallout, as an echo of his past helps him discover pivotal clues in the Waits case. As the stakes escalate, a restless Waits hatches a deadly plan.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Feb. 2015", 
+            "episodeName": "Chapter Eight: High Low", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nBosch gains a new ally in his ex-wife Eleanor. Deputy Chief Irving makes a series of deals that will shape the future of the police department - and possibly even the city itself. Waits's disturbing focus on Bosch intensifies.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Feb. 2015", 
+            "episodeName": "Chapter Nine: The Magic Castle", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe true story of the bones murder is finally revealed, placing Bosch in hot water and stretching the LAPD to the breaking point. Bosch's own painful past leads him headlong into a showdown with Raynard Waits.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Feb. 2015", 
+            "episodeName": "Chapter Ten: Us and Them", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBosch has to face the aftermath of his confrontation with Waits, while his daughter's unexpected visit offers some precious time together. In the wake of the bones investigation, Bosch's job is in jeopardy, and he's suddenly on the outside once again.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Mar. 2016", 
+            "episodeName": "Trunk Music", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nLAPD homicide detective Harry Bosch is back on the job after a suspension. When a dead body found in the trunk of a car on Mulholland Drive appears to have mob connections, Bosch takes on a case that could prove his biggest challenge yet. George Irving has a new assignment. Deputy Chief Irving weighs his options.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Mar. 2016", 
+            "episodeName": "The Thing About Secrets", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nBosch discovers that his murder case has wider implications. Deputy Chief Irving tries to stay above the political fray. Danger escalates with George Irving's plainclothes position. Harry receives a tip relating to his mother's murder. The Tony Allen investigation sends Bosch to Sin City.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Mar. 2016", 
+            "episodeName": "Victim of the Night", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nBosch is drawn into the underbelly of Las Vegas. A reunion with his daughter reveals that all is not well on the home front. Deputy Chief Irving chooses a side in the mayoral race. There's more to George Irving's assignment than meets the eye.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Mar. 2016", 
+            "episodeName": "Who's Lucky Now?", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nBosch nabs a murder suspect, while others keep a close eye on the investigation. After an encounter with Vegas mob boss, Joey Marks, Bosch faces questions about the past of someone close to him. George Irving makes important inroads. Deputy Chief Irving clashes with LA's political machinations.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Mar. 2016", 
+            "episodeName": "Gone", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nBosch and Edgar are now hot on Joey Marks's trail. George Irving is pulled deeper into his mission. And Bosch must go to extremes to ensure the safety of those closest to him.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Mar. 2016", 
+            "episodeName": "Heart Attack", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nHeightened circumstances create an unlikely family reunion for Bosch. A surprising revelation forces Harry back to square one on his case. The FBI approaches Eleanor with an enticing deal. George Irving faces severe jeopardy.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Mar. 2016", 
+            "episodeName": "Exit Time", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDeputy Chief Irving takes full measures in the wake of tragedy. Bosch finds himself in an unexpected alliance, which leads to a startling discovery. Eleanor seeks an advantage with the FBI. The nefarious gang behind serious crimes plans its exit strategy.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Mar. 2016", 
+            "episodeName": "Follow the Money", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nBosch focuses on taking down a criminal mastermind. Eleanor delivers for the FBI. Opposing forces with violent intentions all converge on the same spot.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Mar. 2016", 
+            "episodeName": "Queen of Martyrs", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA leading suspect eludes Bosch's grasp. Deputy Chief Irving's world has unraveled, even as he's handed a once in a lifetime opportunity. Bosch and Edgar's pursuit of a dangerous ringleader leads to an epic showdown.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Mar. 2016", 
+            "episodeName": "Everybody Counts", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe season finale reaches an explosive climax. Bosch and Edgar discover the final piece of the Tony Allen investigation. Harry searches to uncover the truth behind his mother's murder.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "The Smog Cutter", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe ugly truth behind his mother's murder has left LAPD homicide detective Harry Bosch as tense and restless as ever. A homeless veteran is murdered. Bosch works a high-profile trial involving a Hollywood director. The Veronica Allen proceeding nears resolution. Bosch keeps tabs on a longtime criminal who's eluded justice.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "The Four Last Things", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA suspected killer whom Bosch has pursued for several years turns up dead in an apparent suicide. Edgar discovers that Harry has a complicated history with the dead man. When the case is later ruled a homicide, Detective Jimmy Robertson develops troubling theories about the culprit.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "God Sees", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nBosch learns more about the dark past and murder of Billy Meadows. The credibility of a key witness threatens to undermine the Holland case. Edgar maneuvers to handle damning evidence. Dangerous men target Bosch.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "El Compadre", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nBosch clashes with his fellow detectives. Irving weighs his career options just as his personal life takes a turn. The killers behind the Meadows murder clean up loose ends. Questions swirl about whether Bosch is an avenging angel.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Blood Under the Bridge", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe secret effort to smear Bosch intensifies. Harry and his colleagues struggle to uncover who's trying to frame him. Irving closes a chapter in his personal life, but is ensnared in departmental politics. Bosch digs into the history of former soldiers under suspicion. Killers pull off a major score.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Birdland", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nNews explodes that the LAPD is investigating one of its own in a murder case. Bosch homes in on the motive behind a string of homicides. Robertson's doubts about Bosch deepen. Edgar discovers another disturbing link between Harry and a murder victim. Irving assists the investigation of the \"Koreatown Killer.\"    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Right Play", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nBosch and Robertson work a promising lead in the Gunn case. Further evidence gets the team closer to solving the Meadows murder. Irving does damage control on another crisis related to Bosch. Edgar takes action. The Holland case is on the brink.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Aye Papi", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nBosch operates behind-the-scenes to expose wrongdoers. Killers are in the wind. Edgar deals with the fallout of a crucial choice.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Clear Shot", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe department rallies when a threat hits close to home. There's a pivotal turn in the Holland case. Bosch is forced to face a dark truth. Irving embraces a lifelong goal. There's no honor among thieves.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "The Sea King", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBosch's relentless pursuit in the Meadows case reaches a climax. Bosch and Edgar talk about a startling discovery. An unexpected visitor drops in on Bosch and Maddie. Harry learns that his history is far from settled.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #4.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #4.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #4.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #4.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #4.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #4.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #4.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #4.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #4.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #4.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }
+    ], 
+    "name": "Bosch", 
+    "plot": "An LAPD homicide detective works to solve the murder of a 13-year-old boy while standing trial in federal court for the murder of a serial killer.", 
+    "rating": 8.3, 
+    "releaseDate": "6 February 2014 (internet)", 
+    "type": "tvserie"
+}

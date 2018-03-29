@@ -1,0 +1,39 @@
+{
+    "actorList": [
+        "Sunil Dutt", 
+        "Sanjay Dutt", 
+        "Arshad Warsi", 
+        "Gracy Singh", 
+        "Boman Irani", 
+        "Rohini Hattangadi", 
+        "Kurush Deboo", 
+        "Jimmy Shergill", 
+        "Yatin Karyekar", 
+        "Suresh Chatwal", 
+        "Neha Dubey", 
+        "Mumait Khan", 
+        "Priya Bapat", 
+        "Anuradha Chandan", 
+        "Chirkut", 
+        "Bomie E. Dotiwala", 
+        "Rohitashv Gour", 
+        "Khurshed Lawyer", 
+        "Surendra Rajan", 
+        "Atul Srivastava", 
+        "Vishal Thakkar", 
+        "Nawazuddin Siddiqui"
+    ], 
+    "director": [
+        "Rajkumar Hirani"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Drama", 
+        "Romance"
+    ], 
+    "name": "Munna Bhai M.B.B.S.", 
+    "plot": "A gangster sets out to fulfill his father's dream of becoming a doctor.", 
+    "rating": 8.3, 
+    "releaseDate": "19 December 2003", 
+    "type": "movie"
+}

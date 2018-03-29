@@ -1,0 +1,42 @@
+{
+    "actorList": [
+        "Dennis Hopper", 
+        "Bruno Ganz", 
+        "Lisa Kreuzer", 
+        "G\u00e9rard Blain", 
+        "Nicholas Ray", 
+        "Samuel Fuller", 
+        "Peter Lilienthal", 
+        "Daniel Schmid", 
+        "Sandy Whitelaw", 
+        "Jean Eustache", 
+        "Lou Castel", 
+        "Andreas Dedecke", 
+        "David Blue", 
+        "Stefan Lennert", 
+        "Rudolf Sch\u00fcndler", 
+        "Gerty Molzen", 
+        "Heinz Joachim Klein", 
+        "Heinrich Marmann", 
+        "Satya De La Manitou", 
+        "Axel Schiessler", 
+        "Adolf Hansen", 
+        "Rosemarie Heinikel", 
+        "Enzo Robutti", 
+        "Wim Wenders"
+    ], 
+    "director": [
+        "Wim Wenders"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "Der amerikanische Freund", 
+    "plot": "Tom Ripley, who deals in forged art, suggests a picture framer he knows would make a good hit man.", 
+    "rating": 7.4, 
+    "releaseDate": "26 May 1977 (Cannes Film Festival)", 
+    "type": "movie"
+}

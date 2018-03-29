@@ -1,0 +1,30 @@
+{
+    "actorList": [
+        "Guy Pearce", 
+        "Carrie-Anne Moss", 
+        "Joe Pantoliano", 
+        "Mark Boone Junior", 
+        "Russ Fega", 
+        "Jorja Fox", 
+        "Stephen Tobolowsky", 
+        "Harriet Sansom Harris", 
+        "Thomas Lennon", 
+        "Callum Keith Rennie", 
+        "Kimberly Campbell", 
+        "Marianne Muellerleile", 
+        "Larry Holden", 
+        "Buzz Visconti"
+    ], 
+    "director": [
+        "Christopher Nolan"
+    ], 
+    "genres": [
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "Memento", 
+    "plot": "A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.", 
+    "rating": 8.5, 
+    "releaseDate": "5 September 2000 (Venice Film Festival)", 
+    "type": "movie"
+}

@@ -1,0 +1,32 @@
+{
+    "actorList": [
+        "Sacha Baron Cohen", 
+        "Ken Davitian", 
+        "Luenell", 
+        "Chester", 
+        "Charlie", 
+        "Ilham Aliyev", 
+        "Pamela Anderson", 
+        "Bob Barr", 
+        "David Corcoran", 
+        "Carole De Saram", 
+        "Mitchell Falk", 
+        "Alan Keyes", 
+        "Andre Myers", 
+        "Jean-Pierre Parent", 
+        "Chip Pickering", 
+        "James Smith", 
+        "Grace Welch"
+    ], 
+    "director": [
+        "Larry Charles"
+    ], 
+    "genres": [
+        "Comedy"
+    ], 
+    "name": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan", 
+    "plot": "Kazakh TV talking head Borat is dispatched to the United States to report on the greatest country in the world. With a documentary crew in tow, Borat becomes more interested in locating and marrying .", 
+    "rating": 7.3, 
+    "releaseDate": "4 August 2006 (Traverse City Film Festival)", 
+    "type": "movie"
+}

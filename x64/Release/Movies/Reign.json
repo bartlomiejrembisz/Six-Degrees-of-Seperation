@@ -1,0 +1,591 @@
+{
+    "actorList": [
+        "Adelaide Kane", 
+        "Megan Follows", 
+        "Celina Sinden", 
+        "Torrance Coombs", 
+        "Anna Popplewell", 
+        "Craig Parker", 
+        "Jonathan Keltz", 
+        "Toby Regbo", 
+        "Rose Williams", 
+        "Caitlin Stasey", 
+        "Rachel Skarsten"
+    ], 
+    "director": [
+        "Fred Gerber", 
+        "Holly Dale", 
+        "Norma Bailey", 
+        "Deborah Chow", 
+        "Charles Binam\u00e9", 
+        "Lee Rose", 
+        "Sudz Sutherland", 
+        "Andy Mikita", 
+        "Megan Follows", 
+        "Jeremiah S. Chechik", 
+        "Steve DiMarco", 
+        "Jeff Renfroe", 
+        "Mike Rohl", 
+        "Nathaniel Goodman", 
+        "Anne Wheeler", 
+        "Stuart Gillard", 
+        "Michael McGowan"
+    ], 
+    "genres": [
+        "Drama", 
+        "Fantasy"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "17 Oct. 2013", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter spending a childhood safely hidden away in a monastery, a teenage Mary Stuart arrives in France where she has been sent to secure Scotland's strategic alliance by formalizing her arranged engagement to the French King's dashing son, Prince Francis. Further complicating things is Bash, Francis' handsome, roguish half-brother and Francis' mother, Queen Catherine.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Oct. 2013", 
+            "episodeName": "Snakes in the Garden", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhen Simon, an English envoy, tells Mary that the English are aware of her fragile engagement to Francis, Mary and Francis put on a show to protect their alliance.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Oct. 2013", 
+            "episodeName": "Kissed", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen England's armies threaten Scotland's borders, Mary asks King Henry for help, but he refuses. Tomas, the son of the King of Portugal, proposes marriage to Mary, promising her aid against England if she'll abandon Francis and turn to Tomas instead. Francis puts Bash in jeopardy when he lets his feelings for Mary cloud his judgment.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Nov. 2013", 
+            "episodeName": "Hearts and Minds", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMary has to decide if she is willing to lie and sentence a man to death in order to have King Henry let her out of her engagement to Prince Francis. Meanwhile, Francis and Bash are suspicious of Tomas' true intentions which will ultimately lead to a confrontation with disastrous results.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Nov. 2013", 
+            "episodeName": "A Chill in the Air", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAn ex-lover of Francis' arrives and brings danger with her, so Bash consoles an uneasy Mary. Meanwhile, Queen Catherine persuades Aylee to snoop on Mary; and Bash lands in hot water with heretics, who accuse him of disrupting a sacred ritual.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Nov. 2013", 
+            "episodeName": "Chosen", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAn attempt to scare Mary causes Queen Catherine to take drastic measures to make sure the guilty party is caught. Francis, aware of Bash and Mary's growing attraction, turns to Olivia. Bash ventures into the woods to pay his debt - the human sacrifice the pagans demand - and returns with blood on his hands. Meanwhile, Kenna comes clean with the girls about her affair with the King, to a mixed response.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Dec. 2013", 
+            "episodeName": "Left Behind", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe King goes to war as an unlikely intruder locks down the castle. Mary and Francis realise they must overcome their argument and work together to save everyone at court.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Dec. 2013", 
+            "episodeName": "Fated", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nNostradamus tells Mary of his prophecy that one among them will die soon, which causes Mary to make a decision that will forever change her relationship with Francis.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Jan. 2014", 
+            "episodeName": "For King and Country", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhen Mary and Bash are captured they are forced to return to the castle, tearing the bond of brothers apart and hardening Catherine's resolve to destroy Mary and Francis' love at any cost. Francis learns of the prophecy,    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Jan. 2014", 
+            "episodeName": "Sacrifice", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhen a plot to kill Bash goes wrong, Queen Catherine is suspected of orchestrating it. Mary offers to help free a wrongly imprisoned pregnant peasant named Isobel who has a mysterious tie to Bash. Meanwhile, Lola blackmails Queen Catherine to keep her from trying to ruin Mary and Bash, whose bond continues to grow.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Feb. 2014", 
+            "episodeName": "Inquisition", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nHenry returns from Rome unsuccessful, and accuses Catherine of adultery with Nostradamus with the goal of executing her. Catherine learns about Isobel's baby but the pagan mark on her foot is gone, making her useless as evidence against Bash. Mary and Bash learn that years ago Catherine had an affair and gave birth to a child before Francis was born. They inform Henry, who realizes that the father is his friend, Richard Delacroix, and has him imprisoned. Henry also rejects Catherine's attempts to out Bash and Diane as pagans, as he already knew about their heritage. ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Feb. 2014", 
+            "episodeName": "Royal Blood", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhen Clarissa kidnaps the younger children of King Henry and Queen Catherine, Mary and Bash work with the Queen to find them, with tragic results. Meanwhile, when Lola attempts to help her brother with a debt he owes, Francis rescues her, causing the two of them to grow closer.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Mar. 2014", 
+            "episodeName": "The Consummation", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nIt appears to be time for Mary to choose. She has to marry either Francis or Bash taking into account her country's needs as well as her own. This decision gets harder when Francis comes to court with Lola by his side after he saved her in the last episode. It gets even more complicated when Mary's mum comes to France with her own ideas about Mary's future.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Mar. 2014", 
+            "episodeName": "Dirty Laundry", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nTwo months after becoming married, Mary and Francis must rejoin court after their idyllic honeymoon. Upon returning, secrets they hoped to bury start coming out. Meanwhile, King Henry and Queen Catherine bond over spilled blood.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Mar. 2014", 
+            "episodeName": "The Darkness", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAs women in the castle mingle with possible suitors, Lola is reluctant to participate. Kenna fears for her safety after another violent incident with King Henry. Bash determines to uncover the truth about the darkness.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Mar. 2014", 
+            "episodeName": "Monsters", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen Francis reluctantly agrees to help Bash uncover the threat in the woods, he ends in grave danger, with only Bash to save him. Meanwhile, the King's madness causes chaos when a servant wins \"Queen for the Day,\" and the King becomes obsessed with her. The King also forces a surprising, and unbreakable, union with a new couple at Court. Meanwhile, Greer gets caught kissing kitchen servant Leith, which threatens to ruin her.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2014", 
+            "episodeName": "Liege Lord", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMary uncovers her marriage contract's secret clause.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Apr. 2014", 
+            "episodeName": "No Exit", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhen Mary's brother James arrives in France and convinces Mary to return to Scotland, Francis is suspicious and uncovers a plot that would destroy Mary, which causes a rift between them. King Henry's downward spiral continues, leaving Penelope in charge, causing Catherine and Kenna to take drastic measures. Meanwhile, Lola becomes wary of Lord Julien's motives behind his marriage proposal.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Apr. 2014", 
+            "episodeName": "Toy Soldiers", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nMary and Francis are forced to make difficult choices between Scotland, France, or their marriage; Mary's uncle brings bad news regarding Marie de Guise; Henry makes some bad choices for France; Bash and Kenna continue to work on their marriage.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 May 2014", 
+            "episodeName": "Higher Ground", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nMary enlists a mercenary to help her, which forces her to realize there are sacrifices and lives she is willing to risk to save her country. Francis embraces his role as Dauphin to lead France in a brutal battle against England, and finds a new ally in Leith. Meanwhile, as Lola grows closer to Lord Julien, she gets increasingly suspicious that he is going to betray her.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 May 2014", 
+            "episodeName": "Long Live the King", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nMary and Catherine form an unlikely alliance when deciding how to deal with the increasingly manic King Henry, which puts Francis in jeopardy. Bash finds a boy who lived to tell about his encounter with the Darkness, which makes Bash determined to end it for good at any cost. Lord Julien (guest star Giacomo Gianniotti) reveals the truth about his motives, and Lola, blinded by love, finds herself in a dire situation after she attempts to protect him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 May 2014", 
+            "episodeName": "Slaughter of Innocence", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nHenry plots to kill Francis, and begins his efforts to woo and marry Mary. Leith returns to win Greer back. Lola goes into labour. Francis, Catherine and Mary plan a coup. The Darkness returns for Pascal.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Oct. 2014", 
+            "episodeName": "The Plague", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAs Francis leaves Court to find Lola and his child, he must try and avoid the plague, back at Court Mary and Catherine must keep safe from the plague while the nobles and servants are getting sicker and sicker.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Oct. 2014", 
+            "episodeName": "Drawn and Quartered", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nIn the aftermath of the plague, a powerful lord (Craig Parker) discovers that Mary was responsible for the death of his son and demands vengeance, testing the loyalties of Mary, Francis and Catherine. Francis returns to the castle with Lola and their newborn son, creating tension with Mary. Greer is torn by her loyalty to her fianc\u00e9, Lord Castleroy, who blames Leith for his daughter's demise. Meanwhile, Kenna urges Bash to be formally recognized in his new role.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Oct. 2014", 
+            "episodeName": "Coronation", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWith France in a state of famine, as well as religious and political unrest, Mary looks for a way to feed the people, risking the wrath of a vengeful Lord Narcisse (Craig Parker). Francis is preoccupied by the harrowing suspicion that his dead father's spirit can possess the living and is haunting Francis as revenge for his murder. As Catherine makes excessive and lavish preparations for a coronation ceremony to give the impression of stability to the realm, Bash confronts the reality of a country plagued by fear, bankruptcy, and murder.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Oct. 2014", 
+            "episodeName": "The Lamb and the Slaughter", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAs Francis and Lola start the preparations for their son's christening, Mary and Lola make a scheme to help Estelle from Lord Narcisse. Mary gets shocking news that will change her life and Greer tries to tell Castleroy how she feels.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Oct. 2014", 
+            "episodeName": "Blood for Blood", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nTensions between Protestants and Catholics escalate when bloodshed at a Protestant service causes an already concerned Mary and Francis to intervene on the eve of Greer's wedding. Bash and Leith lead a search for the guilty that reveals a surprising secret about Castleroy that could destroy his union with Greer. Meanwhile, Francis receives an unwelcome gift from his dead father. Kenna discovers a sex journal, with clues leading to the best lover at court, who just might be a match for Lola.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Nov. 2014", 
+            "episodeName": "Three Queens", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMary and Catherine leave for a town when their carriage is overrun and they leave for safety, but they are far from that. Lola and Narcisse become closer and Mary and Francis are still having some problems.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Nov. 2014", 
+            "episodeName": "The Prince of the Blood", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nYoung, reckless and provocative Princess Claude makes a surprise visit home, torturing her already haunted mother, Catherine. Francis is pressured by Narcisse to act against his conscience or risk his throne and his wife. Mary finds a new ally in Cond\u00e9. Francis confides in Bash and hatches a plot that involves an uncertain Lola. Kenna mistakes Claude for a newfound friend, while Greer returns earlier than expected from her wedding tour.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Nov. 2014", 
+            "episodeName": "Terror of the Faithful", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe tensions between the Protestants and Catholics increases because of the edict Lord Narcisse blackmailed Francis into signing. Mary and Francis' relationship hits a wall due to the secrets he is keeping. Queen Catherine is still dealing with ghosts from her past while trying to deal with her daughter, Princess Claude.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Dec. 2014", 
+            "episodeName": "Acts of War", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhile Francis and Bash are out trying to find Montgomery the Protestants are becoming more and more restless. Mary is alone at the castle and Protestant men storm it, leaving Mary in distress. Castleroy doesn't realise what he has been funding while he thought it was schools.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Dec. 2014", 
+            "episodeName": "Mercy", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMary and Conde set off to find who attacked Mary. Narcisse becomes Francis' puppet. Someone poisons Claude, and has Catherine gone mad? Could Mary and Francis return to normal after what happened? Mary finds Conde's letter, and is surprised by what she reads. Conde's brother pays him a visit.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Jan. 2015", 
+            "episodeName": "Getaway", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nBash and Francis figure out who is really behind the branding, and plot to stop the bloodshed. Mary and Greer help Prince Conde escape questions from the cardinal and end up at Conde's brothers palace, during a scandalous party. Kenna tries to help the princess Claude from Katherine, who is mad and hallucinating that she must avenge her long dead twin daughters.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Jan. 2015", 
+            "episodeName": "Banished", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nBash uncovers the truth about the death of the twins - vengeance and justice consume Catherine's haunted past. The hunt to uncover the Protestant radicals reveals ties far too close to court. Desisions to protect the crown - changes the lives of the Queens' Ladies.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Feb. 2015", 
+            "episodeName": "Sins of the Past", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs the castle prepares for the Winter's Ease Feast, King Antoine of Navarre reveals to Francis and Mary England's plan for revenge against France. Bash learns that an \"undead\" man has been seen in the village and his efforts to track the man down lead him to a mysterious woman in white. Meanwhile, Catherine finds out the cause of her hallucinations.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Feb. 2015", 
+            "episodeName": "The End of Mourning", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAs Mary and Francis investigate who was behind the poisoning of King Henry (Alan Van Sprang), they unearth secrets of the past which force Mary to confront her feelings for Conde as she attempts to move forward. Catherine finds herself in the middle of a romantic triangle when the Duke of Guise (guest star Gil Darnell) returns, which forces Narcisse (Craig Parker) to commit a hideous act out of desperation. Meanwhile, Greer (Celina Sinden) finds herself in a situation she never fathomed in order to survive.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Feb. 2015", 
+            "episodeName": "Forbidden", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nMary's mother returns to advise Mary that her throne is in jeopardy. Mary makes a shocking proposition to Conde, along with a bold move to reclaim her throne. Francis moves closer to Lola after a setback with Mary, while King Antoine makes Kenna an interesting offer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Mar. 2015", 
+            "episodeName": "Tasting Revenge", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen King Antoine threatens to tell Francis of Mary and Conde's evolving relationship, Francis makes a shocking move. Bash and Kenna's marriage is beyond repair after he learns of her scheming, while Leith discovers Greer's unsavory new career path.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Mar. 2015", 
+            "episodeName": "Tempting Fate", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMary and Cond\u00e9 continue to make arrangements to go to Scotland, while Cond\u00e9 continues to meet with Elizabeth's envoy. Catherine becomes suspicious of the relationship between Mary and Cond\u00e9. Leith offers to try and help Greer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Apr. 2015", 
+            "episodeName": "Reversal of Fortune", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAs Bash is being healed by the white witch, an old enemy shows up. Francis is on the edge of death and Mary must help Scotland from being under attack. Mary must make a decision to stay with Francis or go to Scotland with Conde.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Apr. 2015", 
+            "episodeName": "Abandoned", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nMary, with the threat of England looming, aligns herself with France and thus, the ailing Francis. Conde makes a bold move that would tie him to England. With all of the turmoil, Catherine and Narcisse work to win favor in court. Meanwhile, Kenna gets closer to General Renaude as Bash becomes increasingly distant.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Apr. 2015", 
+            "episodeName": "Fugitive", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nMary goes to extremes to halt Francis from his quest to catch Conde at any cost. Catherine, jealous of Narcisse's relationship with Lola, asks him to do something unforgivable to prove himself, Kenna crosses a line with General Renaude and Greer makes a choice that might end her relationship with Leith.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 May 2015", 
+            "episodeName": "The Siege", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAfter an attack on the castle everybody is very scared; Conde finds news out about Mary; Catherine is determined to hurt Narcisse; Bash brings Delphine to the castle but what does she have up her sleeve?    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 May 2015", 
+            "episodeName": "Burn", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAs Francis thinks Mary is turning against France, she risks everything in order to take Conde down; Catherine meets with Queen Elizabeth and has a proposition for her; Kenna's secret will seal the fate of her relationship with Bash.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Oct. 2015", 
+            "episodeName": "Three Queens, Two Tigers", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn England, Elizabeth is now being counseled by Catherine de Medici, together they seek Mary's downfall. In France, Francis must deal with his declining health.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Oct. 2015", 
+            "episodeName": "Betrothed", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAs Francis' condition worsens he has plans for Mary's future and the next King of France.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Oct. 2015", 
+            "episodeName": "Extreme Measures", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen King Antoine makes an unexpected return. Mary and Francis turn to an unlikely ally to help hide Francis' condition and secure his family's future.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Nov. 2015", 
+            "episodeName": "The Price", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAfter Mary receives an urgent message from her ailing mother about the dire situation in Scotland, she finds herself looking to Francis for aid. Catherine finds herself up against Narcisse as she fights to become the regent to Charles. Meanwhile, Elizabeth faces continued pressure to wed.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Nov. 2015", 
+            "episodeName": "In a Clearing", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAs the king Francis returns to life, Nostradamus is back with a new prophecy about his death. Meanwhile the English ambassador is offering Mary a chance at peace by signing away her claim to the English throne.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Nov. 2015", 
+            "episodeName": "Fight or Flight", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAs everyone tries to come to terms with Francis' death, new struggles arise for both Mary and queen Catherine for her to be voted regent. New relationships are born and some are starting to tare.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Dec. 2015", 
+            "episodeName": "The Hound and the Hare", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen Prince Don Carlos of Spain visits France, Mary uncovers a dark secret he is hiding and enlists in Catherine to advise her on how to handle. When Gideon, the new ambassador from English court arrives, suspicions arise about what his true intentions are, while Bash's pursuit of the mysterious killer comes to a head at Greer's tavern.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Jan. 2016", 
+            "episodeName": "Our Undoing", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAs Mary and Catherine deal with the aftermath of Prince Don Carlos' accident, Mary realizes that she will have to marry for the good of her country and not follow her heart. When Catherine is accused of poisoning Francis, Lola is shocked when Mary thinks Narcisse framed Catherine in order to become Regent of France.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Jan. 2016", 
+            "episodeName": "Wedlock", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nClaude is forced to marry someone selected by Narcisse. Meanwhile, a surprising discovery is made by Elizabeth, and it could alter her reign; and Mary asks Gideon to help her confirm her suspicions about Prince Don Carlos.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Jan. 2016", 
+            "episodeName": "Bruises That Lie", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs she works to form political alliances, Mary tries to resist falling for Gideon; Catherine and Narcisse continue to battle for power over the Regency; Claude endures the fight of her life on her wedding night.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Apr. 2016", 
+            "episodeName": "Succession", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nCharles' coronation gets closer as Mary discovers who poisoned Elizabeth and Catherine becomes a different kind of victim of the castle's killer.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 May 2016", 
+            "episodeName": "No Way Out", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nMary might have to sacrifice her cousin's life to save her own, as she and Gideon find themselves in uncharted emotional territory. Catherine's past returns to haunt her, while Lola and Elizabeth become unlikely allies.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 May 2016", 
+            "episodeName": "Strange Bedfellows", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nMary (Adelaide Kane), in order to protect Elizabeth (Rachel Skarsten), unknowingly puts Gideon's (Ben Geurens) life in danger. To save him, Mary turns to another Englishman for help - Robert Dudley (Charlie Carrick). Meanwhile, Bash (Torrance Coombs) is determined to track down the men behind the threats to Catherine (Megan Follows). Anna Popplewell, Craig Parker, Rose Williams, Celina Sinden and Jonathan Keltz also star.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 May 2016", 
+            "episodeName": "To the Death", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nMary realizes her need to return to Scotland is becoming increasingly imminent and that along with the help of Bash, she must raise her own army to save her throne. Elizabeth enlists Lola's help to find out information about her mother, which backfires when Lola gets caught.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 May 2016", 
+            "episodeName": "Safe Passage", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nLola tells Mary she may have a chance to get to Scotland. A murder takes place and Catherine is framed for it. Mary must decide if she should help Catherine or leave for Scotland. If Mary helps Catherine it could eliminate the possibility of safe passage to Scotland.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Jun. 2016", 
+            "episodeName": "Clans", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen Mary returns to Scotland, she must keep her royal identity a secret as her country has taken a turn for the worse. Bash is kidnapped by druids. Elizabeth once again jeopardizes Lola's plans to leave England.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Jun. 2016", 
+            "episodeName": "Intruders", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMary and bash race against time to stop anyone taking the Scottish throne. Catherine must help Charles.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Jun. 2016", 
+            "episodeName": "Spiders in a Jar", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nCharles escapes the Red Knights, at the cost of an old friend. Mary returns home, but not everyone is happy. Narcisse's attempt to rescue Lola takes a twist when she chooses to carry out a risky mission.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Feb. 2017", 
+            "episodeName": "With Friends Like These", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nQueen Mary, unsure who to trust, tests her brother James to ensure his loyalty after hearing of his meeting with John Knox. Queen Elizabeth agrees to help Lord Darnley, in an attempt to sabotage the powerful suitor's relationship with Mary.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Feb. 2017", 
+            "episodeName": "A Grain of Deception", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nMary discovers there is a leak within her inner circle and sets out to uncover the traitor. Queen Catherine goes to extremes to regain some of her lost power, while Queen Elizabeth attempts to use Narcisse to further her quest for supremacy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Feb. 2017", 
+            "episodeName": "Leaps of Faith", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMary must choose between love and country, while Gideon attempts to show her why she should choose love. French court is in chaos as Catherine's daughter Leeza returns home, directing her animosity towards her sister Claude. Catherine struggles to cover for Charles as his behavior becomes increasingly erratic.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Mar. 2017", 
+            "episodeName": "Playing with Fire", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhen Lord Darnley surprises Mary with a visit in Scotland, Mary sees a glimmer of a union that could be more than just political. Elizabeth fights to gain allies in her favor and Catherine must work to get Claude back on track by finding her a new husband.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Highland Games", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nIn order to get Mary (Adelaide Kane) to agree to a marriage, Lord Darnley (Will Kemp) must demonstrate his loyalty when she voices her concerns about his true intentions. Catherine (Megan Follows) and Narcisse (Craig Parker) work to repair King Charles' (Spencer MacPherson) reputation after rumors spread about his strange behavior and threaten the throne.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Mar. 2017", 
+            "episodeName": "Love & Death", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMary (Adelaide Kane) must deal with the political repercussions of a potential marriage to Lord Darnley (Will Kemp) and King Charles (Spencer MacPherson) disappears, leaving Catherine (Megan Follows) to pick up the pieces. Elizabeth (Rachel Skarsten) comes to Gideon's (Ben Geurens) aid, while Claude (Rose Williams) receives an interesting proposition. Craig Parker, Dan Jeannotte, Jonathan Goad and Celina Sinden star.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Hanging Swords", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen Darnley (Will Kemp) gets a surprise visitor, his marriage to Mary (Adelaide Kane) hangs in the balance. Elizabeth (Rachel Skarsten) learns her attempt to stop Mary backfired. Meanwhile, Catherine (Megan Follows) and Narcisse (Craig Parker) find King Charles (Spencer MacPherson) and must convince him to return to the castle.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Apr. 2017", 
+            "episodeName": "Uncharted Waters", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAs Mary's upcoming wedding looms, a terrible tragedy pushes Mary and Darnley apart, forcing Mary to enlist in Catherine's help. Elizabeth encounters a traitor to Spain, who petitions her to support an expedition to the New World.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Apr. 2017", 
+            "episodeName": "Pulling Strings", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMary and Darnley wed in a lavish affair, which proves to be a successful decision in regards to her political standing. James makes an interesting discovery about Greer, while Elizabeth frantically tries to salvage England's power.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Apr. 2017", 
+            "episodeName": "A Better Man", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs Mary strategizes ways to take over the English throne, Elizabeth struggles to find an appropriate suitor to marry. Meanwhile, James gets caught up in a scheme orchestrated by John Knox and has to deal with the tragic aftermath.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 May 2017", 
+            "episodeName": "Dead of Night", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "The Shakedown", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #4.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #4.14", 
+            "episodeNumber": 14, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Blood in the Water", 
+            "episodeNumber": 15, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Jun. 2017", 
+            "episodeName": "All It Cost Her", 
+            "episodeNumber": 16, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }
+    ], 
+    "name": "Reign", 
+    "plot": "Mary, Queen of Scots, faces political and sexual intrigue in the treacherous world of the French court.", 
+    "rating": 7.6, 
+    "releaseDate": "2013", 
+    "type": "tvserie"
+}

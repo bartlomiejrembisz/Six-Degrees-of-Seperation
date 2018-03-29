@@ -1,0 +1,414 @@
+{
+    "actorList": [
+        "Milo Ventimiglia", 
+        "Mandy Moore", 
+        "Sterling K. Brown", 
+        "Chrissy Metz", 
+        "Justin Hartley", 
+        "Susan Kelechi Watson", 
+        "Chris Sullivan", 
+        "Ron Cephas Jones", 
+        "Faithe Herman", 
+        "Eris Baker", 
+        "Jon Huertas", 
+        "Lonnie Chavis", 
+        "Mackenzie Hancsicsak", 
+        "Parker Bates", 
+        "Milana Vayntrub"
+    ], 
+    "director": [
+        "Glenn Ficarra", 
+        "Ken Olin", 
+        "John Requa", 
+        "George Tillman Jr."
+    ], 
+    "genres": [
+        "Comedy", 
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "20 Sep. 2016", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nRandall finds his biological father; Kevin falls into a personal crisis; Kate finds herself at a low point; Rebecca goes into labor six weeks premature.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Sep. 2016", 
+            "episodeName": "The Big Three", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nJack and Rebecca suffer the stress of raising a family; Beth takes action to see if William is using drugs again; Kate struggles with losing weight.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Oct. 2016", 
+            "episodeName": "Kyle", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nRebecca makes a surprise visit; Kevin decides to move to New York; Toby prepares a special day to get Kate out of Kevin's shadow.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Oct. 2016", 
+            "episodeName": "The Pool", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJake and Rebecca take their kids to the community pool; Kevin experiences his first NYC audition; Kate stalks Toby's ex; William's past sends Randall spinning.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Oct. 2016", 
+            "episodeName": "The Game Plan", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe story behind the love for the Pittsburgh Steelers is revealed; Rebecca and Jack argue about starting a family; Randall and Beth experience an unexpected turn of events.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Nov. 2016", 
+            "episodeName": "Career Days", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nDilemmas of opportunity and sacrifice play out in the lives of father and son; Kate gets a new job; Kevin goes on an unusual first date.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Nov. 2016", 
+            "episodeName": "The Best Washing Machine in the Whole World", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nRebecca picks up her musical career; Kevin and Randall's feud comes to a head; Beth discovers William's secret; Toby's decision to stop dieting throws Kate into a tailspin.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Nov. 2016", 
+            "episodeName": "Pilgrim Rick", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe unfortunate events of one terrible holiday lead to the Pearson family's Thanksgiving tradition; Kate makes a drastic decision; Kevin brings Olivia to Thanksgiving; Randall learns a secret from his mother.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Nov. 2016", 
+            "episodeName": "The Trip", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe Big Three head to the family cabin for a post-Thanksgiving getaway; Jack and Rebecca struggle when nine-year-old Randall mounts a search for his birth parents.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Dec. 2016", 
+            "episodeName": "Last Christmas", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe Pearsons come together to support a sick Dr. K; Randall talks a co-worker off a ledge; Christmas has a couple of big surprises in store for the Pearson family.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Jan. 2017", 
+            "episodeName": "The Right Thing to Do", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nKate struggles with Toby's heart attack; Jack and Rebecca learn they're having triplets; Olivia unexpectedly resurfaces, sending Kevin in a loop.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Jan. 2017", 
+            "episodeName": "The Big Day", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA heavily pregnant Rebecca forgets Jack's birthday; Dr. K struggles with the loss of his wife; Baby Randall inadvertently saves a marriage.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Jan. 2017", 
+            "episodeName": "Three Sentences", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nJack and Rebecca throw three separate birthdays; Toby helps Kevin with his love life; Kate gets a new plan; Randall helps William with his bucket list.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Feb. 2017", 
+            "episodeName": "I Call Marriage", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nToby throws a wrench in Kate's plan; Anxiety takes hold of Randall's family; Jack and Rebecca receive devastating news; Kevin examines his romantic past.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Feb. 2017", 
+            "episodeName": "Jack Pearson's Son", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nKevin stresses about his play; A tightly wound Randall begins to unravel; Jack and Rebecca's Valentine's Day goes south.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Feb. 2017", 
+            "episodeName": "Memphis", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nRandall and William take a road trip to Memphis, where Randall learns about William's past.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Mar. 2017", 
+            "episodeName": "What Now?", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe family gather at Randall's for an unusual party; Kevin and Sophie's relationship deepens; Tensions are high between Jack and Rebecca.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Mar. 2017", 
+            "episodeName": "Moonshadow", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nJack heads to Cleveland to make things right with Rebecca on the night of her first gig; The Big Three make big decisions about their futures.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #2.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #2.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #2.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #2.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #2.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #2.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #2.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #2.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #2.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #2.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.14", 
+            "episodeNumber": 14, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.15", 
+            "episodeNumber": 15, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.16", 
+            "episodeNumber": 16, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.17", 
+            "episodeNumber": 17, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.18", 
+            "episodeNumber": 18, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #3.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #3.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #3.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #3.14", 
+            "episodeNumber": 14, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #3.15", 
+            "episodeNumber": 15, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #3.16", 
+            "episodeNumber": 16, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #3.17", 
+            "episodeNumber": 17, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #3.18", 
+            "episodeNumber": 18, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "This Is Us", 
+    "plot": "Follows a unique ensemble, as their paths cross and their life stories interwine, from sharing the same birthday, to so much more than anyone would expect.", 
+    "rating": 0, 
+    "releaseDate": "20 September 2016", 
+    "type": "tvserie"
+}

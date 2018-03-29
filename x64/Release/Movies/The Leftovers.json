@@ -1,0 +1,236 @@
+{
+    "actorList": [
+        "Justin Theroux", 
+        "Amy Brenneman", 
+        "Christopher Eccleston", 
+        "Chris Zylka", 
+        "Carrie Coon", 
+        "Liv Tyler", 
+        "Margaret Qualley", 
+        "Janel Moloney", 
+        "Ann Dowd", 
+        "Kevin Carroll", 
+        "Jovan Adepo", 
+        "Regina King", 
+        "Scott Glenn", 
+        "Michael Gaston", 
+        "Jasmin Savoy Brown"
+    ], 
+    "director": [
+        "Mimi Leder", 
+        "Carl Franklin", 
+        "Keith Gordon", 
+        "Craig Zobel", 
+        "Daniel Sackheim", 
+        "Peter Berg", 
+        "Nicole Kassell"
+    ], 
+    "genres": [
+        "Drama", 
+        "Fantasy", 
+        "Mystery"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "29 Jun. 2014", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe police chief faces struggles in both his personal and professional life, as the third anniversary of the departure approaches.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Jul. 2014", 
+            "episodeName": "Penguin One, Us Zero", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nKevin goes to see a therapist, after he has some unsettling encounters. Meg makes a decision about her future. Tom and Christine are left in a dicey situation. Jill and Aimee are interested as to where Nora is.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Jul. 2014", 
+            "episodeName": "Two Boats and a Helicopter", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nReverend Jamison is struggling with people referring to the departed as heroes. He is faced with death threats and a diminishing attendance at his sermons and then finds out he may lose his church due to foreclosure.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Jul. 2014", 
+            "episodeName": "B.J. and the A.C.", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA holiday display goes missing, sending Kevin scurrying to find out who is responsible. Tom and Christine run into trouble at a hospital and on the road.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Jul. 2014", 
+            "episodeName": "Gladys", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nLaurie's resolve is put to the test in the wake of a brutal hate crime. After his latest initiatives to maintain the peace in Mapleton fall short, Kevin turns down an outside offer to rid the town of its problems.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Aug. 2014", 
+            "episodeName": "Guest", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nNora goes to New York for the second annual Departure Related Occupations and Practices conference and discovers unsettling circumstances.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Aug. 2014", 
+            "episodeName": "Solace for Tired Feet", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAfter learning his father has escaped the psychiatric hospital, Kevin orders an APB to track him down. Jill attempts to break an endurance record. Holed up in Indiana, a disillusioned Tom makes an unsettling discovery.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Aug. 2014", 
+            "episodeName": "Cairo", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nKevin fears he's losing touch with reality after inexplicably finding himself in a difficult situation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Aug. 2014", 
+            "episodeName": "The Garveys at Their Best", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nKevin tries to suppress his bad habits while tracking down a marauding deer in Mapleton. Laurie receives not-unexpected news amidst a rising sense of foreboding.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Sep. 2014", 
+            "episodeName": "The Prodigal Son Returns", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAn unexpected ally helps Kevin get out of a jam near the town of Cairo. Meanwhile, an elaborate Memorial Day initiative by the Guilty Remnant plunges Mapleton into chaos.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Oct. 2015", 
+            "episodeName": "Axis Mundi", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA town that seems to have no disappearances becomes a new Lourdes and attracts lots of tourists. But all may not be as rosy as it appears to be.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Oct. 2015", 
+            "episodeName": "A Matter of Geography", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nKevin, Nora and Jill try to pick up the pieces in the aftermath of the Mapleton riots. Nora makes an impulsive choice. Kevin becomes entangled in the Murphy family's problems.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Oct. 2015", 
+            "episodeName": "Off Ramp", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nLaurie and Tom's work to rescue lost souls takes a toll on them. Laurie tries to spread the word about the dangers of the Guilty Remnant. Tom's infiltration of the cult uncovers new problems.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Oct. 2015", 
+            "episodeName": "Orange Sticker", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nNora awakens in the midst of an earthquake to find Kevin missing. The Murphys are left reeling after Evie's disappearance.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Nov. 2015", 
+            "episodeName": "No Room at the Inn", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMatt takes his wife outside Miracle to seek answers about her condition but struggles to keep her safe from desperate tourists outside the town's gates.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Nov. 2015", 
+            "episodeName": "Lens", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nNora is irritated by unexpected visitors. Kevin's predicament becomes impossible to ignore. Erika finds an unlikely ally and reveals haunting secrets.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Nov. 2015", 
+            "episodeName": "A Most Powerful Adversary", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nNora gives Kevin and Jill news they weren't expecting. Laurie makes a rash decision that affects the Garveys. Kevin deals with the fall-out of Nora's news.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Nov. 2015", 
+            "episodeName": "International Assassin", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nIn the wake of Kevin's desperate decision to vanquish Patti, questions and answers emerge as the world adjusts to the repercussions of what comes next.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Nov. 2015", 
+            "episodeName": "Ten Thirteen", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMeg suffers a personal loss and heads out on a pilgrimage to Miracle. After a fallout with Laurie, Tom seeks to reunite with Meg.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Dec. 2015", 
+            "episodeName": "I Live Here Now", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe tensions between Kevin and John reach a climax, as the fourth anniversary of the Departure brings an unsettling threat to Miracle.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Apr. 2017", 
+            "episodeName": "The Book of Kevin", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThree years have passed since the GR invaded Miracle. Kevin works as a cop again. Rumors rise that the seventh anniversary of the Sudden Departure will bring an apocalyptic catastrophe.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Apr. 2017", 
+            "episodeName": "Don't Be Ridiculous", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nNora travels to St. Louis in her role as an investigator for the Department of Sudden Departure.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "30 Apr. 2017", 
+            "episodeName": "Crazy Whitefella Thinking", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWith the clock ticking towards the anniversary of the Departure and emboldened by a vision that is either divine prophecy or utter insanity, Kevin Garvey, Sr. wanders the Australian Outback in an effort to save the world from apocalypse.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 May 2017", 
+            "episodeName": "G'Day Melbourne", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nKevin and Nora travel to Australia, where she continues to track down the masterminds of an elaborate con, while he catches a glimpse of an unexpected face from the past, forcing him to confront the traumatic events of three years earlier.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 May 2017", 
+            "episodeName": "It's a Matt, Matt, Matt, Matt World", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nConvinced it is Kevin's destiny to be in Miracle for the coming seventh anniversary of the Departure, Matt Jamison impulsively heads to Australia in an effort to bring Kevin home.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 May 2017", 
+            "episodeName": "Certified", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nLaurie Garvey, a former therapist, must become one again as she heads to Australia to help Nora and Kevin along their paths.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 May 2017", 
+            "episodeName": "The Most Powerful Man in the World (and His Identical Twin Brother)", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nOn a mission of mercy, Kevin assumes an alternate identity.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Jun. 2017", 
+            "episodeName": "The Book of Nora", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "The Leftovers", 
+    "plot": "Three years after the disappearance of 2% of the global population, a group of people from New York struggle to continue their lives, while they cope with the tragedy of the unexplained nature of the event.", 
+    "rating": 8.1, 
+    "releaseDate": "29 June 2014", 
+    "type": "tvserie"
+}

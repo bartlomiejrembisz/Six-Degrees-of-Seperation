@@ -1,0 +1,167 @@
+{
+    "actorList": [
+        "Winona Ryder", 
+        "David Harbour", 
+        "Finn Wolfhard", 
+        "Millie Bobby Brown", 
+        "Gaten Matarazzo", 
+        "Caleb McLaughlin", 
+        "Natalia Dyer", 
+        "Charlie Heaton", 
+        "Cara Buono", 
+        "Joe Keery", 
+        "Noah Schnapp", 
+        "Rob Morgan", 
+        "Joe Chrest", 
+        "Sean Astin", 
+        "Linnea Berthelsen", 
+        "Dacre Montgomery", 
+        "Paul Reiser", 
+        "Sadie Sink", 
+        "Matthew Modine", 
+        "John Reynolds", 
+        "Anniston Price", 
+        "Tinsley Price", 
+        "Jim Heard"
+    ], 
+    "director": [
+        "Matt Duffer", 
+        "Ross Duffer", 
+        "Shawn Levy", 
+        "Andrew Stanton"
+    ], 
+    "genres": [
+        "Drama", 
+        "Fantasy", 
+        "Horror", 
+        "Mystery", 
+        "Sci-Fi", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "15 Jul. 2016", 
+            "episodeName": "Chapter One: The Vanishing of Will Byers", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn a small Indiana town, the disappearance of a young boy sparks a police investigation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Jul. 2016", 
+            "episodeName": "Chapter Two: The Weirdo on Maple Street", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nMike hides the mysterious girl in his house. Joyce gets a strange phone call.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Jul. 2016", 
+            "episodeName": "Chapter Three: Holly, Jolly", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAn increasingly concerned Nancy looks for Barb and finds out what Jonathan's been up to. Joyce is convinced Will is trying to talk to her.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Jul. 2016", 
+            "episodeName": "Chapter Four: The Body", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nRefusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover. Johnathan and Nancy form an unlikely alliance.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Jul. 2016", 
+            "episodeName": "Chapter Five: The Flea and the Acrobat", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHopper breaks into the lab to find the truth about Will's death. The boys try to locate the \"gate\" that will take them to Will.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Jul. 2016", 
+            "episodeName": "Chapter Six: The Monster", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nHopper and Joyce find the truth about the lab's experiments. After their fight, the boys look for the missing Eleven.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Jul. 2016", 
+            "episodeName": "Chapter Seven: The Bathtub", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe government comes searching for Eleven. Eleven looks for Will in the Upside Down.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Jul. 2016", 
+            "episodeName": "Chapter Eight: The Upside Down", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nJoyce and Hopper are taken in for questioning. Nancy and Jonathan prepare to fight the monster and save Will.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Oct. 2017", 
+            "episodeName": "Madmax", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Oct. 2017", 
+            "episodeName": "The Boy Who Came Back to Life", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Oct. 2017", 
+            "episodeName": "The Pumpkin Patch", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Oct. 2017", 
+            "episodeName": "The Palace", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Oct. 2017", 
+            "episodeName": "The Storm", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Oct. 2017", 
+            "episodeName": "The Pollywog", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Oct. 2017", 
+            "episodeName": "The Secret Cabin", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Oct. 2017", 
+            "episodeName": "The Brain", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Oct. 2017", 
+            "episodeName": "The Lost Brother", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }
+    ], 
+    "name": "Stranger Things", 
+    "plot": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.", 
+    "rating": 9.0, 
+    "releaseDate": "11 July 2016 (Los Angeles) (special screening) (limited)", 
+    "type": "tvserie"
+}

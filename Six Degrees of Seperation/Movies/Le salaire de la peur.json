@@ -1,0 +1,39 @@
+{
+    "actorList": [
+        "Yves Montand", 
+        "Charles Vanel", 
+        "Folco Lulli", 
+        "Peter van Eyck", 
+        "V\u00e9ra Clouzot", 
+        "William Tubbs", 
+        "Dar\u00edo Moreno", 
+        "Jo Dest", 
+        "Antonio Centa", 
+        "Luis De Lima", 
+        "Gr\u00e9goire Gromoff", 
+        "Joseph Palau-Fabre", 
+        "Faustini", 
+        "Seguna", 
+        "Darling L\u00e9gitimus", 
+        "Ren\u00e9 Baranger", 
+        "Pat Hurst", 
+        "Evelio Larenagas", 
+        "Jeronimo Mitchell", 
+        "Ricardo", 
+        "Fran\u00e7ois Valorbe", 
+        "Rico Zermano"
+    ], 
+    "director": [
+        "Henri-Georges Clouzot"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "Le salaire de la peur", 
+    "plot": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.", 
+    "rating": 8.2, 
+    "releaseDate": "15 April 1953 (Cannes Film Festival)", 
+    "type": "movie"
+}

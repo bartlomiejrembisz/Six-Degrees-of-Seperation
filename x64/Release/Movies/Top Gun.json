@@ -1,0 +1,48 @@
+{
+    "actorList": [
+        "Tom Cruise", 
+        "Kelly McGillis", 
+        "Val Kilmer", 
+        "Anthony Edwards", 
+        "Tom Skerritt", 
+        "Michael Ironside", 
+        "John Stockwell", 
+        "Barry Tubb", 
+        "Rick Rossovich", 
+        "Tim Robbins", 
+        "Clarence Gilyard Jr.", 
+        "Whip Hubley", 
+        "James Tolkan", 
+        "Meg Ryan", 
+        "Adrian Pasdar", 
+        "Randall Brady", 
+        "Duke Stroud", 
+        "Brian Sheehan", 
+        "Ron Clark", 
+        "Frank Pesce", 
+        "Pete Pettigrew", 
+        "Troy Hunter", 
+        "Linda Rae Jurgens", 
+        "T.J. Cassidy", 
+        "Debi Fares", 
+        "Mark Gadbois", 
+        "Chase Jazzborne", 
+        "Monty Jordan", 
+        "Scott Krambeck", 
+        "Victor Spadaro", 
+        "Wendy Wells-Gunkel"
+    ], 
+    "director": [
+        "Tony Scott"
+    ], 
+    "genres": [
+        "Action", 
+        "Drama", 
+        "Romance"
+    ], 
+    "name": "Top Gun", 
+    "plot": "As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.", 
+    "rating": 6.9, 
+    "releaseDate": "12 May 1986 (New York City, New York)\n (premiere)", 
+    "type": "movie"
+}

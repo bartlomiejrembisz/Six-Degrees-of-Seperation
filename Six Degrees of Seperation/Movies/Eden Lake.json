@@ -1,0 +1,32 @@
+{
+    "actorList": [
+        "Kelly Reilly", 
+        "Michael Fassbender", 
+        "Tara Ellis", 
+        "Jack O'Connell", 
+        "Finn Atkins", 
+        "Jumayn Hunter", 
+        "Thomas Turgoose", 
+        "James Burrows", 
+        "Tom Gill", 
+        "Lorraine Bruce", 
+        "Shaun Dooley", 
+        "James Gandhi", 
+        "Bronson Webb", 
+        "Lorraine Stanley", 
+        "Rachel Gleeves", 
+        "Mark Devenport", 
+        "Alex Palmer"
+    ], 
+    "director": [
+        "James Watkins"
+    ], 
+    "genres": [
+        "Horror"
+    ], 
+    "name": "Eden Lake", 
+    "plot": "Refusing to let anything spoil their romantic weekend break, a young couple confront a gang of loutish youths with terrifyingly brutal consequences.", 
+    "rating": 6.8, 
+    "releaseDate": "12 August 2008 (Berlin Fantasy Filmfest)", 
+    "type": "movie"
+}

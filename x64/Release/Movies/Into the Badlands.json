@@ -1,0 +1,146 @@
+{
+    "actorList": [
+        "Daniel Wu", 
+        "Orla Brady", 
+        "Sarah Bolger", 
+        "Aramis Knight", 
+        "Emily Beecham", 
+        "Oliver Stark", 
+        "Madeleine Mantock", 
+        "Ally Ioannides", 
+        "Marton Csokas", 
+        "Stephen Lang"
+    ], 
+    "director": [
+        "Paco Cabezas", 
+        "David Dobkin", 
+        "Guy Ferland", 
+        "Nick Copus", 
+        "Toa Fraser", 
+        "Stephen Fung"
+    ], 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "15 Nov. 2015", 
+            "episodeName": "Chapter I: The Fort", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nSunny rescues a mysterious boy who harbors a dark secret, but may also know the way out of the Badlands.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Nov. 2015", 
+            "episodeName": "Chapter II: Fist Like a Bullet", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nM.K. finds refuge in an unlikely and dangerous place, while Sunny's loyalty is tested when Quinn tries to force him to commit an unspeakable act.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Nov. 2015", 
+            "episodeName": "Chapter III: White Stork Spreads Wings", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAs Sunny begins to train M.K., the boy struggles to learn discipline. Meanwhile, Quinn seeks retribution against The Widow and faces the consequences.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Dec. 2015", 
+            "episodeName": "Chapter IV: Two Tigers Subdue Dragons", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nSunny and M.K. try to figure out how to control the boy's power, while Quinn sets a dangerous parlay with a rival Baron to help fight The Widow.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Dec. 2015", 
+            "episodeName": "Chapter V: Snake Creeps Down", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAs Sunny secures his escape from the Fort, Quinn grows suspicious, while The Widow's decisions set her on a collision course with Sunny and M.K.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Dec. 2015", 
+            "episodeName": "Chapter VI: Hand of Five Poisons", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nSunny and M.K. fight to escape Quinn's grip once and for all, while the Baron's enemies conspire to take him down and change the Badlands forever.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Mar. 2017", 
+            "episodeName": "Chapter VII: Tiger Pushes Mountain", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nSix months after the Season 1 finale, Sunny finds a new foe, as well as a new, unexpected ally, while MK learns about his gift in a mysterious place.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Mar. 2017", 
+            "episodeName": "Chapter VIII: Force of Eagle's Claw", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhile Sunny and Bajie struggle to stay alive, The Widow faces challenges as she consolidates her power, and MK discovers secrets about his past.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Apr. 2017", 
+            "episodeName": "Chapter IX: Red Sun, Silver Moon", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nSunny and Bajie meet a dangerous foe who knows Sunny; the Widow prepares for a showdown; MK learns a secret.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Apr. 2017", 
+            "episodeName": "Chapter X: Palm of the Iron Fox", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe Widow's fight for power puts her in an epic showdown with her enemies who have joined forces against her, while an old threat resurfaces.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Apr. 2017", 
+            "episodeName": "Chapter XI: Monkey Leaps Through Mist", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSunny and Bajie get help from an unlikely source, but it comes with a price. The Widow considers a risky gambit, while MK enacts a dangerous plan.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Apr. 2017", 
+            "episodeName": "Chapter XII: Leopard Stalks in Snow", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nSunny and Bajie encounter and unexpected friend but also an unbeatable enemy from the past. The Widow makes an unholy alliance.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Apr. 2017", 
+            "episodeName": "Chapter XIII: Black Heart, White Mountain", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nSunny struggles with his inner demons and his friends cannot find a way to help him. Meanwhile, the Widow has a deadly new partner who helps her extract revenge on her enemies.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 May 2017", 
+            "episodeName": "Chapter XIV: Sting of the Scorpion's Tail", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nSunny plays a dangerous game causing his allies to question his loyalties. The Widow finds a new weapon as her alliance begins to disintegrate.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 May 2017", 
+            "episodeName": "Chapter XV: Nightingale Sings No More", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSunny gets help from an unlikely source to defeat a common enemy. Bajie uncovers a shocking secret from his past.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 May 2017", 
+            "episodeName": "Chapter XVI: Wolf's Breath, Dragon Fire", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nSunny faces the toughest challenge of his life. Bajie's loyalties are tested.    ", 
+            "seasonNumber": 2
+        }
+    ], 
+    "name": "Into the Badlands", 
+    "plot": "A mighty warrior and a young boy search for enlightenment in a ruthless territory controlled by feudal barons.", 
+    "rating": 8.1, 
+    "releaseDate": "15 November 2015", 
+    "type": "tvserie"
+}

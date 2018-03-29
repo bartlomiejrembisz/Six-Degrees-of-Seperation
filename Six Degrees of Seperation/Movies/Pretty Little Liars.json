@@ -1,0 +1,1175 @@
+{
+    "actorList": [
+        "Troian Bellisario", 
+        "Ashley Benson", 
+        "Lucy Hale", 
+        "Shay Mitchell", 
+        "Sasha Pieterse", 
+        "Ian Harding", 
+        "Laura Leighton", 
+        "Janel Parrish", 
+        "Tyler Blackburn", 
+        "Keegan Allen", 
+        "Holly Marie Combs", 
+        "Chad Lowe"
+    ], 
+    "director": [
+        "Norman Buckley", 
+        "Ron Lagomarsino", 
+        "Chad Lowe", 
+        "Arlene Sanford", 
+        "Michael Grossman", 
+        "Melanie Mayron", 
+        "I. Marlene King", 
+        "Wendey Stanzler", 
+        "Chris Grismer", 
+        "Roger Kumble", 
+        "Zetna Fuentes", 
+        "Patrick R. Norris", 
+        "Joanna Kerns", 
+        "Oliver Goldstick", 
+        "Joseph Dougherty", 
+        "Lesli Linka Glatter", 
+        "Elodie Keene", 
+        "Janice Cooke", 
+        "Arthur Anderson", 
+        "Bethany Rooney", 
+        "Tripp Reed", 
+        "Larry Reibman", 
+        "Paula Hunziker", 
+        "Kimberly McCullough"
+    ], 
+    "genres": [
+        "Drama", 
+        "Mystery", 
+        "Romance", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "8 Jun. 2010", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nOne year after the mysterious disappearance of Alison Dilaurentis, her friends believe their secrets are safe forever, but the truth may be only one text away.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Jun. 2010", 
+            "episodeName": "The Jenna Thing", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFlashbacks from Aria, Spencer, Hanna and Emily's past occur when blind girl, Jenna, shows up in Rosewood. Aria tries to stay away from her English teacher, Ezra Fitz. Emily and Maya share a short kiss.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Jun. 2010", 
+            "episodeName": "To Kill a Mocking Girl", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAria has an unsettling encounter with Meredith; Emily is forced to see Toby in a new light; Spencer is reeling in the wake of a vengeful Melissa.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Jun. 2010", 
+            "episodeName": "Can You Hear Me Now?", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe liars take matters into their own hands and try to put a stop to \"A\" by blocking all unknown users, but their problems are far from over.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Jul. 2010", 
+            "episodeName": "Reality Bites Me", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nTrying to ignore \"A\" backfired for the liars and now they must pay the penalty as they deal with typical teenage drama - the boy kind.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Jul. 2010", 
+            "episodeName": "There's No Place Like Homecoming", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe homecoming dance is supposed to be a time for fun and making memories, but for the liars, disturbing secrets threaten to ruin their perfect night.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Jul. 2010", 
+            "episodeName": "The Homecoming Hangover", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAfter the homecoming dance, the liars try to sort out the devastation; \"A\" isn't the only one sending Aria texts as tensions rise in the Montgomery household..    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Jul. 2010", 
+            "episodeName": "Please, Do Talk About Me When I'm Gone", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nLast-minute preparations for Alison's memorial get derailed when her brother, Jason DiLaurentis arrives back in Rosewood, and saying goodbye is at the bottom of his list.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Aug. 2010", 
+            "episodeName": "The Perfect Storm", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe liars are trapped at school as a bad storm brews, and tensions run high; Byron leans on Ashley for advice on parenting as his relationship with Ella takes a bad turn.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Aug. 2010", 
+            "episodeName": "Keep Your Friends Close", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe liars go glamping for Mona's birthday as A's threats escalate and the FBI arrives in Rosewood. But not even a mani-pedi can lift the girls' spirits when the evening takes a dangerous turn.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Jan. 2011", 
+            "episodeName": "Moments Later", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nMoments after Hanna is hit by a car, the liars' world is turned upside down, as \"A\" is no longer content playing a game of cat and mouse.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Jan. 2011", 
+            "episodeName": "Salt Meets Wound", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAs the liars try their best to support Hanna's release from the hospital, they each have their own surprises to deal with.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Jan. 2011", 
+            "episodeName": "Know Your Frenemies", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs Noel steps up his pursuit of Ezra, him and Aria start to feel like there may be no way out; Pam's perceived tolerance of Maya comes to a screeching halt; Spencer must handle the return of happy newlyweds Melissa and Ian; \"A\" has Hanna jumping through old habit hoops with regard to the stolen money.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Jan. 2011", 
+            "episodeName": "Careful What U Wish 4", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe school's dance-a-thon gives the liars more than sore feet; Aria's old babysitter, Simone, comes to visit and sets her sights on Ezra.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Jan. 2011", 
+            "episodeName": "If at First You Don't Succeed, Lie, Lie Again", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nEmily deals with a jealous teammate; Aria and Ezra their first public date; Spencer turns to Jason for information.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Feb. 2011", 
+            "episodeName": "Je Suis Une Amie", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nEmily and Paige are pitted against each other in the big race; Caleb calls in his favor with a guilty Hanna; Spencer takes on the task of tutoring a fellow student to get answers.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Feb. 2011", 
+            "episodeName": "The New Normal", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nIt's parent-teacher conferences and one little liar's father sits face to face with the love of her life. Better believe that \"A\" has something to say about it.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Feb. 2011", 
+            "episodeName": "The Badass Seed", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAs tensions rise, the girls ponder the true nature of evil; Aria views the school play as an opportunity to get closer to Ezra, but will her plan backfire?    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Feb. 2011", 
+            "episodeName": "A Person of Interest", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAfter a shocking revelation from the police, it looks like the liars could be crying wolf. With everything pointing to Ian, could the girls be wrong?    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Mar. 2011", 
+            "episodeName": "Someone to Watch Over Me", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nAs the heat is turned up on suspicions surrounding Spencer, the liars must come to the harsh realization that they aren't the only ones hiding secrets in Rosewood.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Mar. 2011", 
+            "episodeName": "Monsters in the End", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nEveryone has something to hide, but having to live with those secrets can become a big burden for the liars; Spencer and Toby aren't able to be seen together; Rosewood police officer Garrett keeps his promise to keep a close eye on the girls - much closer than they realize.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Mar. 2011", 
+            "episodeName": "For Whom the Bell Tolls", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nIn the season one finale, the girls go to an unlikely source for help to put an end to \"A\" and the mystery surrounding their friend. Can they really stop \"A\" once and for all?    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Jun. 2011", 
+            "episodeName": "It's Alive", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe liars face the fallout from what happened with Ian at the church, their parents have them talk with a therapist; Caleb returns to see Hanna; Spencer is told Toby is off-limits.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Jun. 2011", 
+            "episodeName": "The Goodbye Look", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nEmily struggles with her family's impending move to Texas; Spencer tries to be supportive of Toby's new plans; Ezra's begs Aria to work things out, but is there anything left to say?    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Jun. 2011", 
+            "episodeName": "My Name Is Trouble", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe liars try to keep their distance from each other; Spencer notches up her suspicions about what is going on in the DiLaurentis house, with Jason moving back in.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Jul. 2011", 
+            "episodeName": "Blind Dates", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHanna helps Lucas with his date, until Caleb is thrown into the mix; Aria has a chance encounter with Jason, which brings back some surprising memories.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Jul. 2011", 
+            "episodeName": "The Devil You Know", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWith the shocking news about Ian making the rounds through Rosewood, the liars and their families all try to cope with the outcome; Hanna gets a surprising look into Caleb's life after his shady foster mother surfaces.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Jul. 2011", 
+            "episodeName": "Never Letting Go", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nOn the eve of the Rosewood Charity Fashion Show, the liars are surprised with Jessica DiLaurentis' return to town and her request that they participate in the show on Alison's behalf; Spencer quickly learns that Mona has stepped in and taken charge of running the event.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Jul. 2011", 
+            "episodeName": "Surface Tension", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe girls are uneasy as each confronts complicated matters. Ezra and Jason are invited to a dinner party at the Montgomerys and vie for Aria's attention.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Aug. 2011", 
+            "episodeName": "Save the Date", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhen Emily's dad surprises her before a big swim meet, the pressure sends her to the hospital; Spencer and Aria use the opportunity to dig for clues about Alison's death.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Aug. 2011", 
+            "episodeName": "Picture This", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSpencer is determined to find out what Jason is hiding at his house; Aria can't seem to get Jason off her mind for a different reason; Hanna helps Caleb with a difficult decision about his family    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Aug. 2011", 
+            "episodeName": "Touched by an 'A'-ngel", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAria tries to process Spencer and Emily's news about Jason while dealing with her feelings for him; Hanna tries to be nice to her future stepsister Kate; 'A' turns up the heat on Emily by trying to push her to breaking point.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Aug. 2011", 
+            "episodeName": "I Must Confess", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe liars finally reveal the torment \"A\" has put them through to the one person they trust outside their group, Dr. Anne Sullivan, but could she be next on \"A's\" target list?    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Aug. 2011", 
+            "episodeName": "Over My Dead Body", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAll is not what it seems as \"A\" sends the girls on a hunt to destroy lives. Can the liars go through with their given tasks in order to save one, or will they ignore \"A\" to save those around them from being hurt?    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Oct. 2011", 
+            "episodeName": "The First Secret", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nIt's the Halloween before Alison went missing and the friends hope to score an invite to Noel's Halloween party; Jenna challenges Ali for Queen Bee dominance; Aria learns a shocking revelation about Bryon.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Jan. 2012", 
+            "episodeName": "Through Many Dangers, Toils, and Snares", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nA month has passed since the liars were arrested and they're at each others' throats and Emily has been iced out completely. But what could have divided them so severely, has \"A\" finally won the game of divide and conquer?    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Jan. 2012", 
+            "episodeName": "A Hot Piece of A", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe liars, realizing that \"A\" is not acting alone and their helper may be closer than they think, decide to enlist Caleb's hacking skills.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Jan. 2012", 
+            "episodeName": "Let the Water Hold Me Down", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWith Lucas missing and questions surrounding what happened out on the lake, Hanna can barely catch her breath; Spencer follows a lead about \"A\" which guides her to an unexpected place and revelation.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Jan. 2012", 
+            "episodeName": "The Blond Leading the Blind", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nToby continues to pursue Spencer, knowing that she is keeping something from him; Hanna begs the other girls to stop using Caleb to help with their search; Aria is desperate to save her relationship with Ezra.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Jan. 2012", 
+            "episodeName": "A Kiss Before Lying", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAfter speaking to her friends about Caleb, Hanna feels they are giving her the cold shoulder; Emily hopes to re-introduce Maya to her mother.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Feb. 2012", 
+            "episodeName": "The Naked Truth", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAria continues to question Holden on what exactly he is up to during their \"date nights\"; Hanna tries to figure out the latest situation with Kate; Emily gets help from an unlikely source to get back on the Rosewood swim team.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Feb. 2012", 
+            "episodeName": "CTRL:A", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nHanna's worst nightmare comes to fruition when Caleb becomes a target of \"A\" and his computer is in possession of the cops; Aria learns what Holden's been keeping a secret.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Feb. 2012", 
+            "episodeName": "Breaking the Code", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nA surprising new victim of \"A\" is revealed; Spencer runs from her family troubles right into Wren's arms; Ezra's new opportunity could push him away from Aria.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Feb. 2012", 
+            "episodeName": "Father Knows Best", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nWith fathers looking to make amends and daughters trying to keep the peace, Rosewood's annual Father-Daughter Dance looks to be anything but fun; Ashley continues her hunt to find answers about what is going on with Hanna with help from a surprising source.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Mar. 2012", 
+            "episodeName": "Eye of the Beholder", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nThe liars are on the quest for answers of what Alison knew before she died; Jason drops off a bag of Alison's personal items that could be more than just a bag of junk; Toby's return to Rosewood brings a surprise reunion that ends dangerously.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Mar. 2012", 
+            "episodeName": "If These Dolls Could Talk", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nThe hunt for answers about what Ali knew leads Aria, Emily, Hanna and Spencer to a rundown doll hospital that holds more than just secrets.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Mar. 2012", 
+            "episodeName": "unmAsked", 
+            "episodeNumber": 25, 
+            "episodePlot": "\nThe liars finally come face-to-face with their tormentor; Rosewood's Junior League Masquerade Gala is the perfect setting for \"A's\" next game of cat and mouse with their favorite targets, but will this game be \"A's\" last?    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Jun. 2012", 
+            "episodeName": "It Happened 'That Night'", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAs the second anniversary of Alison's disappearance nears, Aria, Emily, Hanna and Spencer are thrown back into turmoil after a shocking night.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Jun. 2012", 
+            "episodeName": "Blood Is the New Black", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nOne of Aria's past indiscretions is fodder for a new \"A.\" A still-shaky Emily tries to focus on school, but could be derailed when she remembers a crucial piece from \"that night.\"    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Jun. 2012", 
+            "episodeName": "Kingdom of the Blind", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen Spencer questions her mother taking on Garrett's case, she stumbles upon a larger secret; Aria agrees to be Jenna's accompanist.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Jun. 2012", 
+            "episodeName": "Birds of a Feather", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHanna and Mona's visits cause tension with Caleb; Emily finds solace after meeting Maya's cousin; Spencer must know the truth about Melissa.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Jul. 2012", 
+            "episodeName": "That Girl Is Poison", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAria, Emily, Hanna and Spencer think Jenna's birthday party could be the perfect setting for \"A\" to strike - and for them to catch their tormentor.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Jul. 2012", 
+            "episodeName": "The Remains of the 'A'", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA new clue could lead the girls down the wrong path. Emily gets another flashback from \"that night,\" leading to a surprising suspect, and Aria questions Ezra's new influx of cash.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Jul. 2012", 
+            "episodeName": "Crazy", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWith new key evidence in Alison's murder case, Hanna fears that \"A\" may be framing her after a visit from Det. Wilden; Aria decides that she has to turn to Mona for answers; Someone from Ali and Jason's past arrives in Rosewood..    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "31 Jul. 2012", 
+            "episodeName": "Stolen Kisses", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nTrying to explain the drugged flask to Paige leads Emily to more insights about \"that night\"; Spencer asks Caleb for help; Aria learns about Ezra's past.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Aug. 2012", 
+            "episodeName": "The Kahn Game", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAria and Spencer may engage in a heated game of \"Truth\" to get some answers from Jenna - but are they willing to give up some of their \"truths\"?    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Aug. 2012", 
+            "episodeName": "What Lies Beneath", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe liars follow a lead about where Maya might have been before her murder; Aria must deal with the aftermath of meeting Ezra's mom.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Aug. 2012", 
+            "episodeName": "Single Fright Female", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nSpencer learns about Paige's shocking past with Ali, but will Emily listen to what her friends have to say?; Aria feels she has to help Ezra move on from his past.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Aug. 2012", 
+            "episodeName": "The Lady Killer", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nEmily is caught in the crossfire as Maya's murderer is revealed; The liars are betrayed by someone close to them.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Oct. 2012", 
+            "episodeName": "This Is a Dark Ride", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nTrick or treat? The Rosewood Halloween Ghost Train becomes one killer party in this special Halloween-themed episode. Plus, Adam Lambert performs.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Jan. 2013", 
+            "episodeName": "She's Better Now", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nRadley Sanitarium gives Mona a clean bill of health, and she heads back to Rosewood High, much to the liars' dismay.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Jan. 2013", 
+            "episodeName": "Mona-Mania", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAria, Emily, Hanna and Spencer are sure that Mona is up to her old tricks again, but can they prove it? Meanwhile, Aria's fears about her father grow stronger.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Jan. 2013", 
+            "episodeName": "Misery Loves Company", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nMeredith helps take care of Aria when she is sick - but could she have ulterior motives?; Spencer surprises Toby for their anniversary.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Jan. 2013", 
+            "episodeName": "Out of the Frying Pan, Into the Inferno", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWill their secrets drive the girls to take desperate actions that could make things worse? Plus, Emily learns more about what Ali may have been hiding the summer before her murder.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Feb. 2013", 
+            "episodeName": "Dead to Me", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAlison's family is set to bury her again, now that they have her remains, but the girls are divided about going to yet another memorial; Emily visits Dr. Sullivan.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Feb. 2013", 
+            "episodeName": "What Becomes of the Broken-Hearted", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nSpencer takes her anger and hurt over her breakup out on Mona; Aria finds she is spending more time with Wes; Emily and Jason work together.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Feb. 2013", 
+            "episodeName": "Hot Water", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nHolding new information about Detective Wilden, Aria, Emily and Hanna are on the hunt for answers about the detective's past; Spencer finds someone to lean on.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Feb. 2013", 
+            "episodeName": "Out of Sight, Out of Mind", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nSpencer is now ready to talk, but Emily is not ready to accept what she has to say. Hanna helps her mother and keeps a new secret, and wonders if \"A\" had something to do with it.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Mar. 2013", 
+            "episodeName": "Will the Circle Be Unbroken?", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAria, Emily and Hanna try to locate a missing Spencer - but Spencer may not want to be found; Emily meets Olympic gold medalist Missy Franklin.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Mar. 2013", 
+            "episodeName": "I'm Your Puppet", 
+            "episodeNumber": 23, 
+            "episodePlot": "\n\"A\" plays games with higher stakes. Aria considers things with Ezra and Hanna is thrown in the midst of Caleb's family drama. Spencer looks for answers about Mona's time in Radley.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Mar. 2013", 
+            "episodeName": "A Dangerous gAme", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nIn the third season finale, the girls attempt to put an end to the game. With so much happening and new information uncovered, will the girls be ready for what is waiting for them?    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2013", 
+            "episodeName": "A Is for A-l-i-v-e", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe PLLs work with Mona to try and get some clarity on A.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Jun. 2013", 
+            "episodeName": "Turn of the Shoe", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe presence of Mrs. DiLaurentis continues to unnerve all those around her; Toby shares a heartbreaking secret with Spencer; \"A\" nearly kills Mona.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Jun. 2013", 
+            "episodeName": "Cat's Cradle", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nHanna worries her mother is keeping a dangerous secret, which leads to an uncomfortable meeting with Detective Holbrook; Melissa returns to Rosewood.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 Jul. 2013", 
+            "episodeName": "Face Time", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA new detective means new questions, and the liars are asked some hard questions; Spencer lays a trap for Melissa.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Jul. 2013", 
+            "episodeName": "Gamma Zeta Die!", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSpencer and Emily visit a nearby college, but they have different agendas for their time on campus. Hanna is frantic after another horrifying discovery among her mom's things.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Jul. 2013", 
+            "episodeName": "Under the Gun", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTrying to protect her mom gets Hanna in trouble with the cops; Searching for the recipient of Ali's mysterious phone number leads Spencer and Toby to Ravenswood.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Jul. 2013", 
+            "episodeName": "Crash and Burn, Girl!", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nCaleb and Toby team up to investigate \"A\" and what happened the night of the lodge fire; Ezra struggles with how he fits into Aria's life; Hanna tries to act normal.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Jul. 2013", 
+            "episodeName": "The Guilty Girl's Handbook", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nCaleb tries to convince Hanna that Mona can't be trusted, causing Mona to prove her loyalty in the most unexpected way; Emily reconnects with her old boss Zoe.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Aug. 2013", 
+            "episodeName": "Into the Deep", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nPaige throws Emily a surprise birthday party; Mona's selfless act provides Hanna and her mother with their first bit of good news; Ezra gets some distressing news.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Aug. 2013", 
+            "episodeName": "The Mirror Has Three Faces", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMrs. DiLaurentis offers to let Emily move into Ali's old room; Trying to get involved in Jake's interests; Aria finds an opportunity to follow a lead.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Aug. 2013", 
+            "episodeName": "Bring Down the Hoe", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nEzra reaches out to Aria, just as she decides to move on with Jake; A Western-themed dance turns into a two-step with \"A\"; Hanna is stalked by a fellow student.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Aug. 2013", 
+            "episodeName": "Now You See Me, Now You Don't", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAn intriguing riddle from \"A\" has the liars hitting the road and heading to Ravenswood, where they make a shocking discovery.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Oct. 2013", 
+            "episodeName": "Grave New World", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe liars crash the Ravenswood Founders Day Celebration after a clue suggests Ali may be alive; Caleb meets a kindred soul, Miranda.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Jan. 2014", 
+            "episodeName": "Who's in the Box?", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nNow it's confirmed that Alison is alive, who was buried in Ali's coffin?    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Jan. 2014", 
+            "episodeName": "Love ShAck, Baby", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAfter Hanna reveals that she has Ali's diary, the liars hope it can answer some questions, but are they ready to admit which personal story is about them?    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Jan. 2014", 
+            "episodeName": "Close Encounters", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nShana says that Ali wants to meet Emily - and not the other girls - but could it all be part of an \"A\" plan?; Aria and Hanna deal with matters of the heart.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Jan. 2014", 
+            "episodeName": "Bite Your Tongue", 
+            "episodeNumber": 17, 
+            "episodePlot": "\n\"A\" goes after Hanna in an unexpected way; Spencer works overtime to decipher the stories in Ali's diary; Aria is upset with the new friend Mike has made.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Feb. 2014", 
+            "episodeName": "Hot for Teacher", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nSpencer's hunt for the truth takes a dangerous turn. Will Hanna be able to figure out Spencer's secret?; Emily looks to make amends with Alison through Shana.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Feb. 2014", 
+            "episodeName": "Shadow Play", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nSpencer's numerous sleepless nights, with the help of prescription pills, take a toll on her as her hunt for Ali and much needed answers continues, teleporting her into the world of 1940s film noir.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Feb. 2014", 
+            "episodeName": "Free Fall", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nSpencer is determined that it is finally time to tell Aria about what she has found out about Ezra, but Emily and Hanna are worried about what it could do to her.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Feb. 2014", 
+            "episodeName": "She's Come Undone", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nEmily, Hanna and Spencer are concerned for Aria as they watch their friend crumble after learning shocking news about Ezra. Not knowing what is true or who to trust, Aria goes looking for answers, not wanting to believe this revelation to be true. Spencer is concerned for Aria, but she is not doing so well herself. Trying to prove to her parents and Toby that she can kick the habit on her own, Spencer has to be careful because one misstep could send her to rehab. Can Spencer really rein it in, or will her constant curiosity and drive be her undoing? Meanwhile, Paige ...    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2014", 
+            "episodeName": "Cover for Me", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nEmily takes up the sleuthing reins and hunts for answers about Ezra and Mona; Hanna begins a new search after being confronted by Holbrook and Tanner; Spencer and Aria lean on new men in their lives to recover.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Mar. 2014", 
+            "episodeName": "Unbridled", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nIt is a rough time for all of the Liars as Spencer is reeling about the memories from her \"lost summer,\" Aria is still nursing a broken heart, Emily is reeling from Paige's betrayal and Hanna unsuccessfully attempts to wade back into the dating pool. But as each girl tries to deal with her individual issues, they must focus their attention on their suspicions surrounding Mrs. DiLaurentis. Assuming that Mrs. D knows more about Ali and the night she went missing, girls decide to help out at her charity bridal fashion show to gain access to the DiLaurentis house to ...    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Mar. 2014", 
+            "episodeName": "'A' Is for Answers", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nThe liars finally get answers about the night Ali disappeared. With their newfound knowledge of Ali's long-held secrets, can they figure out who \"A\" is?    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Jun. 2014", 
+            "episodeName": "EscApe from New York", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe PLLs must dodge their dreaded nemesis, \"A,\" while navigating a world with Alison back in it.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 Jun. 2014", 
+            "episodeName": "Whirly Girly", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe liars try to wrap their head around the new normal; Jason's odd behavior and Kenneth's search for Jessica starts to raise eyebrows.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Jun. 2014", 
+            "episodeName": "Surfing the Aftershocks", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe liars are forced to live through Ali's latest lie; Hanna and Aria have loose ends with two people who know about Ali's story; Spencer and Emily try to uncover Jason's whereabouts in New York.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Jul. 2014", 
+            "episodeName": "Thrown from the Ride", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe liars keep their distance from Ali; Spencer finds out Peter has a little more than something to do with Jessica's murder; Aria wants to know more about Shana.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Jul. 2014", 
+            "episodeName": "Miss Me x100", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAli returns to Rosewood High and hopes to help heal the damage she did years ago, but not if Mona and her army have anything to say about it; Caleb and an old foe return to Rosewood.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Jul. 2014", 
+            "episodeName": "Run, Ali, Run", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWith 'A' back in their lives, the girls are determined more than ever to know his/her identity. While Ali prepares to run away from Rosewood, Hanna faces a challenge in her relationships. Detective Tanner digs deeper into the death of Shana.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Jul. 2014", 
+            "episodeName": "The Silence of E. Lamb", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAria begins her volunteer work at Radley; Spencer borrows Ezra's spy equipment to keep a closer eye on the home front; Ali and Caleb butt heads.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Jul. 2014", 
+            "episodeName": "Scream for Me", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAs Hanna's downward spiral continues, an unfortunate incident with Zack threatens to strain her friendship with Aria. Spencer and Emily dig deeper into Bethany's relationship with Mrs. Dilaurentis.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "5 Aug. 2014", 
+            "episodeName": "March of Crimes", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSpencer confronts Caleb regarding Hanna's issues; Aria opens up to Ella and questions her marriage to Zack; Emily and Spencer close in on Noel's motives and a call from detective Tanner has Alison perplexed.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Aug. 2014", 
+            "episodeName": "A Dark Ali", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAll eyes are on Alison as she struggles with her response to Cyrus' confession. Melissa hints at knowing the truth and warns Spencer to keep away from Ali. Aria mulls over Spencer's plan of letting everything out in the open with Tanner.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "19 Aug. 2014", 
+            "episodeName": "No One Here Can Love or Understand Me", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nEmily is on the hunt to find out the truth about Alison, seking unlikely help from Ezra Fitz for information about Cyrus and Alison's connection. Meanwhile Melissa's secret is finally revealed, Hanna asks for Spencer's and Toby's help with Caleb and his drinking problem.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "26 Aug. 2014", 
+            "episodeName": "Taking This One to the Grave", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe girls join forces with Mona to figure out why Ali reached out to the police. Alison's actions put Spencer in the cross-hairs of Bethany's murder investigation. Mona reveals the truth about Ali, resulting in an aching loss.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Dec. 2014", 
+            "episodeName": "How the 'A' Stole Christmas", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nIt is Christmas time and all of the liars are planning on having a great time at the Ice ball, but 'A' has other plans.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Jan. 2015", 
+            "episodeName": "Through a Glass, Darkly", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe liars get trapped in an abandoned house with A on their trails they struggle to get out. Meanwhile Toby, Spencer, and Caleb try to find out who killed Mona.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Jan. 2015", 
+            "episodeName": "Fresh Meat", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nNow that Alison is in jail, the 4 liars are A's victims. The liars are now scared more than ever.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Jan. 2015", 
+            "episodeName": "Over a Barrel", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA search for Mona's laptop is underway, and it may lead to Spencer and Caleb to break Toby's rules. Meanwhile, Aria gets sidetracked when she's about to come clean to Ezra; and Hanna and tries to keep her mom's secret when Pastor Ted returns.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "27 Jan. 2015", 
+            "episodeName": "The Bin of Sin", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe liars are breaking the law. They need to look in the barrel and find out what's inside. But the cops are on their tail and they're getting ready to arrest. What will be in the tank?    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 Feb. 2015", 
+            "episodeName": "Oh What Hard Luck Stories They All Hand Me", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nSpencer spends time with Jonny; Emily tries to figure out Talia; Hanna digs into the past of Mona's friend Lesli; Mike's behavior concerns Aria; Holbrook returns to Rosewood.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Feb. 2015", 
+            "episodeName": "Out Damned Spot", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAria hopes Andrew can be her tutor; Spencer helps Jonny with a new project; Hanna turns to her father for financial assistance; Mike is involved in an incident at the school blood drive.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 Feb. 2015", 
+            "episodeName": "Pretty Isn't the Point", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe liars desperately want to know why Mike gave their blood samples and why he's visiting Alison in jail; Hanna is worried about her fee and getting admission in dance; Emily still hasn't told Talia about her biggest fear; Spencer is still confused with why Toby's not telling her the truth.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Feb. 2015", 
+            "episodeName": "Bloody Hell", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nEquipped with their new information about Mona, the liars decide they need to speak to Alison; Aria quickly learns that Mike's involvement could have serious repercussions for her family; The liars intensify their search for information on \"A\"; Ali looks to someone surprising for help with her murder trial.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 Mar. 2015", 
+            "episodeName": "To Plea or Not to Plea", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAli has to choose between saving herself or sacrificing one of the liars.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Mar. 2015", 
+            "episodeName": "The Melody Lingers On", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nThe PLL's struggle to find evidence against \"A\" to help an imprisoned Hanna get out of jail. Meanwhile, Alison's trial is expected very soon and not only does it decide her fate, but it also unravels a lot of secrets the group has told.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 Mar. 2015", 
+            "episodeName": "I'm a Good Girl, I Am", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nAlison's trial comes to a close when the prosecution calls a surprise witness; The liars race to find someone or something that can prove Ali's innocence; Mike becomes a target of \"A\" when it looks like he might be called to testify.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Mar. 2015", 
+            "episodeName": "Welcome to the Dollhouse", 
+            "episodeNumber": 25, 
+            "episodePlot": "\n'A' has always had fun playing with the liars, but now they have the biggest game to date in store for the girls.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 Jun. 2015", 
+            "episodeName": "Game On, Charles", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe liars are trapped outside of Charles' dollhouse, where his games grow more sinister; Ezra, Caleb and Toby are determined to locate the liars.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Jun. 2015", 
+            "episodeName": "Songs of Innocence", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe girls struggle with the lasting after effects of their time spent in the dollhouse.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Jun. 2015", 
+            "episodeName": "Songs of Experience", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe girls' lives have been turned upside down by their captivity and each one of them is looking for answers to make sense of their ordeal.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Jun. 2015", 
+            "episodeName": "Don't Look Now", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nKenneth DiLaurentis comes clean about the family's connection to Charles and all roads lead to Radley.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "30 Jun. 2015", 
+            "episodeName": "She's No Angel", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMona returns to Rosewood in a very fragile state, and Hanna is determined to help her; Emily tries to help Sara; Spencer finds help from someone from her past.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 Jul. 2015", 
+            "episodeName": "No Stone Unturned", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe liars are on the hunt for proof that Lesli is \"A\", but as they ramp up their investigation, the threats escalate.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "21 Jul. 2015", 
+            "episodeName": "O Brother, Where Art Thou", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nCharles declares he is coming home for his birthday; Mona is shutting Mike out; Hanna gets an unwelcomed surprise.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "28 Jul. 2015", 
+            "episodeName": "FrAmed", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAria may not get a chance to see her work on display. Hanna wants to return her scholarship money. Rosewood High considers banning the girls from prom.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "4 Aug. 2015", 
+            "episodeName": "Last Dance", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAs the girls attend their senior prom, A's threats escalate and the girls get one step closer to finding out the truth about Charles DiLaurentis.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "11 Aug. 2015", 
+            "episodeName": "Game Over, Charles", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAfter years of torment, the liars will finally come face to face with their tormenter, and uncover the puppeteer behind the hoodie.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Jan. 2016", 
+            "episodeName": "Of Late I Think of Rosewood", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAfter five years, the liars return to Rosewood when Alison asks them her to testify for Charlotte's release.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Jan. 2016", 
+            "episodeName": "Charlotte's Web", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nQuestions about the new mystery surface as the liars stay in Rosewood; A restless Aria starts to look suspicious; Emily continues to lie about her life in California.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 Jan. 2016", 
+            "episodeName": "The Gloves Are On", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe liars find themselves in familiar territory with the Rosewood P.D; Hanna uses Lucas as an alibi; Emily comes clean about the last five years.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 Feb. 2016", 
+            "episodeName": "New Guys, New Lies", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nHanna admits the truth; Aria and Emily look for answers about Ezra; Spencer and Caleb try to track down the new threat; New love interests emerge and old ones resurface.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Feb. 2016", 
+            "episodeName": "Do Not Disturb", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nConvinced that Sara Harvey is behind the new threats, the liars work together to get answers; Caleb and Hanna make a plan to fight back against the new stalker.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Feb. 2016", 
+            "episodeName": "Where Somebody Waits for Me", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nSpencer learns her mother is keeping a secret; Mona reveals where her true allegiances lie; Emily and Hanna each receive shocking threats.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Feb. 2016", 
+            "episodeName": "We've All Got Baggage", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe liars investigate a new suspect; Aria tells Ezra the truth about the book; Spencer and Caleb deal with a media leak; Emilly is harassed by the stalker.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "1 Mar. 2016", 
+            "episodeName": "Burn This", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe liars start taking the threats more seriously; Caleb deals with taking the blame for the leak; Emily tries to track down who attacked her; Aria and Ezra move on with the book.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "8 Mar. 2016", 
+            "episodeName": "Did You Miss Me?", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAlison is faced with a sudden jeopardy; Hanna and Caleb develop a plan to come face-to-face with their tormentor; Emily and Spencer investigate Mona; Aria and Ezra continue with the book.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "15 Mar. 2016", 
+            "episodeName": "Hush, Hush, Sweet Liars", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe stalker threatens to kill the liars if they don't divulge Charlotte's killer by the election; Alison experiences strange visions and starts to question her sanity.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "21 Jun. 2016", 
+            "episodeName": "Tick-Tock, Bitches", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe liars rush to save Hanna after she's abducted by \u00dcber A, and the only way is to turn over evidence that will reveal who really murdered Charlotte DiLaurentis.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "28 Jun. 2016", 
+            "episodeName": "Bedlam", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWorried that Ali is being tortured by Uber A, the liars turn to a potential enemy for help.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "5 Jul. 2016", 
+            "episodeName": "The Talented Mr. Rollins", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTo save Ali from \u00dcber A's threats, the liars snap into action to rescue her, but a deadly mistake is made which changes everything.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "12 Jul. 2016", 
+            "episodeName": "Hit and Run, Run, Run", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe liars made a mistake and now they're trying to hide it, but their romantic relationships will bear the brunt of their actions.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "19 Jul. 2016", 
+            "episodeName": "Along Comes Mary", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAli is released into the care of Mary Drake; Spencer and Hanna search for a missing Caleb; Aria and Emily stumble upon a secret apartment.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 Aug. 2016", 
+            "episodeName": "Wanted: Dead or Alive", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nHanna wonders if she should reveal the truth to the police; Ali learns her friends turned her in to Uber A; Someone is killed for being on the wrong team.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "9 Aug. 2016", 
+            "episodeName": "Original G'A'ngsters", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nJason returns to stop Ali from getting too close to Mary; The liars learn something new about Mary and Jessica; Ezra gets a call about someone in his past; Noel grows more suspicious.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "16 Aug. 2016", 
+            "episodeName": "Exes and OMGs", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nEmily and Paige apply for the same job; Hannah is visited by Mrs. Grunwald; Ali returns to work; Spencer and Aria pursue answers from the doctor who delivered Mary's baby.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "23 Aug. 2016", 
+            "episodeName": "The Wrath of Kahn", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nHanna goes rogue to prove that Noel is \u00dcber A; Emily unexpectedly turns to Paige for comfort; Jason and Aria look into Mary's past.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "30 Aug. 2016", 
+            "episodeName": "The DArkest Knight", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe liars face off with their enemies in a chaotic fight that ends fatally; One liar learns a secret about her past; Another discovers something about her future.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "Playtime", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWith more secrets being uncovered, the liars all have something to deal with; A.D sets a game for the liars.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "25 Apr. 2017", 
+            "episodeName": "These Boots Were Made for Stalking", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nEmily butts heads with teenager Addison; Spencer confronts her mother; Aria confides in Holden; Jenna stirs up trouble when she returns.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 May 2017", 
+            "episodeName": "Hold Your Piece", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAria and Emily team up to investigate Sydney; Spencer grows closer to Detective Furey; Hanna's turn at the game is more intense than she bargained for.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "9 May 2017", 
+            "episodeName": "Power Play", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAli's turn at the game forces her to face a monumental personal decision; Hanna and Spencer run into a familiar face with a shocking secret.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "16 May 2017", 
+            "episodeName": "In the Eye Abides the Heart", 
+            "episodeNumber": 15, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "23 May 2017", 
+            "episodeName": "The Glove That Rocks the Cradle", 
+            "episodeNumber": 16, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Driving Miss Crazy", 
+            "episodeNumber": 17, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 Jun. 2017", 
+            "episodeName": "Choose or Lose", 
+            "episodeNumber": 18, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "13 Jun. 2017", 
+            "episodeName": "Farewell, My Lovely", 
+            "episodeNumber": 19, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "20 Jun. 2017", 
+            "episodeName": "Til DeAth Do Us PArt", 
+            "episodeNumber": 20, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }
+    ], 
+    "name": "Pretty Little Liars", 
+    "plot": "Four friends band together against an anonymous foe who threatens to reveal their darkest secrets, while unraveling the mystery of the murder of their best friend.", 
+    "rating": 7.6, 
+    "releaseDate": "8 June 2010", 
+    "type": "tvserie"
+}

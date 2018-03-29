@@ -1,0 +1,42 @@
+{
+    "actorList": [
+        "George O'Brien", 
+        "Janet Gaynor", 
+        "Margaret Livingston", 
+        "Bodil Rosing", 
+        "J. Farrell MacDonald", 
+        "Ralph Sipperly", 
+        "Jane Winton", 
+        "Arthur Housman", 
+        "Eddie Boland", 
+        "Vondell Darr", 
+        "Herman Bing", 
+        "Sidney Bracey", 
+        "Gino Corrado", 
+        "Sally Eilers", 
+        "Gibson Gowland", 
+        "Fletcher Henderson", 
+        "Thomas Jefferson", 
+        "Bob Kortman", 
+        "F.W. Murnau", 
+        "Barry Norton", 
+        "Robert Parrish", 
+        "Sally Phipps", 
+        "Harry Semels", 
+        "Phillips Smalley", 
+        "Leo White", 
+        "Clarence Wilson"
+    ], 
+    "director": [
+        "F.W. Murnau"
+    ], 
+    "genres": [
+        "Drama", 
+        "Romance"
+    ], 
+    "name": "Sunrise: A Song of Two Humans", 
+    "plot": "An allegorical tale about a man fighting the good and evil within him. Both sides are made flesh - one a sophisticated woman he is attracted to and the other his wife.", 
+    "rating": 8.3, 
+    "releaseDate": "23 September 1927 (New York City, New York)\n (premiere)", 
+    "type": "movie"
+}

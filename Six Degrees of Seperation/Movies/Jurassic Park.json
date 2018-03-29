@@ -1,0 +1,46 @@
+{
+    "actorList": [
+        "Sam Neill", 
+        "Laura Dern", 
+        "Jeff Goldblum", 
+        "Richard Attenborough", 
+        "Bob Peck", 
+        "Martin Ferrero", 
+        "BD Wong", 
+        "Joseph Mazzello", 
+        "Ariana Richards", 
+        "Samuel L. Jackson", 
+        "Wayne Knight", 
+        "Gerald R. Molen", 
+        "Miguel Sandoval", 
+        "Cameron Thor", 
+        "Christopher John Fields", 
+        "Whit Hertford", 
+        "Dean Cundey", 
+        "Jophery C. Brown", 
+        "Tom Mishler", 
+        "Greg Burson", 
+        "Adrian Escober", 
+        "Richard Kiley", 
+        "Brad M. Bucklin", 
+        "Laura Burnett", 
+        "Michael Lantieri", 
+        "Gary Rodriguez", 
+        "Lata Ryan", 
+        "Brian Smrz", 
+        "Robert 'Bobby Z' Zajonc"
+    ], 
+    "director": [
+        "Steven Spielberg"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Sci-Fi", 
+        "Thriller"
+    ], 
+    "name": "Jurassic Park", 
+    "plot": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.", 
+    "rating": 8.1, 
+    "releaseDate": "9 June 1993 (Washington, D.C.)\n (premiere)", 
+    "type": "movie"
+}

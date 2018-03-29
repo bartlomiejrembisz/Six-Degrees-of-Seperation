@@ -1,0 +1,37 @@
+{
+    "actorList": [
+        "William Holden", 
+        "Alec Guinness", 
+        "Jack Hawkins", 
+        "Sessue Hayakawa", 
+        "James Donald", 
+        "Geoffrey Horne", 
+        "Andr\u00e9 Morell", 
+        "Peter Williams", 
+        "John Boxer", 
+        "Percy Herbert", 
+        "Harold Goodwin", 
+        "Ann Sears", 
+        "Heihachir\u00f4 \u00d4kawa", 
+        "Keiichir\u00f4 Katsumoto", 
+        "M.R.B. Chakrabandhu", 
+        "Vilaiwan Seeboonreaung", 
+        "Ngamta Suphaphongs", 
+        "Javanart Punynchoti", 
+        "Kannikar Dowklee", 
+        "Tsai Chin"
+    ], 
+    "director": [
+        "David Lean"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Drama", 
+        "War"
+    ], 
+    "name": "The Bridge on the River Kwai", 
+    "plot": "After settling his differences with a Japanese PoW camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors - while oblivious to a plan by the Allies to destroy it.", 
+    "rating": 8.2, 
+    "releaseDate": "2 October 1957 (London)\n (premiere)", 
+    "type": "movie"
+}

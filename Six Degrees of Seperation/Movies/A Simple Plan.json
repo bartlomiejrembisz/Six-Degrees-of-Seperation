@@ -1,0 +1,50 @@
+{
+    "actorList": [
+        "Bill Paxton", 
+        "Bridget Fonda", 
+        "Billy Bob Thornton", 
+        "Brent Briscoe", 
+        "Jack Walsh", 
+        "Chelcie Ross", 
+        "Becky Ann Baker", 
+        "Gary Cole", 
+        "Bob Davis", 
+        "Peter Syvertsen", 
+        "Tom Carey", 
+        "John Paxton", 
+        "Marie Mathay", 
+        "Paul Magers", 
+        "Joan Steffand", 
+        "Jill Sayre", 
+        "Wayne A. Evenson", 
+        "Tim Storms", 
+        "Terry Hempleman", 
+        "Jay Gjernes", 
+        "Grant Curtis", 
+        "Solomon Abrams", 
+        "Nina Kaczorowski", 
+        "Thomas Boedy", 
+        "Mary Woolever", 
+        "Rhiannon R. Sauers", 
+        "Christopher Gallus", 
+        "Eric Cegon", 
+        "Robert Martin Halverson", 
+        "Roger Watton", 
+        "Frank Beard", 
+        "Joel Edwards", 
+        "Steven Gilmer"
+    ], 
+    "director": [
+        "Sam Raimi"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "A Simple Plan", 
+    "plot": "When three blue collar acquaintances come across millions of dollars in lost cash they make a plan to keep their find from the authorities but find complications and mistrust weaving its way into their plan.", 
+    "rating": 7.5, 
+    "releaseDate": "12 September 1998 (Toronto International Film Festival)", 
+    "type": "movie"
+}

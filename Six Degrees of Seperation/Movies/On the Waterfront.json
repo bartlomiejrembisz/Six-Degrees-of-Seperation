@@ -1,0 +1,50 @@
+{
+    "actorList": [
+        "Marlon Brando", 
+        "Karl Malden", 
+        "Lee J. Cobb", 
+        "Rod Steiger", 
+        "Pat Henning", 
+        "Leif Erickson", 
+        "James Westerfield", 
+        "Tony Galento", 
+        "Tami Mauriello", 
+        "John F. Hamilton", 
+        "John Heldabrand", 
+        "Rudy Bond", 
+        "Don Blackman", 
+        "Arthur Keegan", 
+        "Abe Simon", 
+        "Eva Marie Saint", 
+        "Martin Balsam", 
+        "Dan Bergin", 
+        "Zachary Charles", 
+        "Jere Delaney", 
+        "Robert Downing", 
+        "Michael V. Gazzo", 
+        "Fred Gwynne", 
+        "Thomas Handley", 
+        "Anne Hegira", 
+        "Pat Hingle", 
+        "Scottie MacGregor", 
+        "Barry Macollum", 
+        "Tiger Joe Marsh", 
+        "Edward McNally", 
+        "Mike O'Dowd", 
+        "Nehemiah Persoff", 
+        "Johnny Seven"
+    ], 
+    "director": [
+        "Elia Kazan"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "On the Waterfront", 
+    "plot": "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.", 
+    "rating": 8.2, 
+    "releaseDate": "22 June 1954", 
+    "type": "movie"
+}

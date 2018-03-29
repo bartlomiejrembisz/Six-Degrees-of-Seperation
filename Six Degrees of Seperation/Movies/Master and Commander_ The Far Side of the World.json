@@ -1,0 +1,46 @@
+{
+    "actorList": [
+        "Russell Crowe", 
+        "Paul Bettany", 
+        "James D'Arcy", 
+        "Edward Woodall", 
+        "Chris Larkin", 
+        "Max Pirkis", 
+        "Jack Randall", 
+        "Max Benitz", 
+        "Lee Ingleby", 
+        "Richard Pates", 
+        "Robert Pugh", 
+        "Richard McCabe", 
+        "Ian Mercer", 
+        "Tony Dolan", 
+        "David Threlfall", 
+        "Billy Boyd", 
+        "Bryan Dick", 
+        "Joseph Morgan", 
+        "George Innes", 
+        "William Mannering", 
+        "Patrick Gallagher", 
+        "Alex Palmer", 
+        "Mark Lewis Jones", 
+        "John DeSantis", 
+        "Ousmane Thiam", 
+        "Thierry Segall", 
+        "Aidan Black"
+    ], 
+    "director": [
+        "Peter Weir"
+    ], 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Drama", 
+        "History", 
+        "War"
+    ], 
+    "name": "Master and Commander: The Far Side of the World", 
+    "plot": "During the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America.", 
+    "rating": 7.4, 
+    "releaseDate": "14 November 2003", 
+    "type": "movie"
+}

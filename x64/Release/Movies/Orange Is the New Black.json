@@ -1,0 +1,540 @@
+{
+    "actorList": [
+        "Taylor Schilling", 
+        "Michael Harney", 
+        "Kate Mulgrew", 
+        "Uzo Aduba", 
+        "Danielle Brooks", 
+        "Dascha Polanco", 
+        "Selenis Leyva", 
+        "Nick Sandow", 
+        "Yael Stone", 
+        "Lea DeLaria", 
+        "Adrienne C. Moore", 
+        "Jackie Cruz", 
+        "Vicky Jeudy", 
+        "Jessica Pimentel", 
+        "Emma Myles", 
+        "Elizabeth Rodriguez", 
+        "Taryn Manning", 
+        "Samira Wiley", 
+        "Laura G\u00f3mez", 
+        "Constance Shulman", 
+        "Abigail Savage", 
+        "Julie Lake", 
+        "Annie Golden", 
+        "Kimiko Glenn", 
+        "Lin Tucci", 
+        "Diane Guerrero", 
+        "Laverne Cox", 
+        "Laura Prepon", 
+        "Natasha Lyonne", 
+        "Beth Fowler", 
+        "Dale Soules", 
+        "Catherine Curtin", 
+        "Joel Marsh Garland", 
+        "Eric J Carlson", 
+        "Matt Peters", 
+        "Blair Brown", 
+        "Lauren Garlick"
+    ], 
+    "director": [
+        "Andrew McCarthy", 
+        "Michael Trim", 
+        "Phil Abraham", 
+        "Constantine Makris", 
+        "Uta Briesewitz", 
+        "Mark A. Burley", 
+        "Jodie Foster", 
+        "Jesse Peretz", 
+        "Erin Feeley"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Crime", 
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "11 Jul. 2013", 
+            "episodeName": "I Wasn't Ready", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nPiper Chapman is sent to jail as a result of her relationship with a drug smuggler.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jul. 2013", 
+            "episodeName": "Tit Punch", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAfter accidentally insulting the prison's chef, the kitchen staff refuses to feed Piper.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jul. 2013", 
+            "episodeName": "Lesbian Request Denied", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nPiper must deal with romantic advances from a fellow inmate known as Crazy Eyes.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jul. 2013", 
+            "episodeName": "Imaginary Enemies", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPiper gets to know her stern new roommate. The inmates prepare for a farewell party.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jul. 2013", 
+            "episodeName": "The Chickening", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhile on the lawn one morning, Piper sees a chicken roosting nearby on the grass. When she tells other inmates about the odd sighting, Piper discovers that the chicken is actually a prison legend that several inmates have tried to catch for years. The complicated history between Aleida Diaz and her daughter Dayanara Diaz comes to light.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jul. 2013", 
+            "episodeName": "WAC Pack", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe inmates must campaign amongst their races for a coveted spot as a prisoners' representative. Piper steers clear of the bizarre political process but might not have a choice but to get involved. Larry's editor wants him to write an article about Piper's incarceration.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jul. 2013", 
+            "episodeName": "Blood Donut", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFormer high school track star Janae Watson returns from solitary confinement. Piper wants to reopen the outdoor track but Healy forces her to fulfill several potentially dangerous tasks before he will consider it. Alex's teasing of a religious fanatic named Tiffany \"Pennsatucky\" Doggett sparks a rivalry.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jul. 2013", 
+            "episodeName": "Moscow Mule", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nOfficer Mendez begins harassing Red when she refuses to help him continue smuggling drugs into the prison. Larry publishes his article about Piper in the New York Times, which turns her into a person of interest for inmates and corrections officers alike. Piper's best friend Polly has her baby at the same time that a baby is born to an inmate in Piper's cell block.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jul. 2013", 
+            "episodeName": "Fucksgiving", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nPiper is in high spirits when she makes peace with Alex and awaits a visit from Larry on Thanksgiving. However, Healy's true colors come out when he throws Piper in solitary confinement for dancing with Alex. The frightening experience of solitary forces Piper to take a serious look at her life and come to several conclusions about the future.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jul. 2013", 
+            "episodeName": "Bora Bora Bora", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nPennsatucky flaunts her new healing hands that Jesus has supposedly given her. The prison brings in a group of teenage troublemakers so that the inmates can scare them straight. Tricia returns from detox to find she has lost her position on the kitchen staff and must still deal with Mendez breathing down her neck for her drug debts.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jul. 2013", 
+            "episodeName": "Tall Men with Feelings", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nGrief looms over the prison as the inmates mourn a recent suicide. Dayanara, Nicky, and Red plot to end Mendez's career by tricking him into revealing his indiscretions. Larry gives a radio interview about Piper's experience in prison and his comments cause conflict with some of Piper's closest allies.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jul. 2013", 
+            "episodeName": "Fool Me Once", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAfter discovering a series of sad truths, friendships change. Tiffany 'Pennsatucky' Doggett is offended by Piper Chapman, and that lead to the dangerous roads. Larry finally meets Piper after the radio show to discuss their future.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jul. 2013", 
+            "episodeName": "Can't Fix Crazy", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAlex makes a final decision about Piper and Larry finally decides what will happen to Piper after meeting Alex for the first time. Red's plan to retrieve her kitchen goes awry. Piper is forced to stand up to another inmate.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Jun. 2014", 
+            "episodeName": "Thirsty Bird", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nPiper is awakened in solitary and, without being given any information, is forced to board a bus and a plane to whereabouts unknown.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Jun. 2014", 
+            "episodeName": "Looks Blue, Tastes Red", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA job fair is being held at the prison, which Taystee attends, Red must face being alone, and Pennsatucky leaves the SHU.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Jun. 2014", 
+            "episodeName": "Hugs Can Be Deceiving", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nPiper is challenged by her Soso experience; Morello gets her heart broken; a figure from Taystee's past arrives to disturb the status quo.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Jun. 2014", 
+            "episodeName": "A Whole Other Hole", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMorello takes a ride, the girls learn about the female body, Piper and Big Boo make a deal, Miss Rosa meets a boy, and Larry and Polly have a day together.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Jun. 2014", 
+            "episodeName": "Low Self Esteem City", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA bathroom turf war sees deeper lines drawn in the sand as Gloria and Vee go head to head. Piper receives devastating news.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Jun. 2014", 
+            "episodeName": "You Also Have a Pizza", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nLove is in the air as the inmates prepare for a Valentine's Day party; Red makes an intriguing new discovery. Larry asks Piper to be his prison mole.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Jun. 2014", 
+            "episodeName": "Comic Sans", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nVee starts her inmate run business, Black Cindy is having issues , Bennett gets blackmailed, and Piper begins her newspaper club.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Jun. 2014", 
+            "episodeName": "Appropriately Sized Pots", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nPiper faces a new backlash over special privileges; Capulo feels pressure to toughen up, resulting in administrative changes.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Jun. 2014", 
+            "episodeName": "40 OZ of Furlough", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhen Piper finally leaves the prison from her furlough agreement, she has issues with her family, and at the same time Pornstache is back and makes the prison a 'hellhole'    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Jun. 2014", 
+            "episodeName": "Little Mustachioed Shit", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe prison guards finally crack down on the inmates to stop the smuggling issue. After Bennett framed Pornstache, problems arise. And a big secret between Piper and Polly is revealed.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Jun. 2014", 
+            "episodeName": "Take a Break from Your Values", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nPiper is shocked at an unexpected change in her status; Soso's hunger strike attracts new support that takes on a religious fervour.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Jun. 2014", 
+            "episodeName": "It Was the Change", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nTensions run high as a prison power outage forces several issues to come to light; Piper finds herself compromised and is forced to think on her feet.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Jun. 2014", 
+            "episodeName": "We Have Manners. We're Polite.", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nSeveral futures hang in the balance as the inmates face and confront their worst nightmares; Life will never be the same again.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Jun. 2015", 
+            "episodeName": "Mother's Day", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCaputo's kinder, gentler new regime includes organizing a Mother's Day fair for the inmates that brings up a LOT of mixed feelings about family.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2015", 
+            "episodeName": "Bed Bugs and Beyond", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nTempers flare when bed bugs invade, as Alex cracks, Red lashes out at Piper, Aleida interferes with Daya and Bennett, and Caputo gets bad news.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2015", 
+            "episodeName": "Empathy Is a Boner Killer", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nNicky's stash situation gets complicated. Alex and Crazy Eyes try a new drama class. Red assists Healy with a personal matter.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2015", 
+            "episodeName": "Finger in the Dyke", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nBig Boo comes up with a scheme to make money. Daya, Taystee and Crazy Eyes confront reality. Caputo tries to make a good impression on some visitors.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2015", 
+            "episodeName": "Fake It Till You Fake It Some More", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nRumors fly among the inmates about a new, higher-paying job assignment, especially when they have to take a test for it.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2015", 
+            "episodeName": "Ching Chong Chang", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nRegime change isn't going over well the staff, but Red makes it work for her. Lorna finds a new way to meet men. Chang shows her private side.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2015", 
+            "episodeName": "Tongue-Tied", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nNorma's healing powers draw more believers. Piper creates a new business venture. Caputo breaks in new hires.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2015", 
+            "episodeName": "Fear, and Other Smells", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nPiper gets creative in order to grow her new business. Crazy Eyes's sci-fi sex story for drama class is a hit. Alex doesn't trust a new inmate named Lolly.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2015", 
+            "episodeName": "Where My Dreidel At", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nToo many inmates seem to be getting religion, so a rabbi comes to visit and Leanne tries to organize Norma's followers.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2015", 
+            "episodeName": "A Tittin' and a Hairin'", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nPennsatucky, Piper, Crazy Eyes, and Lorna get closer with their new admirers. Tensions between Sophia and Gloria, and Alex and Lolly escalate.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2015", 
+            "episodeName": "We Can Be Heroes", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nCaputo and Piper confront labor issues. A miracle occurs in Norma's group. Crazy Eyes's erotica winds up in the hands of the staff.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2015", 
+            "episodeName": "Don't Make Me Come Back There", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDaya goes into labor. Sophia suffers a hate crime. Stella helps Piper with a business snag. Taystee takes on a new role.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jun. 2015", 
+            "episodeName": "Trust No Bitch", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nMiracles and conversions occur, but Piper and Caputo know that some situations can't be dealt with through spiritual means.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Jun. 2016", 
+            "episodeName": "Work That Body for Me", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWith a major security breach and a lot of new inmates, Caputo has to call in the big guns. Things get a little too real for Crazy Eyes and Lolly.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jun. 2016", 
+            "episodeName": "Power Suit", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe newcomers stir up ethnic and domestic conflicts, but Maria sees an opportunity. Judy's special treatment raises eyebrows.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jun. 2016", 
+            "episodeName": "(Don't) Say Anything", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA new job puts Taystee close to Caputo. Lorna has to get creative in her marriage. Soso and Poussey deal with some awkward truths.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jun. 2016", 
+            "episodeName": "Doctor Psycho", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nNothing stays hidden for long when emotions run high, but Red, Healy and Caputo try to keep the peace. Piper has a business competitor.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jun. 2016", 
+            "episodeName": "We'll Always Have Baltimore", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nCompany policies lead to a shortage of critical supplies and an eventful trip to a prison convention. Piscatella starts a new anti-gang initiative.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jun. 2016", 
+            "episodeName": "Piece of Sh*t", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nPiper's plan to edge out the competition could backfire badly. Cindy finds a way to make Taystee's job pay off. Luschek gets some interesting mail.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jun. 2016", 
+            "episodeName": "It Sounded Nicer in My Head", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nParanoia strikes deep for Lolly and Judy, aggravating an already tense situation. Red sticks to a Russian tradition for an important occasion.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jun. 2016", 
+            "episodeName": "Friends in Low Places", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA new work detail doesn't go over well with the inmates. Judy seeks help from Poussey. Maria finds a place she can conduct business.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jun. 2016", 
+            "episodeName": "Turn Table Turn", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nRamos and Flores figure out ways to rebel against authority. A news item has an unexpected effect. Red and Lorna face personal disappointment.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jun. 2016", 
+            "episodeName": "Bunny, Skull, Bunny, Skull", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe movie night selection becomes controversial. Aleida makes an adjustment. Piper worries the prison punishments are getting too medieval.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jun. 2016", 
+            "episodeName": "People Persons", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nCaputo's leadership is challenged and the inmates are in for a long night of lockdown after workers make an unsettling discovery.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jun. 2016", 
+            "episodeName": "The Animals", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAlliances shift among the prison \"families\" as Piscatella and his guards crack down. Poussey, Judy and Alex prefer to look ahead to the future.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jun. 2016", 
+            "episodeName": "Toast Can't Never Be Bread Again", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nCorporate bureaucracy and simmering anger work against Caputo's efforts to keep a sensitive situation under control.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Jun. 2017", 
+            "episodeName": "Riot FOMO", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Jun. 2017", 
+            "episodeName": "Episode #5.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Jun. 2017", 
+            "episodeName": "Episode #5.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Jun. 2017", 
+            "episodeName": "Episode #5.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Jun. 2017", 
+            "episodeName": "Episode #5.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Jun. 2017", 
+            "episodeName": "Episode #5.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Jun. 2017", 
+            "episodeName": "Episode #5.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Jun. 2017", 
+            "episodeName": "Episode #5.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Jun. 2017", 
+            "episodeName": "Episode #5.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Jun. 2017", 
+            "episodeName": "Episode #5.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #6.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #6.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #7.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }
+    ], 
+    "name": "Orange Is the New Black", 
+    "plot": "The story of Piper Chapman, a woman in her thirties who is sentenced to fifteen months in prison after being convicted of a decade-old crime of transporting money to her drug-dealing girlfriend.", 
+    "rating": 8.3, 
+    "releaseDate": "11 July 2013 (internet)", 
+    "type": "tvserie"
+}

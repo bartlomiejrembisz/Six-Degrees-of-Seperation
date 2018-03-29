@@ -1,0 +1,37 @@
+{
+    "actorList": [
+        "Graham Chapman", 
+        "John Cleese", 
+        "Terry Gilliam", 
+        "Eric Idle", 
+        "Terry Jones", 
+        "Michael Palin", 
+        "Terence Bayler", 
+        "Carol Cleveland", 
+        "Kenneth Colley", 
+        "Neil Innes", 
+        "Charles McKeown", 
+        "John Young", 
+        "Gwen Taylor", 
+        "Sue Jones-Davies", 
+        "Peter Brett", 
+        "John Case", 
+        "Chris Langham", 
+        "Andrew MacLachlan", 
+        "Bernard McKenna", 
+        "Spike Milligan", 
+        "George Harrison", 
+        "Charles Knode"
+    ], 
+    "director": [
+        "Terry Jones"
+    ], 
+    "genres": [
+        "Comedy"
+    ], 
+    "name": "Life of Brian", 
+    "plot": "Brian is born on the original Christmas, in the stable next door. He spends his life being mistaken for a messiah.", 
+    "rating": 8.1, 
+    "releaseDate": "17 August 1979", 
+    "type": "movie"
+}

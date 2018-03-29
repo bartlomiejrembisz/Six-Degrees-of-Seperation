@@ -1,0 +1,36 @@
+{
+    "actorList": [
+        "Forest Whitaker", 
+        "Miranda Richardson", 
+        "Stephen Rea", 
+        "Adrian Dunbar", 
+        "Breffni McKenna", 
+        "Joe Savino", 
+        "Birdy Sweeney", 
+        "Jaye Davidson", 
+        "Andr\u00e9e Bernard", 
+        "Jim Broadbent", 
+        "Ralph Brown", 
+        "Tony Slattery", 
+        "Jack Carr", 
+        "Josephine White", 
+        "Shar Campbell", 
+        "Bryan Coleman", 
+        "Ray De-Haan", 
+        "David Crionelly"
+    ], 
+    "director": [
+        "Neil Jordan"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Romance", 
+        "Thriller"
+    ], 
+    "name": "The Crying Game", 
+    "plot": "A British soldier is kidnapped by IRA terrorists. He befriends one of his captors, who is drawn into the soldier's world.", 
+    "rating": 7.3, 
+    "releaseDate": "2 September 1992 (Venice Film Festival)", 
+    "type": "movie"
+}

@@ -1,0 +1,105 @@
+{
+    "actorList": [
+        "Geoffrey Rush", 
+        "Johnny Flynn", 
+        "Nicholas Rowe", 
+        "Samantha Colley", 
+        "Ralph Brown", 
+        "Jon Fletcher", 
+        "Richard Topol"
+    ], 
+    "director": [
+        "James Hawes", 
+        "Minkie Spiro", 
+        "Ron Howard"
+    ], 
+    "genres": [
+        "Biography", 
+        "Drama", 
+        "History"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "25 Apr. 2017", 
+            "episodeName": "Chapter One", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe story of Albert Einstein, starting with flashbacks of his student years in M\u00fcnich and Zurich in the 1890's.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 May 2017", 
+            "episodeName": "Chapter Two", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAfter butting heads in class, Einstein falls in love with the determined Mileva Maric.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 May 2017", 
+            "episodeName": "Chapter Three", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 May 2017", 
+            "episodeName": "Chapter Four", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 May 2017", 
+            "episodeName": "Chapter Five", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter Six", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Jun. 2017", 
+            "episodeName": "Chapter Seven", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Jun. 2017", 
+            "episodeName": "Chapter Eight", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Jun. 2017", 
+            "episodeName": "Chapter Nine", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Jun. 2017", 
+            "episodeName": "Chapter Ten", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #2.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }
+    ], 
+    "name": "Genius", 
+    "plot": "A series which explores how patent clerk Einstein could not get a teaching job or doctorate in his early life, yet managed to go on to solve the secrets of the universe.", 
+    "rating": 0, 
+    "releaseDate": "23 April 2017", 
+    "type": "tvserie"
+}

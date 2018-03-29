@@ -1,0 +1,112 @@
+{
+    "actorList": [
+        "Jodie Comer", 
+        "Jacob Collins-Levy", 
+        "Chris Barnicoat", 
+        "Rebecca Benson", 
+        "Mark Anthony Games", 
+        "Ian Massey", 
+        "Stuart McNeil", 
+        "Katie Powles", 
+        "Samuel Rush", 
+        "Vincent Regan", 
+        "Avenda Burnell Walsh", 
+        "Taynee Lord", 
+        "Michelle Fairley", 
+        "Essie Davis", 
+        "Suki Waterhouse", 
+        "Heidi Ely", 
+        "Hannah Floodpage", 
+        "Alison Garner", 
+        "Patrick Gibson", 
+        "Oliver Hembrough", 
+        "Ava Masters", 
+        "Amy Manson", 
+        "Anthony Flanagan", 
+        "Guillaume Rivaud", 
+        "Rollo Skinner", 
+        "Michael Smoker", 
+        "Albert de Jongh", 
+        "Jamie Sharpe", 
+        "Nicholas Audsley", 
+        "Iain Batchelor", 
+        "Rhys Connah", 
+        "Richard Dillane", 
+        "Caroline Goodall", 
+        "Samantha E. Hunt", 
+        "Rosie Knightley", 
+        "Adrian Rawlins", 
+        "Susie Trayling", 
+        "Guy Williams"
+    ], 
+    "director": [
+        "Jamie Payne", 
+        "Alex Kalymnios"
+    ], 
+    "genres": [
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "16 Apr. 2017", 
+            "episodeName": "In Bed with the Enemy", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nEngland is in a fractious state as the victory of the Battle of Bosworth, Henry Tudor, is set to ascend to the throne. Elizabeth of York (\"Lizzie\") and her family, supporters of the former king, find themselves in grave danger.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Apr. 2017", 
+            "episodeName": "Hearts and Minds", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nKing Henry VII tours the kingdom in an attempt to establish himself as the new sovereign; Lizzie's pregnancy complicates her loyalties.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #1.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #1.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #1.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #1.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #1.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #1.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "The White Princess", 
+    "plot": "Based on the Philippa Gregory book of the same name, the story of Elizabeth of York, the White Queen's daughter, and her marriage to the Lancaster victor, Henry VII.", 
+    "rating": 0, 
+    "releaseDate": "16 April 2017", 
+    "type": "tvserie"
+}

@@ -1,0 +1,37 @@
+{
+    "actorList": [
+        "Arnold Friedman", 
+        "Elaine Friedman", 
+        "David Friedman", 
+        "Seth Friedman", 
+        "Jesse Friedman", 
+        "John McDermott", 
+        "Frances Galasso", 
+        "Anthony Sgeugloi", 
+        "Chuck Scarborough", 
+        "Joseph Onorato", 
+        "Judd Maltin", 
+        "Howard Friedman", 
+        "Abbey Boklan", 
+        "Ron Georgalis", 
+        "Scott Banks", 
+        "Larry King", 
+        "Debbie Nathan", 
+        "Jerry Bernstein", 
+        "Peter Panaro", 
+        "Lloyd Doppman", 
+        "Jack Fallin"
+    ], 
+    "director": [
+        "Andrew Jarecki"
+    ], 
+    "genres": [
+        "Documentary", 
+        "Biography"
+    ], 
+    "name": "Capturing the Friedmans", 
+    "plot": "Documentary on the Friedmans, a seemingly typical, upper-middle-class Jewish family whose world is instantly transformed when the father and his youngest son are arrested and charged with shocking and horrible crimes.", 
+    "rating": 7.8, 
+    "releaseDate": "17 January 2003 (Sundance Film Festival)", 
+    "type": "movie"
+}

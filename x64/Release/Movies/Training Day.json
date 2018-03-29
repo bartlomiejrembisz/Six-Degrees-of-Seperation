@@ -1,0 +1,33 @@
+{
+    "actorList": [
+        "Bill Paxton", 
+        "Justin Cornwell", 
+        "Katrina Law", 
+        "Drew Van Acker", 
+        "Marianne Jean-Baptiste", 
+        "Christina Vidal", 
+        "Lex Scott Davis"
+    ], 
+    "director": [
+        "Steven A. Adelson", 
+        "Matt Earl Beesley", 
+        "Danny Cannon", 
+        "Milan Cheylov", 
+        "Eagle Egilsson", 
+        "Nathan Hope", 
+        "Jeffrey G. Hunt", 
+        "Louis Shaw Milito", 
+        "Steve Shill", 
+        "Larry Teng"
+    ], 
+    "genres": [
+        "Action", 
+        "Crime", 
+        "Drama"
+    ], 
+    "name": "Training Day", 
+    "plot": "TV follow-up to the 2001 film 'Training Day' about a rookie cop partnered with a corrupt officer.", 
+    "rating": 5.7, 
+    "releaseDate": "2 February 2017", 
+    "type": "movie"
+}

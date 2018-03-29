@@ -1,0 +1,51 @@
+{
+    "actorList": [
+        "Daniel Auteuil", 
+        "Juliette Binoche", 
+        "Maurice B\u00e9nichou", 
+        "Annie Girardot", 
+        "Bernard Le Coq", 
+        "Walid Afkir", 
+        "Lester Makedonsky", 
+        "Daniel Duval", 
+        "Nathalie Richard", 
+        "Denis Podalyd\u00e8s", 
+        "A\u00efssa Ma\u00efga", 
+        "Caroline Baehr", 
+        "Christian Benedetti", 
+        "Philippe Besson", 
+        "Loic Brabant", 
+        "Jean-Jacques Brochier", 
+        "Paule Dar\u00e9", 
+        "Louis-Do de Lencquesaing", 
+        "Annette Faure", 
+        "Hugo Flamigni", 
+        "Peter Stephan Jungk", 
+        "Diouc Koma", 
+        "Marie Kremer", 
+        "Nicky Marbot", 
+        "Malik Nait Djoudi", 
+        "Marie-Christine Orry", 
+        "Mazarine Pingeot", 
+        "Julie Recoing", 
+        "Karla Suarez", 
+        "Laurent Suire", 
+        "Jean Teul\u00e9", 
+        "Carlo Azeglio Ciampi", 
+        "Barbara Contini", 
+        "Fran\u00e7ois N\u00e9gret"
+    ], 
+    "director": [
+        "Michael Haneke"
+    ], 
+    "genres": [
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "Cach\u00e9", 
+    "plot": "A married couple is terrorized by a series of surveillance videotapes left on their front porch.", 
+    "rating": 7.3, 
+    "releaseDate": "14 May 2005 (Cannes Film Festival)\n (premiere)", 
+    "type": "movie"
+}

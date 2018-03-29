@@ -1,0 +1,37 @@
+{
+    "actorList": [
+        "Al Pacino", 
+        "Jack Lemmon", 
+        "Alec Baldwin", 
+        "Alan Arkin", 
+        "Ed Harris", 
+        "Kevin Spacey", 
+        "Jonathan Pryce", 
+        "Bruce Altman", 
+        "Jude Ciccolella", 
+        "Paul Butler", 
+        "Lori Tan Chinn", 
+        "Neal Jones", 
+        "Barry Rohrssen", 
+        "Leigh French", 
+        "George Cheung", 
+        "Murphy Dunne", 
+        "Dana Lee", 
+        "Julie Payne", 
+        "Gregory Snegoff", 
+        "Skipp Lynch"
+    ], 
+    "director": [
+        "James Foley"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery"
+    ], 
+    "name": "Glengarry Glen Ross", 
+    "plot": "An examination of the machinations behind the scenes at a real estate office.", 
+    "rating": 7.8, 
+    "releaseDate": "September 1992 (Deauville Film Festival)", 
+    "type": "movie"
+}

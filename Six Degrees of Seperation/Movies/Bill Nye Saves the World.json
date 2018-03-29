@@ -1,0 +1,110 @@
+{
+    "actorList": [
+        "Bill Nye"
+    ], 
+    "director": [
+        "Nick Murray"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Talk-Show"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Earth Is a Hot Mess", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nBill calls out climate change deniers, breaks down the science of global warming and explains how we can make the planet a cooler place to live.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Tune Your Quack-o-Meter", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nBill Nye and the team debunk alternative medicine, including an explanation into the placebo effect & why we think something works when it has no basis in science proof.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Machines Take Over the World", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "More Food, Less Hype", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nBill Nye brings on representatives from Monsanto Corporation to discuss GMO foods with no other views discussed.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "The Original Martian Invasion", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Do Some Shots, Save the World", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Cheat Codes for Reality", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "This Diet Is Bananas", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "The Sexual Spectrum", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Saving the World -- With Space!", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Malarkey!", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Designer Babies", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Earth's People Problem", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "Bill Nye Saves the World", 
+    "plot": "Scientist Bill Nye explores various problems and misconceptions from a scientific point of view.", 
+    "rating": 0, 
+    "releaseDate": "21 April 2017", 
+    "type": "tvserie"
+}

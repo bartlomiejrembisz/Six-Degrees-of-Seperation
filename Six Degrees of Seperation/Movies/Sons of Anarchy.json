@@ -1,0 +1,689 @@
+{
+    "actorList": [
+        "Charlie Hunnam", 
+        "Katey Sagal", 
+        "Mark Boone Junior", 
+        "Kim Coates", 
+        "Tommy Flanagan", 
+        "Theo Rossi", 
+        "Dayton Callie", 
+        "Maggie Siff", 
+        "Ron Perlman", 
+        "David Labrava", 
+        "Ryan Hurst", 
+        "William Lucking", 
+        "Michael Ornstein", 
+        "Winter Ave Zoli", 
+        "Jimmy Smits", 
+        "Niko Nicotera"
+    ], 
+    "director": [
+        "Paris Barclay", 
+        "Guy Ferland", 
+        "Gwyneth Horder-Payton", 
+        "Peter Weller", 
+        "Billy Gierhart", 
+        "Kurt Sutter", 
+        "Stephen Kay", 
+        "Adam Arkin", 
+        "Terrence O'Hara", 
+        "Paul Maibaum", 
+        "Phil Abraham"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "3 Sep. 2008", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA rival gang steals the Sons' stockpile of assault rifles, while Jax's ex-wife's drug overdose leads to an emergency c-section and life-threatening surgery for their baby.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Sep. 2008", 
+            "episodeName": "Seeds", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe gang hope to be financially in the clear after their successful arms sale. But the ATF will be all over if they get linked to the warehouse arson where two Mexican immigrants were found. So the Sons exert pressure and call favors with authorities and auxiliaries, any way they can, including Jax's sexual excellence, to spy on and sabotage the investigation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Sep. 2008", 
+            "episodeName": "Fun Town", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen the young daughter of a prominent Charming family is assaulted during a visiting carnival, Samcro races the authorities to capture the assailant. Meanwhile a new shipment of guns arrives from their IRA connection with an additional price. Tara's ex-boyfriend arrives in Charming.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Sep. 2008", 
+            "episodeName": "Patch Over", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe club travels to Nevada to store arms with a brother club The Devil's Tribe. When the Mayans pose a threat, Clay decides to patch-over the tribe, making them an official SOA charter. Tara's ex, ATF agent Kohn begins investigating Samcro.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Oct. 2008", 
+            "episodeName": "Giving Back", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nGemma hosts a town fundraiser, which brings the ex club member who was responsible for Opie's arrest back to town and into direct conflict with Jax and Opie. Clay deals with protecting a perverse parolee who can lead to a big payoff. ATF agent Kohn continues to investigate SOA.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Oct. 2008", 
+            "episodeName": "AK-51", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA small favor for Pineys old war buddy turns into a big problem for SAMCRO. With Clay detained, Jax must step-up to handle the situation. Meanwhile, Gemma deals with the pangs of aging and the arrival of a familiar sweetbutt whose intentions are unclear.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Oct. 2008", 
+            "episodeName": "Old Bones", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen old bones are discovered on the outskirts of Charming, Clay is forced to deal with secrets he buried long ago. Meanwhile, the club sets its sights on prize money, backing Half-Sack in a bare-knuckle brawl. ATF agent Kohn's investigation turns personal when his true intentions are revealed.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Oct. 2008", 
+            "episodeName": "The Pull", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nSamcro scrambles to raise cash as the IRA gun payment comes due. The Mayans and Nords take an extreme step to cement their alliance. And Jax finds himself in danger as his relationship with Tara deepens.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Oct. 2008", 
+            "episodeName": "Hell Followed", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSOA plans revenge on a rival biker club while hosting the wounded Cameron Hayes in the clubhouse. Meanwhile, Jax, Bobby, and Opie strive to clear the gun debt forever.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Nov. 2008", 
+            "episodeName": "Better Half", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs ATF agent Stahl pressures the women of SAMCRO, Jax looks to Chief Unser as the key to the club's freedom. Tara can't escape nightmares about Kohn. And Cherry reveals secrets about her past to Gemma.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Nov. 2008", 
+            "episodeName": "Capybara", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nOne SOA member is arrested for murder. Another goes missing. Jax has to choose between the club and one of his closest friendships. At the hospital, Abel grows stronger, but he's not the only one coming home.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Nov. 2008", 
+            "episodeName": "The Sleep of Babies", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe club needs cash to fund Bobby's defense, but Clay's strategy leaves them in a vulnerable position. Abel comes home for the first time. But the homecoming party ends in tragedy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Nov. 2008", 
+            "episodeName": "The Revelator", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAfter a tragedy hits the club, the bonds of brotherhood are called into question and Jax must take a stand.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Sep. 2009", 
+            "episodeName": "Albification", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWith the club divided in the wake of a tragic death, Clay sets up a new gun deal with the IRA.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Sep. 2009", 
+            "episodeName": "Small Tears", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nJax's decision without the club's approval doesn't sit well with Clay, especially when it brings dangerous repercussions upon the MC.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Sep. 2009", 
+            "episodeName": "Fix", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe League takes bold new steps in their quest to undermine Samcro, forcing the club to take explosive measures.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Sep. 2009", 
+            "episodeName": "Eureka", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhen the MC heads north on a \"charity\" club run, they find more than just bike trouble when they cross state lines. And with Samcro out of Charming, Gemma's left in a compromising position with The League.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Oct. 2009", 
+            "episodeName": "Smite", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nCharming and its small-town appeal become vulnerable to The League, which finds new ways to provoke SOA members. Tara's compassionate efforts to help a distraught Gemma don't go unpunished.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Oct. 2009", 
+            "episodeName": "Falx Cerebri", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nClay sets a course for retaliation; Gemma shows Tara how an old lady handles anger.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Oct. 2009", 
+            "episodeName": "Gilead", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe club must make new alliances in prison to survive.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Oct. 2009", 
+            "episodeName": "Potlatch", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWith Oswald putting up the bail money, SAMCRO are released from prison, but the split between Clay and Jax is wider than ever. Complicating matters, Caruso's thugs attack Luann's studio. In an effort to heal the tensions between her husband and son, Gemma decides to organise a meal, whilst Bobby pushes to try to find out what is at the core of the dispute. Clay comes to an agreement with Oswald when he learns Jacob is planning to run for mayor. Chibs' estranged wife, Fiona Larkin, shows up at his hospital bedside, much to Gemma's chagrin. Lin has a proposal for SAMCRO...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Nov. 2009", 
+            "episodeName": "Fa Guan", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhen SAMCRO's adult film business becomes a hindrance to the club, Clay seizes the opportunity to revive the gun-running cartel. As Jax and Clay continue to clash over club activities, their relationship reaches a new level of antagonism.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Nov. 2009", 
+            "episodeName": "Balm", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhile the repo business proves more fruitful than the club ever imagined, ATF Agent Stahl gets up close and personal with the MC. Meanwhile, tension between Jax and Clay forces Gemma to make a tough decision.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Nov. 2009", 
+            "episodeName": "Service", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nChibs makes a secret deal with Agent Stahl in order to protect his wife and daughter. Opie learns the true circumstances that led to Donna's death and seeks both revenge and reconciliation.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Nov. 2009", 
+            "episodeName": "The Culling", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe entire SAMCRO family goes on lockdown inside the clubhouse as war with the League approaches. Opie decides not to pursue revenge against Clay or Tig for Donna's death. Jimmy puts an end to Cameron's deal with Zobelle, agreeing instead to sell exclusively to the Sons. As Chibs backs out of the deal with Stahl and attempts to convince Fiona to let him protect her, Clay tells Jimmy that Edmond has turned on the IRA. After Jax witnesses Zobelle meeting Alvarez, the Sons inform Weston of the real nature of Zobelle's business dealings in Charming. Tara applies the ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Dec. 2009", 
+            "episodeName": "Na Triobloidi", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs SAMCRO attempts to rid Charming of Ethan Zobelle and The League permanently, familiar faces present new challenges.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Sep. 2010", 
+            "episodeName": "So", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe aftermath of Abel's kidnapping has the Sons reeling - especially Jax, whose grief sends him into deeper turmoil over his future with the MC. Meanwhile Gemma, still on the lam, is hit with some unexpected news from her past.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Sep. 2010", 
+            "episodeName": "Oiled", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nTo get intel on Abel's whereabouts, Jax and the club help a bounty hunter track down a skip. Meanwhile, Gemma deals with family issues.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Sep. 2010", 
+            "episodeName": "Caregiver", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe club exploits its porn connections to entertain Henry Lin's clients, which doesn't sit well with one member.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Sep. 2010", 
+            "episodeName": "Home", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nSamcro heads north to help Happy with a pharmaceutical favor in redneck territory. Gemma tries to put old family matters to rest.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Oct. 2010", 
+            "episodeName": "Turning and Turning", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nTo help his mom, his club, and his son, Jax conspires with an unlikely source; meanwhile, the MC puts Chucky undercover.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Oct. 2010", 
+            "episodeName": "The Push", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTo protect their territory, Sons of Anarchy must handle a rat at St. Thomas.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Oct. 2010", 
+            "episodeName": "Widening Gyre", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe Grim Bastards have a problem that could jeopardize Samcro's new business arrangements.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Oct. 2010", 
+            "episodeName": "Lochan Mor", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhen Samcro pays a visit to another charter, not everyone's happy to see the mother chapter.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 Nov. 2010", 
+            "episodeName": "Turas", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSAMCRO tries to get answers from Jimmy, but finds themselves in an explosive situation; and Hale looks into the attack at the gym while Tig and the others search for answers on their own.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 Nov. 2010", 
+            "episodeName": "F\u00edrinne", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe IRA wants proof that one of their own has flipped and Samcro intends to give it to them.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Nov. 2010", 
+            "episodeName": "Bainne", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhile the club's on a man hunt, Jax faces the toughest decision of his life.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Nov. 2010", 
+            "episodeName": "June Wedding", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWith a member of the Samcro family held hostage, Jax must choose between revenge or the good of Charming.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "30 Nov. 2010", 
+            "episodeName": "NS", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nBoth the ATF and the Russians prove to be obstacles as the club looks to heal old wounds and settle old scores.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Sep. 2011", 
+            "episodeName": "Out", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFresh out of jail, Sam Crow reunites with family, confronts new Charming law enforcement, and shifts business alliances.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Sep. 2011", 
+            "episodeName": "Booster", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe Sons of Anarchy are forced to make a decision that could challenge the future of the club.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Sep. 2011", 
+            "episodeName": "Dorylus", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nSAMCRO encounters an unlikely foe when a piece of their business goes missing.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Sep. 2011", 
+            "episodeName": "Una Venta", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nSAMCRO makes a run to set up a new business venture while Gemma makes a new ally in Charming.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Oct. 2011", 
+            "episodeName": "Brick", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSAMCRO enlists a former foe to help stop the advancement of Charming Heights, while the Sheriff presses Juice for more information.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Oct. 2011", 
+            "episodeName": "With an X", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nSAMCRO's relationship with the Cartel is in jeopardy when an important package is compromised.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Oct. 2011", 
+            "episodeName": "Fruit for the Crows", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nSAMCRO deals with the fallout from a death threat made against Tara.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Oct. 2011", 
+            "episodeName": "Family Recipe", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAn important club vote gets side tracked when SAMCRO is forced to deal with dangerous external threats against the club.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Nov. 2011", 
+            "episodeName": "Kiss", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSAMCRO gets word that the Niners have made a new alliance that directly impacts their own agenda.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Nov. 2011", 
+            "episodeName": "Hands", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nJax and Tara get a glimpse of life without SAMCRO but discover that their reality is hard to escape.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Nov. 2011", 
+            "episodeName": "Call of Duty", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nSAMCRO is at risk of being pushed out of their own business when a powerful adversary arrives and poses a threat to their business relations with the Cartel.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Nov. 2011", 
+            "episodeName": "Burnt and Purged Away", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nSAMCRO negotiates with the Irish Kings to secure the future of the club.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Nov. 2011", 
+            "episodeName": "To Be, Act 1", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nJax is confronted with a new challenge that threatens his family and his club.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Dec. 2011", 
+            "episodeName": "To Be, Act 2", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nJax must overcome great obstacles as he attempts to finalize the gun deal between the Irish and the cartel.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Sep. 2012", 
+            "episodeName": "Sovereign", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nJax presides over SAMCRO as a series of events begin to unravel Charming.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "18 Sep. 2012", 
+            "episodeName": "Authority Vested", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nJax and SAMCRO are challenged as past sins resurface.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Sep. 2012", 
+            "episodeName": "Laying Pipe", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA desperate situation tests familial and club bonds.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 Oct. 2012", 
+            "episodeName": "Stolen Huffy", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nComplications arise as the Sons band together to face a new adversary.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Oct. 2012", 
+            "episodeName": "Orca Shrugged", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nJax attempts to pull Samcro into a new business venture.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "16 Oct. 2012", 
+            "episodeName": "Small World", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nJax brings a new proposal to the club with serious consequences.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "23 Oct. 2012", 
+            "episodeName": "Toad's Wild Ride", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nJax takes matters into his own hands as things go sideways.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 Oct. 2012", 
+            "episodeName": "Ablation", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAlliances are tested, while bonds are broken.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Nov. 2012", 
+            "episodeName": "Andare Pescare", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJax gets closer to the truth but there are still obstacles in his way.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Nov. 2012", 
+            "episodeName": "Crucifixed", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAnticipating backlash, Jax goes into high gear with his own agenda.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Nov. 2012", 
+            "episodeName": "To Thine Own Self", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nJax scrambles to put his affairs in order, while Nero handles business with his old crew.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "27 Nov. 2012", 
+            "episodeName": "Darthy", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nJax makes arrangements to take the club in a different direction.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "4 Dec. 2012", 
+            "episodeName": "J'ai Obtenu Cette", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nJax strikes a new deal while ridding himself of old problems.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Sep. 2013", 
+            "episodeName": "Straw", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAs Jax continues to push the club into more legitimate businesses he can't escape the sins of SAMCRO's past.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "17 Sep. 2013", 
+            "episodeName": "One One Six", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nJax deals with collateral damage as external pressure continue to stack up against SAMCRO.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "24 Sep. 2013", 
+            "episodeName": "Poenitentia", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJax secures a new alliance for the club while Clay makes moves inside for protection.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "1 Oct. 2013", 
+            "episodeName": "Wolfsangel", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAn attack at the compound leads SOA to seek revenge.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "8 Oct. 2013", 
+            "episodeName": "The Mad King", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe club is forced to make an uneasy alliance with unforeseen consequences.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "15 Oct. 2013", 
+            "episodeName": "Salvage", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nJax and the MC must confront their past and choose their future.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 Oct. 2013", 
+            "episodeName": "Sweet and Vaded", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nTriggers are pulled that strengthen the MC, but also threaten to destroy it.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "29 Oct. 2013", 
+            "episodeName": "Los Fantasmas", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nPressure mounts on Jax as the sins of his club and family pull him in different directions.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "5 Nov. 2013", 
+            "episodeName": "John 8:32", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJax learns new secrets that turn his world sideways.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Nov. 2013", 
+            "episodeName": "Huang Wu", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nJax looks to push the club forward but the Irish put another obstacle in his way.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Nov. 2013", 
+            "episodeName": "Aon Rud Persanta", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nTension mounts as the club makes a bold move to finally get out of guns.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "3 Dec. 2013", 
+            "episodeName": "You Are My Sunshine", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAs the dust begins to settle, Jax's world is suddenly turned upside down.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "10 Dec. 2013", 
+            "episodeName": "A Mother's Work", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nJax has to handle some unhappy customers as the weapon deal goes through Mike's organization. Meanwhile, Tara finds a way to avoid jail without giving up the MC.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Sep. 2014", 
+            "episodeName": "Black Widower", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn the wake of Tara's death, Jax is freed from prison and makes revenge his top priority. Wendy leaves rehab early and discovers Juice is hiding from SAMCRO and laying low at her apartment.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "16 Sep. 2014", 
+            "episodeName": "Toil and Till", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nJax calls in the Nevada charter for help in dealing a huge blow to Henry Lin and his crew. Unser digs into Tara's murder.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "23 Sep. 2014", 
+            "episodeName": "Playing with Monsters", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJax bring forth some alliances to further destroy Henry Lin and plot August Marks demise. Juice tries to reach out to Chibs, but learns his actions are beyond redemption.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "30 Sep. 2014", 
+            "episodeName": "Poor Little Lambs", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA past effort to help one ally leads to trouble with another.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "7 Oct. 2014", 
+            "episodeName": "Some Strange Eruption", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nJax looks to draw out the snitch that sold him out to Lin, leading to a confrontation at the port. Juice leaves town with Gemma and discovers her true intentions.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "14 Oct. 2014", 
+            "episodeName": "Smoke 'em If You Got 'em", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nJax takes advantage of shifting alliances to protect the MC and settle a score.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "21 Oct. 2014", 
+            "episodeName": "Greensleeves", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nSamcro makes an unlikely partnership in order to undermine a powerful club enemy.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "28 Oct. 2014", 
+            "episodeName": "The Separation of Crows", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA traitor is suspected as SAMCRO searches for a missing member.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "4 Nov. 2014", 
+            "episodeName": "What a Piece of Work Is Man", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe club makes critical decisions to get a club member back. The club deals with heartache internally and conflict with the organization at large.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "11 Nov. 2014", 
+            "episodeName": "Faith and Despondency", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe Sons MC deal with heartache internally and conflict within the organization at large.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "18 Nov. 2014", 
+            "episodeName": "Suits of Woe", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAs the whole of the Sons of Anarchy organization bears down on the outlaw motorcycle club's California-based Redwood Original chapter, President Jackson \"Jax\" Teller comes face to face with an extremely unpleasant reality.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 Dec. 2014", 
+            "episodeName": "Red Rose", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nGemma visits her father. Jax learns where she's at and goes after her. Unser gets in his way and suffers the consequences. Juice runs his last deal for the club. Wendy and Jackson get together.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "9 Dec. 2014", 
+            "episodeName": "Papa's Goods", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nSAMCRO president Jax Teller takes the final steps towards fulfilling his father's legacy.    ", 
+            "seasonNumber": 7
+        }
+    ], 
+    "name": "Sons of Anarchy", 
+    "plot": "A man in his early 30s struggles to find a balance in his life between being a new dad and his involvement in a motorcycle club.", 
+    "rating": 8.6, 
+    "releaseDate": "3 September 2008", 
+    "type": "tvserie"
+}

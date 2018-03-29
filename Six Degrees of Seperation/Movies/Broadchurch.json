@@ -1,0 +1,209 @@
+{
+    "actorList": [
+        "David Tennant", 
+        "Olivia Colman", 
+        "Jodie Whittaker", 
+        "Andrew Buchan", 
+        "Carolyn Pickles", 
+        "Arthur Darvill", 
+        "Charlotte Beaumont", 
+        "Adam Wilson", 
+        "Matthew Gravelle", 
+        "Jonathan Bailey", 
+        "Joe Sims", 
+        "Simone McAullay", 
+        "Tanya Franks", 
+        "Pauline Quirke", 
+        "Steve Bennett", 
+        "Benji Yapp"
+    ], 
+    "director": [
+        "James Strong", 
+        "Paul Andrew Williams", 
+        "Euros Lyn", 
+        "Mike Barker", 
+        "Jessica Hobbs", 
+        "Jonathan Teplitzky", 
+        "Daniel Nettheim"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "7 Aug. 2013", 
+            "episodeName": "Episode #1.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nDetective Ellie Miller returns from holiday to find that her promotion to inspector was given to an outsider, named Alec Hardy, and that the son of her close friend has supposedly committed suicide.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Aug. 2013", 
+            "episodeName": "Episode #1.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAs the mystery around Danny's death deepens, DI Hardy and DS Miller must work fast to identify the key suspects.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Aug. 2013", 
+            "episodeName": "Episode #1.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe discovery of the murder scene leads Hardy and Miller to arrest a startling suspect in Danny's murder.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Aug. 2013", 
+            "episodeName": "Episode #1.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe aftershocks of Danny's murder continue to ripple through the town, as friends and neighbors' lives come under scrutiny.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Sep. 2013", 
+            "episodeName": "Episode #1.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAs Hardy and Ellie come under fire, the people of Broadchurch start to turn against each other.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Sep. 2013", 
+            "episodeName": "Episode #1.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe town of Broadchurch comes together to mourn. In doing so, a new suspect in the murder of Danny Latimer comes to light.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Sep. 2013", 
+            "episodeName": "Episode #1.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nHardy knows his time is running out to solve Danny's murder - will the discovery of a vital clue finally unlock the case?    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Sep. 2013", 
+            "episodeName": "Episode #1.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nShock, rather than relief, takes hold of Broadchurch as Hardy finally discovers who murdered Danny Latimer.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Mar. 2015", 
+            "episodeName": "Episode #2.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWhen Joe Miller pleads not guilty, the town of Broadchurch have to prepare for a full trial. Meanwhile, a woman called Claire, from the Sandbrook case, relies on Alec for protection.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Mar. 2015", 
+            "episodeName": "Episode #2.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA new development in Joe Miller's trial surprises the court. Alec and Ellie set up a meeting between Claire and Lee Ashworth, with consequences to everyone involved.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2015", 
+            "episodeName": "Episode #2.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMiller and Hardy try to take control of the events of Claire and Lee's arranged meeting. Meanwhile, the court case continues and begins to question Alec and Millers whereabouts after the murder.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Mar. 2015", 
+            "episodeName": "Episode #2.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHardy is annoyed when being questioned about Ashworth's return. Claire disobeys Hardy's instructions not to see Ashworth. A former Broadchurch resident returns.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Apr. 2015", 
+            "episodeName": "Episode #2.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMiller's son wants to give evidence at his father's trial. Miller helps Alec with his old unsolved murder case.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Apr. 2015", 
+            "episodeName": "Episode #2.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTom takes the stand. Jocelyn receives double bad news. Hardy and Ellie find evidence to connect Pippa to Ashworth and Claire.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Apr. 2015", 
+            "episodeName": "Episode #2.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe final arguments are made in Joe Miller's trial. Hardy and Ellie follow-up on new evidence. Another one of Claire's secrets comes to light.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Apr. 2015", 
+            "episodeName": "Episode #2.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe fate of Joe Miller is decided. Alec and Ellie close the Sandbrook murder case.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Feb. 2017", 
+            "episodeName": "Episode #3.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nDS Ellie Miller and DI Alec Hardy are called in to investigate a serious sexual assault in the Dorset community.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Mar. 2017", 
+            "episodeName": "Episode #3.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nEllie and Hardy realize that the location of the attack and all the surrounding circumstances are going to make this a difficult investigation.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Mar. 2017", 
+            "episodeName": "Episode #3.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nEllie and Hardy appeal to Trish to be more open with them. Trish receives an unnerving gift from an anonymous sender.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Mar. 2017", 
+            "episodeName": "Episode #3.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDC Harford discovers a new suspect who doesn't have an alibi. Cath reveals new information about the night of her party. Hardy and Ellie get a match on the male DNA found on Trish.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Mar. 2017", 
+            "episodeName": "Episode #3.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA new witness turns Trish's case upside down. Katie discovers a new link between the case and a key suspect. Beth tells her supervisor about Trish's case.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Apr. 2017", 
+            "episodeName": "Episode #3.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nEllie and Hardy bring a new suspect in for questioning. In a search of this suspect's premises, Ellie finds devastating new evidence linking him to the crime.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Apr. 2017", 
+            "episodeName": "Episode #3.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nImportant pieces of evidence come to light against all the key suspects in the case.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Apr. 2017", 
+            "episodeName": "Episode #3.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nEllie and Hardy uncover the truth behind Trish Winterman's rape, and lives in Broadchurch are changed forever.    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "Broadchurch", 
+    "plot": "The murder of a young boy in a small coastal town brings a media frenzy, which threatens to tear the community apart.", 
+    "rating": 8.4, 
+    "releaseDate": "4 March 2013", 
+    "type": "tvserie"
+}

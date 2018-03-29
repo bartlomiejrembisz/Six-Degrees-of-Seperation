@@ -1,0 +1,111 @@
+{
+    "actorList": [
+        "Dan Stevens", 
+        "Rachel Keller", 
+        "Aubrey Plaza", 
+        "Bill Irwin", 
+        "Jeremie Harris", 
+        "Amber Midthunder", 
+        "Katie Aselton", 
+        "Jean Smart", 
+        "Mackenzie Gray", 
+        "Quinton Boisclair", 
+        "Ellie Araiza", 
+        "Devyn Dalton", 
+        "Luke Roessler", 
+        "Jemaine Clement", 
+        "Brad Mann"
+    ], 
+    "director": [
+        "Michael Uppendahl"
+    ], 
+    "genres": [
+        "Action", 
+        "Drama", 
+        "Sci-Fi"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "8 Feb. 2017", 
+            "episodeName": "Chapter 1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA troubled young man battling mental illness wonders if the visions he experiences are real following a strange encounter with a fellow patient.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Feb. 2017", 
+            "episodeName": "Chapter 2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWith Ptonomy's help, David goes back in time to find a meaning in his memories. As he remembers his sister needs him, he tries to leave but Syd convinces him he's the key to everything.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Feb. 2017", 
+            "episodeName": "Chapter 3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDavid searches for answers, while a threat looms.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Mar. 2017", 
+            "episodeName": "Chapter 4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDavid's in trouble, while his friends search for answers.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Mar. 2017", 
+            "episodeName": "Chapter 5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nDavid faces a new threat.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Mar. 2017", 
+            "episodeName": "Chapter 6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nDavid goes back to where it all started.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Mar. 2017", 
+            "episodeName": "Chapter 7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDavid tries to find a way out of his predicament.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Mar. 2017", 
+            "episodeName": "Chapter 8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe Interrogator goes after David for revenge but has a surprise waiting. Division 3 is observing the turn of events. Cary devises a new experiment to separate the monster from David, but things do not go as planned.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }
+    ], 
+    "name": "Legion", 
+    "plot": "David Haller is a troubled young man diagnosed as schizophrenic, but after a strange encounter, he discovers special powers that will change his life forever.", 
+    "rating": 8.7, 
+    "releaseDate": "26 January 2017 (Pacific Design Center) (limited)", 
+    "type": "tvserie"
+}

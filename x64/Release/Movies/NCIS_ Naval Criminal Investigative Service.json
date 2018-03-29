@@ -1,0 +1,2361 @@
+{
+    "actorList": [
+        "Mark Harmon", 
+        "Pauley Perrette", 
+        "David McCallum", 
+        "Sean Murray", 
+        "Michael Weatherly", 
+        "Brian Dietzen", 
+        "Rocky Carroll", 
+        "Cote de Pablo"
+    ], 
+    "director": [
+        "Dennis Smith", 
+        "Tony Wharmby", 
+        "Terrence O'Hara", 
+        "Thomas J. Wright", 
+        "James Whitmore Jr.", 
+        "Arvin Brown", 
+        "Leslie Libman", 
+        "Colin Bucksey", 
+        "Bethany Rooney", 
+        "Alan J. Levi", 
+        "Jeff Woolnough", 
+        "Mark Horowitz", 
+        "William Webb", 
+        "Rocky Carroll", 
+        "Alrick Riley", 
+        "Peter Ellis", 
+        "Martha Mitchell", 
+        "Edward Ornelas", 
+        "Michael Zinberg", 
+        "Stephen Cragg", 
+        "Michael Weatherly", 
+        "Holly Dale"
+    ], 
+    "genres": [
+        "Action", 
+        "Comedy", 
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "23 Sep. 2003", 
+            "episodeName": "Yankee White", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAboard Air Force One a Naval officer dies after eating with the PotUS, then a Marine officer (connected with AF1) also dies in Georgetown in the same way. Abby identifies the cause, and Gibbs thwarts an attempt to assassinate the PotUS.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Sep. 2003", 
+            "episodeName": "Hung Out to Dry", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nDuring a training jump a Marine dies when his main chute fails to open, and he fails to pull his reserve chute. Kate joins the NCIS team, and they investigate; they identify not only the murderer and his method but also a drug connection.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Oct. 2003", 
+            "episodeName": "Seadog", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA boat carrying alone the body of a commander in the US Navy runs aground on a beach in northern Virginia; two other bodies wash ashore not far away. The NCIS gang investigate all three deaths; with the collaboration of DEA Special Agent Kent Fuller and FBI Special Agent T.C. Fornell, they first consider drug involvement, pursuing several leads and using some inventive questioning techniques. The two civilian bodies bore waist packs stuffed with counterfeit bills, which Kate traces through a friend in another federal agency; the origin of the phony money leads the ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Oct. 2003", 
+            "episodeName": "The Immortals", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA swimmer finds the weighted body of a seaman who has disappeared from a destroyer of the US Navy. The NCIS team investigate; they find a petty officer connected with the victim and the death, and they save the skipper from an explosion.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Oct. 2003", 
+            "episodeName": "The Curse", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA hunter finds an aircraft cargo pod containing the mummified body of a Naval disbursing officer who disappeared from his aircraft carrier, as did 1.2 million dollars. The NCIS team correct some old mistakes, and now they make things right.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Nov. 2003", 
+            "episodeName": "High Seas", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA chef finds a naked sailor inside a freezer at a restaurant in Rota, Spain, during a port visit by USS Enterprise; shortly afterward at sea another sailor freaks out on the flight deck; soon one of them dies. Gibbs and his team solve it.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Nov. 2003", 
+            "episodeName": "Sub Rosa", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWorkers find the decomposing body of a man, apparently a submariner, inside a drum of acid. The team treats the case as both a murder and a theft of identity. Gibbs and Kate go aboard a sub at sea, find the bad guy, and save the crew.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Nov. 2003", 
+            "episodeName": "Minimum Security", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA naturalized petty officer of Egyptian descent dies in the US from massive bleeding due to an intestinal blockage caused by emeralds; he had just arrived from Camp Delta at Gitmo. Gibbs and others investigate at Gitmo and prevent a murder.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Dec. 2003", 
+            "episodeName": "Marine Down", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nTwo Marine majors supposedly die during a classified operation in an undisclosed foreign country; one of them purports to call home. The team investigate; they encounter much interference, but they succeed, and they reach a happy ending.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Jan. 2004", 
+            "episodeName": "Left for Dead", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA young lady emerges from a shallow makeshift grave in Rock Creek Park, Washington, DC; although amnesic she says that there's no time, that there's a bomb aboard a Naval vessel, and that people will die. A passing driver aids her and calls 911; the Metro PD responds, then calls the NCIS. Gibbs and his team investigate. Kate befriends the victim and takes her into her pad, and she slowly recovers a few memories. Gibbs finds a key, then Abby figures it out, then Gibbs and Tony find a body. The ship in question proves to be ashore and inside a building. The team learn ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Jan. 2004", 
+            "episodeName": "Eye Spy", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA Naval officer, a SEAL diver, dies of a stab wound after swimming while testing a classified handheld sonar device, which disappears. An anonymous caller reports the murder. Gibbs and the gang find both the killer and the missing device.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Feb. 2004", 
+            "episodeName": "My Other Left Foot", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA dumpster diver finds a severed leg, apparently from a Marine, believed to be attached to a live person not more than 24 hours earlier; however, the Marine in question, according to records, died two years previously. The NCIS solves it.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Feb. 2004", 
+            "episodeName": "One Shot, One Kill", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nA Marine recruiter dies in his office from a single shot; Gibbs and the gang investigate; then a second one dies likewise. The Gibbs group expect another murder, so they set a trap, and it works; Tony and FBI agents capture the sniper.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Feb. 2004", 
+            "episodeName": "The Good Samaritan", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nA Navy dentist from a Naval air station dies of a single shot to his back, apparently in an execution-style murder; the NCIS investigates. Two more men from the same Naval air station soon die identically. Gibbs and company figure it out.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Feb. 2004", 
+            "episodeName": "Enigma", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA Marine colonel disappears during an ambush in Iraq, as does $2M in cash; he re-enters the US under an assumed name; the FBI seeks him, and so does Gibbs, with whom he served while on active duty. Gibbs finds him and figures it out.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Mar. 2004", 
+            "episodeName": "B\u00eate Noire", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA foreign agent enters the autopsy room via an unconventional method; he then takes captive Ducky, Gerald, and, later, Kate. He demands evidence pertaining to a body in the room. He eventually asks to see Gibbs, who obliges him; he loses.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Mar. 2004", 
+            "episodeName": "The Truth Is Out There", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe body of a petty officer falls from a ceiling at a nightclub; Gibbs and company investigate; Ducky says that someone dressed the victim after he died. Gibbs finds $40K in cash; he finds the connection between a prank and an inheritance.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Apr. 2004", 
+            "episodeName": "UnSEALeD", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nA prisoner, who was a SEAL and a petty officer, escapes from Fort Leavenworth while serving time for having killed his wife and a cable guy; the team, seeking to determine where he may go next, consider whether his conviction was wrong.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Apr. 2004", 
+            "episodeName": "Dead Man Talking", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nA guard finds the disemboweled body of an NCIS agent in an elevator; the gang investigate. Gibbs feels responsibility. The victim has pursued a cold case involving a theft of $12M+ from the Navy. NCIS finds the thief and the killer.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 May 2004", 
+            "episodeName": "Missing", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nA Marine fails to report after a weekend; he's an EOD tech with a critical qualification, so the NCIS investigates. Three other EOD Marines have disappeared in the past eight years. Abby finds the dots, and the others connect them.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 May 2004", 
+            "episodeName": "Split Decision", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nTeenagers at play find the body of a Marine impaled on a post; the team investigate. The victim was an armorer at Quantico. Gibbs and the gang solve both the murder and the theft of surplus weapons. An ATF agent takes an unusual part.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 May 2004", 
+            "episodeName": "A Weak Link", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nA SEAL lieutenant falls to his death, due to a failed fitting in his gear, while rappelling during an exercise; Gibbs and company investigate; the CIA expresses intense interest. Abby and McGee provide answers, and the team solve the case.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 May 2004", 
+            "episodeName": "Reveille", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nWith extreme determination Gibbs continues, to the extent of obsession, to concentrate on the unknown terrorist who shot him and escaped. The bad guy reappears, but Kate and Tony disappear temporarily. Gibbs eventually meets his quarry.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Sep. 2004", 
+            "episodeName": "See No Evil", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA group kidnaps the wife and the young blind daughter of a Navy captain, who, on his computer, receives a demand for $2M. The officer's secretary secretly goes to the NCIS; the Gibbs team find the hostages, kidnapper, cash, and mastermind.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Oct. 2004", 
+            "episodeName": "The Good Wives Club", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAt base housing in Norfolk workers find, inside an underground room, the decomposing body of a young woman petty officer wearing a bridal gown. Gibbs and the gang find both the bad guy and a victim still alive under similar circumstances.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Oct. 2004", 
+            "episodeName": "Vanished", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA farmer on a tractor sees an unattended intact Marine helo inside a crop circle on his land. While Gibbs and company investigate, a burned-out cabin turns up, as does a charred body. Locals evade, but the team solve both mysteries.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Oct. 2004", 
+            "episodeName": "Lt. Jane Doe", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA seaman discovers the body of a young woman wearing the dress blues of a naval officer at NAS Norfolk. Gibbs and the gang investigate; Ducky sees a mark on the victim's neck, which he connects to a cold case; the team find two killers.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Oct. 2004", 
+            "episodeName": "The Bone Yard", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA civilian dies on a Marine bombing range; while investigating, Gibbs finds a second body; other bodies also later appear. The NCIS and the FBI strangely work well together, and the NCIS team work well together, so they produce results.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Nov. 2004", 
+            "episodeName": "Terminal Leave", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA woman Naval aviator narrowly escapes an explosion of her car on a parking lot; she was a target of terrorist activity due to her official behavior in Afghanistan. The FBI solves the crime, and the NCIS protects the family of the victim.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Nov. 2004", 
+            "episodeName": "Call of Silence", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nA Medal of Honor recipient from WWII turns himself in and confesses to the team the murder of his friend 60 years ago.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Nov. 2004", 
+            "episodeName": "Heart Break", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhile recovering after heart surgery, a commander dies due to an internal flash and the resulting fire without an apparent external cause; the Gibbs team investigate. Abby says it's murder, then she finds a key fact, and the gang solves it.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Dec. 2004", 
+            "episodeName": "Forced Entry", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nIn family housing at Quantico the wife of a deployed major shoots and critically injures an intruder who tries to rape her; Gibbs and the gang investigate. Abby and McGee help with computer-based sleuthing, and the team catch the perps.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Dec. 2004", 
+            "episodeName": "Chained", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nTony has gone undercover as a prisoner chained to another prisoner, Jeffrey, aboard a jail bus for a transfer to another prison; Gibbs and other officials have staged an incident which allows the two prisoners to escape. The other prisoner is a member of a team responsible for the theft of valuable antiques smuggled from Iraq into the USA but placed in storage at the Naval Station, Norfolk, Virginia; Gibbs hopes that Jeffrey will lead them to the ringleader. Gibbs and Kate chase Tony and Jeffrey through the hills and vales, and Abby finds and feeds many good and ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Jan. 2005", 
+            "episodeName": "Black Water", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nTwo years after a Naval officer and his car disappear without a trace, a PI, seeking a reward, finds on the bottom of a lake the car and the skeletal remains of the missing man. After false starts Gibbs and the team solve the mystery.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Jan. 2005", 
+            "episodeName": "Doppelg\u00e4nger", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhile making a sales call, a telemarketer overhears an intrusion, a confrontation, and a fight, which appears to end with the murder of the prospect, PO Lambert in the Navy. One local detective asks Tony for his shoe size, and another one comments on Kate's eyes; Kate speaks about deja vu. The Metro PD turns it over to the NCIS. Abby and McGee work together in her lab while Gibbs waits and watches, Kate adds another clue, and Gibbs says that Lambert faked his own murder. Abby finds a connection, and the gang pursue it, then a Metro detective finds Lambert's body in ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Feb. 2005", 
+            "episodeName": "The Meat Puzzle", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nDucky faces the \"meat puzzle\" of concurrently reconstructing three cadavers dissected into many small pieces. Ducky IDs one body, and the gang ID the others and a fourth. Ducky is the fifth target, but the team find him and save him.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Feb. 2005", 
+            "episodeName": "Witness", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nA woman reports the strangulation of a sailor in his dress blues; the Metro PD responds to a 911 call, finds no body, calls the NCIS, and turns over the case. McGee, Gibbs, and the others seek evidence, and they find it and a solution.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Feb. 2005", 
+            "episodeName": "Caught on Tape", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA Marine sergeant dies while hiking with his wife and his best friend, another sergeant; the gang investigate. Ducky finds a wood-fiber fragment, and Abby reconstructs video footage; Gibbs questions, and the team put it all together.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Mar. 2005", 
+            "episodeName": "Pop Life", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe body of a woman sailor appears in bed with a bartender, who swears that he went to bed with a different woman. Her death is presumed a suicide apparently from a drug overdose. And then another woman dies.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Mar. 2005", 
+            "episodeName": "An Eye for an Eye", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nA neighbor of a petty officer opens a package from Paraguay containing two human eyeballs mistakenly delivered to the mailbox of the neighbor. Gibbs and company investigate. Kate and Tony make discoveries in Paraguay, then they return.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Mar. 2005", 
+            "episodeName": "Bikini Wax", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nA petty officer enters a bikini contest but fails to appear on stage when introduced; later someone finds her body face-down in a toilet bowl in a women's restroom. Tony enjoys his work; the gang pursue the leads and find the killer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Apr. 2005", 
+            "episodeName": "Conspiracy Theory", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nA petty officer reports that someone has assaulted her; the NCIS investigates. The victim has a mental illness and has had an affair with a captain under investigation by the FBI; she soon dies by murder. The team figure out everything.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Apr. 2005", 
+            "episodeName": "Red Cell", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nAn NROTC midshipman stumbles over the body of another middy at 02:00 on the campus of their university; a third mid has disappeared, and McGee finds his body. Abby helps. Gibbs finds the killer, then Kate and Tony cuff him.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 May 2005", 
+            "episodeName": "Hometown Hero", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nA hospital corpsman stows his gear in a self-store room; after 10 months he dies in action in Iraq; then the skeletal remains of a high-school friend turn up in his storeroom. Despite local resistance Gibbs and company solve the mystery.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 May 2005", 
+            "episodeName": "SWAK", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nTony opens a letter, literally SWAK, dispersing a fine white powder; the gang does the drill. Kate and Tony get a free trip to Bethesda. Gibbs and company find both the bad lady and the solution of a two-year-old rape case at the USNA.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 May 2005", 
+            "episodeName": "Twilight", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nTony returns early, in time to rejoin the team in an investigation of a shooting of two Naval aviators. Tony finds a bomb, then it explodes; Gibbs says that someone has again tried to kill the NCIS gang, which loses one of their members.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Sep. 2005", 
+            "episodeName": "Kill Ari (Part I)", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe gang mourn the death of Kate; they recall her and deal with her death. Ari puts a round into Abby's lab, and the NCIS gets a new director, who shares a history with Gibbs. Ducky accepts an invitation to an unusual meeting. [Continued.]    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Sep. 2005", 
+            "episodeName": "Kill Ari (Part II)", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nDucky meets Ari, Tony follows Ziva, Ari secretly betrays Israel and Mossad, Ziva passes cash and a fake passport to Ari, Gibbs and Jen seek Ari but miss him, Ari finds Gibbs, and Ziva finds them. The gang attend Kate's funeral in Indiana.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Oct. 2005", 
+            "episodeName": "Mind Games", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nGibbs again questions a condemned serial killer whom he arrested 10 years before. The killer, three days from execution, has offered to reveal the locations of the bodies if he gets to talk with Gibbs. The gang solve that and much more.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Oct. 2005", 
+            "episodeName": "Silver War", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nZiva returns. A 140-year-old iron casket shows up at the Smithsonian Institution; it contains the body of a Marine staff sergeant on a UA, so Gibbs and company investigate. The team chase the clues, follow a map, and figure out the story.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Oct. 2005", 
+            "episodeName": "Switch", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA sailor dies of a gunshot and the resulting car wreck. Gibbs and company investigate; the victim first appears to be an impostor, but Abby shows otherwise. The impostor is another man. The gang figure out the death but not everything.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Oct. 2005", 
+            "episodeName": "The Voyeur's Web", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTwo wives of two deployed enlisted Marines disappear; the NCIS investigates. McGee recalls something, and that gives the team a start. The two wives went into business together online, but it goes out of control. The gang figure it out.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Nov. 2005", 
+            "episodeName": "Honor Code", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nA six-year-old boy sees who kidnaps his father, a Naval officer who works with a highly classified online-encryption system; the boy calls the NCIS, so Gibbs and the team investigate and eventually solve the crimes and recover the father.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Nov. 2005", 
+            "episodeName": "Under Covers", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nTony and Ziva go undercover and under the covers as assassins, a married couple, who recently died, but who apparently have a contract to execute at the Marine Corps birthday ball in Washington. The NCIS gang figure it out and work it out.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Nov. 2005", 
+            "episodeName": "Frame Up", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe amputated legs of a young woman turn up aboard the Marine Corps Base, Quantico, Virginia; Gibbs and company investigate. Forensic evidence implicates Tony because a pro has framed him. Abby works hard, and the gang find the bad guy.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Nov. 2005", 
+            "episodeName": "Probie", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhen McGee shoots an unarmed undercover cop, the team work to clear his name.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Dec. 2005", 
+            "episodeName": "Model Behavior", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThree supermodels take part in a reality show aboard the Marine Corps Base at Quantico; one of them disappears but shows up dead on a fence; the NCIS investigates. The victim's boyfriend shows up dead at a motel. The gang figure out all.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Jan. 2006", 
+            "episodeName": "Boxed In", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhile investigating at a port, Tony and Ziva encounter unexpected criminal activity; they become trapped inside a shipping container. Gibbs and McGee, with the help of Ducky and Abby, find not only their teammates but also the bad guys.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Jan. 2006", 
+            "episodeName": "Deception", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nA woman Naval officer becomes abducted, and she calls NCIS on her cellphone; Gibbs and the gang investigate. She's involved with both a movement of nuclear-fuel rods and an anti-pervert group. The team find her, and they solve the case.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "31 Jan. 2006", 
+            "episodeName": "Light Sleeper", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nTwo Korean wives of Marine sergeants die in execution-style shootings; while the NCIS investigates, a third such wife disappears. The team find the wife, then identify the shooter and figure out the shooter and the changes in that person.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Feb. 2006", 
+            "episodeName": "Head Case", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhile busting three Navy enlisted men running an automotive chop shop, Gibbs, Tony, and Ziva find a severed head in a cooler in the trunk of one of the cars. The gang find the rest of the body, the story, the answers, and the bad actors.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Feb. 2006", 
+            "episodeName": "Family Secret", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAn ambulance ignites and explodes after picking up the body said to be that of a Marine lance corporal who died due to a car wreck; Gibbs and company investigate, partly to determine the identity of the body. Gibbs and Jen close the case.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Mar. 2006", 
+            "episodeName": "Ravenous", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nIn the Shenandoah National Park a bear eats a part of the body of a murdered Navy petty officer; Gibbs and company investigate. A woman companion has disappeared; the gang deduce her identity. Ziva finds her, and Gibbs nails the killer.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Mar. 2006", 
+            "episodeName": "Bait", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nA student, Kody, seizes control of a room and six classmates, threatening to detonate a bomb; the NCIS and others respond. Gibbs walks into the room and confronts Kody, who demands to see his mother, said to be dead. The team work it out.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Apr. 2006", 
+            "episodeName": "Iced", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nA boy at play on a frozen pond sees the body of a man below the surface. Gibbs and company investigate; they find three more bodies. The first was a Marine; the others were gang members. The team figure it out; Gibbs provides a solution.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Apr. 2006", 
+            "episodeName": "Untouchable", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nTony and Ziva go to the home of a woman Navy lieutenant and cryptologist; they find her dead, apparently by suicide. Gibbs and the gang find evidence of murder instead; after pursuing the wrong clues, they lose a mole but catch the killer.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Apr. 2006", 
+            "episodeName": "Bloodbath", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nA couple enter a room at a Navy Lodge and find bloody human body parts; the Gibbs team investigate. Gibbs and Ducky agree that the scene was a setup. An imbalanced former boyfriend stalks Abby. The gang chase the clues and figure them out.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 May 2006", 
+            "episodeName": "Jeopardy", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nA suspect collapses and dies while in the custody of Ziva; she becomes a suspect rather than an investigator. The team investigate. Then the director disappears, and her driver dies. Ducky clears Ziva, and Gibbs and his gang rescue Jen.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 May 2006", 
+            "episodeName": "Hiatus", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nAboard a Turkish-flag ship an explosion occurs, killing one person and leaving Gibbs comatose with burns, abrasions, and a concussion; the team investigate. Eventually Ducky welcomes Gibbs back, but Gibbs does not remember him. [Continued.]    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 May 2006", 
+            "episodeName": "Hiatus", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nGibbs regains consciousness, but he's lost his memory since 1991. He starts to remember a few things; Jen helps, then an old buddy, then Ziva. Gibbs gets back his memory and a solution, gives a severe warning, becomes ignored, then quits.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Sep. 2006", 
+            "episodeName": "Shalom", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA bomb explodes as Ziva passes; a Syrian informant and two FBI agents die. The FBI seeks Ziva, who hides and calls Gibbs in Mexico. Gibbs and the NCIS gang band together to help. Ziva gets the bad guy, his controller, and the evidence.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "26 Sep. 2006", 
+            "episodeName": "Escaped", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA former petty officer and federal prisoner, convicted of murder and bank robbery, escapes and contacts Fornell, who, with Gibbs, caught him. Fornell contacts Gibbs, who contacts Jen, who temporarily reinstates Gibbs. The team solve it.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Oct. 2006", 
+            "episodeName": "Singled Out", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nGibbs returns to remain indefinitely. A bloody, screaming woman (a Navy lieutenant) disappears from the rear of her stolen SUV; Gibbs and company investigate. Abby and Ducky help. The gang find the victim, the bad guys, and their story.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Oct. 2006", 
+            "episodeName": "Faking It", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA traffic stop, a car crash, a Russian man with a pistol and false ID, a dead Navy chief petty officer, and the bloody letters NCIS all combine to require the attention of Gibbs and company; Franks lends a hand. Together they wrap it up.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Oct. 2006", 
+            "episodeName": "Dead and Unburied", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA real-estate agent discovers the decomposing body of a Marine; Gibbs and company investigate. The Marine disappeared six months before; the body had been buried and exhumed. The team find three fianc\u00e9es, a fourth woman, and the answers.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "31 Oct. 2006", 
+            "episodeName": "Witch Hunt", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nOn Halloween the Gibbs team investigate a gunshot wound to a Marine and the kidnapping of his 7-year-old daughter. The kidnapper demands $100K, and the mother disappears. The gang find the mother, the bad guys, the girl, and the answers.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Nov. 2006", 
+            "episodeName": "Sandblast", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nA Marine colonel dies in an explosion when he hits a golf ball at the Army Navy Country Club in Arlington; both the NCIS and the Army CID investigate. The joint team later find a fourth bomb, and Ziva disarms it, but they lose the bad guy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Nov. 2006", 
+            "episodeName": "Once a Hero", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAt a hotel in Washington, a homeless hero Marine veteran falls to his death, and a maid finds the body of a 14-year-old girl. Gibbs and company investigate; Ducky, Abby, and McGee help, Lee goes undercover, and the team find the bad guys.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Nov. 2006", 
+            "episodeName": "Twisted Sister", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAt 02:30 Tim's little sister, Sarah, shows up at his pad, saying that she thinks that she's killed someone (a Navy seaman). Gibbs and the gang find much circumstantial evidence implicating her, but they solve it and nab those responsible.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Nov. 2006", 
+            "episodeName": "Smoked", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhile replacing a furnace at Quantico, workers find a smoked body in the chimney; Gibbs and company investigate. Fornell shows interest, saying that the victim was a serial killer. Abby enables Gibbs and Fornell to confront the real killer.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Dec. 2006", 
+            "episodeName": "Driven", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhile testing a robotic driverless SUV, a woman Navy lieutenant becomes trapped inside it, and she dies of carbon-monoxide poisoning; Gibbs and company investigate. McGee suggests murder, Abby has trouble, and the gang find the bad guy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Jan. 2007", 
+            "episodeName": "Suspicion", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA woman Marine first lieutenant, born in Kuwait, who has served in intelligence, returns from Iraq and turns up dead in a motel room in a small town; Gibbs and company investigate, with both help and resistance, and find three bad guys.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Jan. 2007", 
+            "episodeName": "Sharif Returns", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nResponding to a call, Gibbs and company find the body of a Marine major in an underground utility vault beneath a street intersection. Abby finds the cause of the death, and Gibbs and the gang find Sharif, the bomber from the golf course.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Feb. 2007", 
+            "episodeName": "Blowback", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAn illicit arms dealer reveals a deal involving another dealer; McGee and Ziva tail a key player, who dies. Ducky impersonates the dead man and meets the Frog, whom Jen has long pursued; much good results, but the gang do not get the Frog.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Feb. 2007", 
+            "episodeName": "Friends & Lovers", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA couple find the body of a Navy petty officer in an abandoned restaurant in Georgetown; the Metro PD calls and helps the NCIS; Gibbs and company investigate. Messages leave clues leading to an exclusive nightclub. The gang figure it out.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Feb. 2007", 
+            "episodeName": "Dead Man Walking", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA Navy lieutenant, a member of an international nuclear-inspection agency, asks Gibbs to solve the officer's own murder because he knows that someone has exposed him to radiation poisoning. The gang succeed, and they arrest the bad person.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Feb. 2007", 
+            "episodeName": "Skeletons", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nA family crypt in a mausoleum explodes when unsealed; Gibbs and company investigate; Ducky says that parts of at least three skeletons occupied the vault. The team identify and check out a suspect, and Gibbs and Hollis get a major surprise.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Mar. 2007", 
+            "episodeName": "Iceman", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nSomeone attacks a Marine corporal and leaves him to die, facedown in a snowbank in a park; Gibbs and company investigate. Mike Franks shows up and takes part; he and Gibbs sort it out and work it out. Tony and Jeanne encounter a problem.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Apr. 2007", 
+            "episodeName": "Grace Period", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAn explosion kills two NCIS agents from another team; Gibbs and company investigate; feelings and emotions run high. Ducky and Abby find evidence suggesting opposite answers, but the gang resolve the problem, and they solve the case.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Apr. 2007", 
+            "episodeName": "Cover Story", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nGibbs and company investigate a crime scene; while doing so McGee recognizes that key details duplicate details in his second novel, still unfinished and in progress. The gang find two bodies; they eventually find the delusional bad guy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Apr. 2007", 
+            "episodeName": "Brothers in Arms", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nJen meets with an informant about the Frog, but someone kills the witness; Gibbs and company investigate. Jen obsesses about catching the Frog. Abby produces many answers; although the gang persist, they find a surprise but no Frog.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 May 2007", 
+            "episodeName": "In the Dark", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nA blind photographer takes a picture; his assistant sees the body of a sailor in the background, and she calls the NCIS; Gibbs and company pursue. The gang find a second body, which leads to another crime, three solutions, and the bad guy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 May 2007", 
+            "episodeName": "Trojan Horse", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nWhile Jen attends a conference in Paris, Gibbs serves as the acting director. When a taxicab delivers a fare to the NCIS headquarters, the passenger, a Yemeni, is DoA; the gang investigate. Jen diverts to Moscow, and many answers emerge.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 May 2007", 
+            "episodeName": "Angel of Death", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nJen returns from Paris; at home she finds a curious sight. All NCIS agents in Washington must take polygraph tests; Gibbs and the gang look into that. Tony and Jeanne deal with an injured pedestrian; Jeanne introduces Tony to her father.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Sep. 2007", 
+            "episodeName": "Bury Your Dead", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nTony meets Jeanne's father; Tony excuses himself to move his Mustang, which explodes while the gang watch; Ducky says that the victim is not Tony. The Frog meets Jen, but she lets him leave; Gibbs and others pursue him but arrive too late.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 Oct. 2007", 
+            "episodeName": "Family", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe NCIS gang investigate the death of a sailor in a hit-and-run wreck, which turns into a shoot-and-scoot; Ducky finds nearby the body of a young woman who gave birth and died before the wreck. The team figure out the lies and the case.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Oct. 2007", 
+            "episodeName": "Ex-File", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe Gibbs gang joins Hollis to investigate the death of a Marine captain due to a harpoon through his torso in the study of his home in family housing at Fort Belvoir, Virginia, an Army post. The victim worked under an Army major on an inter-agency task force at the Defense Intelligence Agency (DIA). The NCIS seizes and keeps the victim's laptop computer, but the DIA sends a techie to shadow Abby while she works on it; Abby starts frozen, but she thaws quickly. The team find a network of love interests, including one of Gibbs's exes. Tony and Ziva find a partial print...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "16 Oct. 2007", 
+            "episodeName": "Identity Crisis", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhile demonstrating an autopsy, Ducky announces murder; Gibbs and company investigate. The victim worked for the FBI, which tried to catch a person who erased old identities and created new ones. The NCIS and the FBI catch the bad guys.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "23 Oct. 2007", 
+            "episodeName": "Leap of Faith", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA Navy lieutenant threatens to jump from an 11th-floor ledge in Washington; the Metro PD calls the NCIS; Gibbs and company respond and investigate; Gibbs talks the man out of jumping, then someone shoots him. With help the gang find a mole.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 Oct. 2007", 
+            "episodeName": "Chimera", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAn officer dies aboard a Naval research vessel at sea; the Gibbs team investigates; they find the body but initially nobody else. Ducky announces the cause of death and a gloomy outlook. The gang figure it out and leave in a borrowed boat.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Nov. 2007", 
+            "episodeName": "Requiem", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nA special friend of Gibbs's daughter asks for help with a Marine sergeant, who has begun stalking her. Gibbs gives him the word, but soon someone abducts the friend and tortures and kills the Marine. Gibbs and Tony solve it and work it out.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Nov. 2007", 
+            "episodeName": "Designated Target", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhile a Navy rear admiral rides in a taxi, two motorcyclists, using silenced pistols, execute both men; Gibbs and company investigate. Ducky says that the target was the driver, who was a political refugee from Burundi. The gang solve it.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Nov. 2007", 
+            "episodeName": "Lost & Found", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhile McGee gives his den of Youth Rangers a tour of the NCIS headquarters, one of his boys pops up in a missing-persons database; Gibbs and company investigate. The team find lies, deception, a fugitive, a new murder, and the real killer.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "27 Nov. 2007", 
+            "episodeName": "Corporal Punishment", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA patient, Damon, a Marine corporal, escapes from a secure lockup psycho ward at the Naval Medical Center, Bethesda, Maryland; he then hijacks a car and kidnaps its owner, who's one of the psychiatrists on his case; Gibbs and company investigate. Damon has received two weeks of treatment for the post-traumatic-stress disorder after returning from Iraq, where he escaped and took his three men with him after killing their captors, who had tortured and questioned them. Abby finds that Damon is on a complex steroid regimen. At a rehab gym Gibbs, Tony, McGee, and Ziva ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Jan. 2008", 
+            "episodeName": "Tribes", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA Marine lance corporal, of Arabic lineage and the Islamic faith, dies two blocks from a mosque in Washington, DC; Gibbs and company investigate. Ducky uses an alternate method; Abby finds a deadly neurotoxin. A tip helps; justice prevails.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Apr. 2008", 
+            "episodeName": "Stakeout", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nSomeone has stolen new top-secret radar gear; the NCIS gets a tip about its location. During a stakeout of the site, McGee watches while a man dies; the radar disappears again. The gang and the Metro PD figure it out and catch the bad guy.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Apr. 2008", 
+            "episodeName": "Dog Tags", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhile seeking to serve a warrant, the Gibbs gang find cocaine, cash, and the dead body of the subject person; a dog bites McGee, who shoots the dog. Abby goes to bat for the dog, who helps to solve the case. The team nab the bad person.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Apr. 2008", 
+            "episodeName": "Internal Affairs", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nFornell and his Hoovers arrive in the squad bay; he tells that the Gibbs team is under investigation for the murder of the Frog. However, the Gibbs gang investigates the FBI, and they put the pieces together and explain them to the suits.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Apr. 2008", 
+            "episodeName": "In the Zone", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA Marine captain dies in a mortar explosion in Baghdad; the SecNav sends the body to Ducky, who finds that a bullet, not shrapnel, caused the death. Tony and Jardine investigate on site; they and the rest of the team together figure it out.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 May 2008", 
+            "episodeName": "Recoil", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nZiva, undercover, goes on a date with a suspected serial killer (a Marine); Tony finds the fifth victim; the suspect threatens Ziva, who resists and shoots him with his piece. Gibbs and the team investigate, solve, and find a second killer.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 May 2008", 
+            "episodeName": "About Face", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nA man dies at a retrofitting site at a Navy facility; Gibbs and company investigate. Palmer sees a fleeing person, who takes a shot at him; a second body turns up.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 May 2008", 
+            "episodeName": "Judgment Day", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nIn Los Angeles, Jenny, with Tony and Ziva as a protective detail, attends the funeral for a retired long-time special agent, who supposedly died of a heart attack; Jenny hears a name, sees a man, makes pictures, and summons Mike Franks from Mexico; she tells him that she's the next person to die. Jen and Franks visit the home of the dead man; there they meet his girlfriend, whom they send to Nevada, but who winds up dead in Santa Monica. Jen and Franks check out an insurance policy at a diner in a desert, and she refuses help from Tony and Ziva; Franks steps outside ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "23 Sep. 2008", 
+            "episodeName": "Last Man Standing", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn Washington, DC, a petty officer died four and a half months before discovery; in Morocco another petty officer dies, and Ziva sustains an injury. Gibbs and company find a link and reach a solution. Ziva gladly returns to the NCIS.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "30 Sep. 2008", 
+            "episodeName": "Agent Afloat", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA lieutenant appears to jump from an aircraft carrier at sea; Tony investigates aboard the ship and in Cartagena, Colombia, where the missing man supposedly joined the ship. Gibbs and Ziva join Tony; they find the answers and the bad guy.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "7 Oct. 2008", 
+            "episodeName": "Capitol Offense", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTwo cyclists find the body of a woman lieutenant commander assigned to the Navy Office of Legislative Affairs; Gibbs and company investigate. A senator, an old buddy of Gibbs, calls him. Another body turns up. The gang solve and arrest.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 Oct. 2008", 
+            "episodeName": "Heartland", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAn ambush in an alley behind a bar leaves one Marine dead and one very ill; the gang investigate. The survivor is from Gibbs's hometown, and the team goes there; flashbacks abound. The bunch put the pieces together and nail the bad guys.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "21 Oct. 2008", 
+            "episodeName": "Nine Lives", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA neighbor finds the body of a tortured Marine; Gibbs and company investigate, and they encounter Fornell, who says that a person of interest is also a key witness in a major murder case. Another Marine dies, and the gang connect the dots.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "28 Oct. 2008", 
+            "episodeName": "Murder 2.0", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nBloody water emits from a shower head in base housing at Quantico; Gibbs and company investigate; something has disappeared; a second man dies. The killer leaves clues, which suggest more deaths. They solve the game and nab the bad guy.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "11 Nov. 2008", 
+            "episodeName": "Collateral Damage", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nGunmen rob the credit union at Quantico and kill a guard; Gibbs and company investigate; they question whether getting cash was the objective of the robbers. The team make several connections, then they round up the bad guys at a burial.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "18 Nov. 2008", 
+            "episodeName": "Cloak", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAfter an elaborate setup Tony and Ziva break into a classified Navy facility; however, that test is itself a ruse by which to identify a mole within the NCIS. Gibbs and Lee meet in the chat room, and Gibbs says that now they work together.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "25 Nov. 2008", 
+            "episodeName": "Dagger", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nTony and McGee unsuccessfully try to follow Lee's pickup man; a satellite leads the gang to a house with a secret room and a dead body; a second stakeout produces a different result, which takes the team to a solution, a catch, and more.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 Dec. 2008", 
+            "episodeName": "Road Kill", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA boatswain's mate dies after a single-car crash; Gibbs and company find evidence of gunfire plus beatings of the victim, who was a member of a fight club and, they learn, the operator of an illicit business. The gang figure out all of it.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Dec. 2008", 
+            "episodeName": "Silent Night", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA Metro detective investigates a burglary and double homicide at Christmas in Washington; the suspect is a former Navy petty officer who supposedly died 17 years ago; the Gibbs gang take an interest, find the pieces, and put them together.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 Jan. 2009", 
+            "episodeName": "Caged", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAn old skeleton comes to light; Gibbs sends McGee to question a prisoner convicted of murder in two identical cases; while he does so, other inmates kill a guard, seize McGee, and take over. McGee successfully negotiates and investigates.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 Jan. 2009", 
+            "episodeName": "Broken Bird", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nOn a sidewalk a former fianc\u00e9e fatally stabs a petty officer; while Gibbs and company investigate, a different woman accuses Ducky of a war crime and stabs him through one hand. Ducky surrenders, but Gibbs sorts it out and gets Ducky free.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "27 Jan. 2009", 
+            "episodeName": "Love & War", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nTwo kids find the disemboweled body of a missing Navy captain; Gibbs and company investigate; Ducky finds a pentagram impressed into the victim's back. Another man dies. The team put the pieces together, and Gibbs and Tony nab the bad guy.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "10 Feb. 2009", 
+            "episodeName": "Deliverance", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe Metro PD finds the body of an 18-year-old Marine who had grown up in the same hood where he died; the Gibbs team investigate with the help of Franks. They slowly assemble the picture, then a gentle social worker offers the last piece.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "17 Feb. 2009", 
+            "episodeName": "Bounce", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA man, impersonating Tony, dumps the body of a witness against him in a trial during which the impostor became convicted and imprisoned as a result of one of Tony's investigations; Tony and the gang sort out some of it but not all of it.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "24 Feb. 2009", 
+            "episodeName": "South by Southwest", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nAn agent of the NCIS dies in an execution-style shooting; Gibbs and company investigate. A radioactive painting provides clues, and an impostor federal agent causes trouble, but Gibbs and Tony, on horseback, and the others break the case.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "17 Mar. 2009", 
+            "episodeName": "Knockout", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nVance, using members of the Gibbs team, in Chicago works the case of the murder of a man who, Vance insists, was once a member of the Marine Corps. Gibbs wonders whether Vance has exceeded his authority. Later Vance hears what happened.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "24 Mar. 2009", 
+            "episodeName": "Hide and Seek", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nIn Navy base housing in Norfolk, Virginia, a mother finds a pistol among the personal stuff of her 12-year-old son; Gibbs and company find a trail of old crimes and two recent deaths. The gang put the pieces together and find the shooters.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "31 Mar. 2009", 
+            "episodeName": "Dead Reckoning", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nKort asks Gibbs and the team for help in hunting one of NCIS Most Wanted, but it's more complicated when his accountant enters the picture.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "7 Apr. 2009", 
+            "episodeName": "Toxic", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nLocal cops find the body of an enlisted Marine on UA; Gibbs and company investigate. The FBI haul Abby to a classified lab to replace a missing man, who was a target of the dead Marine. The gang figure it out and tie up the loose ends.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "28 Apr. 2009", 
+            "episodeName": "Legend", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nGibbs and company start looking into the murder of a Marine. Gibbs and McGee go to Los Angeles for a joint gig with the NCIS Office of Special Projects in LA due to a suspected link. The investigation continues on both coasts. [Continued.]    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "5 May 2009", 
+            "episodeName": "Legend", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nGibbs and McGee continue with the OSP in LA. Rifkin shows up and interferes with the NCIS investigation. Two sleepers in a terrorist cell die, but OSP agents swarm a shop and grab others. Gibbs intercepts Rifkin and tells him to go home.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 May 2009", 
+            "episodeName": "Semper Fidelis", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nDuring a poker game at the home of the SecNav, an ICE agent dies while on the protection detail; Gibbs and company investigate with support from the FBI and ICE. An invisible man becomes visible and dead. Tony arrests Michael, who resists.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 May 2009", 
+            "episodeName": "Aliyah", 
+            "episodeNumber": 25, 
+            "episodePlot": "\nZiva finds Tony and Michael on a floor; Michael dies soon afterward; the next morning her pad explodes. McGee and Abby find answers. Vance, Gibbs, Tony, and Ziva go to Tel Aviv; Ziva remains, and the others return; Ziva runs into trouble.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 Sep. 2009", 
+            "episodeName": "Truth or Consequences", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nHaving not heard anything from Ziva, Gibbs, Tony, McGee, and Abby wonder; each starts sniffing and digging; they trace her to Somalia. Gibbs, Tony, and McGee go there; Tony and McGee become caught; Gibbs springs them all; they all go home.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "29 Sep. 2009", 
+            "episodeName": "Reunion", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThree men die during what they called a bachelor party; one was a Marine staff sergeant; Gibbs and company investigate. The clues lead to a cop, who later dies. The gang find the pieces and put them together; Ziva rejoins the team.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 Oct. 2009", 
+            "episodeName": "The Inside Man", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA critic of the NCIS has severely complained about an alleged cover-up of the death of a Naval officer; the griper falls to his death; both the NCIS and the Metro PD investigate; the Gibbs team figure it out. Ziva seeks Gibbs's signature.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "13 Oct. 2009", 
+            "episodeName": "Good Cop, Bad Cop", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe body of a UA Marine, last aboard a ship with Ziva, turns up in a shrimping net in the Indian Ocean. Vance flags Ziva's application while he questions her. Mossad and more bodies appear. Ziva and Abby tell all. Gibbs puts Ziva to work.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "20 Oct. 2009", 
+            "episodeName": "Code of Conduct", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA Marine, a practical joker, dies, apparently by suicide by carbon monoxide; Gibbs and company investigate; Ducky rules out suicide, and Abby confirms. Tony starts to arrest the widow, but Gibbs stops him. The gang put the pieces together.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "3 Nov. 2009", 
+            "episodeName": "Outlaws and In-Laws", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nGibbs's boat, which he gave to Franks, drifts, with two bodies aboard, into the Naval Station at San Diego. Vance and the team investigate. Franks and two relatives show up at Gibbs's house. The gang solve the case and make an arrest.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "10 Nov. 2009", 
+            "episodeName": "Endgame", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nTwo runners at the US Naval Academy find an unattended car and the body of a civilian physician; Gibbs and company investigate; Vance recognizes the MO of a North Korean woman assassin. The gang find the pieces, and everything works out.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "17 Nov. 2009", 
+            "episodeName": "Power Down", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA woman Naval officer dies during a break-in at an ISP facility in or near Washington, DC, then electric power goes down throughout the entire metro area; Gibbs and company investigate in the dark; they solve the case and grab the bad guy.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "24 Nov. 2009", 
+            "episodeName": "Child's Play", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA dead Marine's day job at a government think tank leads Gibbs and the team into the life of a 12-year-old prodigy who may be the killer's next target.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "15 Dec. 2009", 
+            "episodeName": "Faith", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nJack visits Leroy for a special reason. Meanwhile a couple find the body of a Marine first lieutenant, barefoot and thinly clothed, on a prayer rug in freezing weather in a park; Gibbs and company find the pieces and elicit a confession.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "5 Jan. 2010", 
+            "episodeName": "Ignition", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nTwo park rangers find the burned body of a Navy test pilot on leave in a forest in the Appalachian Mountains; Gibbs and company investigate; McGee sees evidence that the pilot tried to fly a jetpack. The gang figure out what truly happened.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "12 Jan. 2010", 
+            "episodeName": "Flesh and Blood", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA Saudi Arabian limo driver dies in an explosion of a car aboard NAS Patuxent River; Gibbs and company investigate; the apparent target is a Saudi prince present there for advanced training. The gang figure it out. Tony's father visits.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "26 Jan. 2010", 
+            "episodeName": "Jet Lag", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nTony and Ziva escort a whistle-blower from Paris to Washington, DC; during the flight they meet a federal air marshal, and they all encounter various problems. Gibbs, McGee, Ducky, and Abby help in Washington, and everything works out.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 Feb. 2010", 
+            "episodeName": "Masquerade", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nA Marine lance corporal's car explodes; while Gibbs and company investigate, McGee finds radioactivity. Ducky says that the dead driver is not the owner. The people around DC panic about dirty bombs. The gang figure it out and wind it up.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "9 Feb. 2010", 
+            "episodeName": "Jack Knife", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe death of a Marine veteran gets the attention of Gibbs, Fornell, and the gang. Damon reappears, then he and Ziva pose as truckers. McGee and others figure out everything, then Gibbs, Fornell, Damon, and Ziva round up the bad guys.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 Mar. 2010", 
+            "episodeName": "Mother's Day", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA Navy captain dies of gunfire while with his fianc\u00e9e, who is Gibbs's first mother-in-law. While Gibbs and company investigate, they find several discrepancies and inconsistencies. Gibbs figures it out, and he and \"MAllison\" work it out.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "9 Mar. 2010", 
+            "episodeName": "Double Identity", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nA shooting takes place in Rock Creek Park in Washington; the victim is a Marine officer who became MiA six years before; Gibbs and company investigate. A second life, name, and wife all come to light. The gang solve it and nab the shooter.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "16 Mar. 2010", 
+            "episodeName": "Jurisdiction", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhile investigating the deaths of a diver and a captain, Gibbs and company meet two special agents of the Coast Guard Investigative Service, who present similarities to the gang. They all cooperate, find the truth, and nab the bad guys.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 Apr. 2010", 
+            "episodeName": "Guilty Pleasure", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nIn Norfolk a Navy lieutenant and base-newspaper reporter dies of stab wounds to the back, as have three other men, and as does one more; Gibbs and company investigate, with the help of a former madam in Washington; Gibbs finds the killer.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "27 Apr. 2010", 
+            "episodeName": "Moonlighting", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe body of a Navy petty officer, shot and drowned, washes up on a beach; while Gibbs and company investigate, another body, wrapped in chain, turns up. The FBI becomes involved, the gang find clues, and Fornell and Gibbs find a leak.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "4 May 2010", 
+            "episodeName": "Obsession", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nA Navy lieutenant, otherwise in perfect health, dies under mysterious circumstances; Gibbs and company investigate; the vic's sister disappears; a long-time friend of the siblings recently died. The gang figure it out and bust the killer.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "11 May 2010", 
+            "episodeName": "Borderland", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe body of a Marine corporal, minus his feet, shows up in the trunk of a junked car; Gibbs and company investigate. Abby and McGee go to Mexico on business; Abby returns with concerns. The gang figure out who killed the Marine and others.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "18 May 2010", 
+            "episodeName": "Patriot Down", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nThe body of an NCIS agent turns up in a bonfire on a beach near the US Naval Academy after celebrations just before graduation; Gibbs and company learn also about a rape of a sailor, and Gibbs goes to see Franks in Mexico. [Continued.]    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "25 May 2010", 
+            "episodeName": "Rule Fifty-One", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nGibbs meets Paloma, the head of the Reynosa drug cartel in Mexico; he gets a ride to Washington, where he talks with Vance in code. Tony and Ziva arrest a bad guy, who then dies. Ziva attends a ceremony. Paloma meets Jackson. [Continued.]    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "21 Sep. 2010", 
+            "episodeName": "Spider and the Fly", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nPaloma's goons shoot up Jackson's store, but he escapes, then he stays with Jethro. A helo lands, and two die, as do an agent and another person. Rivera takes matters into his own hands, but he produces an unintended and unexpected result.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "28 Sep. 2010", 
+            "episodeName": "Worst Nightmare", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAt the high school at Quantico, students and teachers fall asleep while in class; Gibbs and company investigate; one girl disappears. A grandfather both helps and interferes. Temp interns join. The gang solve the case and find the girl.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "5 Oct. 2010", 
+            "episodeName": "Short Fuse", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA woman Marine sergeant, who's a bomb-disposal tech, shoots to death an intruder in her pad; Gibbs and company investigate; Fornell and another FBI member become involved. The gang find everyone and figure out everything; it all works out.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "12 Oct. 2010", 
+            "episodeName": "Royals & Loyals", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe body of a petty officer shows up in a hot tub; Gibbs and company investigate; Ducky sees an unusual clue; Abby finds a link to the Royal Navy. A Royal Marine major and a CIA agent prove to be something else. The gang catch the bad guy.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "19 Oct. 2010", 
+            "episodeName": "Dead Air", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA shooter kills three people, including a Navy commander, on live talk radio; Gibbs and company investigate; they believe that the host was the main target. The gang pursue clues to a bomb at a baseball diamond, where they nab the bad guy.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "26 Oct. 2010", 
+            "episodeName": "Cracked", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA Naval Reserve lieutenant, who's a chemical engineer, dies when a city bus accidentally hits her on a street in Washington, DC; Gibbs and company investigate. Abby deciphers mysterious writings; the gang figures it out and nab the perp.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "9 Nov. 2010", 
+            "episodeName": "Broken Arrow", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAn admiral finds the body of a long-time friend; Gibbs and company investigate. Tony and Ziva pick up Tony's father, who appears to have become connected with the victim. Sr. does a favor, and Ziva accompanies him. The gang figure it out.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "16 Nov. 2010", 
+            "episodeName": "Enemies Foreign", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nVance hosts a conference of high-level members of the NCIS; he invites Eli, who accepts. Eli's presence raises security concerns; Gibbs and company take part in the protective arrangements. Threats arise, and the gang respond. [Continued.]    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "23 Nov. 2010", 
+            "episodeName": "Enemies Domestic", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAn attack has killed one and left Vance with serious injuries; Gibbs takes charge by Vance's order. Eli reveals details about an operation 22 years old. Gibbs and the gang put the pieces together. The bad guy emerges, and justice prevails.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "14 Dec. 2010", 
+            "episodeName": "False Witness", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA Navy petty officer, who's the only witness in a civilian capital-murder trial, disappears; Gibbs and company investigate in response to a request by a commonwealth attorney. The gang puts all the pieces together, and justice prevails.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "11 Jan. 2011", 
+            "episodeName": "Ships in the Night", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA Marine first lieutenant dies of gunfire during a dinner cruise; Abigail Borin, of the CGIS, also is a guest during the same event; she, Gibbs, and the gang investigate together. They find and fit the pieces, and they nab the bad people.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "18 Jan. 2011", 
+            "episodeName": "Recruited", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA Navy recruiter dies after becoming shoved down a staircase at a high school in Fairfax, Virginia; Gibbs and company investigate. Dr. Magnus, Ducky's predecessor, visits. Gibbs and the gang eventually figure it out and finger the bad guy.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "1 Feb. 2011", 
+            "episodeName": "Freedom", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nTwo teenagers find the battered body of a Marine Corps Reserve sergeant in his own backyard; Gibbs and company investigate. The team find evidence of sad stories. Gibbs pursues a bruise and figures it out, then the gang bust the bad guy.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "8 Feb. 2011", 
+            "episodeName": "A Man Walks Into a Bar...", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nSomeone shoots and kills the executive officer (XO) of a Naval vessel, a commander, in his own stateroom; Gibbs and company investigate. However, a shrink (a persistent and presumptuous one) arrives to conduct mandatory psychologic evaluations for all members of the gang, and she accompanies them aboard the ship. Ziva recognizes the spent brass as Russian. Word of the murder spreads fast, for seven international journalists are aboard as guests; one reporter makes a confession and reveals a potential powder keg. The team continue, and they eventually find the solution...    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "15 Feb. 2011", 
+            "episodeName": "Defiance", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA US Marine dies in an explosion at a US embassy; he saves a foreign official and others; the NCIS provides security to the official's daughter in Washington, DC; kidnappers abduct her, and another man dies. The Gibbs gang figure it out.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "22 Feb. 2011", 
+            "episodeName": "Kill Screen", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA Metro cop in Washington, DC, finds a set of severed fingertips which prove to be those of a Marine corporal; Gibbs and company investigate; McGee finds the corresponding body in the local morgue; Ducky concludes that the corporal was a victim of stretching to death on a rack. McGee and Ziva meet Max, who used a credit card of the dead Marine; excitement occurs while McGee interviews her; Tony and Ziva meet and interview another interesting chick; McGee pursues with Max. Gibbs asks whether the corporal died because Max, a former girlfriend, made a record score on a ...    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "1 Mar. 2011", 
+            "episodeName": "One Last Score", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nTwo teenagers find the body of a former NCIS employee; Gibbs and company investigate; in the trunk of the victim's car Gibbs and McGee find stolen property from a current case. The gang find the details and the people responsible.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "22 Mar. 2011", 
+            "episodeName": "Out of the Frying Pan", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nA \"meter maid\" sees a body inside a home in Washington, DC; the victim, a retired Marine colonel, received seven blows of an ax; Gibbs and company question a prime suspect, who denies involvement and helps Gibbs to arrest the real killer.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "29 Mar. 2011", 
+            "episodeName": "Tell-All", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nIn a national forest near Washington, DC, a young couple find the body of a Navy lieutenant commander in his dress-blue uniform; Gibbs and company investigate; on a rock nearby Tony finds a single word written in the victim's blood. The Metro PD finds the victim's abandoned car in Washington. Ducky finds that the shooter used ammunition of an unusual type, Gibbs and McGee talk with a specialty publisher, and Tony and Ziva find the body of an FBI agent, so Fornell enters the picture. The publisher leaves the country, then Gibbs and Fornell speak with the author of a ...    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "5 Apr. 2011", 
+            "episodeName": "Two-Faced", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nGibbs and company investigate the murder of a member of the US Navy; EJ has investigated three previous similar deaths, so Vance gives her the lead. A suspect turns out to be another victim. Ziva's boyfriend is something else. [Continued.]    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "12 Apr. 2011", 
+            "episodeName": "Dead Reflection", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nEJ and her team take over the P2P case; Gibbs and company investigate the death of a Navy woman officer. The solution, first believed to be simple, proves to be complicated. The killer jumps Ziva, and the gang pounce on him. [Continued.]    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "3 May 2011", 
+            "episodeName": "Baltimore", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nGibbs and company investigate a body wearing a dress-blue uniform of a three-star admiral; Tony recognizes the victim; they first suspect another P2P killing; however, Ducky suggests otherwise. The gang find both the killer and the motive.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "10 May 2011", 
+            "episodeName": "Swan Song", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nEJ and her team investigate yet another P2P murder; the victim is an NCIS agent from Norfolk; Gibbs and company pitch in, as does Franks. Kort, a CIA agent, spills in a briefing. Both Franks and EJ encounter the prime suspect.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "17 May 2011", 
+            "episodeName": "Pyramid", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nGibbs and Tony follow EJ and her team to a nearly vacant building; they find that the P2P murderer has killed Levin, seriously injured Cade, and kidnapped EJ; Gibbs pursues the suspect and EJ; he finds her, left to suffocate. McGeek traces a phone number to CI-Ray (Ziva's boyfriend). Ducky, with help from Gibbs, explains the changes in the MO of the killer. From Levin's left forearm EJ secretly removes a small object. Ziva tries to intercept Ray, but Cobb, the suspect, intercepts and kidnaps her; later, while Gibbs, Tony, McGee, and EJ are present inside a hotel room,...    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "20 Sep. 2011", 
+            "episodeName": "Nature of the Beast", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nTony, during his task for the SecNav, took fire and sustained a concussion, and he acquired the bloody badge of some other NCIS agent; however, he has no memory of his activities. Gibbs and a shrink help Tony to begin to regain his memory.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "27 Sep. 2011", 
+            "episodeName": "Restless", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA Marine private first-class returns from Afghanistan to his hometown in time for a welcoming party for him during homecoming week; however, when he arrives, he staggers in, mortally wounded, then collapses and dies; Gibbs and company investigate; Ducky says that death resulted from stab wounds. Ziva spots a piece of evidence, but it becomes hard to obtain it; Tony and Ziva find that the victim had started with a disadvantaged childhood, became adopted into a military family, then enlisted in the Marine Corps and established an impeccable record. Abby finds some ...    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "4 Oct. 2011", 
+            "episodeName": "The Penelope Papers", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA Naval Reserve lieutenant dies of a gunshot in Washington, DC; Gibbs and company investigate; the victim has one of McGee's cards; McGee learns that his paternal grandmother is involved. The gang assemble the pieces and catch the bad guy.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "11 Oct. 2011", 
+            "episodeName": "Enemy on the Hill", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nIn Washington, DC, near the Capitol a van accidentally hits and critically injures a pedestrian, who proves to be The Cooler, a wanted contract assassin, whose next target appears to be a Navy lieutenant commander; Gibbs and company investigate the target, LCdr. Geoffrey Brett, and his circumstances, including the threat. The Cooler briefly regains consciousness in a hospital, then dies before an NCIS agent reaches him. Ziva acts as Brett's protective escort, but he ditches her. Tony and McGee meet a hot chick CPA, then she dies. The three musketeers gather pieces of ...    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "18 Oct. 2011", 
+            "episodeName": "Safe Harbor", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA boarding party from a Coast Guard cutter visits a foreign-flag cargo ship; no crewmember is visible, but a gunman kills a petty officer. The NCIS and the CGCIS investigate. Gibbs, Borin, and the gang sort it out and serve justice.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "25 Oct. 2011", 
+            "episodeName": "Thirst", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAt 04:19 in northern Virginia an 18-wheel truck accidentally and fatally hits a Naval Reserve lieutenant who had swerved and woven on a freeway, parked on the left side, and walked toward an emergency call box on the right side; Gibbs and company investigate. Ducky sees telling evidence at the site, finds an explanation in his workshop, and offers a theory. The gang check out the obvious leads; Ducky meets and courts an attractive and interesting new ladyfriend. While hiking through a state park, the team find a dead SUV and a dead body under circumstances similar to ...    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "1 Nov. 2011", 
+            "episodeName": "Devil's Triangle", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDiane, the mutual ex-wife of Gibbs and Fornell, gets help from them; Victor, her current husband, has disappeared; they and the gang find the pieces, put them together, find the bad guys, and deal with them. Diane gives Gibbs a watch.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "8 Nov. 2011", 
+            "episodeName": "Engaged (Part I)", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAn aircraft crashes short of Dover AFB, Delaware, while carrying the remains of six Marines from Afghanistan; Abby does not find the DNA of one of the six; Gibbs and others consider the possibility that the one is still alive. [Continued.]    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "15 Nov. 2011", 
+            "episodeName": "Engaged (Part II)", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nGibbs and Ziva fly to Afghanistan to seek 1Lt. Flores or her body; Abby learns where she might be; an extraction team finds and saves her. Back in the USA Gibbs and the gang anticipate what's next, find a bad guy, and prevent an explosion.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "22 Nov. 2011", 
+            "episodeName": "Sins of the Father", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nOn the waterfront in Washington, DC, two Metro cops find DiNozzo Sr., asleep, amnesic, and hung over at the wheel of a parked rented Rolls-Royce saloon; one of them finds a body inside the boot; the victim, wearing dress blues, was a Naval Reserve lieutenant and aviator but not on active duty; Gibbs and company investigate; at the scene they see who the suspect is, so Gibbs excuses Tony Jr. from the case. While talking in the chat room, Senior tells Gibbs about his relationship with the victim; an officer in the JAG Corps approaches the Gibbs team with useful ...    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "13 Dec. 2011", 
+            "episodeName": "Newborn King", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA Navy captain dies by gunfire; Gibbs and company investigate; the gang meet Emma, a pregnant Marine first lieutenant, who says that she's the real target. The team figure out the pieces, and they deal with the problems and the bad guys.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "3 Jan. 2012", 
+            "episodeName": "Housekeeping", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nTwo boys find the body of a Navy commander in a quiet suburban neighborhood; Gibbs and company investigate. EJ Barrett reappears from her hiatus but remains a target. Another man dies, and the gang protect EJ and find and catch the killer.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "10 Jan. 2012", 
+            "episodeName": "A Desperate Man", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nA Navy woman lieutenant commander dies of gunfire; she has served as a Naval attach\u00e9 overseas, and her husband is a detective for the Metro PD; Gibbs and company investigate; the widower's help does not help, but the gang solve the puzzle.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "7 Feb. 2012", 
+            "episodeName": "Life Before His Eyes", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAt a diner an unknown person with a drawn pistol approaches Gibbs, who deals with him; then Gibbs experiences flashbacks and fantasies, which Franks explains. The next day McGee announces a decision, then the gang gear up and head out.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "14 Feb. 2012", 
+            "episodeName": "Secrets", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA civilian and a Navy captain die of gunfire in Washington, DC; Gibbs and company investigate; the Duck sees unusual undergarments, which are also costumes. The gang solve the puzzle and nab the bad guys; Wendy reveals something to Tony.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "21 Feb. 2012", 
+            "episodeName": "Psych Out", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen two burglars enter a home in Arlington, Virginia, in the burbs of Washington, DC, they find the hanged body of a man; the victim proves to be that of a psychologist (with a PhD degree), who was also a Naval Reservist on active duty, and who held a high-level security clearance for his work, which included consulting with the US Department of Defense (DoD) on a psy-ops program; while Gibbs and company investigate, they soon encounter Dr. Rachel Cranston, who was a colleague of the victim, and with whom they've dealt before. Another mind-gamer shows up, and Abby ...    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "28 Feb. 2012", 
+            "episodeName": "Need to Know", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhen Gibbs meets with a Navy chief petty officer and his attorney (to make a deal), the CPO collapses and dies; while the gang investigate, they find a connection to an illicit arms dealer. The team figure it out, and everything works out.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "20 Mar. 2012", 
+            "episodeName": "The Tell", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhile Gibbs and Tony man a protective detail for the SecNav, a gunman shoots the secretary; the NCIS investigates quietly with the help of Dr. Ryan. Blackmail is involved; the gang and Ryan figure it out and find a hacker and the bad guy.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "27 Mar. 2012", 
+            "episodeName": "The Good Son", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhile on liberty in Baltimore, Maryland, a boatswain's mate second-class dies of a stab wound; Gibbs and company investigate; the prime suspect is a brother-in-law of Vance. The team persist, Abby solves the case, and they nab the bad guy.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "10 Apr. 2012", 
+            "episodeName": "The Missionary Position", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nA picnicking couple encounter a dead body, which proves to be that of a first lieutenant in the US Marine Corps; after Gibbs chats with Dr. Ryan, he and the team investigate; the gang see that the victim had plummeted from somewhere in the sky after he had first been beaten, stabbed, and shot; in one of his pockets they find a challenge coin, which they trace to a woman commander in the Navy Chaplain Corps, who is on duty with a relief team in Colombia. Ducky finds curious clues, and Abby interprets them (connecting to Colombia); Ziva communicates with Monique, a ...    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "17 Apr. 2012", 
+            "episodeName": "Rekindled", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nA fire in a warehouse in Baltimore brings in the NCIS; while Gibbs and company investigate the fire and a death, they find connections to the Phantom Eight and the Watcher Fleet. The gang work with a city arson investigator. [Continued.]    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "1 May 2012", 
+            "episodeName": "Playing with Fire", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nGibbs and company continue to investigate an explosion and a fire; Tony, McGee, and Ziva work aboard aircraft carriers; Ducky and Abby provide much support. Tony and Ziva nab a bad guy, who tells who hired him and why. [Continued.]    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "8 May 2012", 
+            "episodeName": "Up in Smoke", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nDorneget gets a surprise from a dentist; Gibbs and company continue to investigate Dearing and the thermite incidents. Dearing visits the Navy Yard and messes with Gibbs. Moves and countermoves abound; Vance disappears. [Continued.]    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "15 May 2012", 
+            "episodeName": "Till Death Do Us Part", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nGibbs and the gang continue to pursue Dearing, the explosions, and the disappearance of the director; Dearing continues to mess with Gibbs and Ryan. After another explosion and another death, disaster strikes at the Navy Yard. [Continued.]    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "25 Sep. 2012", 
+            "episodeName": "Extreme Prejudice", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter the attack on NCIS, the President orders all agencies to pursue Harper Dearing with \"extreme prejudice\". Meanwhile, Ducky tries to recover from his heart attack.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "2 Oct. 2012", 
+            "episodeName": "Recovery", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAbby has more nightmares; Navy Seabees continue to work on the building; a shrink does mandatory psychologic evaluations on all hands; the body of an armory worker appears four months after the explosion; Abby and the rest work out it all.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "9 Oct. 2012", 
+            "episodeName": "Phoenix", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDucky, on medical leave, unofficially calls for the exhumation of the body of a commander whose autopsy he conducted 12 years ago; he now suspects murder; the gang investigate another death, and they find the connection and the solution.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "23 Oct. 2012", 
+            "episodeName": "Lost at Sea", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAn inflatable raft washes ashore with three survivors from a missing Navy helo; the pilot also is missing; Gibbs and company plus Borin (of the CGCIS) investigate. The team and the other Abby find the pilot, the truth, and the chopper.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "30 Oct. 2012", 
+            "episodeName": "The Namesake", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhile the Gibbs team investigate a murder of a Navy petty officer first-class, Gibbs himself sees a Medal of Honor, which his father's former best friend received for valor during WW2. The gang figure out and work out both problems.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "13 Nov. 2012", 
+            "episodeName": "Shell Shock: Part I", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTwo Marine officers return from Afghanistan after an ambush; one night one of them dies in a fistfight in an alley in Washington, DC; Gibbs and company investigate. The gang see a familiar face but do not yet find the person. [Continued.]    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "20 Nov. 2012", 
+            "episodeName": "Shell Shock: Part II", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nGibbs tells Joe that Joe was right about Kersey's presence with the enemy in Afghanistan, and that he and the gang need his help to find the bad guy; Gibbs talks with Joe, his brother (Evan), and their father. Evan stays to help Joe, but their father goes back home in Ohio; Joe goes with Gibbs to see Paul, another member of the outfit, who responds negatively to Joe. Abby uses virtual-reality (VR) gear to help Joe recover some of his memories; the gang increase their efforts to find Kersey; Gibbs continues to work with Joe; they catch a clue; the gang find Kersey's ...    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "27 Nov. 2012", 
+            "episodeName": "Gone", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA kidnapper shoots to death a Navy captain who intervenes; the bad guys get one teenage girl but not the other; both girls are Navy juniors; Gibbs and company investigate, pursue, solve, capture, and recover. Tony joins Ziva and her date.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "11 Dec. 2012", 
+            "episodeName": "Devil's Trifecta", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA Navy seaman fires on Fornell, who returns fire and kills him; Gibbs and company investigate, along with Fornell and the mutual ex-wife of Gibbs and Fornell. The gang find frozen fish, a dead body, a missing accountant, and two bad guys.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "18 Dec. 2012", 
+            "episodeName": "You Better Watch Out", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA Navy Lieutenant Commander returns from an overseas tour to her home and finds the decomposing body of her husband. When Gibbs and his team investigate, they find a new kind of uncirculated $100 bills.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "8 Jan. 2013", 
+            "episodeName": "Shabbat Shalom", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA human ear in the Potomac River leads to the rest of the body, wearing a uniform of a Navy petty officer; Gibbs and company investigate. Ziva's father shows up, as does his Iranian counterpart. Gunfire interrupts a dinner. [Continued.]    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "15 Jan. 2013", 
+            "episodeName": "Shiva", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nGibbs and company continue to investigate the killings at Vance's home, seeking whoever hired the shooter; the gang identify the hit man and later figure out who's responsible. Ziva buries her father, and Vance and the team bury Jackie.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "29 Jan. 2013", 
+            "episodeName": "Hit and Run", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nTwo passersby find the bodies of a Marine and a young woman in a wrecked car; Gibbs and company investigate; Ducky raises questions. Flashbacks trouble Abby. The gang find anger, hostility, a feud, a history, a solution, and the bad guy.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "5 Feb. 2013", 
+            "episodeName": "Canary", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nGibbs and company capture the world's number-2 cyberterrorist; as Ducky suggests, the gang use an unconventional technique to gain evidence from the stubborn bad guy; Tony and Ziva find the body of an Ebola victim; the team come out ahead.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "19 Feb. 2013", 
+            "episodeName": "Hereafter", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA lance corporal collapses and dies on an obstacle course at the MCB, Quantico, Virginia; Gibbs and company investigate; Ducky sees many wounds. Another injured Marine dies. The team figure it out. Vance finds and solves personal business.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "26 Feb. 2013", 
+            "episodeName": "Detour", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAn injured Navy lieutenant commits suicide; Gibbs and company investigate; three people kidnap Ducky, Palmer, and the body, and the abductors demand an improvised autopsy. The gang find the missing body, teammates, answers, and bad actors.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "5 Mar. 2013", 
+            "episodeName": "Prime Suspect", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nGibbs's barber confides in him about the former's son; Gibbs quietly asks around. Meanwhile the gang investigate the disappearance of $120K of Navy money; they suspect a Marine and his girlfriend. Gibbs and company work out both cases.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "19 Mar. 2013", 
+            "episodeName": "Seek", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nIn Afghanistan a Marine sergeant, a dog handler, dies of a single round, said to have come from a Taliban sniper; his widow tells Gibbs about her doubt and the reason; Gibbs and company investigate and solve, then Gibbs arrests the shooter.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "26 Mar. 2013", 
+            "episodeName": "Squall", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAboard a destroyer of the US Navy during a storm at sea, the ship's medical officer dies, apparently by homicide; Gibbs and company investigate; McGee's father, an admiral, is aboard. The gang follow the tracks and catch the killer.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "9 Apr. 2013", 
+            "episodeName": "Chasing Ghosts", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nA Navy lieutenant returns home from TAD; her husband is missing, and the family room is a mess; Gibbs and company investigate; a suspect dies. The team assemble the pieces, and they bust two bad actors. Gibbs sends Ziva and Tony to Rome.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "23 Apr. 2013", 
+            "episodeName": "Berlin", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nOrli, the new director of the Mossad, misuses the NCIS and its assets. Tony and Ziva go not to Rome but to Berlin; they seize diamonds and Ilan's brother Yaniv. Vance sends Orli back to Israel. An SUV hits Tony and Ziva's car. [Continued.]    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "30 Apr. 2013", 
+            "episodeName": "Revenge", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nTony and Ziva, with only minor injuries, return to work; the others find the getaway car and the body of the wheelman, which provides a clue; Ilan contacts Ziva; Tony interprets the lead, then Ziva pursues it and draws the case to an end.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "7 May 2013", 
+            "episodeName": "Double Blind", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nA Navy petty officer chases and attacks a man; he asks to speak with someone at NCIS; the gang solve. An official from the DoD starts snooping around, apparently on a witch hunt; he and a goon squad of grim feds confront Gibbs. [Continued.]    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "14 May 2013", 
+            "episodeName": "Damned If You Do", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nA familiar face defends Gibbs in Parson's investigation. While the team tries to help Gibbs, they must solve the murder of a Navy SEAL.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "24 Sep. 2013", 
+            "episodeName": "Whiskey Tango Foxtrot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nParsons gripes about his project; then a bomb explodes, killing the SecNav; Gibbs volunteers for a spec op, which takes him to Iran, where he runs into Parsons, and where they investigate. Tony tries to pursue Ziva in Israel. [Continued.]    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "1 Oct. 2013", 
+            "episodeName": "Past, Present, and Future", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nTony searches for Ziva in Israel and elsewhere; he finally finds her, but he returns without her. Gibbs, Fornell, and others work hard on the case of the bomber. McGee makes a huge discovery, which allows Gibbs to solve and to take a shot.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "8 Oct. 2013", 
+            "episodeName": "Under the Radar", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA bomb explodes inside the unoccupied pad of a Navy jaygee; Gibbs and company investigate; Abby determines who built the bomb; Tony finds the seller of the explosive; the team find the jaygee, who changes his plan and ends his flight.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "15 Oct. 2013", 
+            "episodeName": "Anonymous Was a Woman", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nGibbs and company investigate the death of a woman with an ID card of a sergeant in the US Marine Corps; McGee finds that the real sergeant died in Afghanistan three years ago. Gibbs and McGee go to Kabul, sort things out, and do some good.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "22 Oct. 2013", 
+            "episodeName": "Once a Crook", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA Navy petty officer dies of a gunshot in a park in Baltimore, Maryland; Gibbs and company investigate; at the scene Tony sees a clue and a man. Abby finds links, then the gang put the pieces together and nail the shooter. Tony nods off.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "29 Oct. 2013", 
+            "episodeName": "Oil and Water", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAn explosion and a fire damage an offshore drilling platform near the Virginia Capes, killing one (a major in the US Marine Corps Reserve) and injuring many others; Gibbs and company, along with Abby of the CGIS, investigate. The CEO and the chief legal counsel of the oil company assure the SecNav and Gibbs of their utmost cooperation. Tony and McGeek trace one lead, which appears to reach a dead end, but which leaves egg on McGoo's face; Gibbs and the other Abby suspect that the target was not the platform but rather the dead victim. Tony and McGee plus Gibbs and ...    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "5 Nov. 2013", 
+            "episodeName": "Better Angels", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nA Marine sergeant, Dawson, dies of gunfire during an alleged armed robbery of a men's clothing store in Washington, DC; Gibbs and company investigate; while at the scene Gibbs receives a call from a local cop nearby in Howard County, Maryland, near Baltimore, saying that his father, Jackson, has become involved in an \"incident\"; Jackson wants Leroy to go with him to see a fellow WW2 pilot in North Carolina, so they go. The rest of the team step up to the plate; Gibbs tells McGee to take the point; Tony and McGee compete and compromise; while Tony talks with Dawson's ...    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "12 Nov. 2013", 
+            "episodeName": "Alibi", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAt night at Quantico a hit-and-run driver kills a woman Navy petty officer; while investigating, Gibbs and company find a suspect, who has a solid but complicated alibi; the gang, a lawyer, and a local cop figure out the whole thing.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "19 Nov. 2013", 
+            "episodeName": "Gut Check", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA security system detects a bug on the person of the SecNav; Tony contacts the NSA, where he finds a two-year-old paper describing such a breach; one man dies; the author helps the gang to nail the bad guys; Gibbs wants to keep her around.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "10 Dec. 2013", 
+            "episodeName": "Devil's Triad", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA clown kills a Marine corporal; while investigating, Gibbs and company find Fornell, Diane, and her boyfriend, who says that he's someone else, and that he knows the clown. All the pieces come together, and the team bust the main bad guy.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "17 Dec. 2013", 
+            "episodeName": "Homesick", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWithin 30 miles of Washington, DC, eight kids in Navy and Marine Corps families have suddenly become badly ill, requiring treatment in ERs and ICUs; Gibbs and company investigate; Carol, of the Naval Medical-research Center, joins the effort; immediately the number of sick kids grows to 14, then 19, 23, 28, and 34, and none of them responds to treatment. Duckie announces the first fatality, who was a veteran of Vietnam, then he describes the cause of death and the treatability in the kids. Abby says that she has misidentified the particular nature of the illness, so ...    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "7 Jan. 2014", 
+            "episodeName": "Kill Chain", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA Navy petty officer dies of gunfire in a park in Washington, DC; Gibbs and company investigate; Hollis helps. The gang find an accessory for hire to a terrorist. An explosion kills six and injures 22, including Delilah. [Continued.]    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "14 Jan. 2014", 
+            "episodeName": "Double Back", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhile McGee stays with Delilah in a hospital, Gibbs, Tony, and Ellie find and recover a bullet, which bears the DNA of the wheelman, whom Gibbs clipped during the escape; Abby identifies him, and she and Tony gather data about him, which Gibbs and Duck review. Gibbs, Tony, and Ellie see the escape SUV, which bears a message; Abby finds a modification to it. McGee gets approval to return to work, but Dr. Cranston learns that McGee has avoided an unpleasant new truth, so she talks with him. CIA and NSA help with the search for the terrorist; McGee finds an address for ...    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "4 Feb. 2014", 
+            "episodeName": "Monsters and Men", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nEllie's gut says that Parsa is in his home district in NW Pakistan; there a SEAL team captures him alive. Gibbs, McGee, and Ellie fly to an aircraft carrier, where Gibbs and Ellie question him. Ellie gets into a bind, but Gibbs saves her.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "25 Feb. 2014", 
+            "episodeName": "Bulletproof", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAn overturned van in Washington, DC, contains body armor, which Abby shows to be faulty and fatal; Gibbs and company find the body of the driver, then the source of the bad gear and the path to the troops in the Middle East. Justice wins.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "4 Mar. 2014", 
+            "episodeName": "Dressed to Kill", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen Tony seeks to question a man who appears to impersonate a Naval officer, the man draws a pistol; Tony kills him. The dead man proves to be a private investigator who had become involved in international intrigue. The gang sort it out.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "18 Mar. 2014", 
+            "episodeName": "Rock and a Hard Place", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nBackstage before a charity-benefit concert in Washington, DC, an explosion kills a Navy petty officer first-class; Gibbs and company investigate; Abby fingers the bad guy, McGee finds out about him, and Gibbs and Ellie catch him at work.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "25 Mar. 2014", 
+            "episodeName": "Crescent City: Part 1", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nIn New Orleans, Louisiana, two local special agents of the NCIS, Pride and LaSalle, start to investigate the death of Dan McLane, who was not only a member of the US House of Representatives but also both a retired Naval Reserve commander and a retired agent of the NIS (before the NCIS); Dan had worked with Franks and had served as a mentor to both Pride and Gibbs; King Pride, a former partner of Gibbs, goes to Washington, DC, and spends time with Gibbs. Inter-agency intrigue begins; the FBI seizes control; a joint FBI-NCIS effort proceeds; Fornell joins the hunting ...    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "1 Apr. 2014", 
+            "episodeName": "Crescent City: Part 2", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhile investigating the death of a US congressman, the Gibbs team and the gang in Nola continue to seek both a killer and a connection to an old case. Another man dies. Ducky suggests a theory, and the bunch put all the pieces together.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "8 Apr. 2014", 
+            "episodeName": "Page Not Found", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nDelilah finds a clue, which may help to solve the alleged death of a US Navy lieutenant, Kit, two weeks ago in Budapest, Hungary; then her boss orders her that she has never seen it; however, she surreptitiously speaks with Tony, McGee, and Gibbs, who sends Tony and McGee to check for chinchillas and to find evidence. Then Tony and McGee meet a man who claims to be an agent of the CIA, who tells a wild story to Vance and Gibbs, and who asks them to back off; still, though, Vance tells Gibbs and Ellie to continue pushing quietly. Abby and Jimmy, interpreting the ...    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "15 Apr. 2014", 
+            "episodeName": "Alleged", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nA distracted texting driver runs over the dead body of a Naval officer; Gibbs and company investigate; they find a connection to a previously unreported rape of a drugged victim. The team figure out everything, and they catch the bad guy.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "29 Apr. 2014", 
+            "episodeName": "Shooter", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nDuring a court-martial of an Army first lieutenant, a Marine photojournalist disappears before he can testify; while Gibbs and company lend a hand, they find the body of the Marine, solve his murder and another one, and arrest two bad guys.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "6 May 2014", 
+            "episodeName": "The Admiral's Daughter", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nTony goes to France to escort an admiral's daughter, Amanda, back to DC; meanwhile Gibbs and company investigate a death. Tony and Amanda run into trouble, work it out, find solutions for all seven executions, and report to the admiral.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "13 May 2014", 
+            "episodeName": "Honor Thy Father", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nThe team must investigate a prison escape without Gibbs as he heads to Stillwater after his father's death.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "23 Sep. 2014", 
+            "episodeName": "Twenty Klicks", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nGibbs and McGee are shot down in a Naval helicopter over remote parts of Russia while on a mission to escort an NCIS computer geek safely home. Meanwhile, the gang at home anxiously work to help bring them all home safely.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "30 Sep. 2014", 
+            "episodeName": "Kill the Messenger", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA Navy Commander is murdered near the White House, it is learned that he was on his way to talk to the President. Gibbs and his team must determine if it is because of his relationship with the President or because of his marital problems.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "7 Oct. 2014", 
+            "episodeName": "So It Goes", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nFlashbacks into his past help tell the tale for Dr. Mallard as he and Bishop travel to England in search of answers to find out why an Englishman murdered in the United States would have a list of deceased Navy men on his person.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "14 Oct. 2014", 
+            "episodeName": "Choke Hold", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAfter a scientist is decapitated by a strangulation device in a park, Gibbs and his team search for the woman who was her former research partner in Russia in order to learn who is behind her murder. They learn it may be a familiar foe.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "21 Oct. 2014", 
+            "episodeName": "The San Dominick", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhile the NCIS team is on a training exercise with CGIS Special Agent Abigail Borin, Gibbs spots a man overboard. It leads him to board another ship called The San Dominick, and he soon discovers that it has been taken over by pirates.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "28 Oct. 2014", 
+            "episodeName": "Parental Guidance Suggested", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe wife of a Navy Seal is murdered, and the NCIS team discovers she has a background in criminal forensics and recently visited a serial killer in prison seeking his help with another sociopath. Gibbs and company must figure out who it is.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "11 Nov. 2014", 
+            "episodeName": "The Searchers", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhile investigating the death of a retired Marine Master Sergeant, Gibbs and the NCIS team discover there is a possibility that his death may be connected to another Marine who was MIA from the Vietnam War.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "18 Nov. 2014", 
+            "episodeName": "Semper Fortis", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA former Navy hospital corpsman gives aid to the victims of a wreck; local officials arrest her for practicing medicine without a license; Gibbs and company find the other driver, his killer, and a lawyer who makes a deal for the corpsman.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "25 Nov. 2014", 
+            "episodeName": "Grounded", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nOn the eve of Thanksgiving, DiNozzo and Bishop experience a weather delay at the D.C airport when Gibbs informs them of an elevated terror threat specific to area airports. An impostor posing as an air marshal leads them to the real threat.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "16 Dec. 2014", 
+            "episodeName": "House Rules", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nTis the season to be hacking. In a Christmas letter to his father, McGee describes in detail a case in which he, Gibbs and the rest of the NCIS team investigate the hackers who are responsible for the Internet going down in the D.C. area.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "6 Jan. 2015", 
+            "episodeName": "Check", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe NCIS team investigate a series of crime scenes that appear to be copycats of previous cases. Meanwhile, two of Gibbs' ex-wives show up at a crime scene to discuss something important with him.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "13 Jan. 2015", 
+            "episodeName": "The Enemy Within", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nGibbs and the rest of the NCIS team, along with FBI agent Fornell are on the hunt for an American born terrorist who was detected in Syria but is now back in the D.C area.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "3 Feb. 2015", 
+            "episodeName": "We Build, We Fight", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhen an openly-gay Navy Lieutenant who was about to be awarded the Medal of Honor is murdered, Gibbs and the team investigate. Meanwhile, Breena goes into labor.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "10 Feb. 2015", 
+            "episodeName": "Cadence", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nDiNozzo returns to the military academy he attended as a teenager after a murdered Marine and alumni of the school is found clutching the photo of a current student. Also, Bishop and her husband invite Gibbs and the team out for a special dinner.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "17 Feb. 2015", 
+            "episodeName": "Cabin Fever", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nGibbs and the NCIS team continue to track down the Russian terrorist Sergei after two young Marines are killed in a bombing. Agent Fornell struggles to cope with the recent shooting death of his ex-wife at the hands of Sergei.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "24 Feb. 2015", 
+            "episodeName": "Blast from the Past", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA covert identity created for one of Gibbs' undercover cases 20 years ago resurfaces after a murder victim is found living under the alias.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "10 Mar. 2015", 
+            "episodeName": "The Artful Dodger", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nAfter a Vice Admirals aide is murdered, Gibbs and the NCIS team theorize that it was because of a valuable painting in her office. DiNozzo's father is more than happy to help with the investigation by sharing his knowledge of the artwork.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "24 Mar. 2015", 
+            "episodeName": "Status Update", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAfter the body of a thief is found in a Marine's house, NCIS discovers the calling card of a terror group Delilah and the Department of Defense have been tracking. Margo Harshman guest stars.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "31 Mar. 2015", 
+            "episodeName": "Patience", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nA petty officer's murder provides clues to a 40 year unsolved airport bombing which Gibbs and DiNozzo have been reexamining recently.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "7 Apr. 2015", 
+            "episodeName": "No Good Deed", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nDiNozzo is partnered with his girlfriend, ATF Special Agent Zo\u00eb Keates, after evidence reveals that the murder weapon in an NCIS case was originally purchased for the controversial ATF sting, \"Operation Fast and Furious.\" Also, Anthony DiNozzo Sr. returns to town for a special dinner to meet his son's girlfriend.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "14 Apr. 2015", 
+            "episodeName": "Lost in Translation", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nGibbs and Bishop travel to Afghanistan when a murder investigation is linked to a terror group holding a Marine hostage. Meanwhile, Tony is annoyed when McGee steals his gig as the face of the NCIS recruitment brochures.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "28 Apr. 2015", 
+            "episodeName": "Troll", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nSpecial Agent Ned Dorneget from NCIS cyber operations assists the team when a Navy ensign who worked in the Office of Naval Intelligence is murdered. Also, the team discovers that Jake and Gibbs have become good friends.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "5 May 2015", 
+            "episodeName": "The Lost Boys", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nThe NCIS cyber case turns into a united global effort after evidence confirms \"The Calling,\" an international terrorist group that recruits children through the Internet, has been purchasing German S-mines off the black market.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "12 May 2015", 
+            "episodeName": "Neverland", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nNCIS feverishly investigates a global terrorist group that is recruiting teens via the Internet, following a deadly bombing overseas that results in an emotional and surprising loss for the team.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "22 Sep. 2015", 
+            "episodeName": "Stop the Bleeding", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nGibbs fights for his life after being shot by Luke Harris. Meanwhile, Agent Tony DiNozzo and CIA officer Joanna Teague travel to Egypt to take down The Calling.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "29 Sep. 2015", 
+            "episodeName": "Personal Day", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nGibbs asks the team to work on a case with a DEA Agent to bring down a drug dealer who is connected to the Gibbs and the agent.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "6 Oct. 2015", 
+            "episodeName": "Incognito", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nHours after calling Gibbs about a possible case, a Marine is found dead in Quantico; McGee and Bishop pose as a married couple.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "13 Oct. 2015", 
+            "episodeName": "Double Trouble", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nVance partners with Gibbs and returns to field duty when a murder case is connected to a former NCIS agent he put in jail for stealing evidence.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "20 Oct. 2015", 
+            "episodeName": "Lockdown", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nDuring an investigation, Abby is trapped in a pharmaceutical lab when armed men enter the building and take hostages.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "27 Oct. 2015", 
+            "episodeName": "Viral", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen a petty officer is murdered, the crime matches a local serial killer's method of operation; Delilah and McGee prepare to move in together.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "3 Nov. 2015", 
+            "episodeName": "16 Years", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nNCIS investigates the death of a retired Navy officer who's son was convicted of a murder 16 years before. A flawed forensic test from that time can prove whether the son was the real murderer or innocent of the crime.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "10 Nov. 2015", 
+            "episodeName": "Saviors", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nDiNozzo is reunited with his ex-girlfriend, Jeanne Benoit, when insurgents in South Sudan attack a group of volunteer doctors, including her husband. DiNozzo and McGee travel to the crime scene for the joint murder and kidnapping case and join the search for the missing doctors. Jon Cryer and Scottie Thompson return.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "17 Nov. 2015", 
+            "episodeName": "Day in Court", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA Petty Officer, accused of killing an ex-girlfriend, is set free on mistrial. Professing to be innocent he asks NCIS to investigate and if necessary court martial him. Bishop and her husband have marital problems.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "24 Nov. 2015", 
+            "episodeName": "Blood Brothers", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe Secretary of Defense turns to NCIS to help a sailor dying from leukemia locate a bone marrow transplant after two of his siblings are killed in the line of duty. Meanwhile, Bishop returns home to Oklahoma for Thanksgiving after learning of Jake's cheating.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "15 Dec. 2015", 
+            "episodeName": "Spinning Wheel", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAfter Ducky is attacked by a man claiming to have information about his half-brother who died decades ago, the NCIS team searches for the perpetrator, as Ducky recalls the final emotional days he had with his sibling. Also, with the holidays approaching, Bishop and Jake (Jamie Bamber) discuss the future of their relationship. Adam Campbell returns as \"Young Ducky.\"    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "5 Jan. 2016", 
+            "episodeName": "Sister City, Part I", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nGibbs and his team work with Pride and the New Orleans team to find Abby's brother and figure out why the passengers and crew of a private plane he catered were poisoned.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "19 Jan. 2016", 
+            "episodeName": "D\u00e9j\u00e0 Vu", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe investigation of a seaman's murder uncovers the resurface of a human-trafficking ring, while McGee hopes to spend the night with a colleague during a power outage.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "9 Feb. 2016", 
+            "episodeName": "Decompressed", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe team investigates the murder of a deep-sea diver outside a high-tech decompression chamber where the body and suspects have to stay for four days.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "16 Feb. 2016", 
+            "episodeName": "React", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe team partners with the FBI to rescue the kidnapped daughter of Sarah Porter.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "23 Feb. 2016", 
+            "episodeName": "Loose Cannons", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nDr. Cyril Taft feels the rush of an NCIS case when he's assigned to operate on Gibbs' suspect and discovers key evidence.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "1 Mar. 2016", 
+            "episodeName": "After Hours", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe team member's plans are interrupted when they discover discrepancies in what appeared to be an open and shut case.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "15 Mar. 2016", 
+            "episodeName": "Scope", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nGibbs tries to connect with a wounded Special Ops sniper when an American couple is attack in the same area in Iraq where the sniper's team was ambushed.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "22 Mar. 2016", 
+            "episodeName": "Reasonable Doubts", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nThe wife and mistress of a Navy Public Affairs officer accuse each other of murdering him, so the team must figure out who's lying.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "5 Apr. 2016", 
+            "episodeName": "Charade", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nTony's identity is stolen by multiple perpetrators who proceed to blackmail senators.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "19 Apr. 2016", 
+            "episodeName": "Return to Sender", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nA family owned mortuary ordered a bunch of caskets from an overseas company. When they go to unload the shipment, they find that one of the caskets already has a dead body. There are ties to a prison break of someone NCIS helped put away.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "3 May 2016", 
+            "episodeName": "Homefront", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nGibbs and the team investigate a military home invasion thwarted by a 14-year-old, while Vance and Fornell head to London to continue pursuing the escaped British spy.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "10 May 2016", 
+            "episodeName": "Dead Letter", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nThe team continues the international manhunt for an escaped British spy while a colleague fights for their life in the ICU.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "17 May 2016", 
+            "episodeName": "Family First", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nThe NCIS, FBI and MI6 teams continue the international manhunt for an escaped British spy who's targeting current and former agents. Anthony DiNozzo bids farewell to NCIS.    ", 
+            "seasonNumber": 13
+        }, 
+        {
+            "airDate": "20 Sep. 2016", 
+            "episodeName": "Rogue", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe team investigates a car explosion with a connection to an agent who went missing six months earlier; Gibbs asks NCIS Special Agent Alex Quinn to shadow his team.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "27 Sep. 2016", 
+            "episodeName": "Being Bad", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nNCIS uncovers a bomb plot and a long-running theft ring while investigating a death at a Quantico reunion. Meanwhile, Torres and Quinn adjust to life on Gibbs' team, including new seating arrangements in the squad room.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "4 Oct. 2016", 
+            "episodeName": "Privileged Information", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA marine sergeant is killed when she falls from a building, but her doctor, Grace Confalone, risks breaking patient confidentiality and urges Gibbs to investigate the death as a murder.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "11 Oct. 2016", 
+            "episodeName": "Love Boat", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nGibbs, Quinn and Palmer head out to sea when the body of a navy lieutenant is found on a destroyer during a tiger cruise.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "18 Oct. 2016", 
+            "episodeName": "Philly", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nGibbs sends Bishop and Quinn to Philadelphia to work with MI-6 Officer Clayton Reeves on the murder case of a British operative. Meanwhile, Quinn deals with the NCIS case that caused her to leave the field.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "25 Oct. 2016", 
+            "episodeName": "Shell Game", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen a petty officer escapes from her kidnapper, the team finds a connection to her missing husband.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "15 Nov. 2016", 
+            "episodeName": "Home of the Brave", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nTorres breaks protocol when he identifies a suspect that is wanted by ICE; Abby, McGee, and Bishop try to woo Anthony DiNozzo, Sr. Into subletting his son's apartment.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "22 Nov. 2016", 
+            "episodeName": "Enemy Combatant", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nBishop questions her previous work at the NSA when she's sent to Gitmo to collect evidence for a Navy chaplain murder case. In the meantime, her brothers visit for Thanksgiving and want to know from her co-workers who she's dating.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "6 Dec. 2016", 
+            "episodeName": "Pay to Play", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe team investigates threats against Congresswoman Jenna Flemming, while Vance oversees temporary protection detail.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "13 Dec. 2016", 
+            "episodeName": "The Tie That Binds", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nDucky looks back on a choice he made 37 years ago when evidence in the murder of a Navy captain is linked to his dead mother.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "3 Jan. 2017", 
+            "episodeName": "Willoughby", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe team searches for new leads when an undercover mission to apprehend a businessman who's committing acts of terrorism to manipulate the stock market is compromised.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "17 Jan. 2017", 
+            "episodeName": "Off the Grid", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhen Gibbs spots the brother of a Most Wanted suspect, he assumes an old alias and goes undercover with their anti-government militia.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "24 Jan. 2017", 
+            "episodeName": "Keep Going", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nDuring a hit-and-run investigation, Palmer tries to prevent a stranger from jumping off the ledge of a building.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "7 Feb. 2017", 
+            "episodeName": "Nonstop", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe team partner with \"The Sherlocks\" - one of whom is Anthony DiNozzo, Sr. - to investigate the murder of a petty officer outside D.C.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "14 Feb. 2017", 
+            "episodeName": "Pandora's Box, Part I", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhen Abby's homeland security think tank is compromised, the team realizes that a theoretical terror playbook has been stolen.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "21 Feb. 2017", 
+            "episodeName": "A Many Splendored Thing", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nBishop is more determined to avenge her boyfriend's murder when the team finds a new lead in the Chen case. In the meantime, Torres teaches his fellow agents the art of pick-pocketing.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "7 Mar. 2017", 
+            "episodeName": "What Lies Above", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMcGee's apartment is torn apart by a robber looking for a valuable item hidden by the previous tenant, a convicted criminal.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "14 Mar. 2017", 
+            "episodeName": "M.I.A.", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nTo honor a sailor's dying wish, the team reopens a murder case that was originally ruled an accidental death.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "28 Mar. 2017", 
+            "episodeName": "The Wall", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nThe team must rely on an irritable Vietnam War veteran to solve a Marine's murder.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "4 Apr. 2017", 
+            "episodeName": "A Bowl of Cherries", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nMcGee and the team race to find the hacker responsible for infecting a vice admiral's laptop with ransomware.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "One Book, Two Covers", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe murder of a Marine is linked to an old dirt bike gang Torres joined while undercover.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "2 May 2017", 
+            "episodeName": "Beastmaster", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe team partners with the Mounted Police to solve a series of murders in a National Park.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "9 May 2017", 
+            "episodeName": "Something Blue", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nThe stress of McGee and Delilah's upcoming wedding lands Delilah in the hospital; the NCIS team investigates the mysterious death of a healthy, young petty officer aboard a Navy destroyer.    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "16 May 2017", 
+            "episodeName": "Rendezvous", 
+            "episodeNumber": 24, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 14
+        }, 
+        {
+            "airDate": "Sep. 2017", 
+            "episodeName": "Episode #15.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 15
+        }
+    ], 
+    "name": "NCIS: Naval Criminal Investigative Service", 
+    "plot": "The cases of the Naval Criminal Investigative Service's Washington DC Major Case Response Team, led by Special Agent Leroy Jethro Gibbs.", 
+    "rating": 7.9, 
+    "releaseDate": "23 September 2003", 
+    "type": "tvserie"
+}

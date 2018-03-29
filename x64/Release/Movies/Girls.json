@@ -1,0 +1,466 @@
+{
+    "actorList": [
+        "Lena Dunham", 
+        "Allison Williams", 
+        "Jemima Kirke", 
+        "Adam Driver", 
+        "Zosia Mamet", 
+        "Alex Karpovsky", 
+        "Andrew Rannells", 
+        "Ebon Moss-Bachrach"
+    ], 
+    "director": [
+        "Lena Dunham", 
+        "Jesse Peretz", 
+        "Richard Shepard", 
+        "Jamie Babbit", 
+        "Jody Lee Lipes", 
+        "Tricia Brock", 
+        "Jennifer Konner"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "15 Apr. 2012", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nHannah searches for a job in New York City after she is cut off financially by her parents.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Apr. 2012", 
+            "episodeName": "Vagina Panic", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nMarnie has arranged for Jessa to have an abortion at the clinic. Jessa's situation adds an extra level of stress to Marnie and Hannah's post-sex discussions with Charlie and Adam respectively. Marnie does not want to reduce her problems with Charlie as boredom, but she is feeling increasingly sexually and emotionally incompatible with him, especially as he always wants to please her rather than do what pleases him. Hannah becomes worried about what diseases Adam might be bringing into their sexual relationship through the sex he has with others, as she learns he does ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Apr. 2012", 
+            "episodeName": "All Adventurous Women Do", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nHannah receives the results of her STD tests: she has contracted HPV. After an accusatory conversation with Adam about him being the one who infected her, Hannah then comes to the conclusion that Elijah Krantz, her boyfriend in her last two years of college, is the one who infected her. After a discussion with Shoshanna about the issue, Hannah decides to confront Elijah, although she also decides to use that opportunity to reconnect with Elijah sexually, despite the issues which led to their breakup. Hannah learns much more during her meeting with Elijah, that new ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 May 2012", 
+            "episodeName": "Hannah's Diary", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHannah takes up 'sexting'; Shoshanna runs into a boy from summer camp; Jessa gets distracted on the job; Ray and Charlie snoop.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 May 2012", 
+            "episodeName": "Hard Being Easy", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHannah's diary makes Charlie reconsider his relationship with Marnie, but is she ready to let him go? Hannah pays a visit to Adam's, but finds herself excluded from the fun part. Jesse meets her ex, who has absolutely no intention of sleeping with her.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 May 2012", 
+            "episodeName": "The Return", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nHannah goes home to Michigan for her parents' anniversary. She goes to a benefit with a local pharmacist. But after Adam, she has trouble adjusting to regular dating.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 May 2012", 
+            "episodeName": "Welcome to Bushwick a.k.a. The Crackcident", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe girls go to a warehouse party in Brooklyn. Marnie discovers Charlie has a new girlfriend. Hannah meets Adam and learns something new about him. Jeff comes to see Jessa, but ends up in the ER. Shoshanna accidentally smokes crack.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Jun. 2012", 
+            "episodeName": "Weirdos Need Girlfriends Too", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nHannah is spending more time with Adam than ever. She goes to the rehearsal of a play Adam is doing, but he suddenly quits. Marnie is miserable after learning that Charlie went to Rome with his new girlfriend. She and Jessa go to a bar and meet a lonely businessman.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Jun. 2012", 
+            "episodeName": "Leave Me Alone", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe girls attend a book launch for Hannah's college nemesis. Hannah meets her old professor, who invites her to a reading. In need of money, she also tries out for a job at Ray's caf\u00e9. Hannah and Marnie get into a fight.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Jun. 2012", 
+            "episodeName": "She Did", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMarnie moves out of the apartment. Hannah considers the idea of Adam moving in. Jessa invites everyone to a mystery party.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Jan. 2013", 
+            "episodeName": "It's About Time", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nHannah throws a housewarming party with brand-new roommate Elijah, but it's hard to move on when she's still playing nurse to Adam. Marnie gets bad news at work and a visit from her mom; Shoshanna avoids Ray at the party; and sun-kissed Jessa returns from her honeymoon.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Jan. 2013", 
+            "episodeName": "I Get Ideas", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHannah gets unsolicited musical attention from heartbroken Adam and displeasing opinions on her writing from Sandy. Elijah questions his sexuality; Marnie makes a career compromise when her curatorial dreams are crushed; Jessa revels in married life; Shoshanna and Ray make magic; and Elijah and Marnie harbor a secret.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Jan. 2013", 
+            "episodeName": "Bad Friend", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nHannah gets a new freelance gig, and her editor suggests that she should try cocaine for the first time to write about her experience. In the process, she gets to know her downstairs neighbor, Laird. Meanwhile, Marnie meets her old artist flame, Booth Jonathan, who takes her home to show her his studio.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Feb. 2013", 
+            "episodeName": "It's a Shame About Ray", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nElijah moves out, and Hannah invites a group including Charlie, Audrey and Marney to dinner. Jessa meets Thomas-John's parents, which finally prompts a confrontation between husband and wife. Shoshanna discovers that Ray may be living with her.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Feb. 2013", 
+            "episodeName": "One Man's Trash", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA man comes to the coffee shop to complain to Ray that someone is leaving trash in his trash cans. Hannah follows him to his brownstone to confess and ends up spending the rest of the day, and the next day, with him.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Feb. 2013", 
+            "episodeName": "Boys", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nHannah is hired to write an e-book, but has trouble finding inspiration. Booth asks Marnie to host a party with him for a gallery opening. Ray goes to see Adam, and they end up traveling to Staten Island to return a stolen dog.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Feb. 2013", 
+            "episodeName": "Video Games", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nHannah accompanies Jessa on a visit upstate to see Jessa's estranged father, his new-age wife and Frank, their virginal teenage son.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Mar. 2013", 
+            "episodeName": "It's Back", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nHannah tries to hide mounting anxiety about her book from her visiting parents. Meanwhile, Marnie is stunned by news that Charlie has started a successful app company; Adam gets set up on a date; and Ray's misanthropy gives Shoshanna pause.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Mar. 2013", 
+            "episodeName": "On All Fours", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nPressure from Hannah's aggressive publisher (John Cameron Mitchell) and a looming deadline further jeopardize Hannah's mental state. Adam and his new girlfriend have their first misunderstanding. Marnie makes an awkward step in following her dreams.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Mar. 2013", 
+            "episodeName": "Together", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nSeason Two Finale. In order to avoid being sued by her publisher, Hannah must write her book in a single day. Marnie misinterprets Charlie's intentions; Ray makes a career move which he hopes will impress Shoshanna.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Jan. 2014", 
+            "episodeName": "Females Only", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nHannah attempts to ease Adam into her social circle as Marnie recovers from a second breakup with Charlie and Shoshanna establishes her priorities after her split with Ray. Meanwhile, Jessa is secretly in rehab, but finds herself an unpopular fixture due to her careless attitude with the other patients.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Jan. 2014", 
+            "episodeName": "Truth or Dare", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhile Marnie gets a place of her own, Adam takes Shoshanna and Hannah on a road trip.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Jan. 2014", 
+            "episodeName": "She Said OK", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nRay gets used to being a restaurant manager and Marnie takes control of Hannah's 25th birthday party. Meanwhile, Adam gets an unexpected visitor.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Jan. 2014", 
+            "episodeName": "Dead Inside", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHannah's editor, David, dies, but Hannah's more concerned with what will happen to her e-book. Jessa finds out that a friend from the past faked her own death. Marnie quits her job at Ray's coffee shop.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Feb. 2014", 
+            "episodeName": "Only Child", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nCaroline is creating tension in the apartment. Hannah finds a new editor, but her previous publisher will not release her book. Marnie asks Ray's opinion of her, but her response is pathetic and desperate, and ultimately proves Ray's point.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 Feb. 2014", 
+            "episodeName": "Free Snacks", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nHannah starts a new job doing advertorial work for GQ magazine, but finds it difficult to fit in. Meanwhile, Marnie and Ray make a connection, but soon clash, and Shoshanna takes her relationship with Parker to the next level.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Feb. 2014", 
+            "episodeName": "Beach House", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMarnie invites the girls to her mother's friend's beach house for the weekend. While there, Hannah runs into Elijah and the girls learn a lot about themselves through each other.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Feb. 2014", 
+            "episodeName": "Incidentals", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAfter conducting an interview with Patti LuPone, Hannah becomes scared that Adam will change due to his being cast in a Broadway play. Meanwhile, Jessa receives an unexpected visit, and Marnie is depressed about her lack of success.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 Mar. 2014", 
+            "episodeName": "Flo", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhile visiting her ailing grandmother in hospital, Hannah is surprised by a strange request from her mother. Later, she shares an uncomfortable drink with her overachieving med student cousin Rebecca.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 Mar. 2014", 
+            "episodeName": "Role-Play", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nHannah worries about her relationship with Adam, Marnie starts working at an art gallery, and Shoshanna surprises Jasper and Jessa.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Mar. 2014", 
+            "episodeName": "I Saw You", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nHannah and Elijah have dinner with Patti LuPone, Jessa looks for a new job, and Hannah, Shoshanna and Elijah attend Marnie's open-mic night performance.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Mar. 2014", 
+            "episodeName": "Two Plane Rides", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe girls each face life-altering news and decisions.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jan. 2015", 
+            "episodeName": "Iowa", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMarnie and Desi perform a live duo, while Hannah prepares for her big move to Iowa.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Jan. 2015", 
+            "episodeName": "Triggering", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHannah moves to Iowa, where cheaper rent rates and the seemingly trusting nature of the locals impress her. She struggles to settle in amongst her Grad school classmates, who find her fiction work offensive and poorly written. Elijah surprises her with a visit as he has started to find New York grotesque.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Jan. 2015", 
+            "episodeName": "Female Author", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJessa and Adam become AA pals and Jessa gets into trouble with NYPD. Seems unlikely that Hannah long distance relationship stands a chance. Marnie is hitting the wall in her personal life but her singing career seems to finally going in a right direction.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Feb. 2015", 
+            "episodeName": "Cubbies", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJessa gives her opinion on Marnie's new song. Shoshanna and Ray go shopping together. Desi gives Marnie news that makes her smile. Hannah writes an apology letter that doesn't go over well. Then she learns of the new things in Adam's life.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Feb. 2015", 
+            "episodeName": "Sit-In", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHannah's friends try to help her through a crisis after she arrives back in the city and finds everyone has moved on with their lives while she was in Iowa. Hannah and Adam have an honest conversation about their relationship.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Feb. 2015", 
+            "episodeName": "Close Up", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAdam's new girlfriend reveals a surprising revelation that can tear apart their relationship, while Hannah and Ray make big career decisions.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Mar. 2015", 
+            "episodeName": "Ask Me My Name", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nHannah begins a new job and goes on a date with a co-worker. Mimi-Rose hosts an art show.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Mar. 2015", 
+            "episodeName": "Tad & Loreen & Avi & Shanaz", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nHannah's father makes a shocking announcement. Marnie and Desi take things to another level. Shoshanna tries to get back in the dating game.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Mar. 2015", 
+            "episodeName": "Daddy Issues", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nHannah is confronted with a family dilemma; Marnie makes an announcement at Ray's campaign party.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Mar. 2015", 
+            "episodeName": "Home Birth", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nHannah, Adam and Jessa try to convince Caroline and Laird to forgo their planned home birth.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Feb. 2016", 
+            "episodeName": "Wedding Day", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMarnie micromanages her upstate wedding to Desi; Shoshanna is tasked with carrying out Marnie's wishes; Fran has an awkward moment with Adam; a dejected Ray steps in to help Desi    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "28 Feb. 2016", 
+            "episodeName": "Good Man", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFran moves in with Hannah due to his unstable roommate; Jessa and Adam spend time together at the carnival; Hannah visits her dad; Elijah has a new love interest; Ray's coffee shop is losing customers.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Mar. 2016", 
+            "episodeName": "Japan", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nShoshanna finds her beloved new life in Japan threatened, Adam and Jessa's complicated friendship continues, and, upset at finding photos of his ex-girlfriends on his phone, Hannah sends nudes to Fran.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Mar. 2016", 
+            "episodeName": "Old Loves", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHannah and Fran have an exaggerated argument and she is left feeling hesitant about their relationship, Desi makes another thoughtless decision without consulting Marnie, and sparks begin to fly between Jessa and Adam.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Mar. 2016", 
+            "episodeName": "Queen for Two Days", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHannah and her mother head to a retreat, with surprises in store for both, Abigail visits Shoshanna in Tokyo, and Jessa takes an important step in her relationship with Adam.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "27 Mar. 2016", 
+            "episodeName": "The Panic in Central Park", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAfter she and Desi argue, an angry Marnie goes out, where she runs into her old boyfriend, Charlie, and spends the night with him.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 Apr. 2016", 
+            "episodeName": "Hello Kitty", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAfter a fight with Fran, Hannah spirals into anxiety, Jessa fears Hannah discovering her relationship with Adam, and Elijah has a rude awakening.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Apr. 2016", 
+            "episodeName": "Homeward Bound", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nHannah gets into trouble outside New York, Marnie meets an obstacle, Jessa and Adam are left holding Caroline's baby, while a dejected Shoshanna returns from Japan.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 Apr. 2016", 
+            "episodeName": "Love Stories", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nHannah bumps into an old frenemy, Marnie encounters more problems with Desi, and Shoshanna offers to help Ray save his business.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 Apr. 2016", 
+            "episodeName": "I Love You Baby", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA newly inspired Hannah prepares for a writing event, Marnie asks Ray to go on tour with her, Shoshanna basks in her newfound success, and Jessa and Adam's relationship starts to crack.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Feb. 2017", 
+            "episodeName": "All I Ever Wanted", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nHannah gets an assignment to write about a female surf camp in the Hamptons, where she meets an uncomplicated water-skiing instructor; Marnie tells Ray that he needs to spend more time at his own place.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Feb. 2017", 
+            "episodeName": "Hostage Situation", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHannah provides cover for Marnie's secret weekend in Poughkeepsie; Shoshanna enlists Elijah to be her plus-one at a networking event; Jessa's antics lead Shoshanna to reevaluate her post-college friendships.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 Feb. 2017", 
+            "episodeName": "American Bitch", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nHannah has a tense meeting with Chuck Palmer, an author she once greatly admired, about the disturbing allegations swirling around him.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "5 Mar. 2017", 
+            "episodeName": "Painful Evacuation", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHannah interviews influential writer Ode Montgomery; Adam storms off the set of his latest acting job; Ray considers the course of his life after a regular at the coffee shop dies suddenly; Marnie is confronted with her narcissism.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Mar. 2017", 
+            "episodeName": "Gummies", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAdam and Jessa begin shooting scenes for their film; Hannah's mother has a hard time accepting the next phase of her life; Marnie does a less-than-stellar job of being there for a grieving Ray.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Mar. 2017", 
+            "episodeName": "Full Disclosure", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMarnie tries to convince Desi to follow through with their planned gig at her mother's birthday party; Hannah gets advice on an important decision from her father and his new partner; Elijah helps a co-worker run lines for an audition.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 Mar. 2017", 
+            "episodeName": "The Bounce", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nElijah prepares for an open-call audition for a new Broadway musical; Marnie tries to pawn a family heirloom; Hannah reconnects with Paul-Louis.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 Apr. 2017", 
+            "episodeName": "What Will We Do This Time About Adam?", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAdam has surprising news for Hannah. Jessa spends a day off on her own. Shoshanna has a run-in with Abigail.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Apr. 2017", 
+            "episodeName": "Goodbye Tour", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAfter an important meeting, Hannah reaches out to friends for advice, but has trouble reaching Marnie.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Apr. 2017", 
+            "episodeName": "Latching", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nHannah embarks on a new chapter.    ", 
+            "seasonNumber": 6
+        }
+    ], 
+    "name": "Girls", 
+    "plot": "A comedy about the experiences of a group of girls in their early 20s.", 
+    "rating": 7.3, 
+    "releaseDate": "12 March 2012 (South by Southwest Film Festival)", 
+    "type": "tvserie"
+}

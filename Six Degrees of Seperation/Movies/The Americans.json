@@ -1,0 +1,569 @@
+{
+    "actorList": [
+        "Keri Russell", 
+        "Matthew Rhys", 
+        "Keidrich Sellati", 
+        "Holly Taylor", 
+        "Noah Emmerich", 
+        "Costa Ronin", 
+        "Lev Gorn", 
+        "Richard Thomas", 
+        "Alison Wright", 
+        "Annet Mahendru", 
+        "Susan Misner", 
+        "Brandon J. Dirden"
+    ], 
+    "director": [
+        "Daniel Sackheim", 
+        "Chris Long", 
+        "Thomas Schlamme", 
+        "Daniel Attias", 
+        "Kevin Dowling", 
+        "Nicole Kassell", 
+        "Adam Arkin", 
+        "Stefan Schwartz", 
+        "Noah Emmerich", 
+        "John Dahl", 
+        "Andrew Bernstein", 
+        "Steph Green", 
+        "Matthew Rhys"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "30 Jan. 2013", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nPhillip and Elizabeth Jennings are two seemingly normal Americans who are really undercover KGB agents. After kidnapping a Soviet defector they discover their new neighbor is an FBI agent assigned to their case.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Feb. 2013", 
+            "episodeName": "The Clock", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhen Philip and Elizabeth are given an urgent task to plant a bug in Defense Secretary Caspar Weinberger's office, they risk exposure when an unwilling maid of the Weinberger home refuses to cooperate.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Feb. 2013", 
+            "episodeName": "Gregory", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nGregory, Elizabeth's lover, helps them make contact with Robert's widow despite an FBI team. Gabriel's replacement shows up. Phillip then makes a dangerous buy of information.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Feb. 2013", 
+            "episodeName": "In Control", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAfter President Reagan is nearly assassinated events quickly start to spin out of control. The FBI wonders if the KGB is somehow behind it; the KGB worry that they will be blamed for it and possibly result in war.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Feb. 2013", 
+            "episodeName": "Comint", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA crucial agent crumbles under emotional distress and threatens to topple a valuable network of KGB informants.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Mar. 2013", 
+            "episodeName": "Trust Me", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA mole hunt within the KGB causes suspicion amongst allies and shatters trust within the Jennings' marriage. Meanwhile, Stan's plan to keep his mole safe puts her at even greater risk of discovery.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Mar. 2013", 
+            "episodeName": "Duty and Honor", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nPhilip and Elizabeth's troubled marriage is further tested when a mission to discredit a Polish pro-democracy leader reunites Philip with his old flame.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Mar. 2013", 
+            "episodeName": "Mutually Assured Destruction", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA German assassin has been ordered to kill American scientists involved in the ABM program. After the mission is aborted, Phillip and Elizabeth must stop him and prevent a possible war, without having any idea of his identity.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Apr. 2013", 
+            "episodeName": "Safe House", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nPhillip and Elizabeth shock their children when they announce they are separating. After Amador goes missing, Gaad orders an unauthorized mission to grab a KGB agent in retaliation. Events soon spin out of control and come to a grisly end.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2013", 
+            "episodeName": "Only You", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAfter Amador's murder the FBI begins a massive manhunt for the killer. When they start closing in on Gregory, the KGB decides to send him to Moscow. Despite Elizabeth's best efforts he refuses to go, even if it means his life.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Apr. 2013", 
+            "episodeName": "Covert War", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nIn Moscow, Viktor Zhukov is assassinated in the escalating tensions between the two countries. When Elizabeth learns that her personal mentor has been murdered she risks everything to avenge his death.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Apr. 2013", 
+            "episodeName": "The Oath", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAn Air Force colonel offers to sell SDI secrets to the KGB. Viola reports the bug in the Weinberger home. Phillip agrees to marry Martha hoping she'll continue spying while Nina confesses to spying for the Americans.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 May 2013", 
+            "episodeName": "The Colonel", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nElizabeth and Phillip are at risk of getting caught when they fear their assignments may be a set-up. Stan is convinced he'll find Nina a way out.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Feb. 2014", 
+            "episodeName": "Comrades", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nElizabeth comes back from her injury and straight into what should have been a routine mission - but it goes awry, leaving her and Philip in fear not only for themselves but for their whole network... and family. Paige's suspicions have only grown in her mother's absence. Meanwhile, Stan continues to fall for the Russian agent who has started to play him.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Mar. 2014", 
+            "episodeName": "Cardinal", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAs Philip investigates the fallout from the last operation, Elizabeth sticks close to home, concerned for her family until she gets a mysterious distress signal. Meanwhile, a walk-in arrives at the Rezidentura - providing both Nina and Stan with unique opportunities.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Mar. 2014", 
+            "episodeName": "The Walk-In", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nPhilip and Elizabeth complete their next mission - but not without complications - and Philip's fears about Elizabeth's readiness for action deepen. Stan tracks the KGB walk-in which leads to much praise at work and a deepening of his attachment to, and dependence on, Nina. Meanwhile, Paige snoops into her mother's family background and Oleg begins to scrutinize Nina's secret operation.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Mar. 2014", 
+            "episodeName": "A Little Night Music", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJust when Philip and Elizabeth think they have a quiet road ahead, an old friend returns to complicate things. Not only do they have to intercept a target who could prove valuable to the Soviet Union, but they also have to take on an important rogue mission without the support of the Centre. Divisions inside the Rezidentura deepen between Oleg and Arkady and there's an upheaval at the FBI as the chickens come home to roost for Agent Gaad. Meanwhile, Martha's frustrations threaten to blow Philip's cover.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Mar. 2014", 
+            "episodeName": "The Deal", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nPhilip and Elizabeth are finally assigned a new handler as Philip works to clean up the mess of the last operation and Elizabeth, in disguise as Clark's sister Jennifer, does her best to smooth things over with Martha. As Stan searches for a missing scientist, Oleg and Arkady continue to argue over how best to handle the situation on their side, leaving Nina once again caught between the FBI and KGB.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Apr. 2014", 
+            "episodeName": "Behind the Red Door", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA dangerous Naval officer becomes the key to Philip and Elizabeth's mission as well as a potential threat to their family's safety. Lucia, a Sandinista intelligence officer working with the Jennings, is tasked with getting Elizabeth access to Capitol Hill. Stan struggles with the potential costs of protecting Nina.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Apr. 2014", 
+            "episodeName": "Arpanet", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nPhilip uses his agent Charles Duluth to help him gain access to an early precursor to the Internet so that the KGB can bug American government communications. Nina faces the threat of a potential FBI polygraph exam, bringing her closer to KGB colleague Oleg.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Apr. 2014", 
+            "episodeName": "New Car", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nPhilip and Elizabeth both find themselves faced with painful turns in their various missions. Stan fights to gain access to an American military program that could give him the upper hand in his battle of wills with Oleg.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Apr. 2014", 
+            "episodeName": "Martial Eagle", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nPhilip and Elizabeth's long-planned mission turns ugly, impacting each of them in different ways. Stan digs in deeper at work as his personal life continues to unravel.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Apr. 2014", 
+            "episodeName": "Yousaf", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA new mission with international stakes has Philip calling on Annelise for assistance just as an old foe returns to D.C. with a vendetta. Stan makes a discovery that could put the FBI hot on the trail of illegals.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 May 2014", 
+            "episodeName": "Stealth", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nElizabeth makes a shocking discovery about Kate. Philip pursues a contact for information about the new Stealth technology. Stan continues his pursuit of the illegals.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 May 2014", 
+            "episodeName": "Operation Chronicle", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWith Larrick closing in, Elizabeth rushes to exfiltrate Jared while Philip readies Fred for a crucial mission. Arkady finally plays his hand, forcing Stan to make an impossible choice.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 May 2014", 
+            "episodeName": "Echo", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nNina finds that her future is Stan's hands. Meanwhile, Paige and Henry are moved to safety as their parents attempt to complete their assignment.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Jan. 2015", 
+            "episodeName": "EST Men", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThings are tense between Elizabeth and Philip as they have differing opinions over how to handle orders coming from the Centre.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Feb. 2015", 
+            "episodeName": "Baggage", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nElizabeth and Philip come together to deal with a mission gone wrong, but struggle to reconcile their ideologies; Stan welcomes a Soviet defector to America; Nina acclimates to her new living arrangements.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Feb. 2015", 
+            "episodeName": "Open House", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nElizabeth and Philip get closer to the inner circle of the C.I.A. Afghan Group.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Feb. 2015", 
+            "episodeName": "Dimebag", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPhilip faces a moral dilemma while developing an asset; Paige makes a surprising birthday wish.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Feb. 2015", 
+            "episodeName": "Salang Pass", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nPhilip juggles the many women in his life; Elizabeth takes drastic measures to complete a mission.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Mar. 2015", 
+            "episodeName": "Born Again", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nGabriel has surprising information; Elizabeth begins to take family matters into her own hands.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Mar. 2015", 
+            "episodeName": "Walter Taffet", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nPhilip and Elizabeth feel the weight of a family secret while following up on the KGB's interests.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Mar. 2015", 
+            "episodeName": "Divestment", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nMartha and Clark's marriage meets its most challenging test yet; pressure on Philip intensifies.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Mar. 2015", 
+            "episodeName": "Do Mail Robots Dream of Electric Sheep?", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nPhilip and Elizabeth struggle with the gravity of unexpected collateral damage.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Apr. 2015", 
+            "episodeName": "Stingers", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nPhilip and Elizabeth deploy a plan for the C.I.A.'s Mujahideen visitors.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Apr. 2015", 
+            "episodeName": "One Day in the Life of Anton Baklanov", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nPhilip and Elizabeth's home and work lives collide in new and dangerous ways. Nina struggles to figure out her next steps. Arkady assigns Oleg and Tatiana to an operation with uncertain potential.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Apr. 2015", 
+            "episodeName": "I Am Abassin Zadran", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nMartha hosts an unexpected guest; Philip and Elizabeth must work a formidable Mujahideen commander.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Apr. 2015", 
+            "episodeName": "March 8, 1983", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nElizabeth and Paige take a trip that lands them in treacherous territory.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Mar. 2016", 
+            "episodeName": "Glanders", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nElizabeth and Phillip are supposed to get a biological weapon sample but fail to make the exchange when someone is watching. Nina works Anton in hopes it will lead to her freedom. Paige wonders if she can trust Pastor Tim with her secret.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Mar. 2016", 
+            "episodeName": "Pastor Tim", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nPhilip tries with increasing desperation to get rid of a sensitive and dangerous package as family tensions in the Jennings House reach a boiling point when Paige shares a secret of her own.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Mar. 2016", 
+            "episodeName": "Experimental Prototype City of Tomorrow", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nPaige copes with new burdens that come with her family's secret - as Philip and Elizabeth struggle to contain their cover without destroying their daughter.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Apr. 2016", 
+            "episodeName": "Chloramphenicol", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA devastating flaw during a mission forces Philip, Elizabeth, William, and Gabriel to confront the depths of their patriotism... and their mortality. In Russia, in striving to be a better person, has Nina put her life on the line?    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Apr. 2016", 
+            "episodeName": "Clark's Place", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nPhilip must consider his life with Martha and make a crushing choice from which there is no coming back.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Apr. 2016", 
+            "episodeName": "The Rat", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMartha must finally face the truth she has denied - and her life may never be the same. Plus, a chilling new development in William's work forces the Jennings to face the realities of what a biological war would mean.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Apr. 2016", 
+            "episodeName": "Travel Agents", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMartha must finally face the truth she has denied - and her life may never be the same. Plus, a chilling new development in William's work forces the Jennings to face the realities of what a biological war would mean.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 May 2016", 
+            "episodeName": "The Magic of David Copperfield V: The Statue of Liberty Disappears", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe Jennings hit their breaking points as they try to handle their local agents such as Martha.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 May 2016", 
+            "episodeName": "The Day After", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe Day After premieres, making the stakes - and terrible consequences - of the Cold War plain. Even with that in mind, will Elizabeth be able to complete the painful process of the \"Patty\" operation?    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 May 2016", 
+            "episodeName": "Munchkins", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhen Paige's long-ago indiscretion threatens to resurface and destroy the family, Philip and Elizabeth find themselves scrambling - and Paige finds herself reevaluating who her parents really are.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 May 2016", 
+            "episodeName": "Dinner for Seven", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nElizabeth completes the last steps of a very personal operation... but at what cost?    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Jun. 2016", 
+            "episodeName": "A Roy Rogers in Franconia", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAs Paige deals with last episode's trauma, she sees her mother in a new light... and finds she has inherited some of her parents' skills. Plus, has Oleg reached his breaking point with Stan?    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Jun. 2016", 
+            "episodeName": "Persona Non Grata", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nIn the season 4 finale, Elizabeth & Philip race against the FBI to retrieve a mysterious package. Paige finally begins considering whether or not she would like to enter the family business.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Mar. 2017", 
+            "episodeName": "Amber Waves", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter witnessing Elizabeth kill two men, Paige trades in church for training sessions with mom. First, self defense. Second could tear the family apart. The beginning of the end for Paige and Matthew looms.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "14 Mar. 2017", 
+            "episodeName": "Pests", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nStan and Oleg wrestle with the harsh consequences of their complicated history, as Philip and Elizabeth face a new mission with devastating implications for their country.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "21 Mar. 2017", 
+            "episodeName": "The Midges", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nPhilip and Elizabeth tell Paige more about the family business, but pressing new questions arise when an operation takes a ghastly and unexpected turn. Meanwhile, a sensitive package jeopardizes Oleg's life back home.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "28 Mar. 2017", 
+            "episodeName": "What's the Matter with Kansas?", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPhilip and Elizabeth have qualms about a new assignment, while a specter from Philip's past creates unforeseen dangers. At the FBI, Stan makes a shocking play that could throw his career into turmoil.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "4 Apr. 2017", 
+            "episodeName": "Lotus 1-2-3", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nPhilip and Elizabeth receive surprising news about Henry -- and shattering news about a past operation. Stan might be falling in love, but Philip wonders if something darker is going on.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "11 Apr. 2017", 
+            "episodeName": "Crossbreed", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nPhillip and Elizabeth are stunned by Gabriel with a sudden announcement and a crushing revelation about Philip's past; Stan and Aderholt lure a suspect into their web; Oleg and Ruslan lead their first target into an ambush.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "The Committee on Human Rights", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAs Paige becomes even more enmeshed in her parents' world, tensions with Matthew Beeman come to a head, Philip and Elizabeth's honeytraps take surprising turns, and Stan faces the consequences of overplaying his hand at the FBI.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Apr. 2017", 
+            "episodeName": "Immersion", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA secret brings Elizabeth and Paige together, while, in Moscow, Oleg's own secrets put him under KGB suspicion. A new twist in the Morozov operation creates an opportunity that changes everything.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 May 2017", 
+            "episodeName": "IHOP", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 May 2017", 
+            "episodeName": "Darkroom", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "16 May 2017", 
+            "episodeName": "Dyatkovo", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "23 May 2017", 
+            "episodeName": "The World Council of Churches", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "The Soviet Division", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #6.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #6.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #6.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #6.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #6.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #6.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #6.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #6.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #6.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #6.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }
+    ], 
+    "name": "The Americans", 
+    "plot": "Two Soviet intelligence agents pose as a married couple to spy on the American government.", 
+    "rating": 8.3, 
+    "releaseDate": "30 January 2013", 
+    "type": "tvserie"
+}

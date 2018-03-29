@@ -1,0 +1,119 @@
+{
+    "actorList": [
+        "Finn Jones", 
+        "Jessica Henwick", 
+        "Jessica Stroup", 
+        "Tom Pelphrey", 
+        "David Wenham", 
+        "Wai Ching Ho", 
+        "Barrett Doss", 
+        "Rosario Dawson"
+    ], 
+    "director": [
+        "John Dahl"
+    ], 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Crime", 
+        "Sci-Fi"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Snow Gives Way", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter being presumed dead, Danny Rand returns home to New York after fifteen years, only to find things aren't as they were.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Shadow Hawk Takes Flight", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nDanny struggles with his new surroundings, Colleen dishes out a harsh lesson, and Joy sends an unconventional message.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Rolling Thunder Cannon Punch", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJoy proves herself a shrewd businessperson, Danny recalls a painful memory, and Colleen puts her talents to good use.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Eight Diagram Dragon Palm", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDanny makes a shocking discovery and a radical pricing proposal; Colleen's extracurricular activities go viral; Ward issues a stern warning.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Under Leaf Pluck Lotus", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAn insidious new drug hits New York. Danny recruits Colleen for the fight, and Claire discovers that credit cards can have many uses.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Immortal Emerges from Cave", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nDanny receives an invitation like no other. Colleen and Claire face a difficult choice. A worried Joy confronts her brother.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Felling Tree with Roots", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWard's loyalty is tested. Danny discovers a rogue division, and the mysterious Bakuto visits Colleen's dojo unannounced.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "The Blessing of Many Fractures", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nDanny faces his fear, and Colleen meets her match. Joy makes a hasty decision while Ward struggles to accept his sister's admiration.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "The Mistress of All Agonies", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMadame Gao plays mind games. Ward's old habits catch up with him, and Danny discovers that he still has much to learn about being the Iron Fist.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Black Tiger Steals Heart", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nExhausted from fighting, Danny tries to recharge with Bakuto's help. Meanwhile, Rand's management gets another shakeup.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Lead Horse Back to Stable", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nClaire uses her improvisational skills, and Colleen gets conflicting information. Danny yearns to be more than just a destroyer.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Bar the Big Boss", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWard receives an offer with strings attached. Davos advocates for an extreme solution and a deadly duel gets personal.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Dragon Plays with Fire", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nIn a desperate search to clear his name, Danny learns a terrible truth that places him on a new path.    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "Iron Fist", 
+    "plot": "A young man is bestowed with incredible martial arts skills and a mystical force known as the Iron Fist.", 
+    "rating": 7.2, 
+    "releaseDate": "15 March 2017 (special screening) (New York) (limited)", 
+    "type": "tvserie"
+}

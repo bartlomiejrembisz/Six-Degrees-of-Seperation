@@ -1,0 +1,32 @@
+{
+    "actorList": [
+        "Marilyn Burns", 
+        "Allen Danziger", 
+        "Paul A. Partain", 
+        "William Vail", 
+        "Teri McMinn", 
+        "Edwin Neal", 
+        "Jim Siedow", 
+        "Gunnar Hansen", 
+        "John Dugan", 
+        "Robert Courtin", 
+        "William Creamer", 
+        "John Henry Faulk", 
+        "Jerry Green", 
+        "Ed Guinn", 
+        "Joe Bill Hogan", 
+        "Perry Lorenz", 
+        "John Larroquette"
+    ], 
+    "director": [
+        "Tobe Hooper"
+    ], 
+    "genres": [
+        "Horror"
+    ], 
+    "name": "The Texas Chain Saw Massacre", 
+    "plot": "Two siblings visit their grandfather's grave in Texas along with three of their friends and are attacked by a family of cannibalistic psychopaths.", 
+    "rating": 7.5, 
+    "releaseDate": "1 October 1974 (Dallas, Texas)", 
+    "type": "movie"
+}

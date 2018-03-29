@@ -1,0 +1,47 @@
+{
+    "actorList": [
+        "Humphrey Bogart", 
+        "Walter Huston", 
+        "Tim Holt", 
+        "Bruce Bennett", 
+        "Barton MacLane", 
+        "Alfonso Bedoya", 
+        "Arturo Soto Rangel", 
+        "Manuel Dond\u00e9", 
+        "Jos\u00e9 Torvay", 
+        "Margarito Luna", 
+        "Robert Blake", 
+        "Guillermo Calles", 
+        "Roberto Ca\u00f1edo", 
+        "Spencer Chan", 
+        "Jacqueline Dalya", 
+        "Ralph Dunn", 
+        "Ernesto Escoto", 
+        "Pat Flaherty", 
+        "Martin Garralaga", 
+        "Jack Holt", 
+        "John Huston", 
+        "Francisco Islas", 
+        "Mario Mancilla", 
+        "Julian Rivero", 
+        "Jay Silverheels", 
+        "Valdespino", 
+        "Ildefonso Vega", 
+        "Harry J. Vejar", 
+        "Ignacio Villabajo", 
+        "Clifton Young"
+    ], 
+    "director": [
+        "John Huston"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Drama", 
+        "Western"
+    ], 
+    "name": "The Treasure of the Sierra Madre", 
+    "plot": "Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.", 
+    "rating": 8.3, 
+    "releaseDate": "15 January 1948 (Los Angeles, California)", 
+    "type": "movie"
+}

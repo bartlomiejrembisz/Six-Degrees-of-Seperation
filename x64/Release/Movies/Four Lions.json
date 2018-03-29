@@ -1,0 +1,47 @@
+{
+    "actorList": [
+        "Riz Ahmed", 
+        "Arsher Ali", 
+        "Nigel Lindsay", 
+        "Kayvan Novak", 
+        "Adeel Akhtar", 
+        "Julia Davis", 
+        "Craig Parkinson", 
+        "Preeya Kalidas", 
+        "Wasim Zakir", 
+        "Mohammad Aqil", 
+        "Karl Seth", 
+        "Waleed Elgadi", 
+        "Alex Macqueen", 
+        "Shameem Ahmad", 
+        "Jonathan Maitland", 
+        "Marcus Garvey", 
+        "Darren Boyd", 
+        "Kevin Eldon", 
+        "Adil Mohammed Javed", 
+        "Benedict Cumberbatch", 
+        "Toby Longworth", 
+        "Danny Ashok", 
+        "Will Adamsdale", 
+        "Jayson Benovichi Dicken", 
+        "Mike Friend", 
+        "Ian Hughes", 
+        "Mark Morrell", 
+        "Christopher Morris", 
+        "Reece Noi", 
+        "Chris Wilson"
+    ], 
+    "director": [
+        "Christopher Morris"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Crime", 
+        "Drama"
+    ], 
+    "name": "Four Lions", 
+    "plot": "Four incompetent British jihadists set out to train for and commit an act of terror.", 
+    "rating": 7.3, 
+    "releaseDate": "23 January 2010 (Sundance Film Festival)", 
+    "type": "movie"
+}

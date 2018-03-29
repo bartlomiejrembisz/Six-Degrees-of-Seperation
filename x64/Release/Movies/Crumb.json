@@ -1,0 +1,36 @@
+{
+    "actorList": [
+        "Robert Crumb", 
+        "Aline Kominsky", 
+        "Charles Crumb", 
+        "Maxon Crumb", 
+        "Robert Hughes", 
+        "Martin Muller", 
+        "Don Donahue", 
+        "Dana Morgan", 
+        "Trina Robbins", 
+        "Spain Rodriguez", 
+        "Bill Griffith", 
+        "Deirdre English", 
+        "Peggy Orenstein", 
+        "Beatrice Crumb", 
+        "Kathy Goodell", 
+        "Dian Hanson", 
+        "Sophie Crumb", 
+        "Jesse Crumb", 
+        "Joseph Frantz"
+    ], 
+    "director": [
+        "Terry Zwigoff"
+    ], 
+    "genres": [
+        "Documentary", 
+        "Biography", 
+        "Comedy"
+    ], 
+    "name": "Crumb", 
+    "plot": "An intimate portrait of the controversial cartoonist and his traumatized family.", 
+    "rating": 8.0, 
+    "releaseDate": "10 September 1994 (Toronto International Film Festival)", 
+    "type": "movie"
+}

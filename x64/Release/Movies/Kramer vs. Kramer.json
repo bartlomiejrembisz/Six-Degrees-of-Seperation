@@ -1,0 +1,51 @@
+{
+    "actorList": [
+        "Dustin Hoffman", 
+        "Meryl Streep", 
+        "Jane Alexander", 
+        "Justin Henry", 
+        "Howard Duff", 
+        "George Coe", 
+        "JoBeth Williams", 
+        "Bill Moor", 
+        "Howland Chamberlain", 
+        "Jack Ramage", 
+        "Jess Osuna", 
+        "Nicholas Hormann", 
+        "Ellen Parker", 
+        "Shelby Brammer", 
+        "Carol Nadell", 
+        "Donald Gantry", 
+        "Judith Calder", 
+        "Peter Lownds", 
+        "Kathleen Keller", 
+        "Ingeborg S\u00f8rensen", 
+        "Iris Klein", 
+        "Richard Barris", 
+        "Evelyn Hope Bunn", 
+        "Joann Friedman", 
+        "Quentin J. Hruska", 
+        "Joe Seneca", 
+        "Dan Tyra", 
+        "David Golden", 
+        "Petra King", 
+        "Melissa Morell", 
+        "Frederick W. Hand", 
+        "Scott Kuney", 
+        "Sean Albertson", 
+        "Matteo Cafiso", 
+        "Llewellyn Lafford", 
+        "Conrad Pomerleau"
+    ], 
+    "director": [
+        "Robert Benton"
+    ], 
+    "genres": [
+        "Drama"
+    ], 
+    "name": "Kramer vs. Kramer", 
+    "plot": "Ted Kramer's wife leaves her husband, allowing for a lost bond to be rediscovered between Ted and his son, Billy. But a heated custody battle ensues over the divorced couple's son, deepening the wounds left by the separation.", 
+    "rating": 7.8, 
+    "releaseDate": "19 December 1979", 
+    "type": "movie"
+}

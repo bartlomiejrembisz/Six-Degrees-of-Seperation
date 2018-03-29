@@ -1,0 +1,44 @@
+{
+    "actorList": [
+        "Lindsay Crouse", 
+        "Joe Mantegna", 
+        "Mike Nussbaum", 
+        "Lilia Skala", 
+        "J.T. Walsh", 
+        "Willo Hausman", 
+        "Karen Kohlhaas", 
+        "Steven Goldstein", 
+        "Jack Wallace", 
+        "Ricky Jay", 
+        "G. Roy Levin", 
+        "Bob Lumbra", 
+        "Andy Potok", 
+        "Allen Soule", 
+        "Ben Blakeman", 
+        "Scott Zigler", 
+        "William H. Macy", 
+        "John Pritchett", 
+        "Meshach Taylor", 
+        "Johnny 'Sugarbear' Willis", 
+        "Josh Conescu", 
+        "Julie Mendenhall", 
+        "Rachel Cline", 
+        "Patricia Wolff", 
+        "Paul Walsh", 
+        "Roberta Maguire", 
+        "Jacqueline de La Chaume", 
+        "John Nelson"
+    ], 
+    "director": [
+        "David Mamet"
+    ], 
+    "genres": [
+        "Crime", 
+        "Thriller"
+    ], 
+    "name": "House of Games", 
+    "plot": "A psychiatrist comes to the aid of a compulsive gambler and is led by a smooth-talking grifter into the shadowy but compelling world of stings, scams, and con men.", 
+    "rating": 7.3, 
+    "releaseDate": "4 September 1987 (Venice Film Festival)", 
+    "type": "movie"
+}

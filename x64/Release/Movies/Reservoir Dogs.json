@@ -1,0 +1,43 @@
+{
+    "actorList": [
+        "Harvey Keitel", 
+        "Tim Roth", 
+        "Michael Madsen", 
+        "Chris Penn", 
+        "Steve Buscemi", 
+        "Lawrence Tierney", 
+        "Edward Bunker", 
+        "Quentin Tarantino", 
+        "Randy Brooks", 
+        "Kirk Baltz", 
+        "Steven Wright", 
+        "Rich Turner", 
+        "David Steen", 
+        "Tony Cosmo", 
+        "Stevo Polyi", 
+        "Michael Sottile", 
+        "Robert Ruth", 
+        "Lawrence Bender", 
+        "Linda Kaye", 
+        "Suzanne Celeste", 
+        "Laurie Lathem", 
+        "Maria Strova", 
+        "Burr Steers", 
+        "Craig Hamann", 
+        "Jeff Shea", 
+        "Rowland Wafford"
+    ], 
+    "director": [
+        "Quentin Tarantino"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "Reservoir Dogs", 
+    "plot": "After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.", 
+    "rating": 8.3, 
+    "releaseDate": "21 January 1992 (Sundance Film Festival)", 
+    "type": "movie"
+}

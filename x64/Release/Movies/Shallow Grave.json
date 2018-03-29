@@ -1,0 +1,44 @@
+{
+    "actorList": [
+        "Kerry Fox", 
+        "Christopher Eccleston", 
+        "Ewan McGregor", 
+        "Ken Stott", 
+        "Keith Allen", 
+        "Colin McCredie", 
+        "Victoria Nairn", 
+        "Gary Lewis", 
+        "Jean Marie Coffey", 
+        "Peter Mullan", 
+        "Leonard O'Malley", 
+        "David Scoular", 
+        "Grant Glendinning", 
+        "Victor Eadie", 
+        "Robert David MacDonald", 
+        "Frances Low", 
+        "Bill Denistoun", 
+        "John Bett", 
+        "Tony Curran", 
+        "Elspeth Cameron", 
+        "Paul Doonan", 
+        "Billy Riddoch", 
+        "Kenneth Bryans", 
+        "John Hodge", 
+        "John Carmichael", 
+        "Gordon Cree", 
+        "Pat Harkins", 
+        "Carol McGregor"
+    ], 
+    "director": [
+        "Danny Boyle"
+    ], 
+    "genres": [
+        "Crime", 
+        "Thriller"
+    ], 
+    "name": "Shallow Grave", 
+    "plot": "Three friends discover their new flatmate dead but loaded with cash.", 
+    "rating": 7.4, 
+    "releaseDate": "22 December 1994", 
+    "type": "movie"
+}

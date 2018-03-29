@@ -1,0 +1,688 @@
+{
+    "actorList": [
+        "Jon Hamm", 
+        "Elisabeth Moss", 
+        "Vincent Kartheiser", 
+        "January Jones", 
+        "Christina Hendricks", 
+        "Aaron Staton", 
+        "Rich Sommer", 
+        "John Slattery", 
+        "Kiernan Shipka", 
+        "Robert Morse", 
+        "Christopher Stanley", 
+        "Jessica Par\u00e9", 
+        "Jay R. Ferguson", 
+        "Michael Gladis", 
+        "Bryan Batt", 
+        "Alison Brie"
+    ], 
+    "director": [
+        "Phil Abraham", 
+        "Michael Uppendahl", 
+        "Jennifer Getzinger", 
+        "Matthew Weiner", 
+        "Scott Hornbacher", 
+        "Lesli Linka Glatter", 
+        "Tim Hunter", 
+        "John Slattery", 
+        "Andrew Bernstein", 
+        "Alan Taylor", 
+        "Chris Manley", 
+        "Jon Hamm"
+    ], 
+    "genres": [
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "19 Jul. 2007", 
+            "episodeName": "Smoke Gets in Your Eyes", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nNew York City, 1960s. In the ego-driven Golden Age of advertising, everyone is selling something and nothing is what it seems.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Jul. 2007", 
+            "episodeName": "Ladies Room", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nDon continues to conceal his complicated personal life, even in the face of Roger's invitation to open up.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Aug. 2007", 
+            "episodeName": "Marriage of Figaro", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nPete returns home from his honeymoon excited about his new marriage but conflicted about his past encounter with Peggy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Aug. 2007", 
+            "episodeName": "New Amsterdam", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPete Campbell oversteps the mark when he pitches an idea for ad campaign to the head of Bethlehem Steel without telling Don Draper. Draper wants him fired but learns a lesson in corporate politics. Pete's wife wants to buy a Manhattan apartment but he has to approach his cold and distant parents for a loan. Pete's in-laws, however, are more forthcoming.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Aug. 2007", 
+            "episodeName": "5G", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nDon Draper is shaken when his past life comes back to haunt him. After his picture appears in a local newspaper, Adam Whitman, a man who claims to be his younger brother, approaches him. Don, or Dick as his brother knows him, initially denies everything but in the end admits to having taken on a new name. He refuses however to have anything to do with him and tries to buy his silence. When one of the ad men gets a short story published, Pete Campbell is frustrated that his own stories have yet to see the light of day. When his wife approaches an old beau to see if he ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Aug. 2007", 
+            "episodeName": "Babylon", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe Agency is looking to land an advertising contract to promote tourism to Israel. Don and his team try to come up with a theme but know so little about the country that they're stumped. So Don calls Rachel Menken to see if she has any ideas. Roger Sterling is getting tired of sneaking around with Joan Holloway and suggests she should get her own apartment but she knows better. Peggy comes up with an advertising concept during a testing session for a new line of lipsticks and she's subsequently asked to write copy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Aug. 2007", 
+            "episodeName": "Red in the Face", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen Don invites Roger home for dinner, too much alcohol fuels repercussions between Don and Betty and between Don and Roger. Joan puts Roger off for the weekend, spending time with her roommate Carol instead. Pete exchanges a wedding gift for a rifle, and then shares a hunting fantasy with Peggy. Bertram Cooper arranges for the Nixon campaign to meet with him, Roger, Don, and Pete.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Sep. 2007", 
+            "episodeName": "The Hobo Code", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nPete Campbell and Peggy Olsen start an office romance. Peggy's copy for the lipstick account goes over well and the men in the firm congratulate her. A new telephone receptionist, Lois Saddler, takes a liking to Salvatore Romano but his own interests seem to lie elsewhere. Don Draper gets an unexpected bonus from Bert Cooper and wants to take Midge on a surprise trip to Paris. She seems too involved with her beatnik friends however. Don reflects on his unhappy childhood and in flashbacks he reveals some life lessons he learned early on when a hobo spent the day ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Sep. 2007", 
+            "episodeName": "Shoot", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nDon is courted by Jim Hobart, head of a larger ad firm who offers him more money and more creative resources to join them. Betty Draper rekindles her interest in modeling after Hobart suggests she should try it. She doesn't realize it's all part of the strategy to get Don on board. Peggy Olsen is fretting over her weight gain but doesn't appreciate Joan's advice about getting ahead in the office. The ad team tries to counter the advertising coming out of the Kennedy campaign. Pete Campbell comes up with an idea to keep Kennedy's image off TV in key States.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Sep. 2007", 
+            "episodeName": "Long Weekend", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nIt's Labor Day weekend and most of the men are sending their wives away for a few days. Don Draper's wife Betty is dreading the thought, as her father and his new girlfriend, whom she detests, will be staying with them. With the election approaching, the team at Sterling Cooper is gloomy since the Nixon campaign has not been following their advice. Roger Sterling was hoping to spend Friday night with Joan Holloway but having just seen the movie The Apartment (1960), she is feeling a bit used. She plans a night on the town with her old college friend who has some surprising information ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Oct. 2007", 
+            "episodeName": "Indian Summer", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nPeggy is given the opportunity to write copy for a new weight loss device that everyone knows is useless. She finds an interesting use for it, however. Afraid of losing the Lucky Strike cigarette account, Bert Cooper gets Roger Sterling to come in for a one-hour meeting but he has another attack. Don Draper becomes a partner and takes over for his friend Roger, but some of the ad men are sharpening their resumes nonetheless. Pete Campbell wants a promotion but Draper doesn't seem too interested. Pete sneaks into Don's office and takes home a parcel sent by Adam ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Oct. 2007", 
+            "episodeName": "Nixon vs. Kennedy", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nElection night arrives and the staff of Sterling Cooper has a party while watching the returns. The election is close and it's obviously going to be a long night. Now a senior partner in the firm, Don Draper must hire a new head of account services, a post that Pete Campbell yearns for. Aware of Draper's secret past, he tries to strong-arm him into giving him the job. With his secret out, Don panics and he asks Rachel Menken to run away with him. Regaining his composure, Don calls Pete's bluff leading to a confrontation with Bert Cooper.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Oct. 2007", 
+            "episodeName": "The Wheel", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nDon and Betty Draper have an argument when it becomes apparent that he doesn't want to spend Thanksgiving with her family and she plans on going only with the children. He also learns some information about his brother Adam. Pete Campbell confirms that he has landed an account from his father-in-law for a new skin care product called Clearasil. He objects however when Don gives the account to Peggy Olson, whom he has just promoted to junior copywriter. Peggy proves her mettle in auditions for the weight loss device but later is feeling unwell and goes to the hospital ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Jul. 2008", 
+            "episodeName": "For Those Who Think Young", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nOn Valentine's Day, the staff of the Sterling Cooper Advertising Agency is hustling and checking out the newest office equipment. Don and Duck clash over an account, and Betty hears from an old friend.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Aug. 2008", 
+            "episodeName": "Flight 1", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA plane crash causes the firm to go after the account for the airline involved and drop the smaller airline they have an account with. Peggy pays a visit to her mother and sister, who are now guardians of a child.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Aug. 2008", 
+            "episodeName": "The Benefactor", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTrouble rises on the set of a commercial while Don plays hooky from the office.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Aug. 2008", 
+            "episodeName": "Three Sundays", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFreddy and Ken take a client out to lunch who stirs Roger Sterling's heart.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Aug. 2008", 
+            "episodeName": "The New Girl", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nJoan finds Don the perfect secretary, and Don finds himself in the middle of issues between TV comedian Jimmy and his wife, Bobbie.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Aug. 2008", 
+            "episodeName": "Maidenform", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nDon and Duck try to bury the hatchet, and Peggy attempts to join in on the execs' after-hours meetings. Also, Duck receives a family visit at the office.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Sep. 2008", 
+            "episodeName": "The Gold Violin", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nTo show that he has \"arrived,\" Don buys a new car. Pete, Harry and Ken come up with a plan to attract new business, and Don's secretary makes a serious error, which could mean trouble for Joan. Cooper gets a new piece of office art that attracts the interest of the Sterling Cooper staff.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Sep. 2008", 
+            "episodeName": "A Night to Remember", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nBetty becomes suspicious that Don is having an affair after her conversation with Jimmy Barrett, Joan helps out in the television department, and Peggy helps the church with a dance flyer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Sep. 2008", 
+            "episodeName": "Six Month Leave", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nDon checks in to a hotel after his separation from Betty. Back at the office, he is forced to get rid of Freddy against his will because of his drinking problem.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Oct. 2008", 
+            "episodeName": "The Inheritance", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nDon and Betty try to keep up appearances as they go to Betty's parents after her dad has a stroke. Peter has a long-dreaded meeting with his mother before he and Kinsey leave for a convention in Los Angeles.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Oct. 2008", 
+            "episodeName": "The Jet Set", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nDon blows off the convention in Los Angeles when he meets a beautiful, exotic woman. Back at Sterling Cooper, a member of the creative staff comes out of the closet, and Duck falls off the wagon and initiates his power play.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Oct. 2008", 
+            "episodeName": "The Mountain King", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDon drops off the Sterling Cooper radar and visits the wife of the man whose identity he stole. Back at the office, Bert and Roger consider the merger offer, Peggy makes a play for a real office, and Peter loses his father-in-law's account.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Oct. 2008", 
+            "episodeName": "Meditations in an Emergency", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nUnder the backdrop of the Cuban Missile Crisis, Don returns to New York just as Betty finds out that she is pregnant. Meanwhile, everybody at Sterling Cooper contemplates their futures as news of the merger slowly leaks out.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Aug. 2009", 
+            "episodeName": "Out of Town", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nDon accidentally learns a secret about Salvatore during a business trip to Baltimore. Back at the office, the firings continue, but the new management appoints Peter and Ken as new co-heads of accounts.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Aug. 2009", 
+            "episodeName": "Love Among the Ruins", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nDon is brought in to save the day for a P.R. campaign involving the building of the new Madison Square Garden, only to have the rug pulled out from under him. At home, Betty argues with her brother over how to care for their sick father.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "30 Aug. 2009", 
+            "episodeName": "My Old Kentucky Home", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nRoger Sterling throws an expensive party with his new wife, Joan throws a dinner party, Peggy and Paul get stoned while working on an ad campaign, and Don's daughter Sally steals money from her grandpa.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Sep. 2009", 
+            "episodeName": "The Arrangements", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDon has reservations about a misguided potential client who wants to sell jai alai as the \"new national pastime.\" Meanwhile, Sal produces the \"Patio\" television commercial, Peggy searches for a roommate, and Betty's father passes away.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Sep. 2009", 
+            "episodeName": "The Fog", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nBetty has hallucinations of her dead father as she delivers her baby, Peter considers trying to sell the untapped \"Negro market\" to a reluctant client, and Peggy begins to question her future at Sterling Cooper.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Sep. 2009", 
+            "episodeName": "Guy Walks Into an Advertising Agency", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe bosses come in from London to reorganize Sterling Cooper, but a key player's career is sidetracked by a freak accident. Meanwhile, as Joan prepares to leave her job, her husband gives her some bad news.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Sep. 2009", 
+            "episodeName": "Seven Twenty Three", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAs Don secures an account with Conrad Hilton, Sterling and Cooper try to strong-arm Don into signing a contract. Meanwhile, Betty meets with her acquaintance from the governor's office, and Duck tries to get Peggy to leave Sterling Cooper.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Oct. 2009", 
+            "episodeName": "Souvenir", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nDon and Betty renew their love affair while on a business trip to Rome, while Peter has a bout of infidelity with an au pair in his building while his wife is away.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Oct. 2009", 
+            "episodeName": "Wee Small Hours", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nBetty tries to meet with Henry Francis again, while Don steps up his pursuit of his daughter's former teacher. At the office, Don disappoints Conrad Hilton and is forced by a client to fire Salvatore over an unwelcome advance.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Oct. 2009", 
+            "episodeName": "The Color Blue", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs Sterling Cooper prepares for its 40th anniversary party, the bosses in London drop a bombshell to Lane. Miss Farrell's troubled brother pays a visit to her and Don, and Betty stumbles onto her husband's secrets.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Oct. 2009", 
+            "episodeName": "The Gypsy and the Hobo", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAn old flame and potential client reenters Roger Sterling's life, Joan's husband searches for a new job, and Don finally comes clean to Betty about his true identity.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Nov. 2009", 
+            "episodeName": "The Grown-Ups", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nOn the weekend of the John F. Kennedy assassination, Pete finds out that he lost the promotion to Cosgrove, Roger Sterling's daughter's wedding goes off as planned, and Betty musters up the courage to respond to Don's confessions.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Nov. 2009", 
+            "episodeName": "Shut the Door. Have a Seat", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWith another sale on the horizon, Sterling, Cooper, and Draper convince Lane Pryce to fire them and then join them as they start up a new advertising firm. At home, Betty follows through with her plans to divorce Don.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Jul. 2010", 
+            "episodeName": "Public Relations", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe new firm is struggling for business, so Peter and Peggy resort to a cheap publicity stunt to lure a client. Meanwhile, Don's personal problems and an unflattering newspaper interview puts his and the firm's image in jeopardy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Aug. 2010", 
+            "episodeName": "Christmas Comes But Once a Year", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFreddy returns with a valuable new client, the firm reluctantly throws a Christmas party for its most important client, and Don prepares for his first Christmas away from his children.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Aug. 2010", 
+            "episodeName": "The Good News", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDon flies to Los Angeles to visit Anna before his New Year's vacation to Acapulco, but her bad news influences him to cancel his vacation and return to New York, where he discovers that Lane has problems of his own.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Aug. 2010", 
+            "episodeName": "The Rejected", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPeter finds out that he will become a father, and has to break some bad business news to his father-in-law. Meanwhile an office focus group study for a client has some unintended personal consequences for Don.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Aug. 2010", 
+            "episodeName": "The Chrysanthemum and the Sword", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nDon is forced to compete with a cocky upstart rival for a potential account with Honda motorcycles, but Roger's prejudice causes unexpected problems. Meanwhile Betty considers a psychiatrist for Sally because of her behavior.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Aug. 2010", 
+            "episodeName": "Waldorf Stories", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nDon has a wild lost weekend after winning a CLIO award, while Peggy is forced to work all weekend in a hotel room with an \"uninspired\" co-worker. Meanwhile, Peter is livid after he learns that the other partners hired Ken Cosgrove.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 Sep. 2010", 
+            "episodeName": "The Suitcase", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDon deliberately delays returning an important call from California, because he knows it's bad news about Anna. Instead, he keeps himself occupied by forcing Peggy to miss her birthday dinner to pull an all-nighter with him for a client.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Sep. 2010", 
+            "episodeName": "The Summer Man", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhile Don's thoughts turn inward while he deals with Anna's death, Peggy is placed in a difficult situation when an obnoxious new hire in the creative department is disrespectful to Joan.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 Sep. 2010", 
+            "episodeName": "The Beautiful Girls", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSally makes an unwelcome surprise visit to the office to see Don, Peggy tries to stop an acquaintance from publishing an article that could get her in hot water, and Roger Sterling tries to reconnect with Joan.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "26 Sep. 2010", 
+            "episodeName": "Hands and Knees", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nDon becomes frightened that his lie will be exposed when government agents question Betty about him, Lane has shocking news for his father when he comes to bring him home, and Joan is forced to have an abortion.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Oct. 2010", 
+            "episodeName": "Chinese Wall", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe partners try to keep their cool after they discover that Roger has lost their biggest account, Peter's wife goes into labor, and Don tries to convince Faye to compromise her ethics to drum up new business.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Oct. 2010", 
+            "episodeName": "Blowing Smoke", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDon makes a bold, desperate move to save Sterling Cooper Draper Pryce, but the other partners are furious with his actions. Meanwhile, Sally's psychiatrist suggests that she is improving, but Betty is skeptical.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Oct. 2010", 
+            "episodeName": "Tomorrowland", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nDon takes the kids to California and comes back with a surprise announcement. Meanwhile, Betty fires the kids' nanny before they move out of the old house over one questionable incident, and Peggy gets a shot at a new account.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Mar. 2012", 
+            "episodeName": "A Little Kiss, Part 1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMegan throws Don a surprise birthday party, the war between Pete Campbell and Roger Sterling intensifies, and new mother Joan begins to wonder if she still has a job when she's ready to come back.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Mar. 2012", 
+            "episodeName": "A Little Kiss, Part 2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nMegan is hurt by Don's negative response to the surprise party, Lane finds a missing wallet in a cab, Joan makes an unexpected visit to the office, and Pete makes a play for a bigger office.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Apr. 2012", 
+            "episodeName": "Tea Leaves", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nBetty discovers that she has a tumor, Peggy interviews an obnoxious young copywriter for a job, the firm tries to get the Mohawk Airlines account back, and Don and Harry try to court The Rolling Stones to record a commercial.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Apr. 2012", 
+            "episodeName": "Mystery Date", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDon runs into someone from his past. Joan makes a decision, and Roger gives Peggy extra work.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Apr. 2012", 
+            "episodeName": "Signal 30", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhile Lane needs some help closing with a potential new client, Peter begins to crack under the pressure of both his home life and work life.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Apr. 2012", 
+            "episodeName": "Far Away Places", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA peaceful hotel getaway ends in disaster for Don and Megan, an LSD trip could have a disastrous effect on Roger's marriage, and Peggy loses her cool after an unsuccessful pitch meeting.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Apr. 2012", 
+            "episodeName": "At the Codfish Ball", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDon gets a visit from the in-laws and his children just as he's about to receive a prestigious award and tries to save the Heinz account. Meanwhile, Peggy and her boyfriend take the next step in their relationship.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 May 2012", 
+            "episodeName": "Lady Lazarus", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nMegan convinces Don that she should give up her job at the firm so that she can pursue a career on Broadway, while Peter has a fling with an acquaintance's wife.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 May 2012", 
+            "episodeName": "Dark Shadows", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA depressed Betty tries to make things uncomfortable for Don and Megan, Roger tries to take out some secret weapons for a meeting with a prospective Jewish client, and Don makes a snap judgment that angers the creative department.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 May 2012", 
+            "episodeName": "Christmas Waltz", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nLane searches for a way to get rid of a sizable debt, the firm prepares to pull out all the stops when it gets a second chance to land Jaguar as a client, and Don tries to comfort Joan when she reaches her breaking point.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "27 May 2012", 
+            "episodeName": "The Other Woman", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nPeter asks Joan to make an unspeakable sacrifice to help secure the Jaguar account, Peggy prepares to make a drastic move in response to Don's treatment, and Megan's acting career begins to create tension with her and Don.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 Jun. 2012", 
+            "episodeName": "Commissions and Fees", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nLane's entire world comes crashing down after getting busted for forging Don's signature on a check, and Sally experiences an awkward rite of passage while spending the weekend with the Drapers.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Jun. 2012", 
+            "episodeName": "The Phantom", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs the partners consider expanding the office space, Don begins seeing ghosts and gets a request to advance Megan's acting career. Meanwhile, Peter's affair comes to a disappointing end, and Megan's mom briefly reunites with Roger.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "7 Apr. 2013", 
+            "episodeName": "The Doorway, Part 1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nDon and Megan take a trip to Hawaii for the holidays, Sally's friend visits the Francis family, a comedian torpedoes Peggy's Super Bowl ad campaign, and Roger gets some bad news about his mother.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "7 Apr. 2013", 
+            "episodeName": "The Doorway, Part 2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nDon strikes up a friendship with the surgeon in his building, Peggy tries to save her campaign, Roger makes a scene at his mother's funeral, and Betty goes to Manhattan to find Sally's friend.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 Apr. 2013", 
+            "episodeName": "Collaborators", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhile Don continues his affair with Sylvia, Pete's latest infidelity threatens his marriage. Meanwhile, Peggy's icy relationship with her new staff continues, but she also gets an unlikely tip on a potential new client.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "21 Apr. 2013", 
+            "episodeName": "To Have and to Hold", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDon works in secret on a Heinz ketchup campaign while Megan gets a love scene on the set of her soap opera. Meanwhile, Harry makes his power play while Joan has more trouble with the secretaries.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "28 Apr. 2013", 
+            "episodeName": "The Flood", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSet among the events surrounding Martin Luther King's assassination, Peggy tries to get a new apartment, Ginsberg is set up on a date, and Don has a revelation during his weekend with the kids.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "5 May 2013", 
+            "episodeName": "For Immediate Release", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAs the firm prepares to go public, Don and Pete's actions cause them to lose two huge clients. However, Roger uses a new connection to put them in position to gain their biggest client ever.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 May 2013", 
+            "episodeName": "Man with a Plan", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThings quickly become awkward after the two firms merge, Don asserts his dominance over Sylvia, Pete has to deal with his ailing mother, and Bob Benson helps out a sick Joan.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 May 2013", 
+            "episodeName": "The Crash", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe creative department has a wild, drug-influenced weekend as they work on the Chevy account, Don has trouble letting go of Sylvia, and Sally walks in on an unwelcome intruder.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 May 2013", 
+            "episodeName": "The Better Half", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nPeggy becomes unsatisfied with her apartment and with Abe, Don has an eventful weekend with Betty while Megan has problems on the set, Roger has time with his grandson, and Pete begins exploring his options outside the firm.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 Jun. 2013", 
+            "episodeName": "A Tale of Two Cities", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nCutler and Chaough prepare to make radical changes to the firm while Sterling and Draper are visiting a client in Los Angeles. Joan's decision to go after a new account on her own leaves Pete furious and frustrated.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Jun. 2013", 
+            "episodeName": "Favors", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nDon is preoccupied with keeping Sylvia's son from being drafted, Peggy has a rat in her apartment, Don and Ted bury the hatchet, Pete has a problem with his mother's new nurse, and Sally makes an accidental discovery about her father.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Jun. 2013", 
+            "episodeName": "The Quality of Mercy", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDon renews his battle with Ted after seeing his relationship with Peggy, Sally interviews at a boarding school, and Pete discovers Bob Benson's background.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Jun. 2013", 
+            "episodeName": "In Care Of", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWith his personal and professional life crumbling around him, Don positions himself for a change of scenery. Meanwhile, Pete's life is falling apart as well, thanks to the meddling of Bob Benson.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 Apr. 2014", 
+            "episodeName": "Time Zones", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nDon is on the outside looking in on the forced indefinite paid leave from his job. While Ted heads back to New York for a few days, Don takes the opportunity to head to Los Angeles in part to meet with a California transformed Pete while he reunites with Megan, who is living full time there while pursuing what looks to be a promising acting career. Back in New York, Peggy avoids Ted at all cost while she learns to deal with the new \"Don\", Lou Avery, most specifically on the Accutron account for which she is getting consulting help from Freddie Rumsen. On top of that, ...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "20 Apr. 2014", 
+            "episodeName": "A Day's Work", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nSally discovers that Don is not working, Pete lands a big account but is undercut by management, and Joan is forced to move some secretaries around after Lou and Peggy have some problems.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "27 Apr. 2014", 
+            "episodeName": "Field Trip", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAfter a fight with Megan during a surprise trip to California, Don decides it's time to get back to work. Meanwhile, Betty joins Bobby on a field trip to a farm.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "4 May 2014", 
+            "episodeName": "The Monolith", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDon returns to work, but quickly falls off the wagon after learning that he's been assigned to Peggy. Meanwhile, Roger and his ex-wife go to a commune to rescue their daughter, who has abandoned her child.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "11 May 2014", 
+            "episodeName": "The Runaways", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhile Lou becomes the object of ridicule for the copy writers, Don tries to get away to California after a call from his pregnant niece. Meanwhile, the new office computer drives Ginsberg to the brink of insanity.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "18 May 2014", 
+            "episodeName": "The Strategy", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nPeggy has second thoughts about her Burger Chef campaign when Don is asked to pitch her commercial, Pete visits his wife and daughter on his trip back to New York, and Bob Benson gets some surprising news from G.M. about the account.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "25 May 2014", 
+            "episodeName": "Waterloo", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDon and Peggy prepare to pitch to Burger Chef, one day after the Apollo Moon Landing. Meanwhile, a power struggle in the firm between Sterling and Cutler leaves Don's future hanging in the balance.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "5 Apr. 2015", 
+            "episodeName": "Severance", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nDon is oddly drawn to a diner waitress as he learns about the loss of an old acquaintance, Peggy and Joan are disrespected by a chauvinistic client, and Cosgrove is in for big changes after his biggest business connection retires.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "12 Apr. 2015", 
+            "episodeName": "New Business", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhile Megan comes to New York with her mother and sister to collect her belongings, Don has a romance with the waitress. Meanwhile, Peggy and Stan work with a famous photographer on a commercial shoot.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "19 Apr. 2015", 
+            "episodeName": "The Forecast", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nDon decides to sell his apartment, Joan stumbles into a relationship while on a trip to Los Angeles, Glen tells Betty and Sally that he is going to Vietnam, and a copywriter gets in trouble for his rude behavior to a client.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "26 Apr. 2015", 
+            "episodeName": "Time & Life", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe partners discover that the firm is losing its independence and there's nothing they can do about it. Peggy is not sure if she wants to come along. Meanwhile, Pete and Trudy have trouble getting their daughter into private school.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "3 May 2015", 
+            "episodeName": "Lost Horizon", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDon goes AWOL from McCann Erickson in the middle of a meeting. Joan quickly gets fed up with the sexism at the new firm. Roger and Peggy put off reporting to their new jobs as long as possible.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "10 May 2015", 
+            "episodeName": "The Milk and Honey Route", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nDon is stuck in Oklahoma after his car breaks down. Betty discovers that she is not in good health. Pete gets an unexpected job offer that could enable him to get his life with Trudy and his daughter back.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "17 May 2015", 
+            "episodeName": "Person to Person", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nDon's journey ends in California with Anna's niece, Stephanie, where he contemplates his future. Roger decides to marry Megan's mother, Marie. Joan has a business proposition for Peggy, who is coming to terms with her feelings for Stan.    ", 
+            "seasonNumber": 7
+        }
+    ], 
+    "name": "Mad Men", 
+    "plot": "A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.", 
+    "rating": 8.6, 
+    "releaseDate": "19 July 2007", 
+    "type": "tvserie"
+}

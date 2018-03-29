@@ -1,0 +1,1254 @@
+{
+    "actorList": [
+        "Paul Wesley", 
+        "Ian Somerhalder", 
+        "Kat Graham", 
+        "Candice King", 
+        "Zach Roerig", 
+        "Michael Trevino", 
+        "Nina Dobrev", 
+        "Steven R. McQueen", 
+        "Matthew Davis", 
+        "Michael Malarkey"
+    ], 
+    "director": [
+        "Chris Grismer", 
+        "Joshua Butler", 
+        "Michael A. Allowitz", 
+        "Marcos Siega", 
+        "Pascal Verschooris", 
+        "Kellie Cyrus", 
+        "J. Miller Tobin", 
+        "John Behring", 
+        "Jeffrey G. Hunt", 
+        "Rob Hardy", 
+        "Lance Anderson", 
+        "Leslie Libman", 
+        "Paul Wesley", 
+        "John Dahl", 
+        "Wendey Stanzler", 
+        "Jesse Warn", 
+        "Darren Genet", 
+        "David Von Ancken", 
+        "Liz Friedlander", 
+        "Garreth Stover", 
+        "Julie Plec", 
+        "Geoff Shotz", 
+        "Ian Somerhalder", 
+        "Kevin Bray", 
+        "Tony Solomons", 
+        "Mike Karasick"
+    ], 
+    "genres": [
+        "Drama", 
+        "Fantasy", 
+        "Horror", 
+        "Mystery", 
+        "Romance", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "10 Sep. 2009", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn the small town of Mystic Falls, teenager Elena Gilbert and her younger brother, Jeremy, struggle to come to terms with the recent death of their parents. Elena is popular amongst her peers and the perfect straight-A student. However, she has difficulties hiding her grief from the world. Meanwhile, Jeremy treads on a dangerous path of using drugs to ease his pain. The arrival of new student Stefan Salvatore, makes Elena think about romantic possibilities. Elena is unaware about Stefan's mysterious origins as well as his brother Damon.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Sep. 2009", 
+            "episodeName": "The Night of the Comet", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAs Mystic Falls prepares for a festival to celebrate the passing of a comet, Vicki is in the hospital recovering from the attack she can barely remember. Stefan goes to the hospital and tries to use his abilities to make sure Vicki doesn't remember what really happened, but his attempt is cut short when Vicki's brother Matt arrives. Jeremy continues to struggle at school and with his feelings for Vicki. At a parent/teacher conference, Mr. Tanner makes Aunt Jenna feel that she is failing as a surrogate parent, especially when it comes to the self-destructive Jeremy. ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Sep. 2009", 
+            "episodeName": "Friday Night Bites", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTyler tries to embarrass Stefan by throwing a football at him during practice. However, Stefan's super-skills of catching a football impresses Mr. Tanner who tries to persuade Stefan to join the school's football team. Meanwhile, Elena continues to ignore the semi-psychic Bonnie's warnings that Stefan is not who he claims to be. So, Elena invites Stefan and Bonnie over for dinner at her house. She hopes that they will get know each other better, but her plan ends up backfiring. Damon crashes the dinner with Caroline whom he has now been feeding off in order to further...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Oct. 2009", 
+            "episodeName": "Family Ties", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nElena asks a reluctant Stefan to go with her to the annual Founder's Day dance. Vicki gets Tyler to ask her, but later accuses him of hiding their drug-induced relationship from his Mother. Meanwhile, Zach reveals a family secret to Stefan. Damon finally tells Elena the secret history about the Salvatore family and how she is the dead-splitting image of Stefan's lost love. Stefan tries to get Damon out of his life for good without giving away Damon's (or his) secret. Also, Elena thinks that Caroline is being abused by Damon when she sees the bite marks on her neck and...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Oct. 2009", 
+            "episodeName": "You're Undead to Me", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWith Damon still locked up and growing physically weaker, Jeremy and Vicki have gotten back together. Meanwhile, the school decides to hold a car wash to raise funds after the death of Mr. Tanner. At the car wash, Bonnie starts a fire using her special powers. She is horrified and confused so she goes to her grandmother for help. Elena and Stefan continue to have trust issues as he is still unwilling to tell Elena his secret. But later, Elena hears a shocking story about Stefan and Damon from a stranger who recognizes Stefan... from a vampire attack that happened ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Oct. 2009", 
+            "episodeName": "Lost Girls", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nElena demands that Stefan explain the frightening events that have been happening in Mystic Falls. In a string of flashbacks, Stefan explains how his rivalry with Damon began back in the Civil War when they met the love of their lives Katherine, the vampire who was the one that sired both of them. In the present, Damon impulsively takes control of Vicki's future, and a confused and frightened Vicki runs away. Also, Sheriff Forbes, Mayor Lockwood, Logan and the others take drastic steps to protect their town.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Oct. 2009", 
+            "episodeName": "Haunted", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nBonnie's abilities surprise Damon. Elena asks Jeremy not to see Vicki. Matt takes Vicki to a haunted house, but the night take a terrifying turn.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Nov. 2009", 
+            "episodeName": "162 Candles", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nStefen gets a surprise visit from old friend Lexi. Caroline tries to get Damon's Medallion back from Bonnie.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Nov. 2009", 
+            "episodeName": "History Repeating", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA new history teacher, named Alaric Saltzman, arrives and requests to Jeremy that he write an after-hours paper to keep his grades up. Jeremy takes a liking to his new teacher and introduces him to Jenna. Meanwhile, Bonnie continues to have terrifying dreams involving the ghost of her great-grandmother Emily Bennett who is trying to send her a message. Bonnie then decides to hold a s\u00e9ance with Eleana and Caroline to try to contact Emily to find out what she wants. Despite Elena's efforts, Bonnie and Caroline argue over the medallion when Damon continues to pressure ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Nov. 2009", 
+            "episodeName": "The Turning Point", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAfter reading a journal kept by a Gilbert ancestor, Jeremy begins to sketch again, a hobby he quit when his parents died. Meanwhile, Sheriff Forbes notifies Damon of another vampire attack and Damon offers to try to track down the killer. Alaric helps Jeremy, Tyler, and Mayor Lockwood in different ways with Jeremy's grades, Tyler's football practice, and the mayor with information about the vampire attacks and of his obsession with tracking the one who killed his fianc\u00e9e down. Also, Elena makes a shocking discovery about Stefan and of his intentions.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Jan. 2010", 
+            "episodeName": "Bloodlines", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAfter surviving the horrific car crash, Elena, still shaken by her resemblance to Katherine Pierce, is rescued by Damon who takes on her on a road trip to Georgia where he meets with an old friend of his, a witch/barmaid named Bree, to ask for her help on a spell that could free Katherine from her tomb. Back in Mystic Falls, Stefan tries to help Bonnie understand her wiccan powers. Meanwhile, Jeremy meets a new local girl, named Anna, who give him insight on the vampire legends about the town as he continues to research his heritage. Also, Alaric Saltzman is revealed ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Jan. 2010", 
+            "episodeName": "Unpleasantville", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDamon, Elena and Stefan attend a school dance with a 1950s' theme, where Alaric introduces himself to Damon whom he suspects is the vampire that killed his wife. Stefan and Damon try to figure out the identity of the new vampire in town who is now stalking Elena in which Stefan gives Elena jewelry filled with Vervain to protect her family and friends while she continues to investigate her true origins. Meanwhile, Matt takes a job at the Mystic Grill as a busboy to make ends meet where he has a run-in with Caroline who becomes more smitten with him. The bartender of ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Feb. 2010", 
+            "episodeName": "Children of the Damned", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nStefan and Damon recall the incidents that led to the rift in their relationship.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Feb. 2010", 
+            "episodeName": "Fool Me Once", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nStefan helps Elena and Bonnie out of a dangerous situation when they are both kidnapped by Ben and Anna. Meanwhile, Jeremy asks Anna to a party in the woods, unaware that she has her own reasons for wanting to meet him there. When Stefan, Damon, and Elena work together with Bonnie and Grams to open the tomb of Katherine Pierce, everyone is shocked by what they discover.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Mar. 2010", 
+            "episodeName": "A Few Good Men", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nMatt and Caroline are surprised by the sudden reappearance of Matt's estranged mother Kelly who arrives back in Mystic Falls with an agenda. Stefan and Elena are worried about Damon's new attitude, while one vampire from the crypt is loose and killing. Meanwhile, Damon is asked by Sheriff Forbes to take part in a fund-raising bachelor auction. Elsewhere, Alaric discovers shocking secrets from his own past over his late wife. With help from Jenna and Stefan, Elena is determined to find out everything she can about her birth mother, but the truth may be more than she ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Apr. 2010", 
+            "episodeName": "There Goes the Neighborhood", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAnna brings a surprising guest along when she pays a visit to Damon. Elena and Stefan go on an awkward double date with Caroline and Matt, but Stefan and Matt find they have some common ground. Jenna reunites with her old friend Kelly, and Jeremy's relationship with Anna takes an unexpected direction.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Apr. 2010", 
+            "episodeName": "Let the Right One In", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhen Stefan and Damon make a dangerous new enemy, Stefan suddenly finds himself in a perilous situation when a handful of the vampires from the tomb abduct him and hold him hostage in their farmhouse to torture him. Damon and Elena try to convince Alaric to work with them to help rescue Stefan. Meanwhile, Matt is hopeful that his mother, Kelly, may be back to stay. Jeremy tries to convince Anna to turn him into a vampire. Anna refuses, but she soon learns that Jeremy's reason is not what she thought. After her car breaks down in a storm, Caroline makes a horrific ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Apr. 2010", 
+            "episodeName": "Under Control", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhile Stefan struggles to control his new situation of blood lust after feeding off Elena's blood to heal, she and Jeremy are surprised by a visit from their uncle, John Gilbert, who arrives in Mystic Falls with an agenda. Meanwhile, Alaric has an awkward talk with Elena about his wife Isobel. At a Founder's Day event, Stefan displays a rare party attitude and Damon's attempt to find out why Uncle John has returned to town takes an ugly turn. An incident at the party causes trouble between Matt and Tyler, and the relationship between Matt and his immature and ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Apr. 2010", 
+            "episodeName": "Miss Mystic Falls", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAt the Founder's Day Gala, Elena and Caroline compete with each other for the title of \"Miss Mystic Falls\" against other girls from town, including Tina Fell and Amber Bradley. Meanwhile, Bonnie returns to town and Elena is happy to have her back, but Bonnie refuses to talk to her for has other issues as well. Elsewhere, John Gilbert attempts to intimidate Damon into helping him look for a mystical device, but his plan doesn't have the desired effect. Damon discovers that Stefan is hiding a dangerous secret that could impact everyone in town when Stefan is now ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Apr. 2010", 
+            "episodeName": "Blood Brothers", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nWhile Stefan struggles to come to terms with his past, both he and Damon reveal parts of their history to Elena, until she finally learns the truth about how they became vampires. Pearl has an ugly confrontation with Johnathan Gilbert. Damon and Alaric try to find a mysterious invention before Johnathan does. The friendship and flirtation between Jeremy and Anna continues to grow.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 May 2010", 
+            "episodeName": "Isobel", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nIsobel returns to town and stuns Alaric with her attitude and her demands that he arrange a meeting with Elena. When mother and daughter finally meet, Isobel refuses to answer most of Elena's questions, but reveals that she will stop at nothing to find the mysterious invention Johnathan Gilbert has been searching for. Isobel's dangerous actions lead Stefan, Damon and Bonnie to step in and help Elena deal with the situation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 May 2010", 
+            "episodeName": "Founder's Day", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nOn the Founder's Day, Mystic Falls celebrates one hundred and fifty years with a parade and fireworks. Stefan is upset with the revelation of Damon's feelings toward Elena. Jeremy is estranged with Elena and Anna offers her blood to him to turn him into a vampire. The vampires from the tomb decide to kill the dwellers during the fireworks, but John Gilbert plots a scheme to destroy not only them, but also Stefan and Damon with Jonathan Gilbert's invention. Stefan is saved by Elena and Alaric, but Damon is captured by John and left in a basement on fire with the other ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Sep. 2010", 
+            "episodeName": "The Return", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nJohn and Jeremy are almost dead when Elena arrives at home. Anna's blood saves Jeremy and a 911 call brings John to the hospital. Stefan uses his blood to save John and tells him to leave Mystic Falls. Damon uses his blood to heal Caroline and he discovers that Katherine has returned to the town. Tyler is comforted by his mysterious uncle Mason, who is the black sheep of his family. Damon is rejected by Katherine and Elena and takes his anger out on Jeremy. Katherine begins her game with Caroline, leaving a dark message to the Salvatore brothers.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Sep. 2010", 
+            "episodeName": "Brave New World", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nCaroline awakes in the hospital with hunger and she satisfies herself first with a blood bag, then with the blood of the night shift nurse. In the morning, she finds that she can be burnt by the sun. When Matt tells her that she will be discharged in the morning, she tells him that she needs to be released in the night, and he believes that she is worried about the upcoming carnival. Stefan helps Jeremy, and Damon is invited by Carol to be the President of the Mystic Falls Council. Damon also overhears a conversation between Mason and Tyler. Mason is interested in ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Sep. 2010", 
+            "episodeName": "Bad Moon Rising", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhile interacting with Uncle Mason, Tyler discretely looks for his part in dark family secrets. After breaking up a party at the swimming hole, Mason makes the shift in the basement of the old Lockwood property; Tyler follows him into the basement ruins. Mason, who chained himself up there, has to flee and transform into a werewolf in his truck in the woods. After saving Matt, who was bitten by newly-turned vampire Caroline, Stefan is in those same woods, fearing lycanthropes who are vampires' natural enemies. Damon is not amused how Elena plays him while on an ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Sep. 2010", 
+            "episodeName": "Memory Lane", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nStefan is shocked that Katherine appears again to him as herself. She scares Elena, claiming she loves Stefan and wants him back. Stefan tricks Katherine, chains her and is prepared to torture her with vervain, but she proves useful and continues her story of how she tricked and betrayed the Salvatores, the Lockwoods, and hence both vampires and werewolves. Mason proves himself a dangerous adversary to Damon, and resists telling Tyler about the family curse, but finally reveals that it's triggered irreversibly by homicide. Matt is totally turned off by Caroline.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Oct. 2010", 
+            "episodeName": "Kill or Be Killed", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMason earns the moonstone by telling Tyler how his Lockwood werewolf curse was triggered in his student days by an accidental fatal brawl while on a spring-break Miami excursion, all orchestrated by Katherine, but leaves out that he's in cahoots with her. Jeremy becomes a friend to a lonely Tyler. The Salvatore brothers get trapped in The forest by Sheriff Forbes after Mason convinces her that Damon is a vampire. Caroline exposes herself to save them.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Oct. 2010", 
+            "episodeName": "Plan B", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nJeremy visits Damon and reveals that he knows where the moonstone is and that Tyler is not a werewolf; Damon asks him to get the stone. Meanwhile, Caroline has a long conversation with her mother Liz, but she ends up having to compel her. Bonnie stumbles into Mason where she has a vision of Elena kissing him, but Stefan realizes that the woman is Katherine instead. Stefan and Damon ask Bonnie to help them kidnap Mason using her powers. Damon knocks Mason out and the Salvatore brothers kidnap him. Damon tortures Mason to find out the intentions of Katherine. Bonnie ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Oct. 2010", 
+            "episodeName": "Masquerade", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nKatherine becomes a threat to Mystic Falls and Stefan and Damon decide to stop her at the Lockwood's masquerade ball. Bonnie, Jeremy, Alaric and Caroline help the Salvatore brothers, but Katherine brings the witch Lucy to protect herself. Meanwhile, Matt picks a fight with Tyler, but Caroline hits Matt avoiding the fight. Sarah is also compelled by Katherine to pick a fight with Tyler if Matt fails.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Nov. 2010", 
+            "episodeName": "Rose", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAfter the masquerade, Elena is abducted to a stately, desolate country estate by the ancient vampires Trevor and Rose. Jeremy is the first to notice her absence, so Stefan sets out on a rescue mission with Damon after Bonnie magically locates Elena. Tyler realizes Caroline is a supernatural too, but doesn't figure out the exact truth. The Salvatore brothers arrive after the ancient duo has welcomed Elijah, one of the original vampires, who concludes a gruesome deal.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Nov. 2010", 
+            "episodeName": "Katerina", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nElena puts herself in a dangerous position as she searches for the truth about Katherine's past and what her own future may hold. Knowing that Stefan would never agree to her plan, Elena swears Caroline to secrecy. Damon uses a new-found confidant to help him try to discover the real purpose and power of the moonstone. Jeremy and Bonnie meet Luka, a new student with a surprising family history.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Dec. 2010", 
+            "episodeName": "The Sacrifice", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nElena decides to take matters into her own hands and offers a tempting incentive to Rose for her help. When things take an unexpected turn, however, Rose calls on Damon to deal with the plan Elena has set in motion. Jeremy's reckless attempt to help Bonnie retrieve the moonstone lands him in a life-threatening position and forces Stefan to put himself in danger. Bonnie and Luka form a closer connection. Tyler shows Caroline the Lockwood cellar, where she makes a discovery that leaves them both terrified.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Dec. 2010", 
+            "episodeName": "By the Light of the Moon", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nDuring the full moon, Damon asks Bonnie to cast a spell to keep Elena incapable of leaving her home. Caroline stays with Tyler, who has imprisoned himself in the Lockwood cellar, to help him during his first transformation to a werewolf. Meanwhile, Jules arrives in Mystic Falls seeking out Mason. Alaric and Damon suspect that she might also be a werewolf. Bonnie meets with Luka expecting to break the moonstone curse using a spell. Elijah visits Elena and proposes a deal to her: she negotiates Stefan's release from the tomb. Damon and Rose grow close to each other and ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Jan. 2011", 
+            "episodeName": "The Descent", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhile Stefan seeks out Isobel, Damon asks Elena to take care of a dying Rose as he meets Jules. Damon asks Jules about the cure for a werewolf bite and she tells him that there is no cure. Caroline is involved in a love triangle with Matt and Tyler. When Rose's pain comes to an end, Damon hides his true feelings about her and has a mortal existential crisis.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Feb. 2011", 
+            "episodeName": "Daddy Issues", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nTyler is poisoned by Jules and seeks out Caroline to tell her that he knows that Stefan and Damon killed Mason. John arrives at the Gilbert home and tells Jenna that he is Elena's biological father. Caroline confesses to Stefan what Jules revealed to Tyler about the death of Mason. Damon seeks out John while Stefan pays a visit to Tyler to try and explain what really happened with Mason. Jules and Brady kidnap and torture Caroline. Jules calls Stefan and proposes to exchange Tyler for Caroline. When Damon and Stefan meet with Jules, they are surrounded by a pack of ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Feb. 2011", 
+            "episodeName": "Crying Wolf", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nStefan agrees to a weekend with Elena at the Gilbert lake cabin, where they find the missing Gilbert journals. Back home, Damon attends a historical society function to meet Elijah and is unexpectedly captured by Elijah's acolytes, but survives torture until he can escape. Elijah end up finding the hidden moonstone. Tyler is recruited for the werewolf pack's cause to reverse the Sun and the Moon curse, but won't help with a sacrific. Tyler assures Matt that he and Caroline are \"just friends\" and that she is still in love with Matt. Jeremy, Bonnie and Caroline learn ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Feb. 2011", 
+            "episodeName": "The Dinner Party", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAfter confirmation by a terrified Katherine that the single ash-bound knife can kill an original vampire, Damon invites Elijah to a dinner party to stab him. Alaric finds out a nasty limitation to that method. Meanwhile, Stefan tells Elena about the time when he was a vicious vampire, Damon tries to do right, and John Gilbert plays a surprisingly positive part. Jeremy can't prevent 'immature' witch Bonnie from being questioned and suitably punished by accomplished Luka.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Feb. 2011", 
+            "episodeName": "The House Guest", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe Salvatore brothers are unpleasantly surprised that killing Elijah didn't harm, but instead released Katherine. Damon indignantly rejects her flirtation. Dr. Jonas Martin uses invisible astral projection to enable his son Luka to retrieve the ash dagger and thus revive Elijah, but Damon notices and fights back and thus kills the invisible Luka. Grieved, Jonas attacks Jeremy, Bonnie, Caroline and Elena, but ends up dead and surprisingly restores Bonnie's powers. Alaric refuses to keep lying to Jenna, who refuses to be protected by secrecy, so they stop dating until ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Apr. 2011", 
+            "episodeName": "Know Thy Enemy", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nJeremy is delighted to have Bonnie restored to her powers, yet worried when accompanying her and Damon to the house where a 100 witches were burned to gather enough power to undo the moonstone's curse. Elena's mother Isobel Flemming's return startles her and even Katherine, as turns out doing Klaus's bidding for a gruesome 'prize'. John Gilbert confesses more wrong choices, also at Jenna's expense, yet unlike furious Alaric, Elena ends up choosing to keep her father in her life. The Salvatore brothers piece together from the Gilbert diaries what they believe equals a ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Apr. 2011", 
+            "episodeName": "The Last Dance", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nOriginal vampire Klaus forces captured Katherine to torture herself. Meanwhile Klaus takes henchman witch Maddox's advice to possess Alaric's body and use his history teacher job as cover to work on the school-kids and attend the high-school 1960s theme dance, where he hopes to tempt Bonnie to overexert her hundredfold witch powers against an unbreakable charm until she dies. Jeremy mistrusts Bonnie's assurance she can cope and consults Damon, who doesn't even confide in Stefan, to brilliantly mount an elaborate trap. Matt teams up with the sheriff for Caroline's sake.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Apr. 2011", 
+            "episodeName": "Klaus", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nResuscitated by Elena, who even hands him the dagger as proof of alliance, Elijah explain to her how his Bulgarian family became the first, still most powerful vampires, but witches prevented them becoming invulnerable. He loved Niklaus 'Klaus', being his brother, but has to turn against him in the end. They ingeniously staged the moon curse in order to get vampires and werewolves to help look for a cure for Klaus's real curse, doubly monstrous genes. Alari-Klaus toys further with Katherina and instruct Maddocks to fetch a new body so he can leave Rick's. Stefan ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Apr. 2011", 
+            "episodeName": "The Last Day", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nKlaus completes his preparations to break the moon curse but luring Tyler home to visit his mother after a non-accidental fall. The Salvatore brothers bicker worse then ever over how to protect Elena, who wants to take risks by doing things Elijah's way, which will kill her but relies on an ancient resuscitation elixir. Stefano takes her away on a 'last day' excursion. Matt finds helping the sheriff with Caroline about unbearable. Alaric's secret is finally discovered by Jenna, who takes it well but runs into tragic trouble. Klaus refuses to wait until the next full ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 May 2011", 
+            "episodeName": "The Sun Also Rises", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nDamon sees the bite on his arm with the growing wound. Meanwhile Matt shoots Tyler and then he tells to Caroline that neither her mother nor he is compelled and they know that she is a vampire. Jenna finds that she is a vampire; Greta completes her transformation and Klaus brings Jules and kills her. Damon tells Stefan that Klaus transformed Jenna into a vampire and John returns and meets Damon. Jeremy and Bonnie study the journals and the grimoire to see if they can save Elena. Stefan offers himself as the substitute for Jenna. Caroline brings Tyler home and Matt ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 May 2011", 
+            "episodeName": "As I Lay Dying", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nDamon asks Elena to forgive him for forcing her to drink his blood but she does not accept his apologies. Soon Damon is raving and he has daydreams with his life with Katherine in the past and Elena in the present. Stefan tells Elena Damon's condition and she decides to seek him out. Stefan meets Bonnie and discovers that Klaus might save his brother and he looks for Klaus. Meanwhile Jeremy finds Damon and brings him to the Grill; however Sheriff Forbes shoots Damon but hits Jeremy instead and he dies. Alaric brings Jeremy's body and Bonnie tries to resurrect him ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Sep. 2011", 
+            "episodeName": "The Birthday", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nDamon is secretly tracking down Stefan's murders and covering his slaughtering in Tennessee with Alaric. On the day of Elena's birthday, Caroline plans a party for her at Damon's house. Meanwhile, Klaus and Stefan are chasing Ray Sutton, who is a werewolf, to know the place where his pack gathers. Jeremy continues to see Anna and Vicky and he tells Matt what is happening to him. During the party, Stefan gives a bloody message to Damon to stop following him and Carolina and Tyler spend the night together. Damon is shaken with Stefan's attitude and decides to forget him.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Sep. 2011", 
+            "episodeName": "The Hybrid", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nTyler finds his mother vervain-poisoned his beloved Caroline, realizes she ignores his cursed paternal heritage and shows her, chaining himself down at fall moon for transformation. Assisted by will-less Stefano, Klaus forces torture-wounded Ray to betray his werewolf pack so he can bite them to create a hybrid army, but it fails, the spell having been crossed by Elena's secret resuscitation. Damon reluctantly follows Alaric and Elena, who recruited him to search for Stefano, wisely acting as backup. Jeremy, who is haunted by Vicky, gets initially reluctant Matt to ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Sep. 2011", 
+            "episodeName": "The End of the Affair", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nKlaus takes Stefan to Chicago, where he wants to resuscitate his sister Rebekah, who might hold the key to breaking the curse. Gradually, Stefan is reminded of his Prohibition period affair with her her while still bloodthirsty himself, and its tragic end. Tyler is rightly worried, turning for an ally to her mother sheriff Forbes, about the whereabouts of Caroline, whose bully father Bill actually holds her in a dungeon for 'vampire aversion therapy' of the most flagrant kind. Katherine puts Damon on feared Klaus's trail, so he can mount a rescue with Elena after ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Oct. 2011", 
+            "episodeName": "Disturbing Behavior", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nIn Chicago, Katherine meets Stefan in front of a store and she tells that Elena has the necklace that belongs to Rebekah. She also feels that Stefan is plotting a scheme against Klaus, but he does not share his plan with her. Meanwhile, in Mystic Falls, Anna shows up to Jeremy and talks to him that she is alone in the afterlife. Gloria seeks out the necklace using a spell while Bonnie and Caroline visit Elena; out of the blue, her necklace burns her chest. Damon is upset with people trying to change him to be Mr. Nice Guy. Sheriff Forbes asks him to compel Bill to ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Oct. 2011", 
+            "episodeName": "The Reckoning", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nDespite all that has happened, Caroline is determined to see that Elena, Bonnie, Matt and Tyler all enjoy a traditional Senior Prank Night before the school year begins at Mystic Falls High School. However, when uninvited guests show up, it doesn't take long for the evening to take a deadly turn. Damon convinces Jeremy that he can use his new connection to the other side to help find a way to defeat Klaus. Finally, Klaus deepens his hold on Stefan and uses him for increasingly violent and dangerous purposes.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Oct. 2011", 
+            "episodeName": "Smells Like Teen Spirit", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nElena meets Stephan at the high school and he tells that he is watching her following Klaus's order. Rebekah, who is staying at the Salvatore's house, is in the same class as Elena. Elena plots with Alaric and Damon to lock Stephan in the dungeon of the Salvatore house. Tyler is fascinated and reveling in his sire bond to Klaus. Vicky convinces Matt to bring her back from the dead. Anna tells to Jeremy that darkness is surrounding Vicky, and that she has made a pact with an original witch. Vicky hits Matt on the head and seeks out Elena as part of her agreement with ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Oct. 2011", 
+            "episodeName": "Ghost World", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nOn the day of the Night of the Illumination in Mystic Falls, Mason ties Damon to a chair and the vampire believes that it is a prank of his brother Stephan. Later Mason tells that he is seeking redemption and wants to destroy Klaus to help Tyler. He goes with Damon to a cave with tunnels where it is supposed to have a weapon to destroy the Original Vampire. Elena asks Jeremy whether he may contact Lexi to learn how she can bring humanity back to Stephan, but her brother explains that he has no connection with Lexi. Bonnie goes with Caroline to the place where the ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Nov. 2011", 
+            "episodeName": "Ordinary People", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nDamon, Alaric and Elena reach a hidden cage in the secret tunnel beneath the Lockwood mansion. Alaric studies the runes and primitive pictures, which indicate it was the home of an ancient Viking family, who interacted with the first werewolf, vampire and witch. They confront Rebekah, who is shocked to tie it up with her memories of their youth, when their father Mikael, now the only hunter they truly dread, bullied his sons, especially Niklaus, leading in interaction with the originally friendly werewolf neighbors to family drama and the origin of vampires. Adter ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Nov. 2011", 
+            "episodeName": "Homecoming", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe homecoming dance becomes the backdrop for a battle of lethal wits between Damon's party, including Mikael and Rebeka although not at all reconciled, and Klaus's, which fields the hybrids by diverting the party to the Lockwood mansion. Tyler surprises Caroline by stating he doesn't really mind being under Klaus's spell as hybrid, it's not worse then monthly lunatic agony as pure werewolf. Fearing even with the eternal oak stake in Mikael's hand Klaus may outsmart them, Damon secretly enlisted Katherine, but Klaus prepared the most stunning surprise.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Jan. 2012", 
+            "episodeName": "The New Deal", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBonnie has weird dreams with four coffins. Jeremy hangs around with Tyler and invites him in his house. Stephan meets Bonnie and asks her to hide the coffins of Klaus's family. Klaus tries to force Damon and Elena to seek out Stephan and compels Jeremy to stand up in front of a pick-up driven by a hybrid in high speed without his ring; however Alaric saves him but has difficulties to recover. Jeremy kills the hybrid and he takes Alaric to the hospital with Elena. Damon meets Stephan and he tells that he saved Klaus to save Damon's life. Then Damon asks to participate ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Jan. 2012", 
+            "episodeName": "Our Town", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nBonnie tries to open the coffin and overhears something, but Damon and Stephan arrive in the house and Damon kills the hybrid. Elena and Bonnie are preparing a birthday party for Caroline at school and Jeremy says goodbye for them. Tyler meets Caroline to tell that he would never hurt her since he loves her, but Klaus controls him. Stephan threatens Klaus and asks him to send his hybrids out of Mystic Falls and beheads one hybrid in front of Klaus to prove that he is not kidding. Klaus summons Tyler and compels him to bite Caroline, but Tyler reacts telling that he ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Jan. 2012", 
+            "episodeName": "The Ties That Bind", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nProphetic dreams about the mysterious fourth coffin lead Bonnie and Elena to a surprising source, while Tyler seeks help to break free from Klaus' bond so he can be with Caroline. Alaric's new friend Dr. Fell has a secret no one sees coming, and Stefan's interference in Elena's life reveals something that surprises even him.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 Feb. 2012", 
+            "episodeName": "Bringing Out the Dead", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nNow Klaus has Elijah back, they host a dinner party to negotiate a future with the Salvatore brothers, who actually procrastinate. Meanwhile combined witchcraft finally opens the mystery coffin, from which a scary surprise guest is released, but both families will be shocked. Alaric has been wounded dangerously by lover Dr. Fell, who happens to be supernatural, which makes saving him problematic, but Elena steps up. Caroline's father Bill Forbes refuses to survive his vampire bite by allowing Caroline to turn him into one like her.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 Feb. 2012", 
+            "episodeName": "Dangerous Liaisons", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nNow Klaus's original family's coffins are open, he's supplanted as family head by their sorceress-maker, mother Esther, who holds a grand ball in their splendidly restored mansion. Invitations with gifts and where needed other persuades go to the Salavtore brothers, Alaric, Matt, Caroline and especially Elena, who is asked for a private meeting. After Stefan prevents Damon from stopping her, she learns that Esther, aided by son Koal, needs Doppleganger blood to put a fatal spell on her children, the others being an 'abomination' except Elijah, firstly binding their ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Feb. 2012", 
+            "episodeName": "All My Children", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAfter starting her day with a startling discovery of Damons' latest indiscretion, Elena is frustrated to find that none of her friends agree with her on how they should react to the Original family's internal power struggle. Once again caught up in the destiny of the Bennett witches, Bonnie and Abby find themselves playing a part in a ritual to appease the spirits of nature. When Elijah gives Damon and Stefan a dangerous ultimatum that puts Elena in danger, they turn to Alaric and Meredith for help with a plan that leads them to a terrible choice.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Mar. 2012", 
+            "episodeName": "1912", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAlaric is in jail accused by Dr. Fells of murder of the founders. Sheriff Forbes advises Damon to not interfere in her investigation. Damon recalls with Stefan the year of 1912, when a serial-killer killed founders in Mystic Falls. Meanwhile Elena and Matt break in the house of Dr. Fells to search for evidence to prove the innocence of Alaric. Damon and Rebekah forces Stefan to drink human blood and Matt and Elena witnesses Stefan biting the neck of a girl.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Mar. 2012", 
+            "episodeName": "Break on Through", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nStefan still struggles desperately to get his blood-lust back under control. Damon keeps an eye on him, but has other priorities. Damon's former teacher Sage returns as his lover, in a secret pact against Rebekah, whom he seduces to keep an eye on her quest for the original white oak's sole known shoot. The old vampires are actually in league and torch the bridge made from its wood, fearing the weapon that could be made from it, but Damon stayed a step ahead. Dr. Fell tries to treat Alaric medically while Bonnie attempts to undo the curse which caused his hereditary ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Mar. 2012", 
+            "episodeName": "The Murder of One", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe brothers mobilize Alaric, Matt, Caroline and reluctant Elena to help kill at least one original, hence all, with the twelve stakes they forged from the remaining white oak shoots wood. Determined to eliminate Klaus at all cost, Stefan decides to go on even after Rebeka captured Damon for 'punitive' torture. By the time the manage to kill original prime Finn, lured with his first love Sage, Klaus has blackmailed Bonnie, by showing he can kill Jeremy and her with mother, to magically undo the fatal bond. Sage's own death shows that with an original, his whole ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Apr. 2012", 
+            "episodeName": "Heart of Darkness", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nCaroline is thrilled when Tyler returns to town, but Tyler soon suspects that something has been going on between Caroline and Klaus. Matt tries to keep Rebecca (CLAIRE HOLT) busy.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Apr. 2012", 
+            "episodeName": "Do Not Go Gentle", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe 1920s Decade Dance takes a deadly turn when Damon and Stefan realize they need the help of Matt, Jeremy and Bonnie to undo a spell that could be devastating for everyone.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 May 2012", 
+            "episodeName": "Before Sunset", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nKlaus acts on his intentions to leave town with Elena, but finds resistance from a surprising new enemy. Damon and Stefan have a surprisingly candid conversation about the future.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 May 2012", 
+            "episodeName": "The Departed", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nIn the third season finale, determined to protect his sister, Jeremy makes a decision that will change everything. Bonnie makes a secret deal that has heartbreaking consequences.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Oct. 2012", 
+            "episodeName": "Growing Pains", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn the fourth season premiere, Elena awakens after the accident to find the thing she dreaded most has come true. Damon is furious with Stefan, and takes out his rage on Matt.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Oct. 2012", 
+            "episodeName": "Memorial", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nStefan and Damon argue about what is best for Elena. Jeremy and Matt are surprised to see a girl they used to know, April (GRACE PHIPPS), enrolling at Mystic Falls High.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Oct. 2012", 
+            "episodeName": "The Rager", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nElena learns confronting Rebekah (CLAIRE HOLT) can be dangerous. Tyler gets a surprise visit from Hayley (PHOEBE TONKIN - The Secret Circle), a werewolf who helped him with Klaus.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Nov. 2012", 
+            "episodeName": "The Five", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAt a fraternity costume party, Damon gives Elena a lesson in choosing a victim. Klaus reveals an encounter with a group of vampire hunters - flashing back to 12th century Italy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Nov. 2012", 
+            "episodeName": "The Killer", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nStefan and Klaus form an uneasy alliance to try and contain the danger that Connor (TODD WILLIAMS) has unleashed. Professor Shane (DAVID ALPAY) works with Bonnie.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Nov. 2012", 
+            "episodeName": "We All Go a Little Mad Sometimes", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTerrifying hallucinations leave Elena shaken and confused and she makes a painful confession to Stefan. Matt gives Damon startling information about Professor Shane (DAVID ALPAY).    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Nov. 2012", 
+            "episodeName": "My Brother's Keeper", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAt the annual Miss Mystic Falls Pageant, Elena and Caroline give April (GRACE PHIPPS) advice, while Tyler and Hayley (PHOEBE TONKIN) work together on a secret project.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Dec. 2012", 
+            "episodeName": "We'll Always Have Bourbon Street", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nDamon and Stefan visit New Orleans in hopes of finding someone who remembers their last visit in 1942. MADELINE ZIMA (Californication) guest stars as one of Damon's former flames.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Dec. 2012", 
+            "episodeName": "O Come, All Ye Faithful", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nIt's a winter wonderland in Mystic Falls. Plus, Professor Shane (DAVID ALPAY) reveals a piece of ancient history that leaves everyone speechless.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jan. 2013", 
+            "episodeName": "After School Special", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nRebekah (CLAIRE HOLT) is back with a vengeance. Bonnie is uncomfortable when her father, Rudy Hopkins (RICK WORTHY - Supernatural), accepts the role of Interim Mayor.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Jan. 2013", 
+            "episodeName": "Catch Me If You Can", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nJeremy is furious when Klaus tries to control him by putting Matt's life in danger. Damon coaches Jeremy as he prepares to take on Klaus' new vampires, but they find that Kol has beaten them to it. Kol makes it clear that he will stop at nothing to convince everyone to give up the search for the cure. Looking for a new ally, Rebekah reminds Stefan that they were once close friends. When Sheriff Forbes and Mayor Hopkins question Shane about his involvement in the Founders' Council deaths, Bonnie steps in with questions of her own, and Shane's responses push Bonnie to ...    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "31 Jan. 2013", 
+            "episodeName": "A View to a Kill", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhen the 1980s Decade Dance at the high school is cancelled by Mayor Hopkins (RICK WORTHY), Stefan finds a charming way to make it up to a disappointed Rebekah (CLAIRE HOLT).    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Feb. 2013", 
+            "episodeName": "Into the Wild", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nShane (DAVID ALPAY) leads an expedition to a desolate island, where he believes the secret of the cure lies hidden. Rebekah (CLAIRE HOLT) and Elena continue their bitter rivalry.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Feb. 2013", 
+            "episodeName": "Down the Rabbit Hole", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nDamon has an ugly run-in with a Hunter, Vaughn (CHARLIE BEWLEY - The Twilight Saga), and realizes he is one of the Five. Stefan admits his feelings about possibly becoming human.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Feb. 2013", 
+            "episodeName": "Stand by Me", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nDamon and Rebekah (CLAIRE HOLT) learn an unexpected bit of recent history from Vaughn (CHARLIE BEWLEY). Bonnie reveals the rest of Shane's (DAVID ALPAY) plan.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Mar. 2013", 
+            "episodeName": "Bring It On", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nElena's new outlook has everyone concerned. Damon and Rebekah (CLAIRE HOLT) work together, but his unwanted advice catches her off-guard. Klaus tries to use Hayley (PHOEBE TONKIN).    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Mar. 2013", 
+            "episodeName": "Because the Night", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nRealizing that Elena needs some time away from Mystic Falls, Damon takes her to New York City. Flashbacks reveal Damon's hedonistic life there in the 1970s.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Mar. 2013", 
+            "episodeName": "American Gothic", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhile in a small town in Pennsylvania with Rebekah (CLAIRE HOLT), Elena has a surprising encounter with Elijah (DANIEL GILLIES). Klaus receives Caroline's reluctant help.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Apr. 2013", 
+            "episodeName": "Pictures of You", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhen Caroline's plans for the perfect Senior Prom night are disrupted by Elena, she turns to an amused Klaus for a solution. Bonnie makes a terrifying discovery.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Apr. 2013", 
+            "episodeName": "The Originals", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nKlaus returns to his past in New Orleans and meets with his former prot\u00e9g\u00e9, Marcel (CHARLES MICHAEL DAVIS), a charismatic vampire with control over the city's inhabitants.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 May 2013", 
+            "episodeName": "She's Come Undone", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe Salvatore brothers ask for backup from a surprising source when Elena calls their bluff. Katherine is suspicious when Bonnie makes her an offer.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 May 2013", 
+            "episodeName": "The Walking Dead", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nSomeone has been attacking patients at the hospital. A violent wind storm causes a power outage and ghosts suddenly appear - some with good intentions and some bent on revenge.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 May 2013", 
+            "episodeName": "Graduation", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nSeason finale: It's Graduation Day. Damon's life is in danger and Elena faces an epic confrontation. Plus, Stefan discovers a horrifying clue to the mystery surrounding Silas.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Oct. 2013", 
+            "episodeName": "I Know What You Did Last Summer", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAs the fifth season opens, Elena, after a passionate summer with Damon, heads to college nearby with Caroline as her roommate. Plus, a terrifying appearance by Silas (PAUL WESLEY).    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Oct. 2013", 
+            "episodeName": "True Lies", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA fellow Whitmore student named Jesse (KENDRICK SAMPSON) gives Elena some intriguing information about Professor Wes Maxfield (RICK COSNETT). Damon asks for help finding Stefan.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 Oct. 2013", 
+            "episodeName": "Original Sin", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen Elena and Katherine have the same dream that Stefan is in danger and desperately needs their help, they convince Damon to help them find Stefan. However, their plans are thwarted by a mysterious young woman named Tessa who seems to know everything about Stefan's history. In flashbacks to a distant time and place, Tessa reveals the shocking secrets in her past and what she has planned for the future. She also has a disturbing message for Damon about his own future. Silas forces an unwilling accomplice to help him search for Katherine, leading to a confusing and ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Oct. 2013", 
+            "episodeName": "For Whom the Bell Tolls", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDamon and Elena try to help Stefan through a confusing time, which ends up taking Elena on an emotional journey. Caroline makes an effort to know Jesse (KENDRICK SAMPSON) better.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "31 Oct. 2013", 
+            "episodeName": "Monster's Ball", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nOn campus, Elena is touched by a sad and secretive student named Aaron. Elena and Damon attend the Whitmore Historical Ball dressed as Anne Boleyn and Henry VIII. At the ball, Elena shares a dance with Dr. Maxfield, who has a disturbing message for her. Caroline's evening at the ball takes her from happiness to heartbreak. Meanwhile, Nadia reveals her surprising history to Katherine, and Damon tries to make a deal with Silas. But when Silas demands that Damon commit an unthinkable act, it leads to a violent confrontation.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "7 Nov. 2013", 
+            "episodeName": "Handle with Care", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nSilas happily announces his new goal to Damon and Elena, but they are skeptical when he promises to accomplish one important task in return for their help. Tessa confidently tells Stefan about her next move, then realizes that Silas has managed to outsmart her. A desperate Katherine discovers a new and unexpected consequence of becoming human again, and realizes she needs a new place to stay. In exchange for a spot in the dorm room, she offers to show Caroline how to get answers from Dr. Maxfield. Bonnie is touched by Jeremy's strength and determination to stand by ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "14 Nov. 2013", 
+            "episodeName": "Death and the Maiden", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe power of doppelgangers.... While Elena and Damon try to explain Amara's situation to Stefan, Dr. Wes Maxfield gives Katherine some deeply disturbing news. Nadia shows up at Caroline's dorm room searching for Katherine. After a surprising conversation with Amara, Jeremy and Bonnie share a glimmer of hope. Silas fails to keep a promise, causing Damon to turn to Tessa for help with his new plan, and Stefan makes a heartbreaking confession to Damon and Elena.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "21 Nov. 2013", 
+            "episodeName": "Dead Man on Campus", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAt Whitmore College, Elena and Caroline decide it's time to throw a big party, but their plans are interrupted when Jesse suddenly needs Caroline's help. At Elena's request, Damon comes up with an effective method to get Wes to answer his questions. At the party, Elena finds that she and Aaron have a lot in common, and Caroline grows more concerned about Jesse. Meanwhile, Katherine does a favor for Matt and manages to get through to Stefan, who is still struggling to overcome the events of the summer. Finally, Bonnie does her best to cope with her new reality, and ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "5 Dec. 2013", 
+            "episodeName": "The Cell", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nDamon is trapped by Dr. Wes, and realizes scary things about his past.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Dec. 2013", 
+            "episodeName": "Fifty Shades of Grayson", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nDamon realizes Elena is in danger and enlists Stefan's help to find her. The brothers pay a visit to Aaron, and Damon shocks Stefan by revealing his first-hand knowledge of Aaron's family. In an attempt to stop Damon, Dr. Wes unleashes his secret weapon, forcing Damon to deal with a part of his past he thought was gone forever, as well as the consequences of his decades-long plan for revenge. Meanwhile, Elena is horrified by Dr. Wes' confessions about the dark history of Whitmore College and his own ultimate goal. Finally, a frantic Katherine turns to Matt for help, ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "23 Jan. 2014", 
+            "episodeName": "500 Years of Solitude", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nBack to Katherine's early life 1490, Nadia helps her mom with a fighting plan.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 Jan. 2014", 
+            "episodeName": "The Devil Inside", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDamon tries to get back together with Elena, however, Katherine has a plan and attempts to take Elena's body permanently. Tyler is upset with Caroline and Matt is used by Katherine. Enzo finds Damon and they decide to become a team again.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Feb. 2014", 
+            "episodeName": "Total Eclipse of the Heart", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nHoping to help everyone move past recent traumatic events, Caroline convinces Elena and Bonnie to attend Whitmore College's \"Bitter Ball\" for broken-hearted students. Bonnie is intrigued with a fellow student named Liv, who appears to be dabbling in witchcraft. Tyler starts to worry about Matt's relationship with Nadia. After making a disturbing discovery, Stefan has a frustrating conversation with Damon and Enzo. Dr. Wes struggles to continue his research project with help from a new benefactor named Sloan. Still bent on revenge, Damon and Enzo resort to violence to ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "27 Feb. 2014", 
+            "episodeName": "No Exit", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAs Damon's behavior escalates from destructive to deadly, Stefan begins to regret their last conversation and decides to track Damon down and intervene. For reasons of her own, Elena volunteers to come along. Dr. Wes enlists the Travelers to set a trap that will once again test Damon's friendship with Enzo. After a heart-to-heart talk with Nadia, Matt enlists Caroline and Tyler's help to protect Elena, leading to a violent confrontation. Later, when Stefan tries to comfort a dejected Caroline, their conversation leads to a horrifying realization.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Mar. 2014", 
+            "episodeName": "Gone Girl", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhile Nadia remembers her centuries-long search for her mother, Stefan, Caroline and Matt come up with a desperate new plan to save Elena's life. For the second time, Bonnie and Jeremy must turn to Liv for help. Damon baits Tyler into a nasty confrontation, then takes off to seek revenge on Dr. Wes. Caroline and Tyler come to a new understanding. Finally, Bonnie learns of a terrifying secret that will threaten the lives of all her friends.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Mar. 2014", 
+            "episodeName": "While You Were Sleeping", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen Stefan tries to explain recent events to a very sick Elena, her first instinct is to call Damon. At the same time, Damon is trying to figure out how to make a disturbing confession to Elena. While going through Dr. Wes' files, Caroline discovers a frightening secret, and is surprised when Enzo appears, claiming to have the solution everyone is searching for. At Enzo's insistence, Caroline asks Stefan to meet her at a mysterious location where they are joined by a group of Travelers, including Sloan, who reveals new information on the importance of doppelgangers.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "27 Mar. 2014", 
+            "episodeName": "Rescue Me", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nBonnie has an unsettling encounter with Luke (CHRIS BROCHU), and learns more about his family history. The Travelers' leader, Markos (RAFFI BARSOUMIAN), arrives in Mystic Falls.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 Apr. 2014", 
+            "episodeName": "Resident Evil", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nBoth Stefan and Elena are suddenly having unsettling dreams of an alternate version of the life they might have had together. Bonnie has a disturbing encounter with Grams, who warns her about frightening changes on the Other Side. Enzo gives Damon unwanted relationship advice, then admits he is searching for a woman he loved decades before while he was held captive by the Augustines. Liv enlists Matt, Jeremy and Tyler to help track the Travelers and keep them from taking control of Mystic Falls. Bonnie is hurt and angry when she learns that Jeremy is working with Liv ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Apr. 2014", 
+            "episodeName": "Man on Fire", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nEnzo holds Elena, Stefan and Bonnie hostage to uncover the truth about the love of his life. Markos performs a ritual to undo witch's magic.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 May 2014", 
+            "episodeName": "What Lies Beneath", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nDamon and Caroline suspect Stefan and Elena of keeping a secret while they hide from the travelers, unaware of the dead man out for revenge. Meanwhile Matt, Jeremy and Bonnie help Tyler get rid of Julian.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 May 2014", 
+            "episodeName": "Promised Land", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nWhen Stefan and Elena escape from Markos' control, only to find themselves Stranded in a remote location, Stefan gets philosophical with Elena about her relationship with Damon. After their attempt to protect the doppelgangers goes badly, Liv and Luke come up with a dangerous new strategy. Damon recruits Matt and Jeremy to help him set a trap for Markos, who turns out to have a devastating surprise of his own. Bonnie finally admits to Caroline that she's been keeping the truth about the Other Side from everyone. Finally, while Bonnie searches desperately for a way to ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 May 2014", 
+            "episodeName": "Home", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nDamon's plan causes a huge explosion in Mystic Falls, and everyone is caught up in the confusion, leaving a trail of heroism, sacrifice, relief and despair.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 Oct. 2014", 
+            "episodeName": "I'll Remember", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFour months have gone by since the Other Side broke down and Bonnie and Damon were lost. Mystic Falls is still a supernatural-free area. Everyone is grieving in their own ways, and some worse than others.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Oct. 2014", 
+            "episodeName": "Yellow Ledbetter", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nKnowing she needs to come to terms with the loss of Damon, Elena turns to Alaric to help her move on with her life. Enzo convinces Caroline to join him as he tracks down a lead to get Damon and Bonnie back, but Caroline is shocked when they make an unexpected detour and uncover what Stefan has been up to. Meanwhile, Matt worries about Jeremy who is spending time with Sarah, a mysterious girl who has recently arrived in Mystic Falls. Elsewhere, Tripp, leader of the community protection program, makes an interesting confession to Matt about his connection to the town. ...    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Oct. 2014", 
+            "episodeName": "Welcome to Paradise", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nCaroline admits that she has feelings for Stefan.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Oct. 2014", 
+            "episodeName": "Black Hole Sun", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDamon and Bonnie are trying to come up with a way to come back from the otherside, while Stefan tries to help Elena start fresh.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "30 Oct. 2014", 
+            "episodeName": "The World Has Turned and Left Me Here", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHomecoming is around the corner! There is a party in a corn maze but a devastating accident turns things around quickly which makes things go from fun to bad in an instant.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 Nov. 2014", 
+            "episodeName": "The More You Ignore Me, the Closer I Get", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nNow that Damon is back, Elena is deciding whether or not to have her memories of him back. Things go south very quickly.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 Nov. 2014", 
+            "episodeName": "Do You Remember the First Time?", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nElena is forced to confront her problems; Liv and Tyler get closer; Damon finds a surprising clue that renews his hope.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "20 Nov. 2014", 
+            "episodeName": "Fade Into You", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nElena gets some hopeful news from Alaric and Stefan regarding the Gemini Coven; Tyler tries to help Liv and Luke after learning of disturbing plans the coven has for them; dinner takes a drastic turn for Jo; Kai makes a dangerous discovery.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "4 Dec. 2014", 
+            "episodeName": "I Alone", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMatt figures out Enzo is still a threat. Joe and Alaric get closer, while Stefen and Caroline have their own issues.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "11 Dec. 2014", 
+            "episodeName": "Christmas Through Your Eyes", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBonnie tries to replicate her favorite traditions, while reminiscing about happier times with her friends; Sheriff Forbes brings holiday cheer to Caroline at Whitmore College; Alaric turns to Damon and Elena for help when Jo goes missing; Tyler approaches Liv and Luke with a risky plan; Jeremy helps Matt carry out a plan to take down Enzo; Stefan is forced to break some devastating news to Caroline.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 Jan. 2015", 
+            "episodeName": "Woke Up with a Monster", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAs Kai learns how to control his magic, he holds Elena captive; Caroline and Stefan go to North Carolina in search of a cure for Sheriff Forbes; Damon realizes Elena has been kidnapped.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "29 Jan. 2015", 
+            "episodeName": "Prayer for the Dying", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhen Liv and Luke's father arrives to town to celebrate their birthday, they try and convince him to let Jo and Kai take their place in the merge ceremony. After Tyler finds out that the merge is happening sooner than he expected, he urges Liv to let him talk to her father. Meanwhile, after Caroline's plan to cure her mother takes an unexpected and devastating turn, Elena, Stefan and Damon gather at the hospital, while Jo attempts to save Sheriff Forbes' life. Lastly, with the merge set to take place, Damon's risky plan quickly sends things spiraling out of control, ...    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "5 Feb. 2015", 
+            "episodeName": "The Day I Tried to Live", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nElena is determined to celebrate Bonnie's birthday; after learning Stefan's secret, Enzo wants to interfere in Sarah Salvatore's life; Caroline struggles to cope with everything going on around her.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Feb. 2015", 
+            "episodeName": "Stay", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nElena and Jeremy reminisce about their past; Caroline and Stefan grow closer; Sheriff Forbes asks Damon for help with a case involving Elena's parents; Enzo lures Matt and Sarah into his plan.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Feb. 2015", 
+            "episodeName": "Let Her Go", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nEverybody gathers for the funeral of Liz Forbes. Elena is worried Caroline isn't coping as well as everyone believes.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Mar. 2015", 
+            "episodeName": "The Downward Spiral", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nStefan blames himself for Care turning off her emotions. Damon needs to tell his brother their mom's alive. Enzo starts having feelings for Sarah.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Mar. 2015", 
+            "episodeName": "A Bird in a Gilded Cage", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nElena and Damon try to save his mom. Stefan and Caroline still have no humanity and Bonnie deals with her issues with Ki.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Apr. 2015", 
+            "episodeName": "I Could Never Love Like That", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nDamon concocts a risky plan to stop Caroline and Stefan from wreaking havoc.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Apr. 2015", 
+            "episodeName": "Because", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nDamon tries to decide if he should tell Elena about the cure; Bonnie learns that she was betrayed.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "30 Apr. 2015", 
+            "episodeName": "I'd Leave My Happy Home for You", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nDamon and Elena talk about the consequences of Damon's offer; Enzo asks Stefan to help with Lily.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "7 May 2015", 
+            "episodeName": "I'll Wed You in the Golden Summertime", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nElena and Bonnie help Jo with last minute wedding preparations.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 May 2015", 
+            "episodeName": "I'm Thinking of You All the While", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nIn the aftermath of Jo, and Alarics wedding, an unexpected guest shows up, putting Elena's life in jeopardy. Despite Matt's attempt to leave town to save himself, Bonnie takes matters into her own hands after finding herself on the receiving end of a twisted plan...    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "8 Oct. 2015", 
+            "episodeName": "Day One of Twenty-Two Thousand, Give or Take", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nDamon is faced with a new reality without the love of his life; Bonnie decides to be Damon's moral compass, and look out for Alaric, who lost his fianc\u00e9. Stefan protects the town from Lily; Enzo must decide Who he is loyal to.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "15 Oct. 2015", 
+            "episodeName": "Never Let Me Go", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nDamon makes a decision that could ruin Lily and Stefan's deal; Alraic needs Bonnie's help with an artifact; Caroline discovers a shocking secret.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "22 Oct. 2015", 
+            "episodeName": "Age of Innocence", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nIn the aftermath of a clever plan orchestrated by Lily, Damon sets off on a road trip with Bonnie and Alaric in search of leverage they can use against his mother. Meanwhile, Caroline, who is being held hostage by the Heretics, learns some shocking information about Valerie's past, while Stefan learns a few unexpected details about his own past from Lily. Finally, Alaric turns to Bonnie for her help after coming clean about a secret he's been keeping.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "29 Oct. 2015", 
+            "episodeName": "I Carry Your Heart with Me", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJust as Damon thinks he's gained the upper hand in his fight against Lily, an unexpected turn of events leaves him scrambling for a plan B.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "5 Nov. 2015", 
+            "episodeName": "Live Through This", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nBonnie, Damon, and Alaric go through a tough shock with the Phoenix stone, while Caroline sent Stefan to spend the day with his ex, Valerie.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "12 Nov. 2015", 
+            "episodeName": "Best Served Cold", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAfter being reunited with her former love Julian, Lily hosts a dinner party to introduce him to Damon and Stefan and to declare peace between her family of Heretics and the residents of Mystic Falls. Damon and Stefan find themselves at an impasse when they realize they have differing views on how to handle Julian's arrival. At the party, Bonnie and Matt uncover a strange mystery involving some unsuspecting residents, while a devastating revelation causes Alaric to reach his breaking point.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "19 Nov. 2015", 
+            "episodeName": "Mommie Dearest", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDamon and Stefan conspire to kill Julian, while Caroline struggles with the fact that she's pregnant with Ric's kids.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "3 Dec. 2015", 
+            "episodeName": "Hold Me, Thrill Me, Kiss Me, Kill Me", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nIt's Nora and Mary Louise's anniversary and Julian has big plans for the night, however, Lily and her sons have even bigger plans for Julian.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "10 Dec. 2015", 
+            "episodeName": "Cold as Ice", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nIn the events following their mother's passing, Stefan and Damon try to engage in the holiday spirit.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "29 Jan. 2016", 
+            "episodeName": "Hell Is Other People", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nDamon's soul is stuck in the phoenix stone, the world of the phoenix stone is trying to break Damon emotionally and at the same time Damon's family and friend are trying to bring him back.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "5 Feb. 2016", 
+            "episodeName": "Things We Lost in the Fire", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nCaroline throws a baby shower for Alaric's twins, and the Salvatore brothers face the hallucinations caused by the Phoenix Stone.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "12 Feb. 2016", 
+            "episodeName": "Postcards from the Edge", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nStefan uncovers the reason behind Damon's dark descent following his experience in the Phoenix stone.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "19 Feb. 2016", 
+            "episodeName": "This Woman's Work", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nVampire hunter Rayna Cruz is on the loose and Damon has to make things right when his actions inadvertently put his loved ones in her path.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "26 Feb. 2016", 
+            "episodeName": "Moonlight on the Bayou", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nStefan goes to New Orleans to lure Rayna Cruz away from his friends and comes face to face with Klaus Mikaelson, who's suspicious of his old friend's arrival.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "I Would for You", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nTired of having everyone sacrifice themselves for him, Damon decides to leave the group. Meanwhile, Bonnie's new discovery threatens Damon's plans to stop Rayna.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "1 Apr. 2016", 
+            "episodeName": "Days of Future Past", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nStefan will find himself with a choice to make and his decision will determine the fates of everyone he cares about, especially Damon.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "8 Apr. 2016", 
+            "episodeName": "I Went to the Woods", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nIn the aftermath of his brother's fateful decision, Stefan awakens to find himself thrown into a life or death situation with only his basic instincts to rely on. With time working against him, he sets off on a journey of survival while forced to confront a lifetime of irreversible damage Damon has done to their relationship. Meanwhile, desperate to save his brother, Damon follows an unusual lead he has come across, while Matt sends Valerie to Dallas to enlist Alaric's help in the search for Stefan. Finally, when Rayna discovers the emergence of a new threat, she sets...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "15 Apr. 2016", 
+            "episodeName": "One Way or Another", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nDetermined to capture an escaped vampire named Ambrose, who may be the key to getting Stefan back safely, Damon heads to Memphis with Alaric in tow. However, reluctant to step back into his former vampire-hunting ways, Alaric makes his unwillingness to participate clear, while revealing the truth about the past three years of his life without Damon. Meanwhile, in the psych ward, Bonnie meets a young woman named Virginia, who provides her with some valuable information about why The Armory may be after her. Finally, Enzo takes matters into his own hands when he learns ...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "22 Apr. 2016", 
+            "episodeName": "Somebody That I Used to Know", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhen Enzo's efforts to protect Bonnie end up putting her life in jeopardy, they learn that Rayna may hold the key to her survival. With time running out and Rayna at the reins, Enzo and Bonnie reluctantly team up with Damon, who is desperate to save Bonnie's life and to repair their broken friendship. Elsewhere, when Stefan travels to Dallas and comes face to face with Alaric, tensions escalate and they are forced to confront the fallout from Stefan's absence in Caroline's life. Finally, Enzo learns The Armory's true motives behind their search for Bonnie.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "29 Apr. 2016", 
+            "episodeName": "Kill 'Em All", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nWith Bonnie's life at stake and an uphill battle ahead of them, Damon and Enzo lead the charge to save Bonnie before her condition worsens. Stefan reluctantly teams up with Matt for the sake of Bonnie and uncovers the truth behind Matt's anger towards him. Elsewhere, determined to help her best friend, Caroline joins Alaric on a mission and quickly realizes how much she's missed her former supernatural lifestyle. Finally, after their plan takes an unexpected turn, Damon makes a fateful decision that will forever change his relationship with Bonnie.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 May 2016", 
+            "episodeName": "Requiem for a Dream", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nWhen Damon's risky attempt to save Bonnie takes an unexpected turn, the consequences of his actions forces everyone to band together to help her pull through. Meanwhile, when a new threat leaves Caroline's life in jeopardy, Stefan makes a rash decision that ultimately forces them to face the fallout from their relationship. Elsewhere, Enzo tries to hold it together as he painfully watches Bonnie in the fight of her life, while Matt takes matters into his own hands to save one of his closest friends. Alaric also appears.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "13 May 2016", 
+            "episodeName": "Gods and Monsters", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nDespite their best efforts to help Bonnie through the harrowing predicament she now faces, Damon, Enzo and Caroline realize their options are running out and drastic measures need to be taken. With their only chance of saving their friend lying inside the Armory, Stefan breaks the news to Caroline that they may need help from an unlikely source - her and Alaric's twin daughters. Elsewhere, Enzo keeps Bonnie preoccupied by bringing her back to their cabin but when his plan takes an unexpected turn, it'll be up to Damon to make the ultimate sacrifice to save his closest...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "21 Oct. 2016", 
+            "episodeName": "Hello, Brother", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nStefan searches tirelessly for Damon and Enzo months after their mysterious disappearance.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "28 Oct. 2016", 
+            "episodeName": "Today Will Be Different", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAfter learning someone from Stefan's past might be Damon and Enzo's next target, Stefan, Bonnie and Caroline head to North Carolina. While there, Bonnie takes drastic measures in an attempt to break Enzo free of whatever has a hold over him.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "4 Nov. 2016", 
+            "episodeName": "You Decided That I Was Worth Saving", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAs Enzo continues to fight the control over him, Bonnie finds herself at the center of a deadly game and forced to make a heart wrenching decision involving two of the most important people in her life. At the Armory, Alaric researches a mysterious artifact that he hopes will help in their fight to get Damon and Enzo back. Finally, Damon's downward spiral leads him to Tyler Lockwood who attempts to talk some sense into him before it's too late.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "11 Nov. 2016", 
+            "episodeName": "An Eternity of Misery", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMeanwhile Alaric and Stefan try to find out about the origins of what they are up to, Damon is searching for an artifact so he travels to Texas where he encounters Peter Maxwell who leads him to a new revelation.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "18 Nov. 2016", 
+            "episodeName": "Coming Home Was a Mistake", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nStefan and the others remember what matters most when tragedy strikes close to home.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2 Dec. 2016", 
+            "episodeName": "Detoured on Some Random Backwoods Path to Hell", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen her children become the focus of the Siren's latest plan, Caroline (Candice King) takes drastic measures to ensure nothing gets in the way of keeping her family safe. In a race against the clock, Stefan (Paul Wesley) pledges to do everything he can to save the twins, while tensions between Alaric (Matt Davis) and Caroline boil over, leading them to face some harsh realities about the future of their family. Meanwhile, when Enzo (Michael Malarkey) finds himself unable to fight off Sybil's (guest star Nathalie Kelley) latest move, Stefan dives into his subconscious...    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "9 Dec. 2016", 
+            "episodeName": "The Next Time I Hurt Somebody, It Could Be You", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFaced with the fallout from his interaction with Cade (guest star Wole Parks), Stefan (Paul Wesley) is determined to have one thing go right - Christmas Eve with Caroline. However, when Damon (Ian Somerhalder) and Sybil (guest star Nathalie Kelley) crash their Christmas Eve dinner, which had been joined by Alaric (Matt Davis), Matt (Zach Roerig) and Peter (guest star Joel Gretsch), things quickly take a dark and twisted turn. Meanwhile, in a series of flashbacks to Stefan's past, Cade's attempt to entice him with his mysterious agenda leaves Stefan faced with an ...    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "13 Jan. 2017", 
+            "episodeName": "We Have History Together", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nStefan and Damon attend an anger management support group looking for their next victim. Sybil is still alive and teaching a group of high school students who she'll later use as leverage to get Caroline to locate a historical artifact that can be used against her. Meanwhile, Stefan and Damon continue their commitment to Cade as they test the morals of a young doctor, Tara.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "20 Jan. 2017", 
+            "episodeName": "The Simple Intimacy of the Near Touch", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nStefan and Damon return to Mystic Falls at Sybil's request as she is still in search of the historical artifact. Bonnie returns from Paris wearing a vial of Enzo's blood making Caroline wonder if she will become a vampire. Stefan, Damon, Caroline, Bonnie and Enzo all attend the Miss Mystic Falls pageant, where Sybil continues to taunt Damon with memories of Elena.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "27 Jan. 2017", 
+            "episodeName": "Nostalgia's a Bitch", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nSybill puts Damon in a catatonic state for revenge. Caroline and Bonnie enter Damon's mind and realize Stefan is the key to his fate. Sybill competes with her sister for control of the bell.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "3 Feb. 2017", 
+            "episodeName": "You Made a Choice to Be Good", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nCade returns to Mystic Falls with new assignments for Damon and Stefan that each lead to unthinkable consequences.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "10 Feb. 2017", 
+            "episodeName": "What Are You?", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDamon makes a deal with Cade to retrieve the Maxwell journal in exchange for Stefan's soul.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "17 Feb. 2017", 
+            "episodeName": "The Lies Will Catch Up to You", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nDamon and Alaric face an old enemy after finding a weapon that might kill Cade. Stefan is captured by someone from his past. Bonnie tries to reach out to Enzo through Cade.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "24 Feb. 2017", 
+            "episodeName": "It's Been a Hell of a Ride", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nDamon and Stefan join forces against Cade to protect Elena's casket, while Caroline and Alaric cope with their daughters' growing powers.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "3 Mar. 2017", 
+            "episodeName": "We're Planning a June Wedding", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA wedding is quickly planned in order for Damon and Stefan to lure a dangerous enemy out into the open.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "10 Mar. 2017", 
+            "episodeName": "I Was Feeling Epic", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWith the fate of Mystic Falls at stake, Stefan and Damon must fight their greatest enemy for one last battle.    ", 
+            "seasonNumber": 8
+        }
+    ], 
+    "name": "The Vampire Diaries", 
+    "plot": "A teenage girl from Mystic Falls is torn between two vampire brothers, who are quite the opposite.", 
+    "rating": 7.8, 
+    "releaseDate": "10 September 2009", 
+    "type": "tvserie"
+}

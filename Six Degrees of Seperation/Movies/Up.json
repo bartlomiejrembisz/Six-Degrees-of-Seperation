@@ -1,0 +1,51 @@
+{
+    "actorList": [
+        "Edward Asner", 
+        "Christopher Plummer", 
+        "Jordan Nagai", 
+        "Bob Peterson", 
+        "Delroy Lindo", 
+        "Jerome Ranft", 
+        "John Ratzenberger", 
+        "David Kaye", 
+        "Elie Docter", 
+        "Jeremy Leary", 
+        "Mickie McGowan", 
+        "Danny Mann", 
+        "Donald Fullilove", 
+        "Jess Harnell", 
+        "Josh Cooley", 
+        "Pete Docter", 
+        "Mark Andrews", 
+        "Bob Bergen", 
+        "Brenda Chapman", 
+        "Emma Coats", 
+        "John Cygan", 
+        "Paul Eiding", 
+        "Tony Fucile", 
+        "Teresa Ganzel", 
+        "Sherry Lynn", 
+        "Laraine Newman", 
+        "Teddy Newton", 
+        "Jeff Pidgeon", 
+        "Valerie LaPointe", 
+        "Jan Rabson", 
+        "Bob Scott", 
+        "Sebastian Warholm"
+    ], 
+    "director": [
+        "Pete Docter", 
+        "Bob Peterson"
+    ], 
+    "genres": [
+        "Animation", 
+        "Adventure", 
+        "Comedy", 
+        "Family"
+    ], 
+    "name": "Up", 
+    "plot": "Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.", 
+    "rating": 8.3, 
+    "releaseDate": "13 May 2009 (Cannes Film Festival)", 
+    "type": "movie"
+}

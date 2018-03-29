@@ -1,0 +1,512 @@
+{
+    "actorList": [
+        "Ben McKenzie", 
+        "Donal Logue", 
+        "David Mazouz", 
+        "Sean Pertwee", 
+        "Robin Lord Taylor", 
+        "Erin Richards", 
+        "Camren Bicondova", 
+        "Cory Michael Smith", 
+        "Drew Powell", 
+        "Morena Baccarin", 
+        "Jessica Lucas", 
+        "Chris Chalk", 
+        "Kelly P. Williams", 
+        "Michael Chiklis", 
+        "John Doman"
+    ], 
+    "director": [
+        "T.J. Scott", 
+        "Danny Cannon", 
+        "Eagle Egilsson", 
+        "Rob Bailey", 
+        "John Behring", 
+        "Paul A. Edwards", 
+        "Nick Copus", 
+        "Jeffrey G. Hunt", 
+        "Louis Shaw Milito", 
+        "Nathan Hope", 
+        "Oz Scott", 
+        "Bill Eagles", 
+        "Scott White", 
+        "Ben McKenzie"
+    ], 
+    "genres": [
+        "Action", 
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Sci-Fi", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "22 Sep. 2014", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nJames Gordon and Harvey Bullock are assigned to track down the killer of Thomas and Martha Wayne.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Sep. 2014", 
+            "episodeName": "Selina Kyle", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nSomeone is kidnapping homeless kids. One of them is a young girl named Selina Kyle. Meanwhile, Oswald Cobblepot goes off the grid.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Oct. 2014", 
+            "episodeName": "The Balloonman", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA masked vigilante is killing off corrupt citizens by strapping them to weather balloons. Cobblepot returns to Gotham.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Oct. 2014", 
+            "episodeName": "Arkham", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFalcone and Maroni fight over the Arkham section of Gotham. Cobblepot becomes the manager of Maroni's favorite restaurant.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Oct. 2014", 
+            "episodeName": "Viper", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nGordon and Bullock search for the source of a new street drug that causes euphoria then death. Meanwhile, Oswald Cobblepot works his way deeper into Maroni's inner circle and Fish Mooney continues to plot against Falcone.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Oct. 2014", 
+            "episodeName": "Spirit of the Goat", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nSomeone is killing rich children by taking on the name of The Goat, a serial killer that Harvey took down when he was young. Montoya and Allen finally have evidence against Gordon.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Nov. 2014", 
+            "episodeName": "Penguin's Umbrella", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWord is out that Cobblepot is alive, leading Falcone and Maroni to the brink of war and causing Gordon to go on the run.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Nov. 2014", 
+            "episodeName": "The Mask", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nGordon and Bullock investigate a Gothamite who runs a deadly fight club for candidates applying for a job at his financial firm. Meanwhile, Bruce returns to school and gets a visit from a new friend.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Nov. 2014", 
+            "episodeName": "Harvey Dent", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nGordon teams up with a young attorney, named Harvey Dent, to find the Wayne family's killer. Russians break a former bomb maker out of prison. Selina goes to live at Wayne Manor.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Nov. 2014", 
+            "episodeName": "Lovecraft", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAssassins attack Wayne Manor to try and kill Selina, causing her and Bruce to go on the run. While Harvey and Alfred try to find the kids, Gordon tries to track down the man he believes was behind the attack: Dick Lovecraft.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Jan. 2015", 
+            "episodeName": "Rogues' Gallery", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAn unknown person in Arkham Asylum is experimenting on the inmates, while Oswald unexpectedly finds himself in jail.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Jan. 2015", 
+            "episodeName": "What the Little Bird Told Him", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nIn an attempt to get his job back, Gordon seeks to capture Jack Gruber, a deranged electronics genius who has escaped from Arkham Asylum. Meanwhile, Falcone struggles to hold onto his empire after Fish Mooney makes her next move.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Jan. 2015", 
+            "episodeName": "Welcome Back, Jim Gordon", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhen the key witness in a homicide ends up dead while being held for questioning by the police, Gordon suspects an inside job and looks to an old friend for information.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Feb. 2015", 
+            "episodeName": "The Fearsome Dr. Crane", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nFish Mooney reveals a secret of Oswald Cobblepot's, prompting Maroni to take him on a trip to test his loyalty. Meanwhile, Gordon and Bullock hunt down a killer who targets victims with severe phobias and Bruce Wayne confronts Gordon for failing to make progress on his parents' murder case.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Feb. 2015", 
+            "episodeName": "The Scarecrow", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nGordon and Bullock set out to stop Gerald Crane, a biology teacher who has been harvesting the glands of his murder victims. Meanwhile, after finding herself in an unusual setting, Mooney continues plotting to gain power, and Falcone attempts to change Maroni's plan for the Penguin. Then, Bruce takes a treacherous hike.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Feb. 2015", 
+            "episodeName": "The Blind Fortune Teller", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe circus comes under attack while Gordon and Dr. Thompkins are in attendance.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Feb. 2015", 
+            "episodeName": "Red Hood", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nFollowing several bank robberies, Gordon and Bullock investigate the Red Hood gang. Meanwhile, Selina bonds with Barbara, Penguin faces problems, Fish tries to reclaim her position, and Alfred is visited by an old friend.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Mar. 2015", 
+            "episodeName": "Everyone Has a Cobblepot", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhile Gordon seeks information about the recent controversy with Commissioner Loeb, Fish's allegiance with the prisoners is questioned when she appears to join forces with Dr. Dulmacher. Meanwhile, after an attack close to home, Bruce deals with the aftermath.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Apr. 2015", 
+            "episodeName": "Beasts of Prey", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nGordon and Bullock inspect a cold case involving \"the Ogre\", a serial killer who targets young women in Gotham City. Meanwhile, Fish plots her escape from the Dollmaker, and Bruce and Selina confront Reggie.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Apr. 2015", 
+            "episodeName": "Under the Knife", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nGordon and Bullock continue to investigate the Ogre, who begins to make his move on someone close to Gordon. Meanwhile, Bruce and Selina team up to expose a corrupt Wayne Enterprises employee and Nygma comes to Kristin Kringle's defense.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Apr. 2015", 
+            "episodeName": "The Anvil or the Hammer", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe Ogre breaks down Barbara's emotions, while Gordon and Bullock track him down. Meanwhile, Penguin leads a massacre, beginning an epic war, while Bruce learns the truth about Wayne Enterprises and Nygma deals with his recent actions.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 May 2015", 
+            "episodeName": "All Happy Families Are Alike", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAll hell breaks loose on Gotham's streets as the crime families collide. Dr. Thompkins helps Barbara through therapy. Bruce and Alfred try to find out Thomas Wayne's secret.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Sep. 2015", 
+            "episodeName": "Rise of the Villains: Damned If You Do...", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nPenguin is King of Gotham and after a shakeup at the GCPD, Detective James Gordon's moral compass wavers, as he seeks help from Penguin.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Sep. 2015", 
+            "episodeName": "Rise of the Villains: Knock, Knock", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nGordon investigates the inmate escape from Arkham Asylum while Galavan plots his next move. Bruce's quest to unlock the secrets of his father's office leads him to an old family friend.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Oct. 2015", 
+            "episodeName": "Rise of the Villains: The Last Laugh", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nGordon and Bullock hunt a nemesis from the past, which leads to a standoff between Jerome and Gordon; and a magic show at a Gotham Children's Hospital gala results in a hostage situation.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Oct. 2015", 
+            "episodeName": "Rise of the Villains: Strike Force", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nBarnes forms a task force with help from Gordon; Penguin is kept busy trying to fulfill a favor for Galavan; and Nygma asks Kringle out on a date.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Oct. 2015", 
+            "episodeName": "Rise of the Villains: Scarification", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nGalavan and Penguin join forces with a dangerous family in Gotham. Then, as the rivalry between the Waynes and the Galavans resurfaces, Gordon struggles to maintain order in the city.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Oct. 2015", 
+            "episodeName": "Rise of the Villains: By Fire", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAfter Bridgit Pike is kidnapped her brothers, a new spark of courage ignites within her, as she chooses to take control of her future. Meanwhile, Kringle and Nygma's relationship will take a new step and Penguin and Galavan continue to battle for control of Gotham City's underworld.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Nov. 2015", 
+            "episodeName": "Rise of the Villains: Mommy's Little Monster", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nButch leads Penguin and his men to the warehouse where Gertrude is being held, as Penguin plots his revenge on Galavan for kidnapping his mother.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Nov. 2015", 
+            "episodeName": "Rise of the Villains: Tonight's the Night", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nGalavan sends Barbara after Jim Gordon, while he tries to make a business deal with Bruce Wayne. Barnes and Bullock are hot on Barbara's trail, and Nygma has a run-in with a familiar face.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Nov. 2015", 
+            "episodeName": "Rise of the Villains: A Bitter Pill to Swallow", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nGordon runs into a hitman known as Eduardo Flamingo; Penguin and Nygma have another encounter.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Nov. 2015", 
+            "episodeName": "Rise of the Villains: The Son of Gotham", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nGordon confronts a suspect who is connected to Galavan, but falls short of obtaining any information. Meanwhile, Bruce gets one step closer to discovering the name of his parents' killer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Nov. 2015", 
+            "episodeName": "Rise of the Villains: Worse Than a Crime", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nJim Gordon turns to Dangerous Allies for assistance when Bruce Wayne is abducted.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Feb. 2016", 
+            "episodeName": "Wrath of the Villains: Mr. Freeze", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nPenguin gives Gordon a hard time; a skilled cryogenics engineer named Victor Fries is involved in a body-snatching spree.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Mar. 2016", 
+            "episodeName": "Wrath of the Villains: A Dead Man Feels No Cold", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nGordon and Bullock look to Nora for help in their search for Victor, Penguin meets Hugo Strange.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Mar. 2016", 
+            "episodeName": "Wrath of the Villains: This Ball of Mud and Meanness", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAlfred and Selina help Bruce on his quest to find his parents' killer Matches Malone. Meanwhile, Gordon follows up with Edward Nygma on Kristin Kringle's whereabouts. Hugo Strange continues his treatment to reduce Penguin's aggression.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Mar. 2016", 
+            "episodeName": "Wrath of the Villains: Mad Grey Dawn", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nGordon and Bullock investigate a trail of clues left in a museum robbery which unbeknownst to them were left by Nygma in a dangerous game of cat and mouse. Gordon's past comes back to haunt him when an anonymous person threatens to expose his hand in Galavan's murder. Meanwhile Penguin's visit to some old friends leads him to meet his father Elijah Van Dahl (Paul Reubens). and Bruce practices his street smarts.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Mar. 2016", 
+            "episodeName": "Wrath of the Villains: Prisoners", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAfter Gordon is removed from protective custody, he begins to face new threats and dangers inside prison walls. In order to survive he must rely on a new friend as well as Bullock and other outside help. Meanwhile, Penguin grows closer to his Father, while his step-mother and step-siblings move forward with their own plans for the family.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Apr. 2016", 
+            "episodeName": "Wrath of the Villains: Into the Woods", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nIn an attempt to clear his name, Gordon steals his case file and approaches Nygma for help. Meanwhile, Penguin discovers his step-family's role in his father's death, and awakens from his conditioning.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Apr. 2016", 
+            "episodeName": "Wrath of the Villains: Pinewood", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAfter leaving Arkham Asylum, Barbara attempts to make amends with Gordon. Bruce and Alfred track down one of Thomas Wayne's former friend's from project chimera, but Hugo Strange disrupts their plan.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 May 2016", 
+            "episodeName": "Wrath of the Villains: Azrael", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nGordon and Bruce question Professor Strange about project chimera which leads Strange to send the newly resurrected Galavan to confront Gordon. Meanwhile, Nygma investigates who Professor Strange is.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 May 2016", 
+            "episodeName": "Wrath of the Villains: Unleashed", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nAzrael is loose in Gotham city which sparks Penguin's need for revenge. Meanwhile, Bruce enlists Selina's help in tracking down Professor Strange as he evades arrest for his experiments.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 May 2016", 
+            "episodeName": "Wrath of the Villains: A Legion of Horribles", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nHugo Strange welcomes a familiar face to Gotham after he resurrects Fish Mooney in Indian Hill. Meanwhile, Bruce discovers a friend is in danger and teams up with Gordon, Alfred and Lucius while uncovering more of his experiments.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 May 2016", 
+            "episodeName": "Wrath of the Villains: Transference", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nWhile Gordon, Bruce and Lucius remain at Indian Hill, the city of Gotham will be met with a new threat as Hugo Stranges inmates devise a plan to escape and start their new lives in Gotham.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Sep. 2016", 
+            "episodeName": "Mad City: Better to Reign in Hell", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nGordon works in a monster-ridden Gotham as a bounty hunter and seeks to find answers about the Indian Hill escapees and why their powers appear to be killing them. Bruce's doppelganger roams the streets and Barbara and Tabitha open a nightclub called The Sirens.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Sep. 2016", 
+            "episodeName": "Mad City: Burn the Witch", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFish Mooney takes matters into her own hands to locate Hugo Strange, forcing Gordon to reluctantly team up with journalist Valerie Vale to find her. Penguin rises in popularity after criticizing the work of the GCPD and Bruce's investigation of the Court of Owls is compromised. Meanwhile, Ivy Pepper is reintroduced into Gotham    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Oct. 2016", 
+            "episodeName": "Mad City: Look Into My Eyes", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nHypnotist Jervis Tetch/Mad Hatter arrives in Gotham to search for his sister, Alice, and hires Gordon to help find her. Meanwhile, Penguin decides to run for mayor and Bruce's doppelganger begins to channel him, causing some confusion around town.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Oct. 2016", 
+            "episodeName": "Mad City: New Day Rising", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPenguin gains leverage over Gotham City. Meanwhile Jim returns Alice to GCPD for the bounty and Bruce and Alfred look for Bruce's doppleganger    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Oct. 2016", 
+            "episodeName": "Mad City: Anything for You", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nCrime in Gotham is at an all-time high, as Penguin struggles to uphold his promises to the city. Meanwhile, Butch goes down a dark path with the infamous Red Hood Gang and Bruce begins to investigate Ivy's whereabouts.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Oct. 2016", 
+            "episodeName": "Mad City: Follow the White Rabbit", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMad Hatter sets his eyes on his next victims, forcing Jim Gordon to make some tough decisions. Meanwhile, Penguin and Nygma's relationship evolves, and a familiar face comes back into Nygma's life.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "31 Oct. 2016", 
+            "episodeName": "Mad City: Red Queen", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAfter coming in contact with a substance by the hand of Mad Hatter, Jim Gordon gets led on a psychedelic trip and must confront his past, present and future. Meanwhile, Penguin struggles with Nygma's new relationship.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Nov. 2016", 
+            "episodeName": "Mad City: Blood Rush", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nCaptain Barnes begins to feel the effects of a recent incident and starts to go mad. Meanwhile Nygma is out of his depth in his relationship with Isabella, and Carmine Falcone throws his son Mario and Leslie Tompkin's an engagement party.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Nov. 2016", 
+            "episodeName": "Mad City: The Executioner", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nGordon and Bullock become suspicious of Barnes and go through evidence of a murder at Leslie and Mario's engagement party. Nygma goes to Penguin when he doesn't hear from Isabella. Ivy leads Selina and Bruce to trouble when she reveals her identity.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Nov. 2016", 
+            "episodeName": "Mad City: Time Bomb", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA threat to Leslie and Mario is exposed on the eve of their rehearsal dinner and Falcone comes to Jim for help. Meanwhile, Nygma plans his revenge and Bruce learns more about the Court of Owls.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Nov. 2016", 
+            "episodeName": "Mad City: Beware the Green-Eyed Monster", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nMario and Gordon face off before the wedding, Selina meets an unexpected face and Barbara comes to Nygma with information about Isabella.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Jan. 2017", 
+            "episodeName": "Mad City: Ghosts", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nFalcone goes after Gordan for his son's death. Gordon doesn't have any evidence that proves Mario was trying to kill Leslie. So she ends up blaming Gordon for her husband's death.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Jan. 2017", 
+            "episodeName": "Mad City: Smile Like You Mean It", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nOn the run from Gordon and Bullock, Dwight tries to revive Jerome and, in turn, activates his acolytes around Gotham City. Meanwhile, Selina's mom's intentions in Gotham are revealed, and the power play between Penguin and Nygma escalates as Barbara's plans are set in place.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "30 Jan. 2017", 
+            "episodeName": "Mad City: The Gentle Art of Making Enemies", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nTensions mount as Nygma has Cobblepot captured and defeated. Gotham has been plunged into darkness as Jerome wanted. The streets are rioting , Jeromes goons are breaking & looting while Jerome himself confronts Bruce Wayne & Alfred.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Apr. 2017", 
+            "episodeName": "Heroes Rise: How the Riddler Got His Name", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nEd finally got Penguin to pay for his terrible actions and finds himself with a new dilemma on which path to take.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 May 2017", 
+            "episodeName": "Heroes Rise: These Delicate and Dark Obsessions", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nGordon discovers new information about his father and uncle's past just as the Court of Owls devises a new plan for the future of Gotham.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 May 2017", 
+            "episodeName": "Heroes Rise: The Primal Riddle", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe most unhinged villains of Gotham come together as the Riddler continues his conquest; Gordon's search for answers keeps leading him back to the Court of Owls; Alfred notices a change in Bruce while Bruce 2 confides in Selina.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 May 2017", 
+            "episodeName": "Heroes Rise: Light the Wick", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nGordon tracks down the weapon the Court of Owls intend to use for the destruction of Gotham; Kathryn and Temple Shaman tell Bruce about their next move; Ivy offers Selina help.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 May 2017", 
+            "episodeName": "Episode #3.19", 
+            "episodeNumber": 19, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 May 2017", 
+            "episodeName": "Episode #3.20", 
+            "episodeNumber": 20, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Jun. 2017", 
+            "episodeName": "Episode #3.21", 
+            "episodeNumber": 21, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Jun. 2017", 
+            "episodeName": "Episode #3.22", 
+            "episodeNumber": 22, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "Gotham", 
+    "plot": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.", 
+    "rating": 7.9, 
+    "releaseDate": "26 July 2014 (Comic-Con, San Diego)", 
+    "type": "tvserie"
+}

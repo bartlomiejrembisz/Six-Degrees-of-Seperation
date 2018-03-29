@@ -1,0 +1,659 @@
+{
+    "actorList": [
+        "Clark Gregg", 
+        "Ming-Na Wen", 
+        "Chloe Bennet", 
+        "Iain De Caestecker", 
+        "Elizabeth Henstridge", 
+        "Henry Simmons", 
+        "Brett Dalton"
+    ], 
+    "director": [
+        "Billy Gierhart", 
+        "Vincent Misiano", 
+        "Kevin Tancharoen", 
+        "Jesse Bochco", 
+        "Garry A. Brown", 
+        "Bobby Roth", 
+        "Roxann Dawson", 
+        "Milan Cheylov", 
+        "Ron Underwood", 
+        "Wendey Stanzler", 
+        "Holly Dale", 
+        "David Straiton", 
+        "John Terlesky", 
+        "Michael Zinberg", 
+        "Kevin Hooks", 
+        "Kate Woods", 
+        "David Solomon"
+    ], 
+    "genres": [
+        "Action", 
+        "Drama", 
+        "Sci-Fi", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "24 Sep. 2013", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nS.H.I.E.L.D. puts together a special team, led by Agent Phil Coulson, to track down a mysterious man with special abilities and the young computer hacker that's encouraging him to reveal himself to the world.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Oct. 2013", 
+            "episodeName": "0-8-4", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhile extracting a strange object out of Peru, the S.H.I.E.L.D. agents are taken hostage aboard their plane.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Oct. 2013", 
+            "episodeName": "The Asset", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDr. Franklin Hall has been kidnapped. Coulson and his team are assigned to rescue him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Oct. 2013", 
+            "episodeName": "Eye Spy", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe team tries to track down a former agent who is now stealing valuable information.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Oct. 2013", 
+            "episodeName": "Girl in the Flower Dress", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nCentipede kidnaps another gifted man. S.H.I.E.L.D. tries to track them down. Also, secrets about Skye are revealed.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Nov. 2013", 
+            "episodeName": "FZZT", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nSimmons becomes infected with an alien virus after exposing herself to a group of people that have come into contact with a Chitauri helmet.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Nov. 2013", 
+            "episodeName": "The Hub", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWard and Fitz are sent on a classified mission in South Ossetia.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Nov. 2013", 
+            "episodeName": "The Well", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWard becomes exposed to a piece of an Asgardian staff, which causes his worst memory to resurface.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Nov. 2013", 
+            "episodeName": "Repairs", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe agents investigate the strange occurrences of a woman who, they believe, has telekinetic powers.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Dec. 2013", 
+            "episodeName": "The Bridge", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nS.H.I.E.L.D. receives assistance from Mike Peterson as they take on Centipede once again.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Jan. 2014", 
+            "episodeName": "The Magical Place", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nS.H.I.E.L.D. organizes a full scale hunt for Coulson. Centipede tries to resurface the memories on what happened after Coulson died.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Jan. 2014", 
+            "episodeName": "Seeds", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhile investigating a problem at S.H.I.E.L.D. Academy, Coulson and May turn up unexpected information about Skye's parents.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Feb. 2014", 
+            "episodeName": "T.R.A.C.K.S.", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe team tries to confiscate an important device on a train, but when one agent takes a very risky move that backfires, the entire team is affected.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Mar. 2014", 
+            "episodeName": "T.A.H.I.T.I.", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nCoulson and the team rush to Bethesda in an attempt to save Skye's life.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Mar. 2014", 
+            "episodeName": "Yes Men", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhile Skye recovers, Lady Sif arrives with need of assistance in capturing an escaped Asgardian prisoner, named Lorelei.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Apr. 2014", 
+            "episodeName": "End of the Beginning", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAgent Garett and Triplett have returned to assist Coulson's team hunt down S.H.I.E.L.D.'s devious nemesis--the Clairvoyant. But will Deathlok kill them all to guard his master's identity?    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Apr. 2014", 
+            "episodeName": "Turn, Turn, Turn", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nS.H.I.E.L.D. has been compromised by an old enemy. The team doesn't know whom to trust.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Apr. 2014", 
+            "episodeName": "Providence", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWith Colonel Glenn Talbot now on their trail, Coulson and his team seek refuge in the last place anyone would look, where they begin to uncover S.H.I.E.L.D.'S most dangerous secrets -- secrets that could destroy them all.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Apr. 2014", 
+            "episodeName": "The Only Light in the Darkness", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAgent Koenig puts the team through the ultimate lie detector test and Coulson races to protect an old flame from an old enemy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Apr. 2014", 
+            "episodeName": "Nothing Personal", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nJust when there's no one left to trust, Agent Maria Hill returns to team up with Coulson as S.H.I.E.L.D. is being destroyed around them.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 May 2014", 
+            "episodeName": "Ragtag", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nWard's betrayal and HYDRA's shocking secrets are revealed as Coulson's team goes undercover on a mission that leaves no one unscathed.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 May 2014", 
+            "episodeName": "Beginning of the End", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nDark secrets are revealed as Coulson and his team put everything on the line to stop Garrett and the forces of HYDRA.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Sep. 2014", 
+            "episodeName": "Shadows", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCarl Creel is sent after an item that was stolen from Hydra during WWII. Fitz tries to cope with his mental issues.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Sep. 2014", 
+            "episodeName": "Heavy Is the Head", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHunter gets captured by General Talbot. May goes after Creel and the Obelisk.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Oct. 2014", 
+            "episodeName": "Making Friends and Influencing People", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nSimmons is forced to help Hydra capture Donnie Gill. S.H.I.E.L.D. tries to get to him first.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Oct. 2014", 
+            "episodeName": "Face My Enemy", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhen May gets kidnapped, Hydra sends out an impersonator to lure Coulson into a trap. Fitz tries to find the confidence to join the rest of the team in their social activities.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Oct. 2014", 
+            "episodeName": "A Hen in the Wolf House", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nRaina threatens to expose Simmons to Hydra unless Coulson hands Skye over to her father.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Oct. 2014", 
+            "episodeName": "A Fractured House", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe world turns against S.H.I.E.L.D. when Hydra impersonates them to attack The United Nations, and an unexpected enemy leads the charge to bring about their downfall.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Nov. 2014", 
+            "episodeName": "The Writing on the Wall", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nA mysterious man is killing off former S.H.I.E.L.D. agents and carving the same markings as Coulson. Coulson tries to track him down. Meanwhile, May leads a team on a manhunt for Ward.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Nov. 2014", 
+            "episodeName": "The Things We Bury", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nCoulson and team find themselves in an epic face-off against Hydra to uncover an ancient secret, while Ward kidnaps his brother, Senator Christian Ward, for a violent trip down memory lane.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Dec. 2014", 
+            "episodeName": "Ye Who Enter Here", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhile Coulson's team tries to find the entrance to the mysterious alien city, the rest of the agents try to rescue Raina when they find out that Hydra is after her.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Dec. 2014", 
+            "episodeName": "What They Become", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhitehall and Coulson's forces take part in an explosive confrontation that changes everyone. Skye uncovers some truths about her past.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Mar. 2015", 
+            "episodeName": "Aftershocks", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nCoulson and the team are faced with the consequences of the war with Hydra. As revelations threaten to destroy them, Hydra makes a move.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Mar. 2015", 
+            "episodeName": "Who You Really Are", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nCoulson and the team help a confused Lady Sif, who has lost her memory after a battle with a mysterious warrior.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Mar. 2015", 
+            "episodeName": "One of Us", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nCal wants vengeance, so he rallies a team of super villains to crush S.H.I.E.L.D. Meanwhile, May turns to her ex-husband, Dr. Andrew Garner, to help with a crisis threatening the harmony of the team.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Mar. 2015", 
+            "episodeName": "Love in the Time of Hydra", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe team are bewildered by a recent shocking revelation as they face a difficult decision. Meanwhile, Bobbi and Mack declare their loyalty to Hunter; and Ward and Agent 33 take care of a private matter.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Mar. 2015", 
+            "episodeName": "One Door Closes", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWar comes to Coulson's doorstep in a way he never anticipated as shocking revelations are brought to light, and Skye struggles to control her new abilities but will soon make a decision that irrevocably changes her life.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Apr. 2015", 
+            "episodeName": "Afterlife", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAs Robert Gonzalez makes his move, Coulson must do whatever it takes to protect the future of S.H.I.E.L.D. Meanwhile Skye's journey to control her powers take a surprising turn when she meets the enigmatic Inhuman named Lincoln.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Apr. 2015", 
+            "episodeName": "Melinda", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe story of Melinda May's transformation into \"The Cavalry\" is revealed as she finds herself at a crossroads in the war between Coulson and Gonzales. As Skye learns more about her true heritage from Lincoln, the truth about Inhumans will send her in a new direction.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Apr. 2015", 
+            "episodeName": "Frenemy of My Enemy", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nA dangerous new alliance is formed as Coulson and Hunter turn to the last person anyone would expect, Grant Ward! As the war between S.H.I.E.L.D. factions continues, Skye and Lincoln will find themselves drawn into this conflict.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Apr. 2015", 
+            "episodeName": "The Dirty Half Dozen", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nGonzales and Coulson must find a way to put their differences aside and work together against HYDRA, even if it means teaming up with someone they don't trust.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 May 2015", 
+            "episodeName": "Scars", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nAs tensions rise between S.H.I.E.L.D. and the Inhumans, Skye finds herself torn between the groups; Coulson reveals a secret.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 May 2015", 
+            "episodeName": "S.O.S. Part 1", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nS.H.I.E.L.D puts everything on the line to survive a war that blurs the line between friend and foe. Coulson and his team will be forced to make shocking sacrifices that will leave their relationships and their world changed forever.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 May 2015", 
+            "episodeName": "S.O.S. Part 2", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe battle between SHIELD and the Inhumans reaches its peak. SHIELD must defend their own and keep Skye safe.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Sep. 2015", 
+            "episodeName": "Laws of Nature", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nDirector Phil Coulson and Agent Daisy Johnson leading the charge as S.H.I.E.L.D. searches the world for more powered people in the aftermath of their epic battle with Jiaying and her army of Inhumans. However, Coulson and the team soon find out that they are not the only group looking for these new Inhumans.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Oct. 2015", 
+            "episodeName": "Purpose in the Machine", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFitz and the team enlist the aid of an Asgardian to unlock the secrets of the ancient monolith that swallowed Simmons, and Agent May is at a crossroads in her personal and professional life.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Oct. 2015", 
+            "episodeName": "A Wanted (Inhu)Man", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMack, Daisy, and Coulson race against time to keep Lincoln safe; Hunter will do whatever it takes to get revenge.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Oct. 2015", 
+            "episodeName": "Devils You Know", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHaving reluctantly agreed to share information with Rosalind and the ATCU, Coulson and the team search for the Inhuman who is killing other Inhumans; May feels that Hunter's mission to take down Ward is getting too personal.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Oct. 2015", 
+            "episodeName": "4,722 Hours", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAfter her dramatic rescue from another planet, Simmons is still reeling from her ordeal and reveals how she had to fight for her life in a harsh new world.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Nov. 2015", 
+            "episodeName": "Among Us Hide...", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe stakes get higher as May and Hunter pursue Ward and Hydra; Coulson thinks the ATCU could be keeping a big secret.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Nov. 2015", 
+            "episodeName": "Chaos Theory", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAs Daisy and the team try to protect Inhumans, a shocking truth is revealed about S.H.I.E.L.D.'s biggest enemy; with Fitz's help, Simmons recovers information that could get them back through the portal.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Nov. 2015", 
+            "episodeName": "Many Heads, One Tale", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nDangerous facts about the ATCU are discovered by the team; Ward's plans to take down S.H.I.E.L.D. do not go as expected.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Dec. 2015", 
+            "episodeName": "Closure", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWard's vendetta and plan for revenge against S.H.I.E.L.D. brings the team to their knees, and Coulson proves he will be willing to do anything to settle the conflict.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Dec. 2015", 
+            "episodeName": "Maveth", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nS.H.I.E.L.D battles Hydra head-to-head, which sees Coulson and Fitz take the ultimate risk while Daisy and the Inhumans try to keep Hydra at bay.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Mar. 2016", 
+            "episodeName": "Bouncing Back", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nCoulson is more determined than ever to get to Gideon Malick and put to an end to Hydra once and for all in the aftermath of his trip to Maveth. Meanwhile, Daisy and the team encounter more Inhumans who have powers like they've never seen before, but will they be friends or enemies of S.H.I.E.L.D?    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Mar. 2016", 
+            "episodeName": "The Inside Man", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nCoulson and the team investigate an international conference on the fate of the Inhumans. Back on the bus, Fitzsimmons may have found a way to stop the Inhuman gene from spreading.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Mar. 2016", 
+            "episodeName": "Parting Shot", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAfter tracking Malick to Russia, Bobbi and Hunter become involved in an assassination plot; the team is changed forever as they race to save lives in the balance.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Mar. 2016", 
+            "episodeName": "Watchdogs", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAgent Mack and his brother step in when a radical group called the Watchdogs plan to eliminate the Inhumans; Simmons finds a powerful chemical compound.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Apr. 2016", 
+            "episodeName": "Spacetime", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhen Daisy gets a horrifying glimpse of the future, S.H.I.E.L.D. races to prove that fate is not fixed.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Apr. 2016", 
+            "episodeName": "Paradise Lost", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe team hunts for information on a new enemy; Malick's secret from his past threatens to destroy his Hydra legacy.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Apr. 2016", 
+            "episodeName": "The Team", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nAgent Daisy Johnson must call upon the Secret Warriors for an inaugural mission that will leave no member unscathed, and S.H.I.E.L.D. learns more about Hive's powers, forcing them to question everyone they trust.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Apr. 2016", 
+            "episodeName": "The Singularity", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe S.H.I.E.L.D. team is left reeling and decimated as Hive continues to sway Inhumans to his side. But there is a sliver of hope as Agents Fitz and Simmons follow a lead that may be able to stop the maniacal Inhuman once and for all.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 May 2016", 
+            "episodeName": "Failed Experiments", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAs the threat of Hive looms, loyalties are put to the test and the team must come up with a decisive resolution.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 May 2016", 
+            "episodeName": "Emancipation", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nIn the aftermath of the events of Captain America: Civil War (2016), S.H.I.E.L.D feels pressure to reveal their involvement with Inhumans. But with the stakes higher than ever and Hive growing stronger, the team is tested in ways they could never anticipate.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 May 2016", 
+            "episodeName": "Absolution", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nIt's a showdown a season in the making as S.H.I.E.L.D. takes on Hive, and when his master plan is finally revealed, the team must spring into action.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 May 2016", 
+            "episodeName": "Ascension", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nIn the conclusion to \"Absolution,\" S.H.I.E.L.D. must spring into action to combat Hive.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Sep. 2016", 
+            "episodeName": "The Ghost", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nDaisy has left S.H.I.E.L.D. and is trying to solve the mystery of a bunch of serial killings in the Los Angeles area. At the same time her old friends suspect her for the killings and are following her trail in an attempt to find her.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Sep. 2016", 
+            "episodeName": "Meet the New Boss", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nDaisy goes to battle Ghost Rider at a terrible cost, and Coulson faces the new Director, and his bold agenda surprises them all.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Oct. 2016", 
+            "episodeName": "Uprising", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nCoulson, Mack and Fitz try to locate and neutralize a rogue group looking to stop Inhuman registration worldwide; Simmons and Dr. Radcliffe have only a short time to save May before she succumbs to her illness.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Oct. 2016", 
+            "episodeName": "Let Me Stand Next to Your Fire", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAs Ghost Rider's quest for vengeance brings him into an explosive confrontation with S.H.I.E.L.D., Coulson and Mack must rely on an unlikely ally in their time of desperate need; and Daisy reunites with a familiar face to stop the Watchdogs.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Oct. 2016", 
+            "episodeName": "Lockup", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAs Robbie Reyes struggles to control The Ghost Rider, S.H.I.E.L.D. infiltrates a high-security prison to unravel the secrets that haunt them all.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Nov. 2016", 
+            "episodeName": "The Good Samaritan", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe shocking origin story of Robbie's transition into Ghost Rider is revealed as the lives of Coulson and the team hang in the balance.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Nov. 2016", 
+            "episodeName": "Deals with Our Devils", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWith the loss of half the team, the remaining members search for answers as the clock counts down for Ghost Rider.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Dec. 2016", 
+            "episodeName": "The Laws of Inferno Dynamics", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWith the lives of everyone in Los Angeles hanging in the balance, S.H.I.E.L.D. and Ghost Rider find themselves working together.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Jan. 2017", 
+            "episodeName": "Broken Promises", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThough Coulson and May are growing closer, Coulson remains unaware of the dark secret May is hiding beneath the surface. Meanwhile, Aida is unrelenting in her search for the Darkhold.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Jan. 2017", 
+            "episodeName": "The Patriot", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nSeparated from their team, Coulson and Mack discover a shocking secret about Mace, leaving all of S.H.I.E.L.D. in a precarious position.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Jan. 2017", 
+            "episodeName": "Wake Up", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nMay works to uncover the truth about what happened to her; Aida's next move puts everyone's life at risk.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "31 Jan. 2017", 
+            "episodeName": "Hot Potato Soup", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDr Radcliffe goes after the Koenig family to find the location of the Darkhold. The Superior reveals his plans Radcliffe.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Feb. 2017", 
+            "episodeName": "BOOM", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAn explosive Inhuman surfaces and the team are tasked with containing it. Elsewhere: Coulson and Mack encounter Radcliffe's inspiration for Aida.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Feb. 2017", 
+            "episodeName": "The Man Behind the Shield", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nCoulson and the team engage in a deadly cat-and-mouse game as they work to rescue Director Mace, who is fighting for his life.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Feb. 2017", 
+            "episodeName": "Self Control", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAs Radcliffe and Aida's plan goes into action, Fitz and Simmons are trapped in the Playground unsure of which of their friends are real and which ones have been replaced by LMDs.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Apr. 2017", 
+            "episodeName": "What If...", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nDaisy and Simmons uncover secrets and lies in a world gone mad. With Hydra in control, they are our only hope to save everyone.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Apr. 2017", 
+            "episodeName": "Identity and Change", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nAs Daisy and Simmons struggle to discover an escape route to the real world, the identity of the Inhuman leader of the Resistance is revealed.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "No Regrets", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe truth behind Fitz's turn threatens to bring down all of S.H.I.E.L.D.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Apr. 2017", 
+            "episodeName": "All the Madame's Men", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nDaisy teams up with an unlikely partner; Aida prepares to put her endgame into effect.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 May 2017", 
+            "episodeName": "Farewell, Cruel World!", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe clock is ticking for Daisy and Simmons to get the team out of the Framework, but not everyone is ready and willing to leave.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 May 2017", 
+            "episodeName": "The Return", 
+            "episodeNumber": 21, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 May 2017", 
+            "episodeName": "World's End", 
+            "episodeNumber": 22, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }
+    ], 
+    "name": "Agents of S.H.I.E.L.D.", 
+    "plot": "The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.", 
+    "rating": 7.5, 
+    "releaseDate": "19 July 2013 (Comic-Con International Independent Film Festival)", 
+    "type": "tvserie"
+}

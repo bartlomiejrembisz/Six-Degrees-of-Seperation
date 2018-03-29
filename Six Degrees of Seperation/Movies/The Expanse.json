@@ -1,0 +1,290 @@
+{
+    "actorList": [
+        "Steven Strait", 
+        "Cas Anvar", 
+        "Dominique Tipper", 
+        "Wes Chatham", 
+        "Florence Faivre", 
+        "Shohreh Aghdashloo", 
+        "Shawn Doyle", 
+        "Thomas Jane", 
+        "Chad L. Coleman", 
+        "Frankie Adams", 
+        "Nick E. Tarabay"
+    ], 
+    "director": [
+        "Jeff Woolnough", 
+        "Terry McDonough", 
+        "Robert Lieberman", 
+        "Bill Johnson", 
+        "Breck Eisner", 
+        "Kenneth Fink", 
+        "David Grossman", 
+        "Mikael Salomon"
+    ], 
+    "genres": [
+        "Drama", 
+        "Mystery", 
+        "Sci-Fi", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "23 Nov. 2015", 
+            "episodeName": "Dulcinea", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn the outer solar system near Saturn, James Holden and the crew of the ice-freighter Canterbury, investigate a distress call from a mysterious derelict ship, the Scopuli. On Ceres Station, Detective Miller begins an off the book investigation of a missing heiress, Julie Mao.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Dec. 2015", 
+            "episodeName": "The Big Empty", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHolden and crew are trapped in badly damaged shuttle. On Ceres, Miller uncovers clues about Julie Mao. On Earth, Chrisjen Avasarala questions a terrorist.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Dec. 2015", 
+            "episodeName": "Remember the Cant", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhile Avasarala plays a dangerous game of politics, Holden and his crew are forced to turn on one another while held captive by the Martian Navy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Dec. 2015", 
+            "episodeName": "CQB", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHolden and crew are caught in the middle of a desperate battle as mysterious war ships attack and board the Donnager. As Miller continues to investigate Julie Mao, his partner Havelock continues to go missing.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Jan. 2016", 
+            "episodeName": "Back to the Butcher", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe crew has survived the loss of the Canturbury and the Donnager and are contacted by an unlikely ally. Miller, on Ceres, continues his investigation and his thoughts of a conspiracy grow.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Jan. 2016", 
+            "episodeName": "Rock Bottom", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nHolden's team makes an uneasy alliance with Fred Johnson while Miller fights for his life against Anderson Dawe's thugs.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Jan. 2016", 
+            "episodeName": "Windmills", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nHolden and crew realize that they're not alone on the Rocinante and find themselves up against a Martian Marine blockade. Miller's dark night of the soul, believing all is lost, finds a new reason to keep going. Avasarala visits Holden's family in Montana.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Jan. 2016", 
+            "episodeName": "Salvage", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA derelict vessel holds a potentially devastating secret. Holden and his crew cross paths with Miller on Eros. Avasarala receives bad news.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Feb. 2016", 
+            "episodeName": "Critical Mass", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA flashback to Julie's origin story reveals her trajectory. Holden and Miller finally meet and team up to get to the bottom of the strange emergency situation happening on Eros. As the true horror of the events on Eros is revealed, an ailing Holden and Miller must overcome incredible odds if they hope to live to fight another day. Part 1 of 2    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Feb. 2016", 
+            "episodeName": "Leviathan Wakes", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA flashback to Julie's origin story reveals her trajectory. Holden and Miller finally meet and team up to get to the bottom of the strange emergency situation happening on Eros. As the true horror of the events on Eros is revealed, an ailing Holden and Miller must overcome incredible odds if they hope to live to fight another day. Part 2 of 2    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2017", 
+            "episodeName": "Safe", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nUnlikely allies Joe Miller and the crew of the Rocinante led by Jim Holden uncover more about the conspiracy to release the proto-molecule on Eros station.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Feb. 2017", 
+            "episodeName": "Doors & Corners", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHolden and crew stage a dangerous raid in search of information about the protomolecule.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Feb. 2017", 
+            "episodeName": "Static", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nHolden and Miller butt heads about how the raid was handled.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Feb. 2017", 
+            "episodeName": "Godspeed", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMiller devises a dangerous plan to eradicate what's left of the protomolecule on Eros.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Feb. 2017", 
+            "episodeName": "Home", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe asteroid Eros takes direct collision course towards Earth. The Rocinante chases it. As last defense Earth launches missiles against Eros. Miller went inside Eros and makes a surprising discovery.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Mar. 2017", 
+            "episodeName": "Paradigm Shift", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nEarth is planning an expedition to the point of Eros impact. Chrisjen conflicts with Sadavir about Jules-Pierre Mao. Col. Frederick Lucius Johnson improves his position in unexpected way. New battleground is opening.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Mar. 2017", 
+            "episodeName": "The Seventh Man", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDraper struggles with what happened on Ganymede while the coming Earth/Mars peace conference tighten the tension on Erringwright. Dawes confronts Fred Johnson about what the OPA's course of action should be regarding the protomolecule.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Mar. 2017", 
+            "episodeName": "Pyre", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nNaomi tracks down signs of protomolecule and Fred Johnson's control over OPA collapses.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Mar. 2017", 
+            "episodeName": "The Weeping Somnambulist", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nBobbie becomes a pawn in a struggle between Earth and Mars.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Mar. 2017", 
+            "episodeName": "Cascade", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nHolden leads his crew through the war-torn station on Ganymede.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Apr. 2017", 
+            "episodeName": "Here There Be Dragons", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nBobbie makes a decision that changes her life forever.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Apr. 2017", 
+            "episodeName": "The Monster and the Rocket", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA discovery pushes Naomi and Holden apart and sets the Roci crew against each other.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Apr. 2017", 
+            "episodeName": "Caliban's War", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nIn the final episode of this season, the crew of the Rocinante comes face to face with an evolving intelligence infused with the alien protomatter.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "The Expanse", 
+    "plot": "A police detective in the asteroid belt, the first officer of an interplanetary ice freighter and an earth-bound United Nations executive slowly discover a vast conspiracy that threatens the Earth's rebellious colony on the asteroid belt.", 
+    "rating": 8.3, 
+    "releaseDate": "23 November 2015 (internet)", 
+    "type": "tvserie"
+}

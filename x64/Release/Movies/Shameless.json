@@ -1,0 +1,716 @@
+{
+    "actorList": [
+        "William H. Macy", 
+        "Emmy Rossum", 
+        "Ethan Cutkosky", 
+        "Shanola Hampton", 
+        "Jeremy Allen White", 
+        "Steve Howey", 
+        "Emma Kenney", 
+        "Cameron Monaghan", 
+        "Brenden Sims", 
+        "Michael Patrick McGill", 
+        "Joan Cusack", 
+        "Noel Fisher", 
+        "Isidora Goreshter", 
+        "Justin Chatwin"
+    ], 
+    "director": [
+        "Mark Mylod", 
+        "Christopher Chulack", 
+        "John Wells", 
+        "Mimi Leder", 
+        "Anthony Hemingway", 
+        "David Nutter", 
+        "Sanaa Hamri", 
+        "Peter Segal", 
+        "Iain B. MacDonald", 
+        "John Dahl", 
+        "Alex Graves", 
+        "Gary B. Goldman", 
+        "Wendey Stanzler"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "9 Jan. 2011", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn the Season 1 premiere, drunken father Frank is no use to his dysfunctional family; Fiona meets a handsome stranger when her purse is stolen; Lip is shocked to discover his brother Ian is gay and tries to hook him up with a willing neighbor.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Jan. 2011", 
+            "episodeName": "Frank the Plank", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA manhunt ensues after Frank goes on a bender and turns up missing on Friday, the day he never fails to cash his disability check, and turns up in Toronto with no idea how he got there.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Jan. 2011", 
+            "episodeName": "Aunt Ginger", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nFiona turns her attentions to Tony, a cop who has had a crush on her since childhood, but Steve isn't willing to give up without a fight; Ian is targeted by the brothers of a girl he spurned; the whole family searches for elderly Aunt Ginger, who owns their house.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Jan. 2011", 
+            "episodeName": "Casey Casden", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA sad and lonely Debbie steals a little boy from a birthday party, forcing the family to scheme a way to return him without drawing the attention of the Chicago PD; a web of lies ends in a marriage proposal from Kevin, who is already married.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Feb. 2011", 
+            "episodeName": "Three Boys", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe family schemes a fake wedding when it is revealed that Kevin's new fianc\u00e9e comes with a substantial dowry; Frank deals with some bad medical news by spiraling out of control; Steve looks for a new car, with Fiona along for the ride.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Feb. 2011", 
+            "episodeName": "Killer Carl", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen a letter from Carl's teacher arrives at the Gallagher home, Fiona is thrown into action to prove it's a suitable domicile for rehabilitating a delinquent.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Feb. 2011", 
+            "episodeName": "Frank Gallagher: Loving Husband, Devoted Father", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDesperate to come up with a plan to pay two goons looking for the $6000 that he owes, Frank stumbles onto a risky solution that might work -- if his family goes along with it.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Feb. 2011", 
+            "episodeName": "It's Time to Kill the Turtle", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhen Frank gives up drinking, Carl and Debbie enjoy having their dad back despite Lip's warning it won't last. Meanwhile, Fiona scrambles to find a better job.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Mar. 2011", 
+            "episodeName": "But at Last Came a Knock", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nFrank has some settlement money coming his way. The only catch --needs his ex-wife, Monica's signature on the documents.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Mar. 2011", 
+            "episodeName": "Nana Gallagher Had an Affair", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMonica's return to the family wreaks havoc on the Gallagher clan -- leaving the children determined to find out if Frank is their real father. Fiona moves in with Steve next door.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Mar. 2011", 
+            "episodeName": "Daddyz Girl", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nDebbie convinces Fiona to get involved with her Classroom Moms where Fiona finds a new friend in the alluring Jasmine (Amy Smart).    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Mar. 2011", 
+            "episodeName": "Father Frank, Full of Grace", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nSteve tries to convince Fiona to leave town with him after Tony discovers his true livelihood and threatens him with jail if he doesn't leave. Frank & Karen's secret is discovered.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Jan. 2012", 
+            "episodeName": "Summertime", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn the second season premiere, the Gallaghers are hustling in summertime Chicago. While Fiona's bartending at a club, Frank loses Liam in a bet to an angry man named Baby.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Jan. 2012", 
+            "episodeName": "Summer Loving", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWith Sheila conquering her agoraphobia, Frank grows close to Dottie \"Butterface\" Coronis, a sick woman who might be his next financial windfall. Fiona explores her sexual freedom.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Jan. 2012", 
+            "episodeName": "I'll Light a Candle for You Every Day", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nFiona reconnects with her married high school crush, while Frank contemplates marriage with Dottie. But Debbie, in light of Harry'sdemise, becomes obsessed with death.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Jan. 2012", 
+            "episodeName": "A Beautiful Mess", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFiona deals with the consequences of her affair when his wife appears at the door. Frank devises a new plan to keep Sheila inside her home. Debbie's under stress.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Feb. 2012", 
+            "episodeName": "Father's Day", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nFrank's after Eddie Jackson's insurance benefits, but he's also a suspect in his disappearance. And Sheila finally learns what really happened between Frank and Karen last season.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Feb. 2012", 
+            "episodeName": "Can I Have a Mother", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe arrival of Grammy Gallagher (LOUISE FLETCHER) brings Frank and Fiona together, while the return of Steve is fraught with complications for Fiona.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Feb. 2012", 
+            "episodeName": "A Bottle of Jean Nate", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAlthough Frank would do just about anything to rid the house of Grammy, Fiona likes having her around...until Carl blows up their meth lab in the basement    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Mar. 2012", 
+            "episodeName": "Parenthood", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhen Lip quits school, Fiona makes a bargain with him to go back and get her diploma if he does. While she starts studying for the GED, Karen and Lip meet with adoption agencies.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Mar. 2012", 
+            "episodeName": "Hurricane Monica", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nFiona reconsiders her decision about Lip, Frank is determined to gain his inheritance.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2012", 
+            "episodeName": "A Great Cause", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFiona begins to plan for her future, Monica causes trouble, Sheila takes in an addict.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Mar. 2012", 
+            "episodeName": "Just Like the Pilgrims Intended", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nMonica tries to kill herself, Carl shoots a bald eagle, Karen goes into labor.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Apr. 2012", 
+            "episodeName": "Fiona Interrupted", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nFrank schemes to break Monica out of the facility, Jimmy earns his way back.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Jan. 2013", 
+            "episodeName": "El Gran Ca\u00f1on", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFiona struggles to accept the new Jimmy, Frank wakes up in a place completely foreign to him.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Jan. 2013", 
+            "episodeName": "The American Dream", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFiona stresses about the money she used for her club night and it gets worse when Lip finds out. Frank makes his way home and he's the only one who can keep Hymie quiet. Kevin's wife resurfaces.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Jan. 2013", 
+            "episodeName": "May I Trim Your Hedges?", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nFrank tells Carl he has cancer in order to scam a charity foundation. Fiona is blown away by what's asked of her in her new job. Lip hunts for a neighborhood pedophile.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Feb. 2013", 
+            "episodeName": "The Helpful Gallaghers", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nCarl heads off to cancer camp, while Frank agrees to be Jody's sex coach with Sheila. Fiona unites her coworkers. Lip and Mandy rescue her half-sister from foster care.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Feb. 2013", 
+            "episodeName": "The Sins of My Caretaker", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nChild Protective Services pays a visit. Jimmy faces his first true family crisis and, when Fiona fails to provide the support he needs, he turns to Este (STEPHANIE FANTAUZZI).    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Feb. 2013", 
+            "episodeName": "Cascading Failures", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe Dept. of Family Services hauls the Gallagher children away, leaving Fiona desperate to get them back. She then has to get Frank ready to make a \"Father of the Year\" appearance.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Mar. 2013", 
+            "episodeName": "A Long Way from Home", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFrank and Fiona go to extreme lengths in court to claim sole custody of the kids. While Hymie's family arrives to take their son from Sheila and Jody, Karen returns home.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Mar. 2013", 
+            "episodeName": "Where There's a Will", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAs the family gathers at Aunt Ginger's fake funeral, Frank's cousin Patrick (guest star BRENT SEXTON) arrives with another forged will granting him ownership of the house.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Mar. 2013", 
+            "episodeName": "Frank the Plumber", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nFiona starts a new job and a new romance, while Frank may become the new face of the gay rights movement, thanks to an influential member of the Velvet Mafia (BRADLEY WHITFORD).    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Mar. 2013", 
+            "episodeName": "Civil Wrongs", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFiona's life is finally going great - until Jimmy tells her he might go back to med school...in Michigan. As the new star of gay rights, Frank is lured to the other side.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "31 Mar. 2013", 
+            "episodeName": "Order Room Service", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFiona takes the kids on a camping trip. Essentially homeless, Frank seeks out Carl who sneaks him into the Gallagher van for the night.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Apr. 2013", 
+            "episodeName": "Survival of the Fittest", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nLip is graduating from high school, so Fiona and the family prepare a surprise party for him. Frank wins a bet and uses the winnings to take Lip out for lobster and some quality father/son time.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Jan. 2014", 
+            "episodeName": "Simple Pleasures", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nLip is struggling at college. Debbie is growing up and discovering boys. Carl is entering puberty. Frank medically is worse than ever and Fiona is going out with her boss.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 Jan. 2014", 
+            "episodeName": "My Oldest Daughter", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFiona is involved in a road rage incident that damages a company car and leads her to tell a lie about how it happened. Meanwhile, Lip struggles in school and with the ladies.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "26 Jan. 2014", 
+            "episodeName": "Like Father, Like Daughter", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nFiona and Mike take a big step forward when Mike invites her to dinner with his family. She meets his parents and older brother, who is a thrill seeking ex-alcoholic. Debbie fools Shelia into thinking she is at a sleep over party, and sneaks out for an evening with the new boyfriend. Frank is setting up a \"chance\" meeting with eldest daughter Samantha to try to scam her into giving him a piece of her liver. Meanwhile, Carl trying to keep Frank in pain killers and the family with food on the shelves concocts a scheme to make some extra cash.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 Feb. 2014", 
+            "episodeName": "Strangers on a Train", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAgainst her better judgment, Fiona continues her secret affair with Robbie. And the situation nearly boils over, when Mike shows up at Robbie's apartment while Fiona's inside. Fiona is able to hide just in time before her infidelity can be exposed. In increasingly dire health straits due to liver disease, Frank attempts to contrive an \"accident\" that will provide an ample insurance payout to cover the cost of a potential transplant. Too physically weak to injure himself, he enlists the help of an overeager Carl. With the odds stacked against him, he gets more bad news...    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Feb. 2014", 
+            "episodeName": "There's the Rub", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nFiona's bad decisions involving Robbie finally boil over. Frank and Sammi continue fixing his liver trouble, while catching up on the father-daughter time that Sammi always wanted. Lip gets a surprise at college from Army investigators.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Feb. 2014", 
+            "episodeName": "Iron City", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAn accident lands Fiona in county jail. Frank gets some sobering news.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Feb. 2014", 
+            "episodeName": "A Jailbird, Invalid, Martyr, Cutter, Retard, and Parasitic Twin", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFiona goes on trial for her felony charge. An angry Lip tries to keep the family from falling apart. Sammy uses extreme methods to soothe Frank's pain. V and Kevin get big news.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Mar. 2014", 
+            "episodeName": "Hope Springs Paternal", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nFiona starts to go nuts while under house arrest. Ian shows up at home. Carl almost gets expelled from school, but gets helped out by Frank. Debbie starts to become a woman and connects with the \"other sister\"    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Mar. 2014", 
+            "episodeName": "The Legend of Bonnie and Carl", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nFiona gets off house arrest. Lip runs into some \"big\" issues at school. Ian and Mickey blackmail rich old family men, and Carl finds true love in detention, in a girl who is just as messed up as he is. Debbie is jealous of a new girl.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Mar. 2014", 
+            "episodeName": "Liver, I Hardly Know Her", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFiona goes on a heavy bender and ends up in Wisconsin and Lip has to come rescue her. Mickey and Kev start fighting over their joint venture. Bonnie and Carl steal a car. Sammi and Sheila try to find Frank a cheap liver transplant.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Mar. 2014", 
+            "episodeName": "Emily", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFrank suffers post-operative delirium after his liver transplant. Fiona starts 90 days in jail. Lip irritates Amanda's parents and receives a generous payoff to leave her. Debbie is humiliated at school by an older boy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Apr. 2014", 
+            "episodeName": "Lazarus", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nFrank recovers from his operation. Fiona is released early and gets a job waiting tables. Everyone is afraid that Ian may be bi-polar.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Jan. 2015", 
+            "episodeName": "Milk of the Gods", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIt's summertime again in Chicago. Fiona balances her job at Patsy's Pies and a crush on her older boss, Sean, as Lip says goodbye to college and Amanda. He heads back home where he struggles to fit in with his old Southside friends. But he's not the only thing in the neighborhood that's changing though, realtors are buying up property and a new, trendy yoga studio has popped up. Frank, still recovering from his liver transplant, is living at Sheila's and working on a secret project in her basement while Sheila works upstairs to get rid of a problematic Sammi and ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "18 Jan. 2015", 
+            "episodeName": "I'm the Liver", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFiona is officially off house arrest while Lip starts his first day of work for Tommy. But manual labor turns out to be harder than Lip thought and the brutal hazing from his co-workers doesn't help. Sheila considers an offer from two lesbians who want to buy her home. Frank tries to talk her out of it and begins warning everyone of the neighborhood's impending gentrification. Also, the father of boy whose liver Frank received invites Frank to a special father's day dinner with all the other organ recipients, which Sammi ends up crashing, further enraging Sheila. ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Jan. 2015", 
+            "episodeName": "The Two Lisas", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe gentrification of the Back of the Yards continues with the closing of the Alibi's illegal rub & tug. Frank enlists Carl to scare off the lesbians who are buying up more property in the neighborhood while pleading with Sheila not to cave and sell her home. But Sheila has big plans for her future, with or without Frank. Ian goes on a crazed cleaning spree of the Milkovich house and also wants Lip to help convince Mandy not to move to Indiana with her abusive boyfriend, Kenyatta. But Lip remains emotionally unavailable and pushes Mandy away, possibly for good. ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Feb. 2015", 
+            "episodeName": "A Night to Remem-- Wait, What?", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFrank arrives at Lou's to pick up his six figure insurance settlement and is shocked to learn that he's already collected it. Meanwhile, Fiona and Gus continue to hit if off, so much so that Gus admits he's falling in love with her. Meanwhile, Lip visits Amanda and her family at her luxurious house in Miami. Carl starts a new job as a drug dealer but quickly realizes he's in over his head. Ian goes overboard when he starts stealing suitcases from the airport baggage claim.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Feb. 2015", 
+            "episodeName": "Rite of Passage", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nFiona's co-worker overdoses on hard drugs, which forces her to delay her announcement plans. An evasive Frank tries to avoid Sammi. Debbie continues her training. Mickey seeks out Lip to help with Ian. Kevin goes on a mission.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Feb. 2015", 
+            "episodeName": "Crazy Love", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nFiona is in disarray after she learns of Jimmy's return. Ian snatches Mickey and Svetlana's baby. Sammi takes over the Gallagher household. Debbie starts her first day of high school. Veronica makes a decision about her and Kevin.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Mar. 2015", 
+            "episodeName": "Tell Me You F**King Need Me", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFiona has to make a choice. Debbie is bold. Lip is having issues with his family and paying for school. Ian adjusts to the psych ward. Kev and V take some space.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Mar. 2015", 
+            "episodeName": "Uncle Carl", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nLip and Fiona pick up Ian from the psych ward, and he refuses to take his medicine for his bipolar disorder. Fiona's marriage is in jeopardy. Frank plots revenge on Sammi while recovering from a gunshot wound. Lip and Kev sell drugs on campus.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Mar. 2015", 
+            "episodeName": "Carl's First Sentencing", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nCarl faces the consequences of his actions and has a surprising result. Fiona helps out a friend when he really needs it. Lip comes face to face with a genuine offer and Kevin enjoys the college lifestyle a little too much.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Mar. 2015", 
+            "episodeName": "South Side Rules", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFiona tries to patch things up with Gus, Carl begins his sentence, Veronica and Kevin make up and Lip stops his relations with Helene    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Mar. 2015", 
+            "episodeName": "Drugs Actually", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFrank grows concerned as Bianca's behavior becomes increasingly more erratic and dangerous - but he'll do just about anything to show her a great time.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "5 Apr. 2015", 
+            "episodeName": "Love Songs (In the Key of Gallagher)", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nFiona reunites with Gus after his tour but is torn by the fact that her friendly feelings for Sean have turned into love. Plus, Frank has his own love struggles as he works to keep Bianca happy - in Costa Rica.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Jan. 2016", 
+            "episodeName": "I Only Miss Her When I'm Breathing", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFrank is struggling with the loss of a loved one. Fiona gets a promotion at the diner. Mickey is handling business behind bars. Debbie is making a decision with her pregnancy.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "17 Jan. 2016", 
+            "episodeName": "#AbortionRules", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nDebbie carries a bag of flour around all day - determined to prove Fiona wrong about her ability to raise a child while going to school. She quickly realizes people are not as accommodating to mothers and babies as she hoped.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "24 Jan. 2016", 
+            "episodeName": "The F Word", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDebbie is still determined to keep her baby and turns to Frank for support, while Fiona decides to abort her's. Ian starts a new job on campus. Carl is trying to impress a girl. Kev got sucked in a neighborhood feud.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "31 Jan. 2016", 
+            "episodeName": "Going Once, Going Twice", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFiona confronts Patrick about the eviction notice, but her only choice is to get a mortgage from the bank and bid on the house at auction. Ian bakes cookies for the firehouse and discovers he was saved by the shift of gay firemen.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "7 Feb. 2016", 
+            "episodeName": "Refugees", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhile Frank helps Erica through the cancer concierge process, Debbie ups her game as a shoulder for Tyler to lean on. Meanwhile, Lip tries to protect Helene from the fallout of Amanda's disclosure, but she won't talk to or see him anymore.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 Feb. 2016", 
+            "episodeName": "NSFW", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nFiona goes through with her abortion, and can't let go of her feud with her pregnant sister Debbie, who receives further news about her baby. Lip faces the music for his relationship with his professor, while Frank's 'patient' Erica has an update on her cancer treatment. Grim reality sets in for Carl when Nick runs into trouble, and Fiona hits some obstacles in an attempt to buy back the Gallagher family home.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "21 Feb. 2016", 
+            "episodeName": "Pimp's Paradise", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nCarl struggles with Nick's absence, continuing to put up false hood bravado. He takes over the Gallagher home, remaking it as his \"crib\" and inviting his friends over to party and make music. Frank and Queenie rule the house - and Debbie returns when she's let go by Erica and Tyler.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 Mar. 2016", 
+            "episodeName": "Be a Good Boy. Come for Grandma", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nFiona, now living with Sean, attempts to get his son, Will, to like her. He starts to come around, but when Will snags one of Carl's guns at the Gallagher house, Sean catches him and is furious with Fiona, worried he'll lose custody.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 Mar. 2016", 
+            "episodeName": "A Yurt of One's Own", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nFiona tries to make amends with Sean, who isn't giving her the time of day. Meanwhile, Debbie and Queenie travel to a rural commune along with Frank who is trying to escape G-Dogg - who's after him for stealing his drugs.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "20 Mar. 2016", 
+            "episodeName": "Paradise Lost", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nSean officially moves into the Gallagher house as Fiona, intent on getting her marriage right this time, sets out to plan a traditional wedding. Meanwhile, Kev is not happy about V and Svetlana's pending green card marriage and tries to find a way around it. While he's off getting scammed, however, the girls take matters into their own hands.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "27 Mar. 2016", 
+            "episodeName": "Sleep No More", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFrank offers to pay for Fiona's wedding reception and then goes scamming around town to raise the money. Meanwhile, Sean fears that Frank will end up hurting Fiona and calls him on it. Their difference of opinion quickly descends into a brawl.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "3 Apr. 2016", 
+            "episodeName": "Familia Supra Gallegorious Omnia!", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nIt's wedding day for Fiona and Sean. But their happiness is interrupted when Frank shows up uninvited...and high.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 Oct. 2016", 
+            "episodeName": "Hiraeth", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFrank wakes from a month long coma after being thrown in the lake and finds out nobody came looking for him. Carl gets circumsised because his girlfriend wont give him oral sex. Ian's fireman boyfriend is planning a get together with a female friend and he becomes concerned. Lip starts a new job after getting out of rehab    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "9 Oct. 2016", 
+            "episodeName": "Swipe, Fuck, Leave", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFrank, ready to disown his family, takes Liam under his wing and starts a new life barricaded on the top floor of the Gallagher home. Meanwhile, Fiona starts running Patsy's Pies on her own terms; Debbie gets into trouble in the stroller business; Ian tries out heterosexuality; and Carl finds himself forced into abstinence.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "16 Oct. 2016", 
+            "episodeName": "Home Sweet Homeless Shelter", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nKevin, Veronica and Svetlana start a topless maid service; Frank makes new friends at the shelter to replace his family; Debbie's new lifestyle comes to an abrupt end; Carl gets a gonorrhea scare; Ian struggles with a breakup and his mental health; business at Patsy's hits the skids; a new family member and bartender is introduced and he is packing a big surprise.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "23 Oct. 2016", 
+            "episodeName": "I Am A Storm", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nOut of rehab, Lip ponders his next move. Ian is adjusting to his new career and new prospects. Debbie is \"daydreaming\". Carl is more determined than ever. Fiona just keeps running in place. Frank's shelter rules are debilitating.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "30 Oct. 2016", 
+            "episodeName": "Own Your Shit", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nFrank learns that a billionaire philanthropist has bought the homeless shelter and he and his clan can stay. Meanwhile, Fiona gets smart financial advice from a Tinder hookup as Ian struggles with his feelings for Trevor.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 Nov. 2016", 
+            "episodeName": "The Defenestration of Frank", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nFiona discovers the laundromat is for sale and decides to invest in it. Meanwhile, Frank revels in the good fortune of his latest scam; Ian grapples with mixed feelings about Trevor; Debbie deals with a bombshell; Carl has second thoughts about military school; and Kev and V discover a shocking secret about Svetlana's father.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "13 Nov. 2016", 
+            "episodeName": "You'll Never Ever Get a Chicken in Your Whole Entire Life", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFiona learns that owning a laundromat is costlier than she anticipated. Frank gets Liam enrolled into a fancy private school after his old school is shut down. Debbie and Neil grow closer.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "20 Nov. 2016", 
+            "episodeName": "You Sold Me the Laundromat, Remember?", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nFiona renovates the laundromat; Lip agrees to go before the school board; Kev's trust in Svetlana lessens when the van goes missing.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "27 Nov. 2016", 
+            "episodeName": "Ouroboros", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMonica wants to help Debbie get Franny back; Ian and Trevor fight; Lip tries to hide his relapse; the laundromat receives a bad review.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "4 Dec. 2016", 
+            "episodeName": "Ride or Die", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFiona considers selling the laundromat when she's faced with renovations and repairs. Meanwhile, Ian deals with the reality that Mickey might be out of prison and on the run; and Kev and V take matters into their own hands after learning of Svetlana's latest betrayal.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "11 Dec. 2016", 
+            "episodeName": "Happily Ever After", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFrank and Monica make an interesting proposal to the kids; Fiona sees a new business opportunity; Lip tries to finally get his sobriety under control when he's pressured by a suddenly grown-up Debbie; Ian and Mickey play Thelma and Louise; Kev and V try to start a new chapter after losing the bar to Svetlana.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "18 Dec. 2016", 
+            "episodeName": "Requiem for a Slut", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nLip tries to improve his future. Frank involves the kids in his new scheme. The Gallaghers struggle with the loss of one of their own. Season Finale.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }
+    ], 
+    "name": "Shameless", 
+    "plot": "An alcoholic man lives in a perpetual stupor while his six children with whom he lives cope as best they can.", 
+    "rating": 8.7, 
+    "releaseDate": "9 January 2011", 
+    "type": "tvserie"
+}

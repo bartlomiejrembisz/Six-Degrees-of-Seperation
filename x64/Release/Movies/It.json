@@ -1,0 +1,56 @@
+{
+    "actorList": [
+        "Harry Anderson", 
+        "Dennis Christopher", 
+        "Richard Masur", 
+        "Annette O'Toole", 
+        "Tim Reid", 
+        "Jonathan Brandis", 
+        "Brandon Crane", 
+        "John Ritter", 
+        "Richard Thomas", 
+        "Adam Faraizl", 
+        "Tim Curry", 
+        "Emily Perkins", 
+        "Marlon Taylor", 
+        "Seth Green", 
+        "Ben Heller", 
+        "Sheila Moore", 
+        "Jarred Blancard", 
+        "Chris Eastman", 
+        "Tony Dakota", 
+        "Olivia Hussey", 
+        "Chelan Simmons"
+    ], 
+    "director": [
+        "Tommy Lee Wallace"
+    ], 
+    "genres": [
+        "Drama", 
+        "Fantasy", 
+        "Horror", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "18 Nov. 1990", 
+            "episodeName": "Part 1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter 27 years, the Losers club need to reunite to fight against a being that killed George Denbrough, brother of Bill, leader of the Losers club.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Nov. 1990", 
+            "episodeName": "Part 2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe losers club reunite 27 years later to face Pennywise once again.    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "It", 
+    "plot": "In 1960, seven pre-teen outcasts fight an evil demon who poses as a child-killing clown. Thirty years later, they reunite to stop the demon once and for all when it returns to their hometown.", 
+    "rating": 6.9, 
+    "releaseDate": "18 November 1990", 
+    "type": "tvserie"
+}

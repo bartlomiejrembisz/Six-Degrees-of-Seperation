@@ -1,0 +1,47 @@
+{
+    "actorList": [
+        "Jennifer Lawrence", 
+        "Isaiah Stone", 
+        "Ashlee Thompson", 
+        "Valerie Richards", 
+        "Shelley Waggener", 
+        "Garret Dillahunt", 
+        "William White", 
+        "Ramona Blair", 
+        "Lauren Sweetser", 
+        "Andrew Burnley", 
+        "Phillip Burnley", 
+        "Isaac Skidmore", 
+        "Cody Brown", 
+        "Cinnamon Schultz", 
+        "John Hawkes", 
+        "Casey MacLaren", 
+        "Kevin Breznahan", 
+        "Dale Dickey", 
+        "Sheryl Lee", 
+        "Marideth Sisco", 
+        "Tate Taylor", 
+        "Ronnie Hall", 
+        "Beth Domann", 
+        "Charlotte Jeane Lucas", 
+        "Raymond Vaughan Jr.", 
+        "Russell Schalk", 
+        "Luke Cockroft", 
+        "Brandon Gray", 
+        "Michael Nicolae", 
+        "Trey Owens", 
+        "Debbie Sutcliffe", 
+        "Tony Teebo"
+    ], 
+    "director": [
+        "Debra Granik"
+    ], 
+    "genres": [
+        "Drama"
+    ], 
+    "name": "Winter's Bone", 
+    "plot": "An unflinching Ozark Mountain girl hacks through dangerous social terrain as she hunts down her drug-dealing father while trying to keep her family intact.", 
+    "rating": 7.2, 
+    "releaseDate": "21 January 2010 (Sundance Film Festival)", 
+    "type": "movie"
+}

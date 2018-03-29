@@ -1,0 +1,798 @@
+{
+    "actorList": [
+        "Kerry Washington", 
+        "Katie Lowes", 
+        "Guillermo D\u00edaz", 
+        "Joshua Malina", 
+        "Darby Stanchfield", 
+        "Jeff Perry", 
+        "Bellamy Young", 
+        "Tony Goldwyn", 
+        "Scott Foley", 
+        "Joe Morton", 
+        "Portia de Rossi", 
+        "George Newbern", 
+        "Columbus Short"
+    ], 
+    "director": [
+        "Tom Verica", 
+        "Oliver Bokelberg", 
+        "Allison Liddi-Brown", 
+        "Tony Goldwyn", 
+        "Randy Zisk", 
+        "Jeannot Szwarc", 
+        "Steve Robin", 
+        "Paul McCrane", 
+        "Mark Tinker", 
+        "Debbie Allen", 
+        "Jann Turner", 
+        "Stephen Cragg", 
+        "Michael Katleman", 
+        "Ron Underwood", 
+        "Roxann Dawson", 
+        "Julie Anne Robinson", 
+        "Regina King", 
+        "Scott Foley", 
+        "Sharat Raju"
+    ], 
+    "genres": [
+        "Drama", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "5 Apr. 2012", 
+            "episodeName": "Sweet Baby", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nOlivia hires Quinn, who must deal with a woman's accusation against the President; Pope & Associates must prove a decorated war veteran innocent of murder.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Apr. 2012", 
+            "episodeName": "Dirty Little Secrets", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nOlivia and her team must keep a DC Madam's client list under wraps; Quinn continues to deal with the President's former intern.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Apr. 2012", 
+            "episodeName": "Hell Hath No Fury", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA millionaire's son is accused of rape; Olivia must deal with Amanda's first request as a client, a meeting with the President.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Apr. 2012", 
+            "episodeName": "Enemy of the State", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nOlivia and Cyrus get into a heated argument about the Amanda Tanner case; Quinn helps a dictator locate his allegedly kidnapped wife and children, going out with a reporter to seek information.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 May 2012", 
+            "episodeName": "Crash and Burn", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAfter a commercial plane crash, Olivia and her team must defend the pilot from the media and airline accusations; When Amanda goes missing, Huck calls upon his dark past; Fitz seeks help from the Vice President.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 May 2012", 
+            "episodeName": "The Trail", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAs Gideon looks into Amanda's past, a series of events from the past are revisited.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 May 2012", 
+            "episodeName": "Grant: For the People", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nQuinn finds herself in a tragic situation; Billy makes an announcement that shakes Fitz's presidency to its core.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Sep. 2012", 
+            "episodeName": "White Hats Off", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nInformation about Quinn's real identity and past is revealed.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Oct. 2012", 
+            "episodeName": "The Other Woman", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nOlivia and her team must do some heavy lifting -- literally.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Oct. 2012", 
+            "episodeName": "Hunting Season", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA government employee shocks Olivia by revealing how high the scandal goes.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Oct. 2012", 
+            "episodeName": "Beltway Unbuckled", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nOlivia is asked by Senator Davis to help locate a missing girl because her parents are his constituents. They find her, she appears to have been the victim of a hit and run. They find the person who struck her, only problem is that the man is a diplomat who has diplomatic immunity. Olivia goes to see the President to ask him to have the man's immunity lifted. But he refuses to do anything. Olivia is then called by someone from the White House who offers to help her. David continues to investigate why Quinn's case was derailed and discovers someone powerful.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Nov. 2012", 
+            "episodeName": "All Roads Lead to Fitz", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA governor takes the law into his own hands when his wife is raped.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Nov. 2012", 
+            "episodeName": "Spies Like Us", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nOlivia receives a coded warning that could expose Huck's past.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Nov. 2012", 
+            "episodeName": "Defiance", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe team manages a billionaire who seems to have lost his sanity.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Dec. 2012", 
+            "episodeName": "Happy Birthday, Mr. President", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe President's shot upon arriving at what is suppose to be his birthday party. Olivia who's there, goes to the hospital. And she recalls moments from her days in the White House. The Vice President tries assume the duties of the President so Cyrus asks for Olivia's help.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Dec. 2012", 
+            "episodeName": "Blown Away", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nOlivia helps the vice president.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Jan. 2013", 
+            "episodeName": "One for the Dog", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nOlivia and Cyrus gets word that Fitz is awake. So they go to the hospital and see he's still in a coma. Mellie was the one who spread the word that Fitz is awake to stop Hollis and Langston from making a move on the Presidency. So they try to keep the thing a secret. David is present when Huck who is being held under the Patriot Act and being tortured. When he learns the President is still alive he tells David the President is still in danger. So David goes to Olivia to try and get Huck released. She does and she asks him to help find the one who tried to kill the ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Jan. 2013", 
+            "episodeName": "A Criminal, a Whore, an Idiot and a Liar", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFitz calls a press conference to show that he is able to return to his duties. And we take a look at when during his campaign, when everyone (Cyrus, Mellie and Olivia) were concerned that he was down in the polls. They want to bring in Fitz's father but Fitz hates the man but Olivia convinces him to bring him in. And we see how Olvia brought Harrison, Huck and Abby to work with her.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Jan. 2013", 
+            "episodeName": "Truth or Consequences", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDavid, after arresting Hollis, is prepared to charge him with an attempt on the President's life. Hollis goes to Olivia asking her to handle it, but Olivia doesn't want to and goes home. Edison tells her people about her being in bed, so they all come together to find out what's going on. Everyone airs what they know and they also learn how Quinn, was formerly Lindsay Dwyer, how her boyfriend was involved with the rigging of the election, how he was killed, and how Quinn was framed for it. Fitz tells that Mellie he wants a divorce and she freaks out.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Feb. 2013", 
+            "episodeName": "Nobody Likes Babies", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nDavid learns the truth about the Cytron case; Things come to a head for Pope & Associates, with extreme measures to protect themselves and those they love.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2013", 
+            "episodeName": "Whiskey Tango Foxtrot", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nCyrus is going to christen his baby and asks Olivia and Fitz to be god parents. David wakes up and finds himself with a woman he met, who is dead. so he calls Olivia and they first try to find out who she is and they learn that she may have been sent to get info from David. And David is still upset with Olivia for costing him his job. And Fitz is dealing with some Americans who are being held so he decides whether or not to mount a rescue operation. And chooses not to tell those involved or aware of the rigged election that he knows. And when he does order a rescue, ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Feb. 2013", 
+            "episodeName": "Boom Goes the Dynamite", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nOlivia is tasked with finding a woman for a Goburnatorial candidate who is rumored to be gay by his family. Fitz wants to rescue the hostages but he has to find out who the leak is. Cyrus and Mellie who feel as if Fitz is shutting them out tries to show the other up. And Olivia is seeing Jake socially. and it turns out that Jake was tasked with keeping an eye on Olivia by Fitz. David thinks someone is following him so he turns to Olivia. They later learn that he is being followed by someone who knows the girl whom he is being framed for killing. And she claims to know...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Mar. 2013", 
+            "episodeName": "Top of the Hour", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen the press learns that a man, whom the White House is considering supporting for the Supreme court, had an affair with one of his students years ago, who is now the CEO of a corporation. They camp out in front of the woman's house. Her lawyer sends Olivia to help her. Olivia starts by finding out if the affair is true. And when she says it is, Olivia advises her to be honest. But Cyrus wants to protect the man so he tells Oliva to tell her to deny but she's going to admit it. So Cyrus decides to smear her by making her appear to be a hussy. Olivis counters it. But...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Mar. 2013", 
+            "episodeName": "Snake in the Garden", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nOsborne, upon learning that Olivia's people are following him, goes to Olivia to find out why. Eventually Fitz learns that he's the mole but he denies it. Hollis Doyle goes to Olivia and shows her a video of his daughter being held captive and saying, that if her father wants to see her, to send 20 million dollars. But Hollis says that his daughter has always been a problem child and this could just be an act. When her ear arrives, they wonder if it's true or not.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Apr. 2013", 
+            "episodeName": "Molly, You in Danger, Girl", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAfter Osborne's suicide everyone thinks it was out of guilt that he was going to be outed as a traitor. The President then goes on TV to say that. But his wife goes to Olivia saying he didn't commit suicide and Olivia believes her. They discover that they were wrong about Osborne so they decide to look into things again. First they need to talk to Molly who was the one who pointed the finger at Osborne. But she's vanished.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Apr. 2013", 
+            "episodeName": "Seven Fifty-Two", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhile Olivia is unconscious in the hospital, Fitz goes and stands by her bedside. Huck has a breakdown after being locked up. He then recalls how he became who he is and how he met Liv.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 May 2013", 
+            "episodeName": "A Woman Scorned", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nMellie has secretly moved into the Blair House and is threatening to reveal his infidelities unless he promises to be loyal to her. And he thinks she's bluffing while Cyrus says they should be worried. He tries to talk to Mellie but she stands her ground. Olivia's people learn that it was Charlie who attacked Huck at the storage facility and broke into Olivia's. Which makes them think Cyrus is the mole which Olivia doesn't believe. So they try to find him.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 May 2013", 
+            "episodeName": "Any Questions?", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nCyrus is at the center of a big scandal at the White House    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 May 2013", 
+            "episodeName": "White Hat's Back On", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAs they get closer to uncovering the mole's identity, Olivia and her team find themselves in an increasingly dangerous situation.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Oct. 2013", 
+            "episodeName": "It's Handled", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nOlivia learns what her father is capable of.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Oct. 2013", 
+            "episodeName": "Guess Who's Coming to Dinner", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFlashbacks reveal more about Olivia's relationship with her father.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Oct. 2013", 
+            "episodeName": "Mrs. Smith Goes to Washington", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMellie and Fitz confess their true feelings.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Oct. 2013", 
+            "episodeName": "Say Hello to My Little Friend", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPope & Associates agree to work with a philandering senator.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "31 Oct. 2013", 
+            "episodeName": "More Cattle, Less Bull", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe team investigates Democratic Congresswoman Josie Marcus, while Olivia and Mellie have a surprising run-in during the White House Correspondents' Dinner. Meanwhile, Jake and Huck get closer to the truth about Operation Remington.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Nov. 2013", 
+            "episodeName": "Icarus", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nOlivia faces a decision that will affect her White House relationships; Harrison's loyalty is tested; Cyrus and Mellie scheme against Josie Marcus while the team works with her.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Nov. 2013", 
+            "episodeName": "Everything's Coming Up Mellie", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nIn hope of recovering from public backlash, Mellie does a hard-hitting news interview; as Huck pushes Quinn away, her bloodlust threatens to put her in danger.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Nov. 2013", 
+            "episodeName": "Vermont Is for Lovers, Too", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nOlivia and the team must manage a potential crisis with the Josie Marcus campaign while investigating Operation Remington; Cyrus tries to take down Sally.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Dec. 2013", 
+            "episodeName": "YOLO", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAs the team gets closer to the truth, loyalties are tested and relationships are pushed to the limit. Meanwhile, Cyrus has to deal with his own crisis and he realizes that he may have gone too far.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Dec. 2013", 
+            "episodeName": "A Door Marked Exit", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nEveryone struggles to face the consequences of their actions now that the truth has been revealed.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2014", 
+            "episodeName": "Ride, Sally, Ride", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nJames tries to gather information about Sally murdering her husband, meanwhile rumors are going around about Fitz and Olivia having an affair.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Mar. 2014", 
+            "episodeName": "We Do Not Touch the First Ladies", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nFitz faces a harsh reality when old feelings and jealousy arise at an event; Quinn wants to prove herself; Leo arranges a meeting between Sally and an old friend.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Mar. 2014", 
+            "episodeName": "No Sun on the Horizon", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nA well prepared Fitz gets thrown a curve ball during the first presidential debate, Olivia receives shocking news and is forced to make an extremely difficult decision, and the gladiators work with a powerful CEO accused of murder. Meanwhile, one dirty little secret could lead to deadly consequences.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Mar. 2014", 
+            "episodeName": "Kiss Kiss Bang Bang", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nSally arranges a meeting with the NRA, sending the White House into a tailspin; Huck and Olivia come to startling realizations; a surprising person asks Pope and Associates for help.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Mar. 2014", 
+            "episodeName": "Mama Said Knock You Out", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nFitz and Mellie's children prepare for an interview; Adnan seeks Harrison's help; Rowan warns Olivia to stop investigating B613.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Apr. 2014", 
+            "episodeName": "The Fluffer", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAbby steps in as Olivia's proxy and takes on duties at the White House. Meanwhile, the team continues to investigate B613, and someone throws a wrench in Reston's presidential campaign.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Apr. 2014", 
+            "episodeName": "Flesh and Blood", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe team must spring into action following a security breach; when Fitz's campaign stalls, he thinks about going against Olivia's suggestion; Maya and Adnan plan their next move.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Apr. 2014", 
+            "episodeName": "The Price of Free and Fair Elections", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAfter Cyrus learns of Maya Pope's latest plan to kill President Grant, his hesitance turns the tide of the election.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Sep. 2014", 
+            "episodeName": "Randy, Red, Superfreak and Julia", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFitz begins his second term with a plan to make positive changes for the nation. Meanwhile, Mellie has trouble dealing with her son's death; and Olivia's absence leaves a void on her team.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 Oct. 2014", 
+            "episodeName": "The State of the Union", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nIn order for Fitz to make the biggest impact with his State of the Union address on gun control, Cyrus sets out to recruit a power couple who are influential on the issue. Meanwhile, Mellie's personal struggle gets national attention.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Oct. 2014", 
+            "episodeName": "Inside the Bubble", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAn old friend returns for help after her daughter goes missing, Cyrus has an awkward run in during a business breakfast, and Jake uses his connections to get some answers. Meanwhile, Mellie becomes obsessed with a national news story and David goes to great lengths to prove himself.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Oct. 2014", 
+            "episodeName": "Like Father, Like Daughter", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFitz asks Olivia to shut down a situation that could destroy the Grant family's reputation. Meanwhile, Huck and Quinn realize there is more than they originally thought when it comes to Catherine's case, and Rowan calls on an old friend to do his dirty work.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Oct. 2014", 
+            "episodeName": "The Key", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nJake doesn't return Olivia's calls, which distracts her from Catherine's case. Elsewhere, Cyrus continues to get tangled up with Michael; David gets a taste of victory; and Fitz wants answers about Jerry's demise.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Oct. 2014", 
+            "episodeName": "An Innocent Man", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nOlivia is summoned by a convicted assassin who claims he was wrongly accused, and Mellie becomes intrigued by a former first lady whose stories seem to be strikingly similar to her own. Meanwhile, Elizabeth inches closer to corrupting the White House and Fitz makes a shocking move.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Nov. 2014", 
+            "episodeName": "Baby Made a Mess", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nUnable to believe Jake is guilty, Olivia seeks out Tom for more information; Huck plays with fire.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Nov. 2014", 
+            "episodeName": "The Last Supper", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nFitz and Jake continue to fight over Olivia, but Olivia needs them to focus on the real prize, taking down Command. Meanwhile, Huck longs to connect with his family and Quinn continues tracking Kubiak. Back at the White House, Cyrus exploits finally catch up to him, but Elizabeth North's plan is much bigger than anyone ever expected.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Nov. 2014", 
+            "episodeName": "Where the Sun Don't Shine", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nQuinn and Huck uncover West Angola conspiracy, Jake goes after Rowan, Cyrus's explicit photos hit the internet and the President underestimated Andrew.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Jan. 2015", 
+            "episodeName": "Run", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nOlivia is kidnapped and held hostage in an unknown location.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 Feb. 2015", 
+            "episodeName": "Where's the Black Lady?", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nOlivia is still missing and the team comes together to do whatever it takes to find her.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Feb. 2015", 
+            "episodeName": "Gladiators Don't Run", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nOlivia officially goes up for bidding.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 Feb. 2015", 
+            "episodeName": "No More Blood", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs the bidding for Olivia Pope continues, the gladiators fight to save her but The White House fears that they may lose her for good.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 Mar. 2015", 
+            "episodeName": "The Lawn Chair", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nA tragedy in D.C. gains national attention and the White House must deal with their problematic VP.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Mar. 2015", 
+            "episodeName": "The Testimony of Diego Mu\u00f1oz", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nDavid Rosen is caught off guard when a surprise visitor reveals insider information about B613 that could take down the White House and destroy Pope and Associates.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 Mar. 2015", 
+            "episodeName": "It's Good to Be Kink", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nOlivia springs into action when she hears of a woman intending to expose sex secrets of some of DC's most elite. Meanwhile, Elizabeth fears that Mellie's sister could be detrimental to their political aspirations.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "26 Mar. 2015", 
+            "episodeName": "Put a Ring on It", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhen Michael gets himself in a bad situation, the Gladiators launch into damage control and put pressure on Cyrus to move up the wedding. Meanwhile, David takes the first step in executing his plan to take down B613.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 Apr. 2015", 
+            "episodeName": "Honor Thy Father", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nDavid tries to recruit former B613 agents to strengthen his case. Meanwhile, a congressman asks Olivia to help his father escape his looming death penalty.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Apr. 2015", 
+            "episodeName": "I'm Just a Bill", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nRowan's return raises the stakes for those targeting B613; Fitz needs an important bill passed.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Apr. 2015", 
+            "episodeName": "First Lady Sings the Blues", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThose trying to take down B613 must take drastic measures to ensure their safety; the nation turns against Mellie, forcing Cyrus to come to her defense.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 May 2015", 
+            "episodeName": "A Few Good Women", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nVice President Ross continues to defy the Grant administration when she hires Olivia Pope to defend a woman in the Navy. Meanwhile, Quinn and Huck must do what they do best to get answers about B613 and Mellie's campaign for Senate continues to be a struggle.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 May 2015", 
+            "episodeName": "You Can't Take Command", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nEverything comes to a head in the shocking season finale when Olivia and the team finally make some big moves to take down Command, and Mellie's fate is sealed as the election results are announced.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Sep. 2015", 
+            "episodeName": "Heavy Is the Head", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWhen the Royals visit the White House, President Fitz uses the opportunity to discuss foreign policy. But when a fatal accident causes a rift in the negotiations, it may cause a rift within Fitz and Olivia as well.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Oct. 2015", 
+            "episodeName": "Yes", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA new case takes Olivia out of D.C. and away from Fitz; Abby receives unexpected guidance.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Oct. 2015", 
+            "episodeName": "Paris Is Burning", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nOlivia and Fitz face big consequences; Mellie enlists an old friend to ensure she gets her way.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Oct. 2015", 
+            "episodeName": "Dog-Whistle Politics", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhile the media storm around Olivia intensifies, Quinn & Huck bring in help to deal with it! Jake crosses paths with someone unexpected from his past.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Oct. 2015", 
+            "episodeName": "You Got Served", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSenators Gibson and Moskowitz are moving forward with their plans to go after Fitz. And Olivia tries to handle things too, so she brings in Leo Bergen.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Oct. 2015", 
+            "episodeName": "Get Out of Jail, Free", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAn outrageous plan is presented to Fitz and Olivia, but it could solve their problems.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "5 Nov. 2015", 
+            "episodeName": "Even the Devil Deserves a Second Chance", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFitz works on his comeback with the American public and uncovers something shocking in the process. Meanwhile, Olivia focuses on hiding her personal secrets instead of tending to a new client; and Elizabeth North develops a new agenda.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Nov. 2015", 
+            "episodeName": "Rasputin", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nIn the midst of Fitz negotiating a historic peace deal, Olivia must rely on her instincts when a guest of the The White House discloses powerful intel.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "19 Nov. 2015", 
+            "episodeName": "Baby, It's Cold Outside", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nOlivia feels more frustrated taking on \"First Lady\" type responsibilities; Mellie proves just how powerful she can be; Jake and Huck continue the hunt for Rowan.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "11 Feb. 2016", 
+            "episodeName": "It's Hard Out Here for a General", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nSix months later from Fitz and Olivia's break-up they both try to handle their situation. Meanwhile, Pope and Associates take a new case that could lead to a national crisis.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "18 Feb. 2016", 
+            "episodeName": "The Candidate", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nMellie seeks out Olivia's help but may not be prepared for what it entails, and Liz tries to convince Susan Ross to run for the presidency. Meanwhile, Abby and Cyrus are at odds when a profile piece on Fitz comes into question.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Feb. 2016", 
+            "episodeName": "Wild Card", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhile Fitz is preoccupied with his own interests, Cyrus begins to orchestrate his next master plan, and Elizabeth North uses David to mastermind a plan of her own. Meanwhile, Olivia continues to question what exactly Jake is planning in his new role as head of the NSA.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Mar. 2016", 
+            "episodeName": "The Fish Rots from the Head", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nOlivia and the team take on some embattled Secret Service agents. Meanwhile, Abby has her hands full trying to keep Fitz in line, and Jake begins to reveal a few secrets of his own.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 Mar. 2016", 
+            "episodeName": "I See You", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nOlivia continues to spy on Jake while the Gladiators have to fend for themselves. Meanwhile, Susan and Mellie feel the pressure as their campaigns heat up, and Abby begins to question Cyrus' motives.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Mar. 2016", 
+            "episodeName": "Pencils Down", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAfter Mellie makes a public gaffe, Olivia tries to fix it; the Gladiators learn about Jake's new romance; David Rosen looks for advice on handling his love triangle with Liz North and Susan Ross.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "31 Mar. 2016", 
+            "episodeName": "The Miseducation of Susan Ross", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nFollowing the first Republican debate, Olivia is presented with damaging information about an opponent and enlists the Gladiators to verify its authenticity. Meanwhile, David deals with fallout from his dating life, and Cyrus continues to work on his own political agenda.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "7 Apr. 2016", 
+            "episodeName": "Thwack!", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe election is in full swing, which means everyone is doing their best to take down their opponents, but when a potential leak threatens several candidates, they have to work together to keep their secrets safe. Boundaries are pushed and lines are crossed as we find out just how far some people are willing to go to protect themselves.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "21 Apr. 2016", 
+            "episodeName": "Till Death Do Us Part", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAs Olivia deals with the aftermath of what she's done, she finally finds out what exactly Jake and Rowan are plotting. With their plans already in motion, Olivia is forced to try and stop it. Meanwhile, in flashbacks, we learn more about Jake's past and how he first got involved with B6-13.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "28 Apr. 2016", 
+            "episodeName": "Buckle Up", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nA battle between Abby and Olivia threatens to keep Mellie and Susan from meeting Florida's governor.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "5 May 2016", 
+            "episodeName": "Trump Card", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nOlivia and Abby have to put their differences aside and work together to try and take Hollis Doyle down. Meanwhile, Edison realizes he may have made a deal with the devil as Rowan and Jake continue to try and pull the strings behind his campaign.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 May 2016", 
+            "episodeName": "That's My Girl", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAs each presidential candidate gets ready to announce their running mate, Olivia finds herself in a potentially dire situation. Meanwhile, Cyrus is presented with damaging information that could alter the presidential race entirely.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "26 Jan. 2017", 
+            "episodeName": "Survival of the Fittest", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe shocking results of the presidential race between Mellie Grant and Francisco Vargas set off an explosive outcome.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 Feb. 2017", 
+            "episodeName": "Hardball", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFlashbacks reveal how far Olivia was willing to go to win the election.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Feb. 2017", 
+            "episodeName": "Fates Worse Than Death", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nCyrus seals his fate during a national crisis; Olivia and the gladiators do everything they can to find the truth.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Feb. 2017", 
+            "episodeName": "The Belt", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nCyrus Beene has been convicted of the murder of President elect Frankie Vargas and is taken to jail. Huck has a new love interest. Abby & Fitz clash. Did Tom really shoot Frankie Vargas? Is Cyrus actually innocent? OPA investigate.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Mar. 2017", 
+            "episodeName": "They All Bow Down", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nJake and Vanessa's messy relationship poses a threat to the campaign, forcing Olivia to take action. Meanwhile, a game-changing revelation about the conspiracy surrounding Francisco Vargas's assassination is revealed.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Mar. 2017", 
+            "episodeName": "Extinction", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nRowan is caught by surprise when someone from his past resurfaces, and Olivia has to make a life-changing decision about the campaign. Meanwhile, flashbacks reveal exactly what happened the night of Francisco Vargas' assassination.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Mar. 2017", 
+            "episodeName": "A Traitor Among Us", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nOlivia makes a shocking decision when she finds new information about the assassination of Frankie Vargas.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "30 Mar. 2017", 
+            "episodeName": "A Stomach for Blood", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe events leading up to the election night, as seen from Abby's perspective reveal a thirst for power.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 Apr. 2017", 
+            "episodeName": "Dead in the Water", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nIt's a race against the clock when Olivia and OPA's investigation into the conspiracy puts one of their own in grave danger.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 Apr. 2017", 
+            "episodeName": "The Decision", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWith the ugly truth behind Frankie's assassination revealed, a torn Olivia wonders how different her life - and the country - would be if she, Mellie, and Cyrus had never rigged Fitz's election.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "20 Apr. 2017", 
+            "episodeName": "Trojan Horse", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nOlivia and the team are determined to bring down Peus, but as the Electoral College vote nears, the fight for power claims another victim.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "27 Apr. 2017", 
+            "episodeName": "Mercy", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nJust when Peus' iron grip seem inescapable to Olivia and everyone she holds dear, a shocking threat to the White House turns everything on its head.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "4 May 2017", 
+            "episodeName": "The Box", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs the future of the country hangs on the balance, Olivia and Fitz are at odds with Rowan, and Jake employs surprising tactics to manipulate the Mystery Woman.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "11 May 2017", 
+            "episodeName": "Head Games", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nWhile outgoing President Fitz considers his legacy, the Gladiators question what's next for OPA, and Jake finally discovers the motivation behind Peus's and the Mystery Woman's reign of terror.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "18 May 2017", 
+            "episodeName": "Tick Tock", 
+            "episodeNumber": 15, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "18 May 2017", 
+            "episodeName": "Transfer of Power", 
+            "episodeNumber": 16, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #7.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }
+    ], 
+    "name": "Scandal", 
+    "plot": "A former White House Communications Director starts her own crisis management firm only to realize her clients are not the only ones with secrets.", 
+    "rating": 7.8, 
+    "releaseDate": "5 April 2012", 
+    "type": "tvserie"
+}

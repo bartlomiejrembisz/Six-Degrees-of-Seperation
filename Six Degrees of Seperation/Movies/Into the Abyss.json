@@ -1,0 +1,29 @@
+{
+    "actorList": [
+        "Werner Herzog", 
+        "Richard Lopez", 
+        "Michael Perry", 
+        "Damon Hall", 
+        "Lisa Stolter-Balloun", 
+        "Charles Richardson", 
+        "Jason Burkett", 
+        "Jared Talbert", 
+        "Amanda West", 
+        "Delbert Burkett", 
+        "Melyssa Thompson-Burkett", 
+        "Fred Allen"
+    ], 
+    "director": [
+        "Werner Herzog"
+    ], 
+    "genres": [
+        "Documentary", 
+        "Crime", 
+        "Drama"
+    ], 
+    "name": "Into the Abyss", 
+    "plot": "Conversations with death row inmate  and those affected by his crime serve as an examination of why people - and the state - kill.", 
+    "rating": 7.3, 
+    "releaseDate": "8 September 2011 (Toronto International Film Festival)", 
+    "type": "movie"
+}

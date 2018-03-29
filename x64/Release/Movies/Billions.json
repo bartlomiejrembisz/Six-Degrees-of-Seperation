@@ -1,0 +1,222 @@
+{
+    "actorList": [
+        "Paul Giamatti", 
+        "Damian Lewis", 
+        "Maggie Siff", 
+        "Malin Akerman", 
+        "Toby Leonard Moore", 
+        "Daniel K. Isaac", 
+        "David Costabile", 
+        "Condola Rashad", 
+        "Kelly AuCoin", 
+        "Ilfenesh Hadera", 
+        "Terry Kinney", 
+        "Dan Soder", 
+        "Malachi Weir", 
+        "Jack Gore", 
+        "Zina Wilde", 
+        "Christopher Paul Richards", 
+        "Asia Kate Dillon", 
+        "Glenn Fleshler", 
+        "Susan Misner", 
+        "Frank Harts"
+    ], 
+    "director": [
+        "Anna Boden", 
+        "Ryan Fleck", 
+        "Neil Burger", 
+        "James Foley"
+    ], 
+    "genres": [
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "1 Jan. 2016", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWhen an inside tip is received it sets off a high stakes game of cat and mouse.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Jan. 2016", 
+            "episodeName": "Naming Rights", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nChuck's probe is derailed temporarily; Axe makes an aggressive move.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Jan. 2016", 
+            "episodeName": "YumTime", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAxe makes an activist play, and the move reverberates back to Chuck.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Feb. 2016", 
+            "episodeName": "Short Squeeze", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAfter getting one of his Portfolio Managers out of trouble with the police, Axe takes a spontaneous trip to see Metallica in concert with his childhood friends. While there, he meets a free spirited young woman who makes him face the limits of his own freedom. He also must fend off a short squeeze-an attack on one of his important holdings-led by Chuck's father. Back in New York, Chuck has an epic day-long proffer session with Pete Decker, learning important facts about the inner workings of Axe Capital. But Chuck must also take action against his own father for his ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Feb. 2016", 
+            "episodeName": "The Good Life", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAxe orders his traders to unload their positions, and he unceremoniously disappears from Axe Capital, plunging the firm into chaos. As Axe questions his life choices and plans a trip on his new yacht, Wags and Wendy struggle to maintain order and morale. In response to Axe's disappearance, Chuck intensifies his investigation, which leads him to a farm in Iowa, where he discovers a key witness to a questionable trade. Armed with the damning evidence, Chuck sends the FBI into Axe Capital to make a surprising arrest.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Feb. 2016", 
+            "episodeName": "The Deal", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe repercussions of the raid on Axe Capital ripple outward. Axe is spoiling for a fight, and plans a scorched-earth defense against this very public attack on his company-threatening his relationship with Wendy in the process. Chuck's interrogation of Dollar Bill does not go as planned, and political pressure mounts for Chuck to recuse himself in the face of a protracted legal battle. Wendy, caught in the middle, engages in deft shuttle diplomacy to facilitate a deal in the best interests of both men. But everything hinges on a fraught face-to-face meeting between ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Mar. 2016", 
+            "episodeName": "The Punch", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe pressure from the US Attorney starts to affect Axe, who gets into a physical altercation with an acquaintance over an incident involving his kids. Chuck continues to conceal his involvement with the case while using the past to get the upper hand. Wendy meets with an attractive headhunter to consider a career change - and more than just job opportunities arise. And the case against Axe Capital gains a powerful weapon when Connerty turns a member of Axe's inner circle into an informant.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Mar. 2016", 
+            "episodeName": "Boasts and Rails", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nNews of an informant reaches Axe. Connerty struggles with the moral landscape of the case. Chuck contemplates cashing in. June's redacted chapter is leaked, releasing skeletons from Bobby's closet.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Mar. 2016", 
+            "episodeName": "Where the F*ck Is Donnie?", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA sudden and mysterious disappearance sends both Axe and Chuck spinning.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Mar. 2016", 
+            "episodeName": "Quality of Life", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFollowing a death, Axe and Wendy do some soul-searching; Chuck suffers a setback; a corrupt judge dismisses the case; Axe takes his revenge.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Apr. 2016", 
+            "episodeName": "Magical Thinking", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAxe deals with emotional turbulence after misreading a potential trade.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2016", 
+            "episodeName": "The Conversation", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nChuck goes in search of Axe, which results in an explosive situation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Feb. 2017", 
+            "episodeName": "Risk Management", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nChuck faces scrutiny from the Attorney General; Axe considers options for retaliation; Wendy entertains an offer from a rival manager; Lara intervenes during a school emergency.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Feb. 2017", 
+            "episodeName": "Dead Cat Bounce", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAxe spars with a rival hedge fund manager; Chuck deploys a team to find a high-profile case; Wendy is questioned.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Mar. 2017", 
+            "episodeName": "Optimal Play", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAxelrod considers buying an NFL team in order to diversify, doing whatever it takes to avoid his fate. Rhoades cultivates a low-level informant.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Mar. 2017", 
+            "episodeName": "The Oath", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nRhoades develops a new strategy. Axelrod considers a major charitable pledge.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Mar. 2017", 
+            "episodeName": "Currency", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nChuck, Connerty and Sacker must rely on an anxious insider who's willing to wear a wire. Meanwhile, Axe's numbers take a big hit, leaving him to scout ideas for a quick play with a huge payoff. Wendy rediscovers her passion for her former job at Axe Capital through an old colleague. The reality of Lara's business starts to affect her marriage.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Mar. 2017", 
+            "episodeName": "Indian Four", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAxe negotiates with a timid seller. Chuck's deal with a defendant fails.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Apr. 2017", 
+            "episodeName": "Victory Lap", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAxe mulls future of Sandicott. Chuck's team discusses their future. Chuck looks to a political future.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Apr. 2017", 
+            "episodeName": "The Kingmaker", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAxe investigates who was behind the breakdown in his Sandicot dealings but faces formidable opposition. Chuck digs up dirt on a political rival. Lara makes a PR trip to Sandicot to ease tensions between the town and the Axelrods. Wendy helps Taylor solve a problem at Axe Capital. Chuck and Senior curry favor with a powerful ally.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Apr. 2017", 
+            "episodeName": "Sic Transit Imperium", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAxe is offered inside information from a former employee and considers whether to use it. Chuck faces external pressure to drop an ongoing investigation. Lara plans a lavish birthday celebration for Axe only to discover he's lied to her about his relationship with Wendy. Chuck is willing to support Ira and Senior's investment in a company about to go public.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Apr. 2017", 
+            "episodeName": "With or Without You", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAxe deals with a family disturbance. Chuck gets vetted for advancement.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Apr. 2017", 
+            "episodeName": "Golden Frog Time", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nChuck finds he has much at stake in Ice Juice; Axe takes out a huge short.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 May 2017", 
+            "episodeName": "Ball in Hand", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "Billions", 
+    "plot": "U.S. Attorney Chuck Rhoades goes after hedge fund king, Bobby \"Axe\" Axelrod in a battle between two powerful New York figures.", 
+    "rating": 8.4, 
+    "releaseDate": "1 January 2016 (internet)", 
+    "type": "tvserie"
+}

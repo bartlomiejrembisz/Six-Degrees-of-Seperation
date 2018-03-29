@@ -1,0 +1,38 @@
+{
+    "actorList": [
+        "Aamir Khan", 
+        "Siddharth", 
+        "Sharman Joshi", 
+        "Kunal Kapoor", 
+        "Atul Kulkarni", 
+        "Alice Patten", 
+        "Soha Ali Khan", 
+        "Steven Mackintosh", 
+        "Madhavan", 
+        "Waheeda Rehman", 
+        "Anupam Kher", 
+        "Kiron Kher", 
+        "Om Puri", 
+        "Lekh Tandon", 
+        "Cyrus Sahukar", 
+        "Mohan Agashe", 
+        "Mukesh Chhabra", 
+        "Pravishi Das", 
+        "Chandan Roy Sanyal", 
+        "Manmeet Singh"
+    ], 
+    "director": [
+        "Rakeysh Omprakash Mehra"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Drama", 
+        "History", 
+        "Romance"
+    ], 
+    "name": "Rang De Basanti", 
+    "plot": "This story is about six friends who help an English filmmaker create a documentary about Indian freedom struggle. During filming, this group of friends learn about those before them and the importance of fighting for their rights.", 
+    "rating": 8.3, 
+    "releaseDate": "26 January 2006", 
+    "type": "movie"
+}

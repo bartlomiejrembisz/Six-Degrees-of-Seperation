@@ -1,0 +1,46 @@
+{
+    "actorList": [
+        "Antonio Banderas", 
+        "Salma Hayek", 
+        "Joaquim de Almeida", 
+        "Cheech Marin", 
+        "Steve Buscemi", 
+        "Carlos G\u00f3mez", 
+        "Quentin Tarantino", 
+        "Tito Larriva", 
+        "Angel Aviles", 
+        "Danny Trejo", 
+        "Abraham Verduzco", 
+        "Carlos Gallardo", 
+        "Albert Michel Jr.", 
+        "David Alvarado", 
+        "Angela Lanza", 
+        "Mike Moroff", 
+        "Robert Arevalo", 
+        "Gerardo Moscoso", 
+        "Peter Marquardt", 
+        "Consuelo G\u00f3mez", 
+        "Jaime de Hoyos", 
+        "Cristos", 
+        "Richie Gaona", 
+        "Mark Dalton", 
+        "Tommy Nix", 
+        "Patricia Vonne", 
+        "Elizabeth Rodriguez", 
+        "Enrique Iglesias", 
+        "Reinol Martinez", 
+        "Diego Sandoval"
+    ], 
+    "director": [
+        "Robert Rodriguez"
+    ], 
+    "genres": [
+        "Action", 
+        "Thriller"
+    ], 
+    "name": "Desperado", 
+    "plot": "A gunslinger is embroiled in a war with a local drug runner.", 
+    "rating": 7.2, 
+    "releaseDate": "May 1995 (Cannes Film Festival)\n (premiere)", 
+    "type": "movie"
+}

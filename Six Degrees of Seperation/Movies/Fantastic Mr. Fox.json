@@ -1,0 +1,49 @@
+{
+    "actorList": [
+        "George Clooney", 
+        "Meryl Streep", 
+        "Jason Schwartzman", 
+        "Bill Murray", 
+        "Wallace Wolodarsky", 
+        "Eric Chase Anderson", 
+        "Michael Gambon", 
+        "Willem Dafoe", 
+        "Owen Wilson", 
+        "Jarvis Cocker", 
+        "Wes Anderson", 
+        "Karen Duffy", 
+        "Robin Hurlstone", 
+        "Hugo Guinness", 
+        "Helen McCrory", 
+        "Roman Coppola", 
+        "Juman Malouf", 
+        "Jeremy Dawson", 
+        "Garth Jennings", 
+        "Brian Cox", 
+        "Tristan Oliver", 
+        "James Hamilton", 
+        "Steven Rales", 
+        "Rob Hersov", 
+        "Jennifer Furches", 
+        "Allison Abbate", 
+        "Molly Cooper", 
+        "Adrien Brody", 
+        "Mario Batali", 
+        "Martin Ballard"
+    ], 
+    "director": [
+        "Wes Anderson"
+    ], 
+    "genres": [
+        "Animation", 
+        "Adventure", 
+        "Comedy", 
+        "Crime", 
+        "Family"
+    ], 
+    "name": "Fantastic Mr. Fox", 
+    "plot": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.", 
+    "rating": 7.8, 
+    "releaseDate": "14 October 2009 (London Film Festival)", 
+    "type": "movie"
+}

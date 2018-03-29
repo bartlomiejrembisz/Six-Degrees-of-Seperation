@@ -1,0 +1,669 @@
+{
+    "actorList": [
+        "Andy Samberg", 
+        "Stephanie Beatriz", 
+        "Terry Crews", 
+        "Melissa Fumero", 
+        "Joe Lo Truglio", 
+        "Chelsea Peretti", 
+        "Andre Braugher", 
+        "Dirk Blocker", 
+        "Joel McKinnon Miller"
+    ], 
+    "director": [
+        "Dean Holland", 
+        "Michael McDonald", 
+        "Craig Zisk", 
+        "Linda Mendoza", 
+        "Victor Nelli Jr.", 
+        "Claire Scanlon", 
+        "Beth McCarthy-Miller", 
+        "Rebecca Asher", 
+        "Tristram Shapeero", 
+        "Eric Appel", 
+        "Julie Anne Robinson", 
+        "Max Winkler", 
+        "Fred Goss", 
+        "Ken Whittingham", 
+        "Michael Schur", 
+        "Trent O'Donnell", 
+        "Ryan Case", 
+        "Payman Benz", 
+        "Nisha Ganatra", 
+        "Alex Reid"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Crime"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "17 Sep. 2013", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nDetective Jake Peralta finds his work scrutinized when new Captain, Ray Holt, takes over at his precinct.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Sep. 2013", 
+            "episodeName": "The Tagger", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhen Jake arrives late for work, Captain Holt decides to shadow him. However, the arrest they make proves complicated. Meanwhile, a psychic friend of Gina's gets inside Charles' head.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Oct. 2013", 
+            "episodeName": "The Slump", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWith a backlog of unsolved cases, Jake finds himself in a slump. Meanwhile, Amy is put in charge of the Junior Police Program for at risk kids, but her efforts to inspire them fall flat.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Oct. 2013", 
+            "episodeName": "M.E. Time", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJake meets an attractive Medical Examiner, but their relationship slows down her work, much to his colleagues' annoyance. Meanwhile, Amy desperately tries to impress Holt.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Oct. 2013", 
+            "episodeName": "The Vulture", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA detective from Major Crimes takes over Jake's nearly solved murder case and steals his thunder.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Oct. 2013", 
+            "episodeName": "Halloween", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nJake makes a foolish bet with Holt that he can steal his Medal of Valor before Halloween is over, while Amy is forced to wear a costume while undercover with Charles.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Nov. 2013", 
+            "episodeName": "48 Hours", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nJake stupidly arrests a male suspect despite having no evidence and only has 48 hours to prove he did it or release him without charge.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Nov. 2013", 
+            "episodeName": "Old School", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nJake is horrified when his hero, Jimmy Brogan, a crime writer, accompanies him on the job, and threatens to quote him in a damning article. Meanwhile, Rosa has to work on her attitude in court.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Nov. 2013", 
+            "episodeName": "Sal's Pizza", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJake's favorite pizza place burns down and he is determined to prove the owner was not responsible. Meanwhile, Amy is jealous of Rosa's being offered a promotion, and Terry and Gina have to hire a new IT specialist.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Nov. 2013", 
+            "episodeName": "Thanksgiving", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAmy hosts a Thanksgiving dinner at her apartment for everyone at the precinct, but it soon turns into a disaster.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Dec. 2013", 
+            "episodeName": "Christmas", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhen Holt receives death threats, he surprisingly puts Jake in charge of his security. Meanwhile, Terry undergoes a psych evaluation, and Amy tries to make the perfect holiday card for Holt.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Jan. 2014", 
+            "episodeName": "Pontiac Bandit", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nJake convinces Rosa to make a deal with a criminal in order to catch a car thief, while Charles makes an awkward return to the precinct, and Holt tries to get rid of two puppies.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Jan. 2014", 
+            "episodeName": "The Bet", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhile Holt holds a celebration for Charles after he is awarded the Medal of Valor, Amy is forced to go on a ridiculous date with Jake after she loses their long running bet.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Jan. 2014", 
+            "episodeName": "The Ebony Falcon", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nJake begins to have second thoughts about putting Terry back in the field for a dangerous undercover assignment, while Rosa and Amy try to help Gina after she is robbed.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Feb. 2014", 
+            "episodeName": "Operation: Broken Feather", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nJake is hurt when Amy tells him that she is considering leaving the precinct, while Terry helps Holt redesign the precinct to make everyone more productive.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Feb. 2014", 
+            "episodeName": "The Party", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe officers in the precinct head over to Holt's house to celebrate his birthday, but they wind up making a poor impression on his husband.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Feb. 2014", 
+            "episodeName": "Full Boyle", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nJake tries to keep Charles from going \"full Boyle\" on his new girlfriend. Meanwhile, Rosa and Amy are reluctant to help an amateur caped crime fighter, and Holt faces competition for the presidency of a police organization he founded.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Feb. 2014", 
+            "episodeName": "The Apartment", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nDue to his crippling debt, Jake faces losing his apartment, and asks Gina for help. Rosa and Charles clash with one of the weekend officers, and Holt and Terry ask their officers to conduct self-evaluations.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Mar. 2014", 
+            "episodeName": "Tactical Village", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nJake tries to set a new record on a training course, Rosa is angry when she does not get an invite to Charles' wedding, and Gina helps Holt overcome his newfound addiction to a game on his smartphone.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Mar. 2014", 
+            "episodeName": "Fancy Brudgom", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nJake tries to convince Charles to stand up to Vivian before the wedding, Terry struggles to stick to a diet after Amy and Gina give up, and Holt tries to get Rosa to make a sincere apology to an officer she offended.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Mar. 2014", 
+            "episodeName": "Unsolvable", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nJake and Terry try to solve an apparently unsolvable case, Amy lies to Holt in order to dodge work and escape for a romantic weekend away, while Gina and Rosa introduce Charles to \"Babylon\", their secret bathroom.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Mar. 2014", 
+            "episodeName": "Charges and Specs", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nJake's latest investigation results in administrative leave, and, ultimately, his firing from the NYPD. Meanwhile, Charles goes into a funk after Vivian breaks up with him before their wedding, and the others try to cheer him up.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Sep. 2014", 
+            "episodeName": "Undercover", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nJake's undercover operation ends in a successful sting, until he learns one mobster has gotten away. Jake enlists Charles' help to track him down, and Holt tests the squad with practice drills. But can Charles keep his new secret from Jake?    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Oct. 2014", 
+            "episodeName": "Chocolate Milk", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHolt's old nemesis is in charge of the precinct inspection, Peralta and Jeffords investigate a stabbing before Jeffords goes in for his vasectomy, and Boyle needs a plus-one for his ex-wife's wedding.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Oct. 2014", 
+            "episodeName": "The Jimmy Jab Games", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe precinct holds a competition while on stand-by for a motorcade, Holt has another run-in with Deputy Chief Wuntch, Boyle needs to get an incriminating videotape from Hitchcock, and Rosa thinks Peralta still has feelings for Santiago.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Oct. 2014", 
+            "episodeName": "Halloween II", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe Peralta/Holt annual Halloween bet continues when Jake challenges the Captain that he can steal his watch before midnight. Meanwhile, Gina is upset that her dance team, Floorgasm, kicks her off the squad and Terry confronts her about her bad attitude.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Nov. 2014", 
+            "episodeName": "The Mole", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThere's a mole in the precinct and Holt and Jake need to find out who it is before Deputy Chief Madeline Wuntch gets wind of it. Meanwhile, Terry and Rosa visit a \"silent\" disco to uncover new leads for their new drug task force.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Nov. 2014", 
+            "episodeName": "Jake and Sophia", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nJake hits it off with a woman at a bar, but later finds out she is the attorney for a perp he is trying to put in jail. Meanwhile, Gina and Charles work to put their relationship behind them, and Amy is pressured into running for union rep.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Nov. 2014", 
+            "episodeName": "Lockdown", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe precinct goes into lockdown mode on Thanksgiving night, and Jake, who was left in charge, is confident in his ability to keep spirits high and avoid chaos. Amy is less confident, as things spiral out of control.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Nov. 2014", 
+            "episodeName": "USPIS", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhile attempting to catch a drug dealer, Jake and Charles reluctantly join forces with the nerdy lead investigator at the U.S. Postal Service, Jack Danger. Meanwhile, the rest of the team helps Amy quit smoking.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Nov. 2014", 
+            "episodeName": "The Road Trip", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJake and Amy have a case early in the morning, so they stay at a hotel overnight. Jake invites Sophia and Amy's boyfriend not knowing that Amy is planning on breaking up with him.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Dec. 2014", 
+            "episodeName": "The Pontiac Bandit Returns", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe Pontiac Bandit aka Doug Judy, is back in custody, after jamming up Jake and Rosa in his previous encounter with them. But when Rosa discovers that Judy knows the whereabouts of the \"Giggle Pig\" drug leader, Capt. Holt offers the perp a plea deal to help track down the drug kingpin. Meanwhile, Gina and Boyle are nervous that their parents might be getting too close, and Santiago makes Holt a Christmas gift against his wishes.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Dec. 2014", 
+            "episodeName": "Stakeout", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nJake and Boyle go on a stakeout, Rosa shows interest in Holt's nephew, and Terry writes a book for his daughters.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Jan. 2015", 
+            "episodeName": "Beach House", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe precinct's annual getaway to Boyle's beach house is ruined when Holt guilts Peralta into inviting him along for the festivities.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Jan. 2015", 
+            "episodeName": "Payback", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nJake goes to great lengths to keep Terry's secret from the rest of the precinct, and Amy gets her chance to partner up with captain Holt.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Jan. 2015", 
+            "episodeName": "Defense Rests", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nJake to tries to impress Sophia's boss. Gina refuses to give her blessing to her mom's engagement. Holt faces a difficult decision.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Feb. 2015", 
+            "episodeName": "Windbreaker City", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nJake is heartbroken over Sophia, but his spirits are lifted when the squad is invited to a Homeland Security terrorist training simulation.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Feb. 2015", 
+            "episodeName": "The Wednesday Incident", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nPeralta sets out to prove that--for once--he is not the source of captain Holt's bad mood. Boyle apprehends a notorious bank robber, who turns out to a harmless-looking old man whom nobody else believes committed the crime.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Mar. 2015", 
+            "episodeName": "Boyle-Linetti Wedding", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nIt's the day of Gina and Charles' parents' wedding, and the whole squad is given a job to fulfill for the ceremony. However, Jake and Amy get sidetracked chasing a criminal, and Terry struggles to officiate the wedding.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Mar. 2015", 
+            "episodeName": "Captain Peralta", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nJake's mainly absentee father, Roger (guest star Bradley Whitford), comes to town to spend some time with his son. Jake can't wait to see him, but Charles is skeptical of Roger's intentions. Meanwhile, Holt tasks Amy, Terry, Gina and Rosa with an impossible brain teaser in exchange for Beyonc\u00e9 tickets.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Mar. 2015", 
+            "episodeName": "Sabotage", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAmy and Rosa investigate Jake's claim that somebody is trying to sabotage him and get him fired. Boyle partners up with Hitchcock and Scully to solve a case. Captain Holt refuses to lie with Terry about attending Gina's dance performance.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Apr. 2015", 
+            "episodeName": "AC/DC", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nJake is badly injured trying to chase a suspect, but he refuses to take time off from the job. Holt and Rosa have a awkward dinner date with their significant others, so they invite Amy and Gina along as well.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 May 2015", 
+            "episodeName": "Det. Dave Majors", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nJake is jealous when a detective from another precinct wants to ask Amy out on a date. Linetti and Boyle try to keep Jeffords from taking a job with a private firm, but captain Holt seems to be pushing him out the door.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 May 2015", 
+            "episodeName": "The Chopper", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nWhen Wuntch lets Jake work his dream case, Holt worries she is setting them up to fail. Meanwhile, Terry hopes to get his girls off the wait list for a magnet school by hosting a field trip.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 May 2015", 
+            "episodeName": "Johnny and Dora", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nWhen Jake and Amy go under cover to catch an identity thief, the investigation brings them closer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Sep. 2015", 
+            "episodeName": "New Captain", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nNobody in the precinct likes the new captain, Wunsch continues to humiliate Holt as he takes his new job in Public Relations, and Jake and Amy try to figure out what to do next after their kiss.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Oct. 2015", 
+            "episodeName": "The Funeral", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe Nine-Nine gets another personnel change that could put Jake and Amy's budding relationship at risk. Meanwhile, Terry assists Holt with an important public relations matter, and Rosa and Gina try to convince Charles to rethink his affection for a fellow officer.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Oct. 2015", 
+            "episodeName": "Boyle's Hunch", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJake thinks Boyle might have met his soul-mate in Genevieve, an art gallery owner, and he tries to help set them up. Meanwhile, Rosa deals with inter-precinct theft and Holt seeks Amy's help with an image campaign.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Oct. 2015", 
+            "episodeName": "The Oolong Slayer", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJake and Holt both get in trouble when they work on a serial killer case together in secret. The Vulture asks Amy and Rosa set up his birthday party. Boyle introduces Terry to a delicious new snack.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Oct. 2015", 
+            "episodeName": "Halloween III", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nFor this year's Halloween challenge, Jake and Holt divide the precinct into teams as they try to see who can steal a crown held under lock and key in the interrogation room.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Nov. 2015", 
+            "episodeName": "Into the Woods", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nJake and Charles talk Terry into going camping; Rosa receives relationship advice from Holt; Gina helps Amy prepare for a presentation.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Nov. 2015", 
+            "episodeName": "The Mattress", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nJake and Amy work together on a case, and wind up arguing over Jake's old, worn-out mattress. Meanwhile, Boyle scratches Holt's prized car, and the teenage boy Rosa sponsors as a \"big brother\" is in trouble with the law.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Nov. 2015", 
+            "episodeName": "Ava", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nJake entertains Terry's pregnant wife, Sharon, until her water breaks sooner than expected and crisis ensues at the precinct.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Dec. 2015", 
+            "episodeName": "The Swedes", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJake and Rosa investigate a case in which they have to assist InterPol. Amy and Terry team up to help Gina study for an exam, while Captain Holt recruits Charles to double with him in a squash tournament.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Dec. 2015", 
+            "episodeName": "Yippie Kayak", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nJake, Charles and Gina get into trouble while doing last-minute Christmas shopping, Terry tries to make it through the holidays without a call from the precinct, and Amy takes part in a \"Polar Swim\" with Holt and Diaz.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Jan. 2016", 
+            "episodeName": "Hostage Situation", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nJake helps Charles reclaim the rights to his sperm from his ex-wife, Amy accidentally breaks Terry's nose after asking for a recommendation, and Gina helps interrogate a suspect who refuses to speak to anyone but her.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Jan. 2016", 
+            "episodeName": "9 Days", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nPeralta and Holt contract the Mumps while working on a cold case. Terry takes over the precinct in his place, but his ambitious plans ultimately fail. Boyle is sad over the death of his dog, but Diaz doesn't understand it.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Jan. 2016", 
+            "episodeName": "The Cruise", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nJake comes face-to-face with his old nemesis Doug Judy as he and Amy go on a cruise. Meanwhile, Holt's sister comes to town for a visit, and Diaz and Boyle fight over a rent-controlled apartment which was a crime scene.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 Feb. 2016", 
+            "episodeName": "Karen Peralta", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nOn Jake's birthday, his Mom tells him she is back together with his hated father. Meanwhile, Charles has an embarrassing moment with a body cam, and Holt's \"Escape the Room\" exercise for the Nine-Nine does not go as planned.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 Feb. 2016", 
+            "episodeName": "The 9-8", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nChaos ensues when the Nine-Nine is forced to share their station with the Nine-Eight precinct while their station is closed, and Charles consequently becomes jealous of Jake's old partner, who is an officer in the Nine-Eight.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Feb. 2016", 
+            "episodeName": "House Mouses", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen Jake insults Hitchcock and Scully's work ethic in the precinct, they force their way into one of his cases in attempt to prove themselves. Meanwhile, Amy and Gina help Rosa conquer one of her biggest fears, and Holt and Boyle work a celebrity case.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Feb. 2016", 
+            "episodeName": "Adrian Pimento", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe precinct gains a new detective who has just completed a 12-year undercover job with the mob, Charles' latest mess prompts the janitors to refuse to clean the precinct, and Gina directs a video for Holt.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Mar. 2016", 
+            "episodeName": "Cheddar", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhile Holt is en route to visit Kevin in Paris, Jake and Amy inadvertently lose his dog. Meanwhile, Charles has laser eye surgery, and the sexual tension between Rosa and Adrian Pimento disgusts Terry.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Mar. 2016", 
+            "episodeName": "Terry Kitties", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nTerry enlists Jake's help in solving a twenty year old case which his old precinct never let him forget, Charles allows Adrian Pimento to stay at his place and soon regrets it, while Amy, Rosa and Holt attend a class together.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Mar. 2016", 
+            "episodeName": "Paranoia", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe precinct tries to set up perfect bachelor and bachelorette parties for Adrian and Rosa after they announce their engagement, but Adrian's party falls apart when he tells everyone that someone is stalking him and steals the party bus.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Apr. 2016", 
+            "episodeName": "Maximum Security", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nWith Adrian off the grid and in hiding, the rest of the squad scramble to track down the sister of Figgis, the mobster behind the operation, and throw a fake funeral to flush out Figgis' hit man.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Apr. 2016", 
+            "episodeName": "Bureau", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nWhile Amy continues to work on Figgis' sister Maura on the inside, Jake, Rosa and Holt team up with Bob Annderson to track down the FBI mole. Meanwhile, Gina helps Terry work out the culprit behind a press leak.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Apr. 2016", 
+            "episodeName": "Greg and Larry", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nAfter a surprising turn of events in the Nine-Nine's attempt to track down Adrian Pimento's hitman, the precinct drops everything when they suspect Holt is in danger.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Sep. 2016", 
+            "episodeName": "Coral Palms, Part 1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nJake and Holt adjust to their new lives in Florida under the Witness Protection Program while Jimmy \"The Butcher\" Figgis remains on the loose.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Sep. 2016", 
+            "episodeName": "Coral Palms, Part 2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nJake and Holt plan their attack on Jimmy \"The Butcher\" Figgis, only to end up on the other side of the interrogation table.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Oct. 2016", 
+            "episodeName": "Coral Palms, Part 3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe team goes to Florida to help Jake and Holt take down Jimmy Figgis, but their plan falls through due to an unexpected injury and another interruption from Sheriff Reynolds.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Oct. 2016", 
+            "episodeName": "The Night Shift", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJake enlists the help of Jess Day, who's visiting New York, with his first case back at the precinct. In the meantime, Holt tries to increase office morale and Amy wants to know why Rosa is taking such long breaks.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Oct. 2016", 
+            "episodeName": "Halloween IV", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe squad competes in the annual Halloween heist to win the title of Ultimate Detective Slash Genius.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Nov. 2016", 
+            "episodeName": "Monster in the Closet", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe Nine-Nine throws a wedding for Pimento and Rosa.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Nov. 2016", 
+            "episodeName": "Mr. Santiago", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAmy's father, a former cop, comes to Thanksgiving dinner and Jake tries to impress him, leaving Charles on turkey duty. In the meantime, Holt helps Pimento come to terms with the fact that he can no longer be a police officer.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Nov. 2016", 
+            "episodeName": "Skyfire Cycle", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nTerry meets his lifelong hero, a famous author who's received death threats. In other events, Gina tries to choose the location of the Boyle family vacation and Amy sides with Kevin in his argument with Holt over a math puzzle.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Dec. 2016", 
+            "episodeName": "The Overmining", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJake and Holt help Captain CJ with a big case.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Dec. 2016", 
+            "episodeName": "Captain Latvia", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nJake and Charles face off against a Latvian criminal ring when Jake helps Charles find his son's favorite toy for Christmas.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Jan. 2017", 
+            "episodeName": "The Fugitive Pt. 1; The Fugitive Pt. 2", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe squad goes on a manhunt for a group of convicts who've escaped from a prison van on the streets of Brooklyn. When one fugitive is still loose, Jake gains a surprising ally.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Apr. 2017", 
+            "episodeName": "The Audit", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe squad tries to save their precinct from getting shut down when it's being audited by Amy's ex-boyfriend Teddy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "Serve & Protect", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nJake and Rosa investigate a case of burglary that occurred on the set of one of their favorite detective shows as Terry's ex takes over auditing the Nine-Nine.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Apr. 2017", 
+            "episodeName": "The Last Ride", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nJake and Charles search for a bike thief on what may be their last case together.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 May 2017", 
+            "episodeName": "Moo Moo", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nTerry and Holt have different ideas for dealing with a fellow police officer who creates trouble for Terry in his own neighborhood.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 May 2017", 
+            "episodeName": "Cop-Con", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nHolt tells the squad to be on their best behavior at Cop-Con.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 May 2017", 
+            "episodeName": "Chasing Amy", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAmy disappears just before the Sergeant exam.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 May 2017", 
+            "episodeName": "Your Honor", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nCaptain Holt's mother comes to the precinct for help when her house is robbed.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 May 2017", 
+            "episodeName": "The Slaughterhouse", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nJake and Rosa attempt to earn their idol's respect.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 May 2017", 
+            "episodeName": "Episode #4.21", 
+            "episodeNumber": 21, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 May 2017", 
+            "episodeName": "Episode #4.22", 
+            "episodeNumber": 22, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }
+    ], 
+    "name": "Brooklyn Nine-Nine", 
+    "plot": "Jake Peralta, an immature but talented NYPD detective in Brooklyn's 99th Precinct, comes into immediate conflict with his new commanding officer, the serious and stern Captain Ray Holt.", 
+    "rating": 8.3, 
+    "releaseDate": "17 September 2013", 
+    "type": "tvserie"
+}

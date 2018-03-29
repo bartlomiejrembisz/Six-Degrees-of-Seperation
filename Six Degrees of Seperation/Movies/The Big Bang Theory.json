@@ -1,0 +1,1990 @@
+{
+    "actorList": [
+        "Johnny Galecki", 
+        "Jim Parsons", 
+        "Kaley Cuoco", 
+        "Simon Helberg", 
+        "Kunal Nayyar", 
+        "Melissa Rauch", 
+        "Mayim Bialik"
+    ], 
+    "director": [
+        "Mark Cendrowski", 
+        "Anthony Rich", 
+        "Peter Chakos", 
+        "Nicole Lorre", 
+        "James Burrows", 
+        "Howard Murray"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Romance"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "1 May 2006", 
+            "episodeName": "Unaired Pilot", 
+            "episodeNumber": 0, 
+            "episodePlot": "\nThe first Pilot of what will become \"The Big Bang Theory\". Leonard and Sheldon are two awkward scientists who share an apartment. They meet a drunk girl called Katie and invite her to stay at their place, because she has nowhere to stay. The two guys have a female friend, also a scientist, called Gilda.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Sep. 2007", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA pair of socially awkward theoretical physicists meet their new neighbor Penny, who is their polar opposite.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Oct. 2007", 
+            "episodeName": "The Big Bran Hypothesis", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nPenny is furious with Leonard and Sheldon when they sneak into her apartment and clean it while she is sleeping.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Oct. 2007", 
+            "episodeName": "The Fuzzy Boots Corollary", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nLeonard gets upset when he discovers that Penny is seeing a new guy, so he tries to trick her into going on a date with him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Oct. 2007", 
+            "episodeName": "The Luminous Fish Effect", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nSheldon's mother is called to intervene when he delves into numerous obsessions after being fired for being disrespectful to his new boss.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Oct. 2007", 
+            "episodeName": "The Hamburger Postulate", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nLeslie seduces Leonard, but afterwards tells him that she is only interested in a one-night stand.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Oct. 2007", 
+            "episodeName": "The Middle Earth Paradigm", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe guys are invited to Penny's Halloween party, where Leonard has yet another run-in with Penny's ex-boyfriend Kurt.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Nov. 2007", 
+            "episodeName": "The Dumpling Paradox", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen Howard hooks up with Penny's old friend, his absence in the gang causes problems for the rest of the guys.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Nov. 2007", 
+            "episodeName": "The Grasshopper Experiment", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhen Raj's parents set him up on a blind date, he finds he can talk to women with the aid of alcohol.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2008", 
+            "episodeName": "The Cooper-Hofstadter Polarization", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nLeonard and Sheldon's friendship is put to the test when Leonard wants to present a paper they co-authored at a physics convention, but Sheldon doesn't.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Mar. 2008", 
+            "episodeName": "The Loobenfeld Decay", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nLeonard lies to Penny so that he and Sheldon can get out of watching her perform. However, Sheldon believes that the lie has too many loose ends, so he comes up with a new, unnecessarily complex one to replace it.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2008", 
+            "episodeName": "The Pancake Batter Anomaly", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhen Sheldon gets sick, Leonard, Howard and Raj go AWOL, leaving a reluctant Penny to deal with him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Apr. 2008", 
+            "episodeName": "The Jerusalem Duality", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nSheldon decides to give up his work and focus on other tasks when a 15-year-old prodigy joins the university, so the other guys come up with a plan to get rid of him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2008", 
+            "episodeName": "The Bat Jar Conjecture", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nSheldon becomes so intent on demonstrating his intellectual superiority over the other guys that they kick him off the Physics Bowl team and replace him with his nemesis, Leslie.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Apr. 2008", 
+            "episodeName": "The Nerdvana Annihilation", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nPenny gets mad at the guys when their full scale model of a time machine causes her to miss work, which prompts Leonard to give up all of his nerd memorabilia.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 May 2008", 
+            "episodeName": "The Pork Chop Indeterminacy", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nLeonard, Howard and Raj fight over Sheldon's twin sister when she arrives in town. Raj takes part in a drug trial to suppress his selective mutism.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 May 2008", 
+            "episodeName": "The Peanut Reaction", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen Penny learns that Leonard has never had a birthday party, she and the rest of the guys plan a surprise party for him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 May 2008", 
+            "episodeName": "The Tangerine Factor", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nAfter a bad breakup, Penny finally agrees to go out on a date with Leonard, however they both develop doubts and turn to Sheldon for advice.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Sep. 2008", 
+            "episodeName": "The Bad Fish Paradigm", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nLeonard becomes concerned when his date with Penny ends abruptly and she starts blowing him off. When told the truth, Sheldon would rather move out than keep Penny's reasons a secret from Leonard.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Sep. 2008", 
+            "episodeName": "The Codpiece Topology", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nSheldon is annoyed when Leonard turns to Leslie for comfort after seeing Penny with another guy.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Oct. 2008", 
+            "episodeName": "The Barbarian Sublimation", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nSheldon introduces Penny to online gaming, however she refuses to quit after becoming addicted.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Oct. 2008", 
+            "episodeName": "The Griffin Equivalency", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe guys struggle to cope with Raj's arrogance after he is featured in a People magazine article.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Oct. 2008", 
+            "episodeName": "The Euclid Alternative", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSheldon annoys the gang when Leonard can't drive him to and from work, so they try to teach him how to drive.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Nov. 2008", 
+            "episodeName": "The Cooper-Nowitzki Theorem", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nSheldon is flattered when a graduate student takes a shine to him, however her extreme devotion becomes too much to handle.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Nov. 2008", 
+            "episodeName": "The Panty Pi\u00f1ata Polarization", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nPenny plans revenge when Sheldon bans her from his and Leonard's apartment, while Howard and Raj use the latest technology to try to find the house being used in \"America's Next Top Model.\"    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Nov. 2008", 
+            "episodeName": "The Lizard-Spock Expansion", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nLeonard and Howard's friendship is jeopardised when Leonard steals a girl from Howard.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Nov. 2008", 
+            "episodeName": "The White Asparagus Triangulation", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSheldon believes that Leonard will wreck his relationship with Stephanie, so he decides to take matters into his own hands.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Dec. 2008", 
+            "episodeName": "The Vartabedian Conundrum", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nLeonard tries to slow down his relationship with Stephanie when he realizes that they are living together, while Sheldon becomes convinced that he has an untraceable disease.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Dec. 2008", 
+            "episodeName": "The Bath Item Gift Hypothesis", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nLeonard is disappointed when Penny develops an interest in an attractive physicist at the university. Meanwhile, Sheldon struggles to find an appropriate Christmas gift for Penny.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Jan. 2009", 
+            "episodeName": "The Killer Robot Instability", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nHoward becomes depressed after Penny makes a cruel statement about his love life, while the rest of the guys prepare for a grudge killer robot duel against an obnoxious colleague at the university.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Jan. 2009", 
+            "episodeName": "The Friendship Algorithm", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nSheldon tries to make friends with Kripke in the hope that it will get him access to a coveted computer at the university.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Mar. 2009", 
+            "episodeName": "The Financial Permeability", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nLeonard and Sheldon try to help out Penny when she can't afford to pay her rent.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Feb. 2009", 
+            "episodeName": "The Maternal Capacitance", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nSheldon hits it off with Leonard's psychoanalyst mother, but she drives Leonard and Penny to the bottle.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 May 2009", 
+            "episodeName": "The Cushion Saturation", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nHoward hooks up with Leslie, while Penny accidentally ruins Sheldon's spot on the couch.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Mar. 2009", 
+            "episodeName": "The Terminator Decoupling", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nOn a train to San Francisco, Howard, Raj and Leonard fight for the affections of sci-fi star Summer Glau, while Sheldon is forced to turn to Penny for help when he leaves his flash drive behind.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Mar. 2009", 
+            "episodeName": "The Work Song Nanocluster", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nSheldon's assistance with Penny's home-based business leads to disaster.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Mar. 2009", 
+            "episodeName": "The Dead Hooker Juxtaposition", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nPenny becomes jealous when a gorgeous new neighbor attracts the guys' attention.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Apr. 2009", 
+            "episodeName": "The Hofstadter Isotope", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nLeonard is so upset when a friend from the comic book store begins dating Penny that he convinces Howard and Raj to take him to a bar so that he can pick up a woman of his own.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Apr. 2009", 
+            "episodeName": "The Vegas Renormalization", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAfter being dumped by Leslie, Howard heads to Las Vegas with Leonard and Raj. Meanwhile, Penny is forced to take in Sheldon after he locks himself out of his apartment.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 May 2009", 
+            "episodeName": "The Classified Materials Turbulence", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nPenny's second date with Stuart has significant implications for Leonard. Howard enlists the guys' help with one of his NASA projects.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 May 2009", 
+            "episodeName": "The Monopolar Expedition", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nPenny gets upset when she finds out Leonard and the guys plan to work at the North Pole for the summer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Sep. 2009", 
+            "episodeName": "The Electric Can Opener Fluctuation", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter returning from the North Pole, a conflict among the guys sends Sheldon back to Texas and interferes with Leonard's reunion with Penny.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Sep. 2009", 
+            "episodeName": "The Jiminy Conjecture", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nLeonard and Penny's first night together goes awkwardly. Sheldon and Howard wager on the species of a cricket.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Oct. 2009", 
+            "episodeName": "The Gothowitz Deviation", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nSheldon attempts to covertly alter Penny's habits, while Howard and Raj try their luck meeting women at a Goth-style club.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Oct. 2009", 
+            "episodeName": "The Pirate Solution", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhen Raj has to find a new job or be sent back to India, Sheldon's solution leaves Leonard and Penny dealing with Howard as the third wheel.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Oct. 2009", 
+            "episodeName": "The Creepy Candy Coating Corollary", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nLeonard is forced to ask Penny to set Howard up with one of her friends, while Sheldon seeks payback against sci-fi star Wil Wheaton.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 Nov. 2009", 
+            "episodeName": "The Cornhusker Vortex", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nLeonard tries to learn about football to fit in with Penny's friends. Meanwhile, a loss in a kite war threatens to end Raj and Howard's friendship.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 Nov. 2009", 
+            "episodeName": "The Guitarist Amplification", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nSheldon is caught in the middle when Leonard and Penny argue about Penny's friend staying at her apartment.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Nov. 2009", 
+            "episodeName": "The Adhesive Duck Deficiency", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nPenny is forced to turn to Sheldon for help when she dislocates her shoulder in the bathtub. Meanwhile, the rest of the guys accidentally get stoned in the desert while waiting for a meteor shower.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Nov. 2009", 
+            "episodeName": "The Vengeance Formulation", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSheldon plans revenge after Kripke humiliates him on the radio. Howard develops doubts about his relationship with Bernadette.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Dec. 2009", 
+            "episodeName": "The Gorilla Experiment", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nSheldon attempts to help Penny understand physics to impress Leonard, while Howard becomes jealous when Bernadette takes an interest in Leonard's research.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Dec. 2009", 
+            "episodeName": "The Maternal Congruence", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nLeonard's mother makes a visit to his dismay and Sheldon's delight.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jan. 2010", 
+            "episodeName": "The Psychic Vortex", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nRaj talks Sheldon into being his wingman at a university mixer. Leonard has trouble dealing with Penny consulting a psychic.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Jan. 2010", 
+            "episodeName": "The Bozeman Reaction", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhen their apartment is robbed, Leonard and Sheldon turn to Howard and Raj to create a state-of-the-art security system.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Feb. 2010", 
+            "episodeName": "The Einstein Approximation", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nSheldon wreaks havoc when he is stumped by a difficult physics question.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Feb. 2010", 
+            "episodeName": "The Large Hadron Collision", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhen Leonard is offered a trip to Switzerland on Valentine's Day to visit the CERN laboratory, Sheldon uses any and all means to be his guest instead of Penny.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Mar. 2010", 
+            "episodeName": "The Excelsior Acquisition", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nSheldon misses an opportunity to get Stan Lee's autograph because he has to make an appearance in traffic court.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Mar. 2010", 
+            "episodeName": "The Precious Fragmentation", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe guys' friendship is threatened when they find a ring from the \"Lord of the Rings\" trilogy.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Mar. 2010", 
+            "episodeName": "The Pants Alternative", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nSheldon seeks help from the rest of the gang in overcoming his fear of public speaking when he receives an award.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Apr. 2010", 
+            "episodeName": "The Wheaton Recurrence", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nSheldon takes on Wil Wheaton in a game of bowling. Leonard and Penny's relationship comes to a crossroad.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 May 2010", 
+            "episodeName": "The Spaghetti Catalyst", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nSheldon is forced to go behind Leonard's back to spend time with Penny following their breakup.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 May 2010", 
+            "episodeName": "The Plimpton Stimulation", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nChaos ensues when a nymphomaniac physicist visiting Sheldon hooks up with Leonard.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 May 2010", 
+            "episodeName": "The Staircase Implementation", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nLeonard tells Penny about how he and Sheldon became roommates and what happened to the elevator.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 May 2010", 
+            "episodeName": "The Lunar Excitation", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nPenny has a night of angry, drunken sex with Leonard, much to his confusion. Meanwhile, Howard and Raj search for Sheldon's perfect match online.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Sep. 2010", 
+            "episodeName": "The Robotic Manipulation", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nPenny ends up tagging along on Sheldon's first ever date with Amy, while Howard finds an unusual use for a robotic arm.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Sep. 2010", 
+            "episodeName": "The Cruciferous Vegetable Amplification", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhen Sheldon calculates the technology to download his consciousness into a robot won't be invented soon enough, he desperately tries to find a way to increase his lifespan.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Oct. 2010", 
+            "episodeName": "The Zazzy Substitution", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nFollowing his 'breakup' with Amy, the gang become concerned with Sheldon's obsessive search for non-human companionship and call his mother to intervene.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Oct. 2010", 
+            "episodeName": "The Hot Troll Deviation", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHoward tries to get Penny's help in winning back Bernadette, but first has to confess the embarrassing reason why they broke up in the first place. Raj and Sheldon clash over a desk.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Oct. 2010", 
+            "episodeName": "The Desperation Emanation", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSheldon is scared that he is in a relationship when Amy asks him to meet her mother, and Leonard asks Howard and Bernadette to set him up because he is the only person in the group without a girlfriend.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Oct. 2010", 
+            "episodeName": "The Irish Pub Formulation", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nLeonard tries to keep everyone from finding out that he spent the night with Raj's sister, but Sheldon finds out and concocts an elaborate story to help him keep the secret from Raj.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Dec. 2010", 
+            "episodeName": "The Apology Insufficiency", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAn FBI agent interviews the guys when Howard needs to obtain a security clearance.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Nov. 2010", 
+            "episodeName": "The 21-Second Excitation", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe guys camp out all night waiting to see an extended cut of Indiana Jones, while Amy joins in on girls' night with Penny and Bernadette.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Nov. 2010", 
+            "episodeName": "The Boyfriend Complexity", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nPenny asks Leonard to pose as her boyfriend when her father visits. Howard, Raj and Bernadette have an awkward encounter when they spend the evening together.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Dec. 2010", 
+            "episodeName": "The Alien Parasite Hypothesis", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAmy finds she has sexual feelings for Penny's ex-boyfriend Zack, while Raj and Howard try to prove who would be the better superhero.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Dec. 2010", 
+            "episodeName": "The Justice League Recombination", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe guys enter a costume contest as members of the Justice League and convince Penny and Zack to join them.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Jan. 2011", 
+            "episodeName": "The Bus Pants Utilization", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nLeonard has an idea for a new smartphone app and asks the guys for help, however Sheldon tries to take over the project, and Leonard fires him.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Jan. 2011", 
+            "episodeName": "The Love Car Displacement", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nChaos ensues when the gang spend the weekend together at a science convention.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Feb. 2011", 
+            "episodeName": "The Thespian Catalyst", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nTo improve his skills as an instructor, Sheldon asks Penny to give him acting lessons. Meanwhile, Raj begins having impure fantasies about Bernadette.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Feb. 2011", 
+            "episodeName": "The Benefactor Factor", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nTo secure needed funding for the university, Sheldon convinces Leonard to get friendly with a wealthy benefactor.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Feb. 2011", 
+            "episodeName": "The Cohabitation Formulation", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nBernadette makes Howard choose between herself and his mother, while Penny and Raj become upset when Priya returns to town and resumes her relationship with Leonard.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Feb. 2011", 
+            "episodeName": "The Toast Derivation", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nSheldon becomes concerned when everybody begins to hang out at Raj's apartment and discovers Leonard is the center of the group.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Mar. 2011", 
+            "episodeName": "The Prestidigitation Approximation", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nPriya forces Leonard to choose between a relationship with her or a friendship with Penny. A magic trick by Howard has Sheldon fooled.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "31 Mar. 2011", 
+            "episodeName": "The Zarnecki Incursion", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nThe guys go all out to help Sheldon find the person responsible for hacking his online gaming account, while the girls' hatred for Priya increases.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Apr. 2011", 
+            "episodeName": "The Herb Garden Germination", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nSheldon and Amy secretly experiment on the gang by spreading rumors when they hear that Bernadette is thinking about breaking up with Howard.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Apr. 2011", 
+            "episodeName": "The Agreement Dissection", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nWhen Priya finds a loophole in the roommate agreement to throw Sheldon out for the night, Penny, Amy and Bernadette take him to a nightclub.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 May 2011", 
+            "episodeName": "The Wildebeest Implementation", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nSheldon invents a three-player chess game, Penny and Amy use Bernadette to spy on Leonard and Priya, and Raj tries a new drug to treat his social anxiety.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 May 2011", 
+            "episodeName": "The Engagement Reaction", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nHoward believes that his mom suffered a heart attack because he told her that he's marrying Bernadette, Sheldon freaks out over germs, and Penny and Priya bond.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 May 2011", 
+            "episodeName": "The Roommate Transmogrification", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nRaj moves in with Sheldon after hearing Leonard and Priya engage in a Star Trek fantasy in his apartment. Bernadette receives her doctorate.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Sep. 2011", 
+            "episodeName": "The Skank Reflex Analysis", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe gang deal with the fallout from Penny and Raj's night together. Amy counsels Penny when she considers moving back to Nebraska, Bernadette confronts Raj about his crush on her, and Sheldon takes charge of the paintball team.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Sep. 2011", 
+            "episodeName": "The Infestation Hypothesis", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAmy gets inadvertently caught in the middle of a fight between Sheldon and Penny over a chair. Leonard tries to add some spice to his long-distance relationship with Priya.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Sep. 2011", 
+            "episodeName": "The Pulled Groin Extrapolation", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nLeonard accompanies Amy to a colleague's wedding. Howard tries to convince Bernadette to live with his mother after they get married.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Oct. 2011", 
+            "episodeName": "The Wiggly Finger Catalyst", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPenny sets up Raj with a deaf friend, not knowing that she's actually a gold digger, and Sheldon decides to let his minor decisions rest on the roll of the dice.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Oct. 2011", 
+            "episodeName": "The Russian Rocket Reaction", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSheldon takes offense when Leonard wants to attend a party with Wil Wheaton, while Bernadette tries to block Howard's opportunity to go into outer space.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Oct. 2011", 
+            "episodeName": "The Rhinitis Revelation", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nSheldon gets upset when his mother comes to visit but refuses to cook for him and attend physics lectures.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "27 Oct. 2011", 
+            "episodeName": "The Good Guy Fluctuation", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nSheldon tries to get into the spirit of Halloween by trying to scare the guys after they prank him. Leonard seeks Penny's advice when an attractive comic book artist takes an interest in him.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 Nov. 2011", 
+            "episodeName": "The Isolation Permutation", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAmy is hurt when Penny and Bernadette go bridesmaid dress shopping without her, so she turns to a reluctant Sheldon for comfort.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Nov. 2011", 
+            "episodeName": "The Ornithophobia Diffusion", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSheldon tries to overcome his fear of birds, while Leonard and Penny attempt to hang out together strictly as friends.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 Nov. 2011", 
+            "episodeName": "The Flaming Spittoon Acquisition", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhen Stuart asks Amy on a date, Sheldon considers having a more serious relationship with her. Meanwhile, the guys become obsessed with a new card game involving Wild West heroes and witches.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Dec. 2011", 
+            "episodeName": "The Speckerman Recurrence", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nLeonard confronts the man who bullied him in high school, while Penny realizes she did her fair share of tormenting in the past.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Jan. 2012", 
+            "episodeName": "The Shiny Trinket Maneuver", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nPenny helps Sheldon work on his relationship with Amy when he trivializes one of her accomplishments. Howard is irked by Bernadette's dislike of children.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "19 Jan. 2012", 
+            "episodeName": "The Recombination Hypothesis", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nLeonard and Penny contemplate reviving their romantic relationship.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "26 Jan. 2012", 
+            "episodeName": "The Beta Test Initiation", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nLeonard and Penny develop a system to ensure their dates go smoothly. Raj finally finds a woman he can talk to - the virtual assistant on his mobile phone.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 Feb. 2012", 
+            "episodeName": "The Friendship Contraction", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nLeonard signs out of his roommate agreement, reducing himself and Sheldon to mere acquaintances, while Howard tries to think of a cool astronaut nickname for himself.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Feb. 2012", 
+            "episodeName": "The Vacation Solution", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen the university forces Sheldon to use vacation days, he decides to hang out in Amy's lab. Howard becomes upset when he hears Bernadette wants him to sign a prenuptial agreement.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "16 Feb. 2012", 
+            "episodeName": "The Rothman Disintegration", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nSheldon battles Kripke for a coveted office at the university. Penny receives a very unusual gift from Amy.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "23 Feb. 2012", 
+            "episodeName": "The Werewolf Transformation", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nSheldon wreaks havoc when he tries to get a haircut from his regular barber, who is ill. Howard runs into a few problems with astronaut training.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Mar. 2012", 
+            "episodeName": "The Weekend Vortex", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nSheldon has to choose between joining Amy at her aunt's birthday party or playing videogames all weekend with the guys.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Mar. 2012", 
+            "episodeName": "The Transporter Malfunction", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nRaj gets quite a surprise when he asks his parents to set him up on a date. Penny buys Leonard and Sheldon a pair of Star Trek keepsake collectibles.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "5 Apr. 2012", 
+            "episodeName": "The Hawking Excitation", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nSheldon uses any and all means to meet his hero, Dr. Stephen Hawking.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "26 Apr. 2012", 
+            "episodeName": "The Stag Convergence", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe guys throw Howard a bachelor party, and some embarrassing details about his life get posted on the Internet.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 May 2012", 
+            "episodeName": "The Launch Acceleration", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nNASA cancel, and later reinstate Howard's mission into space, coinciding with his wedding. Leonard inadvertently jeopardizes his relationship with Penny.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 May 2012", 
+            "episodeName": "The Countdown Reflection", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nAs Howard prepares for his mission into space, flashbacks show the recent events leading up to his and Bernadette's wedding.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "27 Sep. 2012", 
+            "episodeName": "The Date Night Variable", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nRaj crashes Sheldon and Amy's second anniversary and interferes in Leonard and Penny's relationship. Howard gets caught in the middle of an argument between Bernadette and his mother.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "4 Oct. 2012", 
+            "episodeName": "The Decoupling Fluctuation", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nPenny continues to have doubts about her relationship with Leonard. Meanwhile, Howard becomes the target of practical jokes on the space station.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "11 Oct. 2012", 
+            "episodeName": "The Higgs Boson Observation", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen Sheldon hires a female grad student to assist him, a jealous Amy asks Penny to help her spy on them. On the space station, Howard begins behaving erratically.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "18 Oct. 2012", 
+            "episodeName": "The Re-Entry Minimization", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nHoward is offended when his return from space is met with little fanfare. Penny and Amy take on Sheldon and Leonard during game night.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "25 Oct. 2012", 
+            "episodeName": "The Holographic Excitation", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhile Raj plans Stuart's Halloween party at the comic book store, Howard annoys the rest of the gang by constantly talking about space, and Penny tries to take more of an interest in Leonard's work.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "1 Nov. 2012", 
+            "episodeName": "The Extract Obliteration", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nPenny enrolls in a college class and keeps it a secret from Leonard. Sheldon causes conflict with Dr. Stephen Hawking over an online game.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "8 Nov. 2012", 
+            "episodeName": "The Habitation Configuration", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nHoward makes a decision whether or not to move out of his mother's house, while Sheldon is caught in the middle of an argument between Amy and Wil Wheaton.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "15 Nov. 2012", 
+            "episodeName": "The 43 Peculiarity", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nLeonard feels threatened after hearing about Penny's study partner at school, while Howard and Raj become determined to find out one of Sheldon's secrets.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "29 Nov. 2012", 
+            "episodeName": "The Parking Spot Escalation", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe gang are drawn into a fight between Howard and Sheldon over Sheldon's vacant parking spot at the university.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 Dec. 2012", 
+            "episodeName": "The Fish Guts Displacement", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nHoward tries to bond with Bernadette's father during a fishing trip. When Sheldon is obligated to take care of a sick Amy, she finds ways to take advantage of the situation.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 Dec. 2012", 
+            "episodeName": "The Santa Simulation", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe girls take Raj out to a nightclub to find him a date. A game of Dungeons and Dragons rekindle old memories of Santa for Sheldon.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "3 Jan. 2013", 
+            "episodeName": "The Egg Salad Equivalency", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhen Penny finds out Alex has a crush on Leonard, Sheldon gets himself and the rest of the guys in trouble with Human Resources whilst trying to solve the problem.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "10 Jan. 2013", 
+            "episodeName": "The Bakersfield Expedition", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe guys are stranded in the middle of nowhere when Leonard's car is stolen on the way to the Bakersfield Comic-Con. Back home, the girls try to figure out why the guys are so fascinated with comic books.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "31 Jan. 2013", 
+            "episodeName": "The Cooper/Kripke Inversion", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nSheldon is forced to work with Kripke on a project and must concoct an elaborate lie when he can't hold up his end of the work. Howard and Raj get superhero figurines made of themselves.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "7 Feb. 2013", 
+            "episodeName": "The Spoiler Alert Segmentation", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nLeonard moves in with Penny after a fight with Sheldon, which causes Amy to want to move in with Sheldon. Meanwhile, Raj has a frightening experience with Howard's mother.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 Feb. 2013", 
+            "episodeName": "The Tangible Affection Proof", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nSheldon gets Alex to buy a Valentine's Day gift for Amy. Leonard and Penny and Howard and Bernadette have a disastrous dinner together. Raj and Stuart host a \"Lonely People\" party at the comic book store.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "21 Feb. 2013", 
+            "episodeName": "The Monster Isolation", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nRaj falls apart after his date sneaks out on him, and Sheldon reluctantly returns the favor after Penny helps him out with his \"Fun With Flags\" program.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "7 Mar. 2013", 
+            "episodeName": "The Contractual Obligation Implementation", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nLeonard, Sheldon and Howard give lectures on science to junior high students. The girls ditch work to go to Disneyland. Raj devises a date for Lucy that fixes their social anxiety problems.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 Mar. 2013", 
+            "episodeName": "The Closet Reconfiguration", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nHoward becomes upset when Sheldon finds a letter from his estranged father whilst cleaning out his and Bernadette's closet.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "4 Apr. 2013", 
+            "episodeName": "The Tenure Turbulence", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nLeonard, Sheldon, Raj and Kripke battle for tenure at the university.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "25 Apr. 2013", 
+            "episodeName": "The Closure Alternative", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAmy tries to help a depressed Sheldon find closure when one of his favorite TV shows is canceled. Raj becomes paranoid when he finds Lucy's blog.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 May 2013", 
+            "episodeName": "The Proton Resurgence", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nBernadette and Howard offer to watch Raj's dog and live to regret it. Leonard and Sheldon hire their favorite childhood star to make an appearance.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 May 2013", 
+            "episodeName": "The Love Spell Potential", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nA date between Raj and Lucy takes both of them out of their comfort zones. After a trip to Las Vegas goes awry, the girls join in on a Dungeons and Dragons game, which causes Amy and Sheldon to re-evaluate their relationship.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 May 2013", 
+            "episodeName": "The Bon Voyage Reaction", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nPenny is thrown for a loop when Leonard is offered a job overseas, but the news is an even bigger shock to Sheldon. Raj and Lucy's relationship comes to a crossroad.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 Sep. 2013", 
+            "episodeName": "The Hofstadter Insufficiency", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nSheldon and Penny bond over missing Leonard. Howard tries to help Raj get over his breakup with Lucy. Amy and Bernadette take a trip together to a biology convention.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "26 Sep. 2013", 
+            "episodeName": "The Deception Verification", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nSheldon feels betrayed when Leonard returns from the North Sea and wants to spend his time with Penny instead of him. Howard's latest foray into helping his mother has some disastrous side effects.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "3 Oct. 2013", 
+            "episodeName": "The Scavenger Vortex", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe gang get competitive when they are forced to take part in Raj's scavenger hunt.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "10 Oct. 2013", 
+            "episodeName": "The Raiders Minimization", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nSheldon gets mad at Amy for ruining one of his favorite movies, Raj and Stuart try to make their online dating profiles more appealing, and Leonard tries to play the sympathy card with Penny.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "17 Oct. 2013", 
+            "episodeName": "The Workplace Proximity", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAfter a fight with Bernadette, Howard ends up on Raj's couch. Sheldon and Amy clash when Amy takes a job at the university.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "24 Oct. 2013", 
+            "episodeName": "The Romance Resonance", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nHoward tries to do something special to celebrate the anniversary of his first date with Bernadette. Sheldon is conflicted when he makes a major scientific breakthrough but some details have to be corrected.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "7 Nov. 2013", 
+            "episodeName": "The Proton Displacement", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nSheldon seeks payback when Arthur \"Professor Proton\" Jeffries asks Leonard for help on a project instead of him. Raj gets upset at Howard for crashing his night with the girls.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "14 Nov. 2013", 
+            "episodeName": "The Itchy Brain Simulation", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nSheldon demands Leonard make up for a mistake from their past. Penny confronts Raj's ex-girlfriend, Lucy.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "21 Nov. 2013", 
+            "episodeName": "The Thanksgiving Decoupling", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe gang spend Thanksgiving at Mrs. Wolowitz's house. Howard tries to bond with his father-in-law, and a mistake from Penny's past comes back to haunt her.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "5 Dec. 2013", 
+            "episodeName": "The Discovery Dissipation", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nLeonard has to deal with the fallout of disproving Sheldon's new scientific discovery. Raj spends a week at Howard and Bernadette's apartment.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "12 Dec. 2013", 
+            "episodeName": "The Cooper Extraction", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhile Sheldon is at home in Texas, the rest of the gang decorate for Christmas and think about how much he has affected their lives.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 Jan. 2014", 
+            "episodeName": "The Hesitation Ramification", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAfter Leonard tries to help Penny following a failed role on a TV show, she makes an important decision. Meanwhile, Raj and Stuart try to practice their social skills, and Sheldon navigates the intricacies of being funny.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "9 Jan. 2014", 
+            "episodeName": "The Occupation Recalibration", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nSheldon tries to relax after he is forced to take a vacation. Leonard struggles to be supportive of Penny after she quits her job. Amy receives unwanted attention from a co-worker. Bernadette seeks Stuart's help in replacing one of Howard's comic books.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "30 Jan. 2014", 
+            "episodeName": "The Convention Conundrum", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nWhen the guys can't get hold of any Comic-Con tickets, Sheldon tries to hold his own convention and ends up spending a wild night with James Earl Jones. Meanwhile, the girls try to feel more mature by going to a fancy hotel for tea.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 Feb. 2014", 
+            "episodeName": "The Locomotive Manipulation", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nSheldon and Amy take a train ride to Napa Valley with Howard and Bernadette on Valentine's Day. Leonard and Penny take Raj's dog to the vet when she accidentally eats some chocolate.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "27 Feb. 2014", 
+            "episodeName": "The Table Polarization", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nLeonard's purchase of a dining room table causes Sheldon to reevaluate the changes in his life. Meanwhile, Howard is offered a chance to go back to space and Bernadette struggles with whether or not to encourage him.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 Mar. 2014", 
+            "episodeName": "The Friendship Turbulence", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nAfter arguing with Sheldon, Howard tries to make amends by taking him to NASA headquarters in Houston. Penny has second thoughts about quitting her waitressing job when her car dies. Amy gets involved in trying to find Raj a date.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "13 Mar. 2014", 
+            "episodeName": "The Mommy Observation", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhen Sheldon visits his mother in Houston, he is forced to confront a new reality. Back in Pasadena, the rest of the gang reluctantly take part in Raj's Murder Mystery party.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "3 Apr. 2014", 
+            "episodeName": "The Indecision Amalgamation", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhile Raj is wracked with guilt when he tries to date Lucy and Emily at the same time, Penny wrestles with whether to take a role in a cheesy movie and Sheldon is torn trying to choose between two gaming systems.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "10 Apr. 2014", 
+            "episodeName": "The Relationship Diremption", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nPenny tries to help Sheldon when he reconsiders his \"relationship\" with String Theory. During a dinner with Howard and Bernadette, Raj discovers Howard once embarrassed himself on a date with Emily.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "24 Apr. 2014", 
+            "episodeName": "The Anything Can Happen Recurrence", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nWhen Sheldon tries to be spontaneous, it leads to unexpected friction between the girls. Meanwhile, Raj seeks Howard's help in preparing for a date with Emily.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "1 May 2014", 
+            "episodeName": "The Proton Transmogrification", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAs the gang celebrate Star Wars Day, Sheldon has difficulty dealing with the recent death of Arthur \"Professor Proton\" Jeffries.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "8 May 2014", 
+            "episodeName": "The Gorilla Dissolution", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nPenny gets fired from her movie and takes a serious look at her life. Raj sees Emily on a date with another man at the movies. Howard and Bernadette have to take care of his mother after she breaks her leg.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "15 May 2014", 
+            "episodeName": "The Status Quo Combustion", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nSheldon gets upset about his career, the destruction of the comic book store and Leonard and Penny's future living arrangements. Howard and Bernadette struggle to keep hold of a caregiver for Mrs. Wolowitz.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "22 Sep. 2014", 
+            "episodeName": "The Locomotion Interruption", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nSheldon's trip comes to an end when he is robbed, Penny interviews for a job at Bernadette's company, and Howard is weirded out by his mother's relationship with Stuart.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "22 Sep. 2014", 
+            "episodeName": "The Junior Professor Solution", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nSheldon is forced to teach a class as a Junior Professor. Meanwhile, Amy plays both sides when tension arises between Penny and Bernadette.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "29 Sep. 2014", 
+            "episodeName": "The First Pitch Insufficiency", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nHoward becomes nervous after NASA asks him to throw out the first pitch at a Los Angeles Angels game. Meanwhile, Leonard and Penny try to prove Sheldon wrong when he says that he and Amy have a 'superior' relationship.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "6 Oct. 2014", 
+            "episodeName": "The Hook-up Reverberation", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nRaj's honesty about his past comes back to haunt him after Emily takes a dislike to Penny. Meanwhile, the guys consider investing in the comic book store.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "13 Oct. 2014", 
+            "episodeName": "The Focus Attenuation", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe girls head to Las Vegas, while the guys try to invent something cool, but only come up with new ways to procrastinate.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "20 Oct. 2014", 
+            "episodeName": "The Expedition Approximation", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nSheldon and Raj test whether they could survive a dark-matter research expedition in a salt mine by simulating the conditions in a steam tunnel. Meanwhile, Leonard and Penny seek advice from Howard and Bernadette when they argue about money.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "30 Oct. 2014", 
+            "episodeName": "The Misinterpretation Agitation", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe guys befriend one of Penny's clients when he shows up at her apartment. Meanwhile, Bernadette gets upset when Amy torpedoes an article about her for a local magazine.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "6 Nov. 2014", 
+            "episodeName": "The Prom Equivalency", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe girls decide to re-enact their high school proms with the guys. While Sheldon feels under pressure to commit to his relationship with Amy, Howard worries about who Stuart will bring as his date.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "13 Nov. 2014", 
+            "episodeName": "The Septum Deviation", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSheldon panics when Leonard announces he has to go into the hospital for surgery. Raj discovers his parents have divorced.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "20 Nov. 2014", 
+            "episodeName": "The Champagne Reflection", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhile Sheldon retires \"Fun With Flags\", Leonard, Howard and Raj look for something significant in a dead professor's research, and Bernadette finds out what her colleagues really think of her.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "11 Dec. 2014", 
+            "episodeName": "The Clean Room Infiltration", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAmy hosts a traditional Victorian Christmas Eve dinner as Raj's father comes to visit, while the guys try to shoo out a bird they let into the university clean room.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "8 Jan. 2015", 
+            "episodeName": "The Space Probe Disintegration", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nRaj worries a probe he designed will not work in outer space, while Leonard and Sheldon go shopping with Penny and Amy.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "29 Jan. 2015", 
+            "episodeName": "The Anxiety Optimization", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhen Sheldon becomes stuck in a rut with his work, the gang try to help him by raising his stress levels. Howard teases Raj with a game called \"Emily or Cinnamon.\"    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "5 Feb. 2015", 
+            "episodeName": "The Troll Manifestation", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nLeonard and Sheldon defend themselves against criticism from an online bully, while the girls confront embarrassing moments from their pasts.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "19 Feb. 2015", 
+            "episodeName": "The Comic Book Store Regeneration", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nHoward receives some shocking news as everyone prepares for the re-opening of the comic book store. Meanwhile, Penny tries to teach Sheldon how to \"let it go,\" but can't follow her own advice when she learns something infuriating about Amy.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "26 Feb. 2015", 
+            "episodeName": "The Intimacy Acceleration", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nSheldon and Penny agree to participate in an unusual experiment. Leonard, Amy, Raj and Emily spend the evening trying to escape a room with a \"zombie\". Howard and Bernadette run into trouble at the airport after returning from Mrs. Wolowitz's funeral.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "5 Mar. 2015", 
+            "episodeName": "The Colonization Application", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nA trip to the pet store ends in a fight after Amy learns Sheldon has applied for a one-way mission to colonize Mars. Meanwhile, Leonard surprises Penny with a very \"adult\" purchase, and Raj gets into trouble when he snoops around Emily's apartment.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "12 Mar. 2015", 
+            "episodeName": "The Leftover Thermalization", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nTension arises when a magazine fails to mention Leonard in an article about the paper he co-wrote with Sheldon, and a blackout at Mrs. Wolowitz's home leads to a final family dinner in her honor.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2 Apr. 2015", 
+            "episodeName": "The Skywalker Incursion", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhen Leonard and Sheldon are invited to speak at UC Berkeley, they take a detour to try and meet one of their idols. Meanwhile, while cleaning out Mrs. Wolowitz's house, a ping pong battle ensues when Howard and Bernadette argue over the fate of his TARDIS.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "9 Apr. 2015", 
+            "episodeName": "The Fortification Implementation", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nHoward meets the half-brother he never knew he had. Penny is invited to appear on Wil Wheaton's podcast.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "16 Apr. 2015", 
+            "episodeName": "The Communication Deterioration", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nWhen Raj is asked to create a message on the off chance a NASA mission discovers alien life, the guys fight over what he should do, while Penny contemplates returning to acting.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "23 Apr. 2015", 
+            "episodeName": "The Graduation Transmission", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nHoward questions his engineering abilities when he and Sheldon can't get a toy drone to fly. A cancelled flight nearly prevents Leonard from giving the commencement address at his former high school. Raj pits his parents against each other when his father cuts him off financially.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "30 Apr. 2015", 
+            "episodeName": "The Maternal Combustion", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nPersonalities collide when Leonard and Sheldon's mothers meet for the first time. Bernadette reaches her limit with Howard and Stuart.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "7 May 2015", 
+            "episodeName": "The Commitment Determination", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nAs Sheldon presses Leonard and Penny to set a wedding date, he encounters major changes in his relationship with Amy. Meanwhile, Raj wonders if he should break up with Emily, and Howard and Bernadette struggle to ask Stuart to move out.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "21 Sep. 2015", 
+            "episodeName": "The Matrimonial Momentum", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nPenny struggles with Leonard's confession that he kissed another woman as they prepare to get married in Las Vegas. Meanwhile, Sheldon doesn't know what to do after Amy pushes pause on their relationship.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "28 Sep. 2015", 
+            "episodeName": "The Separation Oscillation", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nLeonard and Penny try to work through their marital issues. Meanwhile, Sheldon films a special episode of \"Fun with Flags\" after his breakup with Amy, and Bernadette feels guilty about withholding a secret from Penny.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "5 Oct. 2015", 
+            "episodeName": "The Bachelor Party Corrosion", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe guys's skills are put to the test when they get a flat tire on the way to Mexico for Leonard's bachelor party. The girls throw Penny a mini-bachelorette party.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "12 Oct. 2015", 
+            "episodeName": "The 2003 Approximation", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAn impending change to his living arrangements inspires Sheldon to revert to 2003, before he met Penny and Leonard. Raj and Howard form a band for the comic book store.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "19 Oct. 2015", 
+            "episodeName": "The Perspiration Implementation", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nKripke expresses interest in Amy while leading a fencing lesson for the guys. Meanwhile, Stuart seeks help from the girls in getting more women interested in the comic book store.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "26 Oct. 2015", 
+            "episodeName": "The Helium Insufficiency", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nLeonard and Sheldon go to great lengths to secure the helium they need during a nation-wide shortage. Meanwhile, the rest of the gang try to find Amy a new boyfriend on a dating app.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "5 Nov. 2015", 
+            "episodeName": "The Spock Resonance", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhile being interviewed for a documentary about Spock from Star Trek (1966), Sheldon struggles to suppress his emotions about his recent break-up from Amy. Meanwhile, Howard and Bernadette butt heads over renovating his mother's house.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "12 Nov. 2015", 
+            "episodeName": "The Mystery Date Observation", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nSheldon, Howard and Raj post an ad online to find a new girlfriend for Sheldon. Penny and Bernadette decide to spy when Amy is secretive about who she is dating.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "19 Nov. 2015", 
+            "episodeName": "The Platonic Permutation", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nOn Thanksgiving, Sheldon and Amy try to spend time together as friends and go to an aquarium, Howard reluctantly agrees to volunteer at the soup kitchen with Bernadette, Raj and Emily, and Penny discovers that Leonard knows more about her than she thought.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "10 Dec. 2015", 
+            "episodeName": "The Earworm Reverberation", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nSheldon has a revelation when he realizes why a song was stuck in his head. Meanwhile, Amy invites Dave over for dinner despite their previously awkward date, and Howard and Raj become obsessed with a fan of their band.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "17 Dec. 2015", 
+            "episodeName": "The Opening Night Excitation", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nLeonard, Howard and Raj have to decide who will take their extra Star Wars movie ticket, while Sheldon plans something special for Amy's birthday.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "7 Jan. 2016", 
+            "episodeName": "The Sales Call Sublimation", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nPenny gets more than she bargained for when Leonard agrees to meet with a psychiatrist on her behalf to make a sale. Meanwhile, Sheldon and Raj collaborate on an astronomical discovery, and Howard and Bernadette's happiness is short-lived after Stuart moves out.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "14 Jan. 2016", 
+            "episodeName": "The Empathy Optimization", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAfter being forced to deal with a sick Sheldon, the rest of the gang try to treat themselves to a Sheldon-free weekend.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "4 Feb. 2016", 
+            "episodeName": "The Meemaw Materialization", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nSheldon is thrilled when his Meemaw comes to visit, but his excitement quickly fades when she butts heads with Amy. Meanwhile, Raj meets a girl at the comic book store who makes him question his relationship with Emily.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "11 Feb. 2016", 
+            "episodeName": "The Valentino Submergence", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nSheldon and Amy host a Valentine's Day episode of \"Fun with Flags\", Leonard and Penny grapple with getting older, Howard and Bernadette find a surprise in their hot tub and Raj is torn between Emily and Claire.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "18 Feb. 2016", 
+            "episodeName": "The Positive Negative Reaction", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nBernadette reveals her pregnancy to Howard and the rest of the gang.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "25 Feb. 2016", 
+            "episodeName": "The Celebration Experimentation", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe gang convince Sheldon to celebrate his birthday and throw him a party.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "10 Mar. 2016", 
+            "episodeName": "The Application Deterioration", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nLeonard, Sheldon, and Howard run into problems when they file for a patent for their infinite persistence gyroscope. Meanwhile, the girls give Raj dating advice when Emily reaches out to him after their breakup.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "31 Mar. 2016", 
+            "episodeName": "The Solder Excursion Diversion", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAmy is shocked at a revelation from Sheldon after she buys him a new laptop. Meanwhile, Raj sells out Leonard and Howard after they lie to their wives in order to attend an early screening of a movie.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "7 Apr. 2016", 
+            "episodeName": "The Big Bear Precipitation", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nSecrets are revealed when Amy and Sheldon join Penny and Leonard on a weekend cabin trip. Raj is more excited about Howard's and Bernadette's impending parenthood than they are.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "21 Apr. 2016", 
+            "episodeName": "The Viewing Party Combustion", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe gang pick sides when a small argument between Leonard and Sheldon erupts into a heated fight during a \"Game of Thrones\" viewing party.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "28 Apr. 2016", 
+            "episodeName": "The Fermentation Bifurcation", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nSheldon and Bernadette spend the evening together while the rest of the gang go to a wine tasting party, but things get uncomfortable for Raj when Penny's ex-boyfriend Zack shows up and takes an interest in Claire.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "5 May 2016", 
+            "episodeName": "The Line Substitution Solution", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nSheldon hires Stuart to spend the day with Amy when he would rather go to the movies. Meanwhile, Penny struggles to make a connection with Leonard's mother when she comes to visit.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "12 May 2016", 
+            "episodeName": "The Convergence Convergence", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nLeonard and Penny try to have a wedding ceremony that everyone can attend, but it creates serious conflict among Sheldon's mother and Leonard's divorced parents. Meanwhile, Howard and Raj become convinced the government is out to get them.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "19 Sep. 2016", 
+            "episodeName": "The Conjugal Conjecture", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAs Leonard and Penny attempt to hold another wedding ceremony everyone can attend, they have to deal with Penny's family arriving and Leonard's father spending the night with Sheldon's mother.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "26 Sep. 2016", 
+            "episodeName": "The Military Miniaturization", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHoward is visited by an Air Force colonel regarding his invention. Penny accidentally lets it slip to her co-workers Bernadette's secret that she is pregnant.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "3 Oct. 2016", 
+            "episodeName": "The Dependence Transcendence", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nBernadette confides to Raj she isn't sure if she's ready to be a mother. Penny accompanies Amy to a university mixer, and Sheldon goes to unusual extremes to assist Howard with his military project.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "10 Oct. 2016", 
+            "episodeName": "The Cohabitation Experimentation", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhen Amy must vacate her apartment for repairs, living arrangements are made with Leonard, Sheldon, and Penny. Howard and Bernadette don't want to know the sex of their baby, but Raj finds out.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "17 Oct. 2016", 
+            "episodeName": "The Hot Tub Contamination", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSheldon and Amy go through a period of adjustment with their new living arrangement. Howard and Bernadette are forced to vacation at home when she falls ill and keep it a secret, unaware Raj and Stuart planned to use their hot tub.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "27 Oct. 2016", 
+            "episodeName": "The Fetal Kick Catalyst", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nSheldon and Amy host a brunch. Penny is surprised by her popularity when her movie, Serial Apeist, is featured at a Van Nuys comic book convention.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "3 Nov. 2016", 
+            "episodeName": "The Veracity Elasticity", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAmy neglects to tell Sheldon her apartment has been repaired. Leonard and Penny discuss what is to be done with Sheldon's room, but Leonard becomes more upset that Penny's been storing away his collectibles.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "10 Nov. 2016", 
+            "episodeName": "The Brain Bowl Incubation", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA proposition by Sheldon shocks Amy. Raj takes an interest in someone at the university.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "17 Nov. 2016", 
+            "episodeName": "The Geology Elevation", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSheldon can't contain his jealousy when Bert from the Geology Department wins the MacArthur Genius Grant. A toy Howard finds faces judgment by everyone.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "1 Dec. 2016", 
+            "episodeName": "The Property Division Collision", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nDividing up their possessions becomes an all-out war between Leonard and Sheldon. Stuart asks to live with Howard and Bernadette and tries to supplant Raj's efforts to help with the new baby.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "15 Dec. 2016", 
+            "episodeName": "The Birthday Synchronicity", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAmy's desire to have an intimate night with Sheldon on her birthday is interrupted by Bernadette going into labor.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "5 Jan. 2017", 
+            "episodeName": "The Holiday Summation", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAfter spending the holidays apart, the gang gets together to hear about Sheldon's and Amy's trip to his mother's, Leonard's and Penny's Christmas tree adventure, and Howard's and Bernadette's first days as parents.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "19 Jan. 2017", 
+            "episodeName": "The Romance Recalibration", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nLeonard and Penny ask for Sheldon's and Amy's help on putting the romance back in their marriage. Howard and Raj go to extreme lengths to stop the floor in Halley's bedroom from making noise.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "2 Feb. 2017", 
+            "episodeName": "The Emotion Detection Automation", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nPenny wants to help her brother get a job with her company. Sheldon learns of a machine that will help him understand human emotions. Raj reunites some of his old girlfriends to figure out why he is still single.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "9 Feb. 2017", 
+            "episodeName": "The Locomotion Reverberation", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nLeonard and Howard's attempt to keep Sheldon away from their Air Force project by sending him on a train trip backfires. Penny and Amy take Bernadette for her first night out since having the baby.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "16 Feb. 2017", 
+            "episodeName": "The Allowance Evaporation", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nSheldon and Amy have their first fight since moving in together. Meanwhile Raj is shocked at the reality of financial independence when he stops receiving support from his father.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "23 Feb. 2017", 
+            "episodeName": "The Comic-Con Conundrum", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe guys' annual trip to Comic Con is in doubt when Raj can't afford to go.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "9 Mar. 2017", 
+            "episodeName": "The Escape Hatch Identification", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhen the gang offers a place for Raj to live, it creates unexpected conflict among everyone and an argument between Amy and Leonard's mother.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "30 Mar. 2017", 
+            "episodeName": "The Collaboration Fluctuation", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nLeonard, Penny and Raj adjust to their new living arrangements; Sheldon expresses an interest in Amy's work.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "6 Apr. 2017", 
+            "episodeName": "The Recollection Dissipation", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nSheldon reaches his limit when he works on projects with Leonard, Wolowitz and Amy in one day.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "13 Apr. 2017", 
+            "episodeName": "The Separation Agitation", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nHoward and Bernadette have a hard time leaving Halley in daycare when Bernadette returns to work. Also, Bert introduces the gang to his new girlfriend, Rebecca.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "27 Apr. 2017", 
+            "episodeName": "The Cognition Regeneration", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nLenard is less than thrilled when Penny considers accepting a job offer from Zack, her ex-boyfriend. Howard teaches Sheldon new things.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "4 May 2017", 
+            "episodeName": "The Gyroscopic Collapse", 
+            "episodeNumber": 23, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "11 May 2017", 
+            "episodeName": "The Long Distance Dissonance", 
+            "episodeNumber": 24, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #11.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #11.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #11.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #11.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #11.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #11.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #11.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #11.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #11.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #11.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #11.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #11.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #11.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #11.14", 
+            "episodeNumber": 14, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #11.15", 
+            "episodeNumber": 15, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #11.16", 
+            "episodeNumber": 16, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #11.17", 
+            "episodeNumber": 17, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #11.18", 
+            "episodeNumber": 18, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #11.19", 
+            "episodeNumber": 19, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #11.20", 
+            "episodeNumber": 20, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #11.21", 
+            "episodeNumber": 21, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #11.22", 
+            "episodeNumber": 22, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #11.23", 
+            "episodeNumber": 23, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #11.24", 
+            "episodeNumber": 24, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #12.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #12.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #12.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #12.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #12.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #12.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #12.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #12.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #12.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #12.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #12.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #12.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #12.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #12.14", 
+            "episodeNumber": 14, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #12.15", 
+            "episodeNumber": 15, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #12.16", 
+            "episodeNumber": 16, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #12.17", 
+            "episodeNumber": 17, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #12.18", 
+            "episodeNumber": 18, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #12.19", 
+            "episodeNumber": 19, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #12.20", 
+            "episodeNumber": 20, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #12.21", 
+            "episodeNumber": 21, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #12.22", 
+            "episodeNumber": 22, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #12.23", 
+            "episodeNumber": 23, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #12.24", 
+            "episodeNumber": 24, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }
+    ], 
+    "name": "The Big Bang Theory", 
+    "plot": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.", 
+    "rating": 8.3, 
+    "releaseDate": "1 May 2006", 
+    "type": "tvserie"
+}

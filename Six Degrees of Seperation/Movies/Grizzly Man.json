@@ -1,0 +1,32 @@
+{
+    "actorList": [
+        "Werner Herzog", 
+        "Carol Dexter", 
+        "Val Dexter", 
+        "Sam Egli", 
+        "Franc G. Fallico", 
+        "Willy Fulton", 
+        "Marc Gaede", 
+        "Marnie Gaede", 
+        "Sven Haakanson Jr.", 
+        "Amie Huguenard", 
+        "David Letterman", 
+        "Jewel Palovak", 
+        "Kathleen Parker", 
+        "Warren Queeney", 
+        "Timothy Treadwell", 
+        "Larry Van Daele"
+    ], 
+    "director": [
+        "Werner Herzog"
+    ], 
+    "genres": [
+        "Documentary", 
+        "Biography"
+    ], 
+    "name": "Grizzly Man", 
+    "plot": "A devastating and heartrending take on grizzly bear activists  and , who were killed in October of 2003 while living among grizzlies in Alaska.", 
+    "rating": 7.8, 
+    "releaseDate": "24 January 2005 (Sundance Film Festival)", 
+    "type": "movie"
+}

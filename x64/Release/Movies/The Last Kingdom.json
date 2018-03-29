@@ -1,0 +1,156 @@
+{
+    "actorList": [
+        "Alexander Dreymon", 
+        "Ian Hart", 
+        "David Dawson", 
+        "Eliza Butterworth", 
+        "Harry McEntire", 
+        "Simon Kunz", 
+        "Emily Cox", 
+        "Tobias Santelmann", 
+        "Eva Birthistle", 
+        "Peri Baumeister", 
+        "Bj\u00f6rn Bengtsson", 
+        "Adrian Bouchet", 
+        "Millie Brady", 
+        "Arnas Fedaravicius", 
+        "Christian Hillborg", 
+        "Adrian Bower", 
+        "Brian Vernel", 
+        "Jeppe Beck Laursen", 
+        "Magnus Samuelsson"
+    ], 
+    "director": [
+        "Peter Hoar", 
+        "Anthony Byrne", 
+        "Ben Chanan", 
+        "Nick Murphy", 
+        "Jamie Donoughue", 
+        "Jon East", 
+        "Richard Senior"
+    ], 
+    "genres": [
+        "Action", 
+        "History", 
+        "Romance"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "10 Oct. 2015", 
+            "episodeName": "Episode #1.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter Uhtred follows his father to the battlefield, he watches his father's death from the sidelines, when the invading Danes capture Uhtred he is brought up as one of them after proving himself.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Oct. 2015", 
+            "episodeName": "Episode #1.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nUhtred and Brida are on the run. Uhtred attempts to clear his name for a wedding massacre. Brida finds an inventive use for a twig.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Oct. 2015", 
+            "episodeName": "Episode #1.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nUhtred wins the protection of Alfred, but this newfound allegiance might also cost him his relationship with Brida. Meanwhile, Brida harbors a secret of her own.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Oct. 2015", 
+            "episodeName": "Episode #1.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA cunning tactical play by King Alfred keeps Uhtred close at heel, but it's not long before Uhtred realizes he's been tricked and his relationship with the King hits a new low. Meanwhile, a great battle looms over Wessex.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Nov. 2015", 
+            "episodeName": "Episode #1.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nUhtred puts himself forward for a daring stealth mission to outflank the Danes and destroy their ships, but in the process he attracts Ubba's attention and is challenged to a one-on-one fight to the death.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Nov. 2015", 
+            "episodeName": "Episode #1.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nUhtred and Leofric lead a raiding party to Cornwall, on a mission for wealth and independence. The party becomes mercenaries for a Cornish King and Uhtred attracts the attention of a beautiful sorceress queen named Iseult. Iseult's charms and the promise of silver make Uhtred feel like he finally has the chance of a new start. However, when he returns to Wessex he is faced with the wrath of King Alfred and a judgment that leaves both his life and the life of his best friend Leofric hanging in the balance.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Nov. 2015", 
+            "episodeName": "Episode #1.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nUhtred and Leofric must face off against each other in a death match-a consequence of their actions in Cornwall. But there are ominous signs of a greater battle to come - The Danes launch an invasion on Wessex, pouring through the streets and killing all in their path. Running for their lives in an escape to find safety, a bond is finally struck between Uhtred and King Alfred; the two men recognize they must now stand and fight together if Wessex is to be reclaimed. Moreover, Uhtred realizes that his best chance of regaining Bebbanburg rests on Alfred's return to the ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Nov. 2015", 
+            "episodeName": "Episode #1.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe future of England is at stake and the King refuses to hide.He is a man on a mission. Leaving the cover of the marshes, a united King Alfred and Uhtred must get word to Saxon forces; they make a rallying call to all Saxon armies to converge at Egbert's Stone to fight a decisive battle against the Danes. Treachery, deception and heartache follow, though hope remains. Wessex can still be saved, but at what cost to Uhtred?    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 May 2017", 
+            "episodeName": "Episode #2.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nHaving helped Alfred defeat the Danes in Wessex Uhtred is anxious to return to Bebbanburg and reclaim his kingdom. Accompanied by feisty nun Hild he arrives in York where Beocca and Father Hreothward lead the fight against renegade brothers Erik and Siegfrid and aim to free local lord Guthred from Uhtred's old foe Kjartan with Alfred's blessing. Guthred is saved and vows to help Uhtred arrest Kjartan and the treacherous Aelfric though Kjartan escapes. Grateful Abbot Eadred canonizes Guthred but Uhtred's enemies are still plotting to defeat him. Meanwhile in Essex, ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Mar. 2017", 
+            "episodeName": "Episode #2.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nUhtred proves his worth to a grateful Guthred and when a group of horsemen arrives, claiming loyalty to Guthred but in reality sent by Kjartan Uhtred is quick to see through their lies and all are swiftly dispatched, except one Sihtric, who agrees to change sides. Beocca leaves to return to Wessex but the baleful Eadred, still illogically mistrustful of Uhtred, and anxious for a peace treaty with Erik and Siegfrid. poisons the simple gullible Guthred against his former saviour, particularly in the light of Uhtred's fondness for Guthred's sister Gisela. As a result ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Mar. 2017", 
+            "episodeName": "Episode #2.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nUhtred is a galley slave on a Viking ship but Aelfric is angry that Guthred did not kill him and breaks the alliance, joining with Erik and Sigefrid to take Durham with savage violence. To appease Aelfric Guthred offers his sister Gisela in marriage but Gisela, in love with Uhtred, refuses and goes into hiding. In Wessex Alfred marries his daughter Aethelflaed to the young king of Mercia Aethelred and sends Hild and Ragnar to rescue Uhtred, which they accomplish when the ship comes ashore to winter. Uhtred is reunited with Gisela but Alfred holds the rescue and the ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Apr. 2017", 
+            "episodeName": "Episode #2.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMarried by Beocca to Gisela Uhtred joins Ragmar and Alfred's brother, the reluctant Aethelwold, and others including Hild and Beocca to travel north and defeat Sigefrid and Erik - and ultimately Kjarten, meeting up with Brida on the way. An early victory sends the treacherous brothers into exile and later brings Uhtred's party to visit a contrite Guthred who now approves the storming of Durham and release of Ragmar's sister Thyra. The town is successfully captured and Ragmar faces Kjartan in single combat, a victory for justice though Thyra does not react as hoped.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Apr. 2017", 
+            "episodeName": "Episode #2.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThree years have passed. Uhtred has an estate in Wessex with Gisela and their two children. He receives a visit from Aethelwold, who tells him that a medium, Eilaf, has prophesied that he will replace Alfred as king of Wessex and Uhtred will become king of Mercia. Knowing that Alfred despises his brother's weakness Uhtred does not tell the king the whole story but also learns that Alfred means to marry his daughter Aethelflaed to young lord Aethelred of Mercia to provide an alliance. Another alliance is proposed when Erik returns, seeking Uhtred's cooperation in an ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Apr. 2017", 
+            "episodeName": "Episode #2.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAlfred's daughter Aethelflaed is married to the arrogant, scheming Mercian lord Aethelraed, for whom both Uhtred and Aethelwold have nothing but disdain. Aethelraed is also a bullying husband, casting doubt on his wife's fidelity, but he manages to secure influence with the king by persuading him that Uhtred is not to be trusted. After failing to buy off Erik and Sigefrid following their capture of London Aethelraed and Uhtred join forces to lead a liberating army but find the city strangely empty. This is because, unknown to them, the Danish brothers have a more ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Apr. 2017", 
+            "episodeName": "Episode #2.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nTricked into abandoning their camp for an abortive attack on London the Saxons and Uhtred return to find it a scene of massacre with Thyra, now married to Beocca, among the few survivors and Aethelflaed captured by the Danes and taken to East Anglia as a hostage. Alfred is furious with Aethelred, to Aethelwold's delight, and sends him to negotiate her release . At the suggestion of Odda and Aethelwold, Uhtred accompanies him. However Aethelflaed finds captor Erik far more tender towards her than her brutal husband, who is richly humiliated by the Danes and she lets ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 May 2017", 
+            "episodeName": "Episode #2.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }
+    ], 
+    "name": "The Last Kingdom", 
+    "plot": "The year is 872, and many of the separate kingdoms of what we now know as England have fallen to the invading Danes...", 
+    "rating": 8.3, 
+    "releaseDate": "10 October 2015", 
+    "type": "tvserie"
+}

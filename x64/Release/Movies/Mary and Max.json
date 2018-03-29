@@ -1,0 +1,31 @@
+{
+    "actorList": [
+        "Toni Collette", 
+        "Philip Seymour Hoffman", 
+        "Barry Humphries", 
+        "Eric Bana", 
+        "Bethany Whitmore", 
+        "Ren\u00e9e Geyer", 
+        "Ian 'Molly' Meldrum", 
+        "Julie Forsyth", 
+        "John Flaus", 
+        "Christopher Massey", 
+        "Shaun Patten", 
+        "Carolyn Shakespeare-Allen", 
+        "Leanne Smith", 
+        "Michael Ienna"
+    ], 
+    "director": [
+        "Adam Elliot"
+    ], 
+    "genres": [
+        "Animation", 
+        "Comedy", 
+        "Drama"
+    ], 
+    "name": "Mary and Max", 
+    "plot": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.", 
+    "rating": 8.2, 
+    "releaseDate": "15 January 2009 (Sundance Film Festival)", 
+    "type": "movie"
+}

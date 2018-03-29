@@ -1,0 +1,103 @@
+{
+    "actorList": [
+        "Elisabeth Moss", 
+        "Joseph Fiennes", 
+        "Yvonne Strahovski", 
+        "Alexis Bledel", 
+        "O-T Fagbenle", 
+        "Max Minghella", 
+        "Samira Wiley", 
+        "Jordana Blake", 
+        "Amanda Brugel", 
+        "Bahia Watson", 
+        "Ever Carradine", 
+        "Elena Khan"
+    ], 
+    "director": [
+        "Reed Morano", 
+        "Mike Barker", 
+        "Kate Dennis", 
+        "Floria Sigismondi"
+    ], 
+    "genres": [
+        "Drama", 
+        "Sci-Fi"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "26 Apr. 2017", 
+            "episodeName": "Offred", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nOffred, one the few fertile women known as Handmaids in the oppressive Republic of Gilead, struggles to survive as a reproductive surrogate for a powerful Commander and his resentful wife.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Apr. 2017", 
+            "episodeName": "Birth Day", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nOffred and her fellow Handmaids assist with the delivery of Janine's baby, prompting Offred to recall her own daughter's birth. Offred draws closer to Ofglen while dreading a secret meeting with the Commander.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Apr. 2017", 
+            "episodeName": "Late", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nOffred visits Janine's baby with Serena Joy and remembers the early days of the revolution, before Gilead. Ofglen faces a difficult challenge.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 May 2017", 
+            "episodeName": "Episode #1.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #1.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #1.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #1.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #1.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #1.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #1.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "The Handmaid's Tale", 
+    "plot": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.", 
+    "rating": 8.9, 
+    "releaseDate": "24 April 2017 (special screening) (limited)", 
+    "type": "tvserie"
+}

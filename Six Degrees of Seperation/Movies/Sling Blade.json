@@ -1,0 +1,47 @@
+{
+    "actorList": [
+        "Billy Bob Thornton", 
+        "Dwight Yoakam", 
+        "J.T. Walsh", 
+        "John Ritter", 
+        "Lucas Black", 
+        "Natalie Canerday", 
+        "James Hampton", 
+        "Robert Duvall", 
+        "Rick Dial", 
+        "Brent Briscoe", 
+        "Christine Renee Ward", 
+        "Sarah Boss", 
+        "Kathy Sue Brown", 
+        "Wendell Rafferty", 
+        "Bruce Hampton", 
+        "Vic Chesnutt", 
+        "Mickey Jones", 
+        "Ian Moore", 
+        "Judy Pryor Trice", 
+        "Scott Stewart", 
+        "Betty Lynn Hall", 
+        "Jim Jarmusch", 
+        "Gary Don Fletcher", 
+        "Tim Holder", 
+        "Tom Kagy", 
+        "Stacy Barrow", 
+        "Jackie Stewart", 
+        "Jamie Stewart", 
+        "D.J. Royston", 
+        "Lacy Bailey", 
+        "Raymond Lewallen", 
+        "Bill Glasscock"
+    ], 
+    "director": [
+        "Billy Bob Thornton"
+    ], 
+    "genres": [
+        "Drama"
+    ], 
+    "name": "Sling Blade", 
+    "plot": "Karl Childers, a simple man hospitalized since his childhood murder of his mother and her lover, is released to start a new life in a small town.", 
+    "rating": 8.0, 
+    "releaseDate": "30 August 1996 (Telluride Film Festival)", 
+    "type": "movie"
+}

@@ -1,0 +1,41 @@
+{
+    "actorList": [
+        "Mireille Enos", 
+        "Joel Kinnaman", 
+        "Billy Campbell", 
+        "Liam James", 
+        "Michelle Forbes", 
+        "Brent Sexton", 
+        "Kristin Lehman", 
+        "Eric Ladin", 
+        "Jamie Anne Allman", 
+        "Evan Bird", 
+        "Seth Isaac Johnson", 
+        "Tom Butler", 
+        "Irene Reynolds", 
+        "Annie Corley"
+    ], 
+    "director": [
+        "Ed Bianchi", 
+        "Nicole Kassell", 
+        "Phil Abraham", 
+        "Daniel Attias", 
+        "Keith Gordon", 
+        "Agnieszka Holland", 
+        "Lodge Kerrigan", 
+        "Brad Anderson", 
+        "Patty Jenkins", 
+        "Jonathan Demme"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "The Killing", 
+    "plot": "A police investigation, the saga of a grieving family, and a Seattle mayoral campaign all interlock after the body of 17-year-old Rosie Larsen is found in the trunk of a submerged car.", 
+    "rating": 8.2, 
+    "releaseDate": "3 April 2011", 
+    "type": "movie"
+}

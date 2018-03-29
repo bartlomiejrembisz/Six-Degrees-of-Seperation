@@ -1,0 +1,50 @@
+{
+    "actorList": [
+        "Ivana Baquero", 
+        "Sergi L\u00f3pez", 
+        "Maribel Verd\u00fa", 
+        "Doug Jones", 
+        "Ariadna Gil", 
+        "\u00c1lex Angulo", 
+        "Manolo Solo", 
+        "C\u00e9sar Vea", 
+        "Roger Casamajor", 
+        "Ivan Massagu\u00e9", 
+        "Gonzalo Uriarte", 
+        "Eusebio L\u00e1zaro", 
+        "Francisco Vidal", 
+        "Juanjo Cucal\u00f3n", 
+        "Lina Mira", 
+        "Mario Zorrilla", 
+        "Sebasti\u00e1n Haro", 
+        "Mila Espiga", 
+        "Pepa Pedroche", 
+        "Lal\u00e1 Gat\u00f3o", 
+        "Ana S\u00e1ez", 
+        "Chani Mart\u00edn", 
+        "Milo Taboada", 
+        "Fernando Albizu", 
+        "Pedro G. Marzo", 
+        "Jos\u00e9 Luis Torrijo", 
+        "\u00cd\u00f1igo Garc\u00e9s", 
+        "Fernando Tielve", 
+        "Federico Luppi", 
+        "Chicho Campillo", 
+        "Pablo Ad\u00e1n", 
+        "Eduardo Ar\u00e1nega", 
+        "Luke Burnyeat"
+    ], 
+    "director": [
+        "Guillermo del Toro"
+    ], 
+    "genres": [
+        "Drama", 
+        "Fantasy", 
+        "War"
+    ], 
+    "name": "El laberinto del fauno", 
+    "plot": "In the falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.", 
+    "rating": 8.2, 
+    "releaseDate": "27 May 2006 (Cannes Film Festival)", 
+    "type": "movie"
+}

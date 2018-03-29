@@ -1,0 +1,47 @@
+{
+    "actorList": [
+        "Paddy Considine", 
+        "Gary Stretch", 
+        "Toby Kebbell", 
+        "Stuart Wolfenden", 
+        "Neil Bell", 
+        "Paul Sadot", 
+        "Seamus O'Neill", 
+        "Jo Hartley", 
+        "Paul Hurstfield", 
+        "Emily Aston", 
+        "George Newton", 
+        "Craig Considine", 
+        "Matt Considine", 
+        "Andrew Shim", 
+        "Arthur Meadows", 
+        "Gill Meadows", 
+        "Neil Dodd", 
+        "Benn Dodd", 
+        "Jordan Dodd", 
+        "Lauren Dodd", 
+        "Jenna Winter", 
+        "Pauline Herbert", 
+        "Mark Herbert", 
+        "John Farrar", 
+        "Maurice Hemmingway", 
+        "Sandra Hemmingway", 
+        "Darren Hemmingway", 
+        "Wayne Hemmingway", 
+        "Hannah Hemmingway", 
+        "Leonard Byrne"
+    ], 
+    "director": [
+        "Shane Meadows"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "Dead Man's Shoes", 
+    "plot": "A disaffected soldier returns to his hometown to get even with the thugs who brutalized his mentally-challenged brother years ago.", 
+    "rating": 7.7, 
+    "releaseDate": "20 August 2004 (Edinburgh International Film Festival)", 
+    "type": "movie"
+}

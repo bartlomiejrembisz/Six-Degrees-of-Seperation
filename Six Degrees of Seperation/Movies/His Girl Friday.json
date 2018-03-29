@@ -1,0 +1,52 @@
+{
+    "actorList": [
+        "Cary Grant", 
+        "Rosalind Russell", 
+        "Ralph Bellamy", 
+        "Gene Lockhart", 
+        "Porter Hall", 
+        "Ernest Truex", 
+        "Cliff Edwards", 
+        "Clarence Kolb", 
+        "Roscoe Karns", 
+        "Frank Jenks", 
+        "Regis Toomey", 
+        "Abner Biberman", 
+        "Frank Orth", 
+        "John Qualen", 
+        "Helen Mack", 
+        "Alma Kruger", 
+        "Billy Gilbert", 
+        "Pat West", 
+        "Edwin Maxwell", 
+        "Irving Bacon", 
+        "Wade Boteler", 
+        "Harry C. Bradley", 
+        "Wheaton Chambers", 
+        "Edmund Cobb", 
+        "Ann Doran", 
+        "Ralph Dunn", 
+        "Earl Dwire", 
+        "Pat Flaherty", 
+        "Jack Gardner", 
+        "Eddie Hart", 
+        "Marion Martin", 
+        "Frank McLure", 
+        "James Millican", 
+        "Gene Morgan", 
+        "Delmar Watson"
+    ], 
+    "director": [
+        "Howard Hawks"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Drama", 
+        "Romance"
+    ], 
+    "name": "His Girl Friday", 
+    "plot": "A newspaper editor uses every trick in the book to keep his ace reporter ex-wife from remarrying.", 
+    "rating": 8.0, 
+    "releaseDate": "11 January 1940 (New York City, New York)", 
+    "type": "movie"
+}

@@ -1,0 +1,40 @@
+{
+    "actorList": [
+        "Linda Fiorentino", 
+        "Bill Pullman", 
+        "Michael Raysses", 
+        "Zack Phifer", 
+        "Peter Berg", 
+        "Brien Varady", 
+        "Dean Norris", 
+        "Donna W. Scott", 
+        "Mik Scriba", 
+        "J.T. Walsh", 
+        "Erik-Anders Nilsson", 
+        "Patricia R. Caprio", 
+        "Herb Mitchell", 
+        "Bill Nunn", 
+        "Renee Rogers", 
+        "Billy Stevenson", 
+        "Walter Addison", 
+        "Anne Flanagan", 
+        "Mike Lisenco", 
+        "Serena", 
+        "Michelle Davison", 
+        "Jack Shearer"
+    ], 
+    "director": [
+        "John Dahl"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Romance", 
+        "Thriller"
+    ], 
+    "name": "The Last Seduction", 
+    "plot": "A devious sexpot steals her husband's drug money and hides out in a small town where she meets the perfect dupe for her next scheme.", 
+    "rating": 7.1, 
+    "releaseDate": "1994 (video premiere)", 
+    "type": "movie"
+}

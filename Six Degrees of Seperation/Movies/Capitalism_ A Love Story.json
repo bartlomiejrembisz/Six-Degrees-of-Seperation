@@ -1,0 +1,43 @@
+{
+    "actorList": [
+        "William Black", 
+        "Jimmy Carter", 
+        "Elijah Cummings", 
+        "Baron Hill", 
+        "Marcy Kaptur", 
+        "John McCain", 
+        "Michael Moore", 
+        "Sarah Palin", 
+        "Ronald Reagan", 
+        "Franklin D. Roosevelt", 
+        "Bernie Sanders", 
+        "Arnold Schwarzenegger", 
+        "Wallace Shawn", 
+        "Chesley Sullenberger", 
+        "Elizabeth Warren", 
+        "Peter Zalewski", 
+        "George W. Bush", 
+        "Bill Clinton", 
+        "Martin Luther King", 
+        "Helmut Kohl", 
+        "Bela Lugosi", 
+        "Zedong Mao", 
+        "Barack Obama", 
+        "Robert Powell", 
+        "Nancy Reagan", 
+        "Joseph Stalin"
+    ], 
+    "director": [
+        "Michael Moore"
+    ], 
+    "genres": [
+        "Documentary", 
+        "Crime", 
+        "News"
+    ], 
+    "name": "Capitalism: A Love Story", 
+    "plot": "An examination of the social costs of corporate interests pursuing profits at the expense of the public good.", 
+    "rating": 7.4, 
+    "releaseDate": "6 September 2009 (Venice Film Festival)", 
+    "type": "movie"
+}

@@ -1,0 +1,116 @@
+{
+    "actorList": [
+        "Britt Robertson", 
+        "Ellie Reed", 
+        "Johnny Simmons", 
+        "Alphonso McAuley", 
+        "RuPaul"
+    ], 
+    "director": [
+        "Christian Ditter", 
+        "Jamie Babbit", 
+        "Amanda Brotchie", 
+        "Steven K. Tsuchida"
+    ], 
+    "genres": [
+        "Comedy"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Sophia", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter losing her job and receiving an eviction notice, the indomitable Sophia scrambles to find her place in the adult world.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "The Hern", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nSophia's recent epiphany is hampered by the emergence of a health problem that she can't afford to solve.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Thank You, San Francisco", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nSophia and Shane hit the streets of San Francisco seeking the perfect name for Sophia's new eBay storefront.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Ladyshopper99", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nSophia faces her greatest fears to prevent a bad review from a disgruntled customer.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Top 8", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAnnie storms out of Sophia's apartment when she finds out that she is no longer in Sophia's 'Top 8' on MySpace, which leads Sophia on a trip down memory lane.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Five Percent", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Long-Ass Pants", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen Sophia flips a competitor's vintage pants for a profit, the competitor arrives on her doorstep to challenge Sophia's business ethics.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "The Trip", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nDax, Annie and Sophia pile into a car and drive to Los Angeles to visit Shane, but both relationships are tested when the weekend plans go awry.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Motherf*ckin' Bar Graphs", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAfter being told that she needs a cosigner in order to lease a new office space, Sophia reluctantly seeks help from her disapproving father.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Vintage Fashion Forum", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA friendship is tested when Annie asks Sophia for a paying position with 'Nasty Gal'. Meanwhile, Gail and the vintage fashion forum plan an attack on both Sophia and her online storefront.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "Garbage Person", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhen 'Nasty Gal' takes a turn for the worse, a vulnerable Sophia turns to her mother for answers.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "I Come Crashing", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAnnie convinces Sophia to bring a professional web designer on board to help launch the 'Nasty Gal' website. Tensions rise as Sophia begins to spread herself too thin.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2017", 
+            "episodeName": "The Launch", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nIn the aftermath of her shocking discovery, Sophia's attention is divided between the 'Nasty Gal' website launch and her relationship with Shane.    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "Girlboss", 
+    "plot": "Sophia, a misfit, discovers a passion for fashion, becoming an unlikely businesswoman in the process. As her business grows, however, she has to learn to cope with life as her own boss.", 
+    "rating": 7.2, 
+    "releaseDate": "21 April 2017 (internet)", 
+    "type": "tvserie"
+}

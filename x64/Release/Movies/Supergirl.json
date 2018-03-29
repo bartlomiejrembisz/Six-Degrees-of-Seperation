@@ -1,0 +1,333 @@
+{
+    "actorList": [
+        "Melissa Benoist", 
+        "Mehcad Brooks", 
+        "Chyler Leigh", 
+        "Jeremy Jordan", 
+        "David Harewood", 
+        "Calista Flockhart", 
+        "Chris Wood", 
+        "Floriana Lima"
+    ], 
+    "director": [
+        "Glen Winter", 
+        "Larry Teng", 
+        "Dermott Downs", 
+        "Stefan Pleszczynski", 
+        "Kevin Smith"
+    ], 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Drama", 
+        "Sci-Fi"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "26 Oct. 2015", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nTwenty-four-year-old Kara Zor-El, cousin of Superman, who was taken in by the Danvers family when she was 12 after being sent away from Krypton, must learn to embrace her powers after previously hiding them.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Nov. 2015", 
+            "episodeName": "Stronger Together", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nKara must put doubts aside as she tries to apprehend an escapee from the Kryptonian prison; Cat pressures James for an interview with Supergirl.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Nov. 2015", 
+            "episodeName": "Fight or Flight", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nSupergirl's powers are put to the test when one of Superman's most formidable enemies, Reactron, shows up in National City to take her down. In the meantime, Cat makes plans to run an expose on Supergirl.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Nov. 2015", 
+            "episodeName": "Livewire", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nKara's foster mother visits for Thanksgiving, while an accident transforms a volatile CatCo employee into Livewire.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Nov. 2015", 
+            "episodeName": "How Does She Do It?", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nKara must protect National City from a series of bombings and babysit Cat's son, while James is visited by Lucy Lane.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Nov. 2015", 
+            "episodeName": "Red Faced", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nStress makes Kara go too far during a training exercise against a military cyborg commissioned by General Sam Lane, while Cat's mother comes to visit and Winn helps Alex investigate her father's death.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Dec. 2015", 
+            "episodeName": "Human for a Day", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nSupergirl, with her recently drained powers taking too long to return, must deal with life without them, while DEO has a powerful escaped alien prisoner in their headquarters.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Dec. 2015", 
+            "episodeName": "Hostile Takeover", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nSupergirl fights against her aunt and learns some heartbreaking news about her mom, while Catco is dealing with a hacker.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Jan. 2016", 
+            "episodeName": "Blood Bonds", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA standoff ensues between the DEO and Astra's forces also Non kidnaps Hank, while Kara tries to refute Cat's allegations that she's Supergirl.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Jan. 2016", 
+            "episodeName": "Childish Things", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nKara does her best to support Winn when he hears that his father Winslow Schott Sr. breaks out of prison. His father looks for Winn for a reason to become like him. Cat offers Lucy a job working at CatCo and Alex asks Hank to use his powers to find out and uncover Maxwell Lord's plans.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Jan. 2016", 
+            "episodeName": "Strange Visitor from Another Planet", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nKara helps Hank face his painful past when a White Martian, who wiped out all of the Green Martians from Mars, kidnaps Senator Miranda Crane who is an anti-alien politician. Adam Foster who is Cat's estranged son arrives in National City.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2016", 
+            "episodeName": "Bizarro", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nKara must deal with a twisted version of Supergirl, while venturing into a possible romance.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Feb. 2016", 
+            "episodeName": "For the Girl Who Has Everything", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nA parasitic alien attaches itself to Kara and traps her in a world where Krypton was never destroyed, leaving Alex, Hank and the DEO to fend off a Kryptonian attack without her.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Feb. 2016", 
+            "episodeName": "Truth, Justice and the American Way", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nKara battles the Master Jailer while dealing with a second assistant at CatCo and disagreeing with James over the DEO's methods.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Feb. 2016", 
+            "episodeName": "Solitude", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nKara travels to the Fortress of Solitude hoping to find information on how to defeat Indigo, a being from her past who can travel through the Internet. In the meantime, James and Lucy reach a crossroads in their relationship.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Mar. 2016", 
+            "episodeName": "Falling", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nRed Kryptonite makes Kara malicious and dangerous while Cat appears on The Talk (2010) to discuss Supergirl.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Mar. 2016", 
+            "episodeName": "Manhunter", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nJ'onn J'onzz reveals how he met Jeremiah Danvers and assumed the identity of Hank Henshaw.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Mar. 2016", 
+            "episodeName": "Worlds Finest", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nKara gains a new ally when the Flash arrives from a parallel universe and helps her fight the Silver Banshee and Livewire in exchange for helping him return home.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Apr. 2016", 
+            "episodeName": "Myriad", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nNon and Indigo use mind control to make the citizens of National City their army, so Kara must find a way to save her friends.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Apr. 2016", 
+            "episodeName": "Better Angels", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nSupergirl is forced to do battle with an unexpected enemy as she risks everything - including her life - to stop Non and Indigo from destroying everyone on Earth.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Oct. 2016", 
+            "episodeName": "The Adventures of Supergirl", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nSupergirl and Superman team up to stop a new threat emerging in National City. A Kryptonian pod comes crashing down to Earth.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Oct. 2016", 
+            "episodeName": "The Last Children of Krypton", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nSupergirl is hurt by a kryptonite-powered villain sent by Cadmus to attack National City. Superman blames Hank since the kryptonite was stolen from the DEO. In the meantime, Kara's first day at her new job doesn't go as planned when she meets her new boss.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Oct. 2016", 
+            "episodeName": "Welcome to Earth", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nSupergirl and the DEO are assigned to protect the President when an attack on her causes alien vs. human rights in National City to heat up. Alex investigates the case with Maggie Sawyer while Kara fears Mon-El may be responsible.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Oct. 2016", 
+            "episodeName": "Survivors", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nSupergirl tries to stop an alien fight club run by Roulette, while Hank gets to know M'Gann.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Nov. 2016", 
+            "episodeName": "Crossfire", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSupergirl faces a ruthless new gang that's been given new alien technology by Cadmus.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Nov. 2016", 
+            "episodeName": "Changing", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe Guardian arrives to lend a hand when an alien parasite drains Supergirl of her power. Mon-El contemplates his motives when he considers a new career. Alex faces a new reality.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Nov. 2016", 
+            "episodeName": "The Darkest Place", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nSupergirl comes face-to-face with Cyborg Superman when she attempts to save Mon-El from Cadmus.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Nov. 2016", 
+            "episodeName": "Medusa", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAs Eliza comes to National City for Thanksgiving, Kara turns to Lena for help when Cadmus unleashes a virus that instantly kills aliens, then is asked by Barry Allen and Cisco Ramon for help with an alien invasion on their Earth.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Jan. 2017", 
+            "episodeName": "Supergirl Lives", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhile searching for a missing woman, Supergirl and Mon-El end up on another planet where Roulette leads a slave trafficking ring.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Jan. 2017", 
+            "episodeName": "We Can Be Heroes", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhen Livewire apparently breaks out of prison, Supergirl sets out to recapture her.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Feb. 2017", 
+            "episodeName": "The Martian Chronicles", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA White Martian called Armek comes to National City with the intention of bringing M'gann back to Mars to be punished for her treason.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Feb. 2017", 
+            "episodeName": "Luthors", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nLena is arrested when Metallo breaks Lillian out of prison and evidence suggests that Lena is responsible.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Feb. 2017", 
+            "episodeName": "Mr. & Mrs. Mxyzptlk", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nA magical imp called Mr. Mxyzptlk arrives on Earth and wreaks havoc on National City when Kara doesn't reciprocate his feelings.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Feb. 2017", 
+            "episodeName": "Homecoming", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nWhen Jeremiah Danvers is rescued from Cadmus, Alex and Kara are thrilled to have him back, but Mon-El is suspicious about his sudden return.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Mar. 2017", 
+            "episodeName": "Exodus", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAlex and Kara realize they must break the rules to foil Cadmus' latest plot.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Mar. 2017", 
+            "episodeName": "Star-Crossed", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nSupergirl goes on high alert when a new villain comes to National City. Meanwhile, Winn's new girlfriend Lyra gets him in trouble with the law and the Music Meister attacks.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Mar. 2017", 
+            "episodeName": "Distant Sun", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nAliens attack National City with the intention of collecting a large bounty put out on Supergirl.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Apr. 2017", 
+            "episodeName": "Ace Reporter", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nLena's ex-boyfriend Jack Spheer comes to National City to reveal his breakthrough in nanotechnology that has the potential to eliminate all diseases.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 May 2017", 
+            "episodeName": "Alex", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhen Alex is kidnapped, Supergirl and Maggie must work together to save her.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 May 2017", 
+            "episodeName": "City of Lost Children", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nNational City is attacked by a Phorian, a normally peaceful race with telekinetic abilities.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 May 2017", 
+            "episodeName": "Resist", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nSupergirl grapples with whether or not to obey the President's orders regarding Rhea's latest actions. Meanwhile, Cat Grant returns to National City.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 May 2017", 
+            "episodeName": "Episode #2.22", 
+            "episodeNumber": 22, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "Supergirl", 
+    "plot": "The adventures of Superman's cousin in her own superhero career.", 
+    "rating": 6.6, 
+    "releaseDate": "11 July 2015 (San Diego, California) (Comic Con)", 
+    "type": "tvserie"
+}

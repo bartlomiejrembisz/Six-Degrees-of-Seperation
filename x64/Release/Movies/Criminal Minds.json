@@ -1,0 +1,2005 @@
+{
+    "actorList": [
+        "Matthew Gray Gubler", 
+        "Kirsten Vangsness", 
+        "Thomas Gibson", 
+        "A.J. Cook", 
+        "Shemar Moore", 
+        "Joe Mantegna", 
+        "Paget Brewster"
+    ], 
+    "director": [
+        "Glenn Kershaw", 
+        "F\u00e9lix Enr\u00edquez Alcal\u00e1", 
+        "Edward Allen Bernero", 
+        "John Gallagher", 
+        "Guy Norman Bee", 
+        "Matthew Gray Gubler", 
+        "Larry Teng", 
+        "Rob Bailey", 
+        "Rob Spera", 
+        "Charles S. Carroll", 
+        "Douglas Aarniokoski", 
+        "Charles Haid", 
+        "Rob Hardy", 
+        "Karen Gaviola", 
+        "Thomas Gibson", 
+        "Joe Mantegna", 
+        "Tawnia McKiernan", 
+        "Steve Boyum", 
+        "Gloria Muzio", 
+        "Anna Foerster", 
+        "John Terlesky", 
+        "Michael Lange", 
+        "Matt Earl Beesley", 
+        "Nelson McCormick", 
+        "Laura Belsey", 
+        "Hanelle M. Culpepper", 
+        "Alec Smight", 
+        "Gwyneth Horder-Payton", 
+        "Jesse Warn", 
+        "Bethany Rooney", 
+        "Diana Valentine", 
+        "Richard Shepard", 
+        "Andy Wolk", 
+        "Tim Matheson", 
+        "Adam Davidson", 
+        "Bobby Roth", 
+        "Michael W. Watkins", 
+        "Dermott Downs", 
+        "Constantine Makris", 
+        "Christoph Schrewe"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "22 Sep. 2005", 
+            "episodeName": "Extreme Aggressor", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe team travels to Seattle to find the captor of four missing women.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Sep. 2005", 
+            "episodeName": "Compulsion", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe team are called to an Arizona college when an arsonist who operates in a very unusual way kills a student.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Oct. 2005", 
+            "episodeName": "Won't Get Fooled Again", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA bomber in Palm Beach forces Gideon to confront an old adversary.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Oct. 2005", 
+            "episodeName": "Plain Sight", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA serial rapist-killer active in San Diego targeting middle class women glues his victims eyes open.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Apr. 2006", 
+            "episodeName": "Broken Mirror", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nOne of a lawyer's identical twin daughters is kidnapped. The kidnapper contacts him and demands ransom money. The team's investigation, however, reveals that he doesn't really want the money, but both girls.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2006", 
+            "episodeName": "L.D.S.K.", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe team chases a sniper in Des Plaines, Illinois who for some reason only wounds his victims.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Apr. 2006", 
+            "episodeName": "The Fox", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe team attempts to catch a killer who preys on families while they are supposed to be on vacation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 May 2006", 
+            "episodeName": "Natural Born Killer", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe disappearance of an undercover officer in relation to a triple murder puts the BAU on the hunt of a possible serial killer who's turned it into a profession.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 May 2006", 
+            "episodeName": "Derailed", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA paranoid schizophrenic takes other passengers on a train hostage, including Elle.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 May 2006", 
+            "episodeName": "The Popular Kids", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe apparent death by Satanic ritual brings the BAU to a small town, and the profiling morphs into a search when it's learned that a teenage girl is missing.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Jun. 2006", 
+            "episodeName": "Blood Hungry", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe BAU team must profile a delusional killer in rural Tennessee, and a family member protecting him puts a child at risk.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jan. 2006", 
+            "episodeName": "What Fresh Hell?", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe team must determine whether an abducted girl is the pawn in a bitter divorce, or something more sinister has happened.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Jun. 2006", 
+            "episodeName": "Poison", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe apparent spiking of citizens of a town in New Jersey, puts the BAU on the trail of a poisoner who may not be done.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Jan. 2006", 
+            "episodeName": "Riding the Lightning", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe team of investigators interview husband and wife serial killers with their execution date set for two days time.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Mar. 2006", 
+            "episodeName": "Unfinished Business", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhen a serial killer reappears, the team works with a retired BAU agent who just published a book about the perpetrator.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Mar. 2006", 
+            "episodeName": "The Tribe", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe massacre of students using Native American rituals leads the team to consult the reservation policeman, who is also an activist.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Mar. 2006", 
+            "episodeName": "A Real Rain", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe team travels to Manhattan to work with the NYPD in tracking and apprehending a serial killer who is intent on dispensing his own style of vigilante justice.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Mar. 2006", 
+            "episodeName": "Somebody's Watching", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nIn town to conduct a seminar, Gideon and Reid become involved in a stalker case that has escalated to murder.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Apr. 2006", 
+            "episodeName": "Machismo", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nThe BAU is requested to assist on a case in Mexico to determine if there is a serial killer in the town of a police captain who attended one of Gideon's seminars.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Apr. 2006", 
+            "episodeName": "Charm and Harm", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nTeam members track a known \"chameleon\" serial killer across the southeastern U.S. trying to stop him before he kills again.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 May 2006", 
+            "episodeName": "Secrets and Lies", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe BAU team investigates a CIA counter-terrorism unit to identify a traitor who had a fellow agent murdered and who is trying to find and kill the unit's informant, a Saudi woman with two children who are in hiding.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 May 2006", 
+            "episodeName": "The Fisher King: Part 1", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nTeam members become pawns of a psychopathic killer.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Sep. 2006", 
+            "episodeName": "The Fisher King: Part 2", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nElle's fate is unknown, and the unsub continues dropping clues as the team scrambles to identify him before another tragedy occurs.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Sep. 2006", 
+            "episodeName": "P911", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe case of a missing boy placed up for auction online by a child pornographer draws the BAU team to work together with a former profiler who now works for the Innocent Images Unit to find the boy before the auction ends.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Oct. 2006", 
+            "episodeName": "The Perfect Storm", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe BAU team investigates a series of murders in Florida, suspecting a partnership between two deviant persons with complementary personalities due to the nature of torture videos taken of the victims sent to the victims' parents.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Oct. 2006", 
+            "episodeName": "Psychodrama", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe team flies to Los Angeles to pursue a bank robber who is quickly disintegrating into an enraged, sexually-motivated, spree killer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Oct. 2006", 
+            "episodeName": "Aftermath", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAs the team assists in finding a rapist in Ohio, Elle's actions may compromise her career.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Oct. 2006", 
+            "episodeName": "The Boogeyman", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhile the team profiles a killer in a small town, Hotch must stay and deal with Elle who is beginning to unravel.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Nov. 2006", 
+            "episodeName": "North Mammon", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThree soccer stars are abducted and the unsub plays games while the B.A.U. desperately tries to narrow down the suspects.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Nov. 2006", 
+            "episodeName": "Empty Planet", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhen a bomber targets Seattle, the BAU has to determine if it's a protest group or an individual with a much different agenda.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Nov. 2006", 
+            "episodeName": "The Last Word", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nTwo serial killers send the BAU to St. Louis, and a new team member reports for duty.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Nov. 2006", 
+            "episodeName": "Lessons Learned", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhen a bomb is found at what was thought to be a drug lab BAU is brought in, and while Hotch conducts a state-side investigation Gideon matches wits with a prisoner at Guant\u00e1namo Bay.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Nov. 2006", 
+            "episodeName": "Sex, Birth, Death", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA young man seeks out Reid for help regarding his fantasies of killing prostitutes, just as a serial killer starts brutalizing prostitutes near the capitol.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Dec. 2006", 
+            "episodeName": "Profiler, Profiled", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDerek is arrested as a serial killer, and the team must delve into his secrets in order to free him.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Jan. 2007", 
+            "episodeName": "No Way Out", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nGideon matches wits against the most prolific serial killer ever found, and the results are surprising.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Feb. 2007", 
+            "episodeName": "The Big Game", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe slaughter of a wealthy couple just after a super bowl party puts the BAU on the trail of two killers.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Feb. 2007", 
+            "episodeName": "Revelations", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nReid has been kidnapped, and the BAU's only things to profile are a house, a computer, and the live feed the kidnapper is sending to them.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2007", 
+            "episodeName": "Fear and Loathing", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe death of four African-American girls in a a predominately white community brings the BAU in to try to solve the case before racial tensions explode into violence.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Feb. 2007", 
+            "episodeName": "Distress", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe seemingly random killings in a Houston ward bring the BAU down for the profile, but finding the pattern proves difficult.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Feb. 2007", 
+            "episodeName": "Jones", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe BAU travels to New Orleans' French Quarter where a Jack the Ripper type serial killer is on the loose.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Mar. 2007", 
+            "episodeName": "Ashes and Dust", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nThe team tries to identify a serial arsonist who has escalated to murder.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Apr. 2007", 
+            "episodeName": "Honor Among Thieves", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe BAU finds themselves sparring with the Russian Mob, but even more puzzling is the behavior of one of the victims.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 May 2007", 
+            "episodeName": "Open Season", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe team is called to investigate when bodies of missing people are discovered in the Idaho wilderness. This leads the team to determine that the subjects they are profiling have been hunting humans for sport.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 May 2007", 
+            "episodeName": "Legacy", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nA detective presents himself at the BAU, asking for help because the homeless in his area have begun to disappear.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 May 2007", 
+            "episodeName": "No Way Out, Part II: The Evilution of Frank", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nFrank is back on the hunt, and the team must protect Gideon while he profiles Frank again. Elsewhere, the team faces a review with some surprising results.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Sep. 2007", 
+            "episodeName": "Doubt", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe team tries to identify a serial killer based on a shaky profile with devastating consequences.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Oct. 2007", 
+            "episodeName": "In Name and Blood", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWith Gideon still missing, Hotchner puts in for a transfer and Prentiss tenders her resignation, but both are drawn back to work by a serial killer targeting women in a particularly heartless fashion.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Oct. 2007", 
+            "episodeName": "Scared to Death", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe unit tracks a man working through his fears by working them out on others.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Oct. 2007", 
+            "episodeName": "Children of the Dark", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe BAU travels to Denver, Colorado, where they investigate a series of home invasions that end in the murders of entire families. However, the case takes a turn when they begin to suspect that the killers were once-abused children.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Oct. 2007", 
+            "episodeName": "Seven Seconds", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe unit works against the clock when a little girl disappears in a mall, believing a serial killer has struck a second time and the first girl died within an hour of abduction.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "31 Oct. 2007", 
+            "episodeName": "About Face", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe team gains a new, familiar. member and some growing pains while trying to find the latest victim of a killer who puts up wanted posters of his victims before he abducts them.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Nov. 2007", 
+            "episodeName": "Identity", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe unit has to deal with the militia when they're called to rural Montana to track a killer who's obsessed with his mentor.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Nov. 2007", 
+            "episodeName": "Lucky", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA killer is abducting women and forcing them to eat fingers before killing them, Rossi plays with Morgan's head, and Garcia meets a man at the local coffee shop.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Nov. 2007", 
+            "episodeName": "Penelope", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMore is learned about Garcia while the team tries to find the persistent unsub threatening her.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Nov. 2007", 
+            "episodeName": "True Night", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe team heads to LA to investigate a number of brutal killings which turn out to be related to the creator of a graphic novel, Jonny McHale.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Dec. 2007", 
+            "episodeName": "Birthright", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe team travels to Fredericksburg, Virginia, where women are being abducted, burned and mutilated. Soon it turns out that similar killings happened in the 1980s.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 Jan. 2008", 
+            "episodeName": "3rd Life", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nTwo teenage girls go missing, one of which is soon found dead and freshly buried. The team soon suspects that the killings are related to the witness protection program.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Jan. 2008", 
+            "episodeName": "Limelight", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe auction of the contents of a self-storage facility in Philadelphia reveal a possible serial killer in the making.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 Apr. 2008", 
+            "episodeName": "Damaged", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nRossi determines that the case that haunts him has gone unsolved too long on its 20th anniversary, and the team horns in on his investigation despite his displeasure. Elsewhere, Reid and Hotchner interview a manipulative death-row convict.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 Apr. 2008", 
+            "episodeName": "A Higher Power", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAn unusually high suicide rate in Pittsburgh appears to be the work of an Angel of Death.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Apr. 2008", 
+            "episodeName": "Elephant's Memory", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen a spree killing begins in a small Texas town, Reid's identification with the killer may endanger the girl with him, and cause Reid to put his own life in jeopardy.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "30 Apr. 2008", 
+            "episodeName": "In Heat", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe team travels to Miami in pursuit of a serial killer whose conflicted sexual identity fuels his crimes.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 May 2008", 
+            "episodeName": "The Crossing", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAs a favor to the D.A. in Boston, Hotchner and Rossi profile a woman who murdered her husband, though the D.A. may not like their findings. Back at the office, J.J.'s personalization of a stalker case baffles the rest of the team.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 May 2008", 
+            "episodeName": "Tabula Rasa", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nA suspected serial killer who's been in a coma since 2004 due to an accident when he was arrested wakes up 4 years later, with no memory of his past, not even his name. While he is tried in court, in which Hotch is testifying against him, the rest of the team investigates his past further.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 May 2008", 
+            "episodeName": "Lo-Fi", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nPeople who apparently have nothing in common are being shot randomly in New York City and the team must determine whether it is the work of a single shooter or a team.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Sep. 2008", 
+            "episodeName": "Mayhem", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAs the city is on high alert, the team begins to believe that they have made a mistake with the profile and that everything the terrorists have done so far may in fact just have been diversion for something even bigger.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Oct. 2008", 
+            "episodeName": "The Angel Maker", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nOn the anniversary of a serial killer's execution, a murder spree which appears to be connected to him begins and the team must try and understand his mind in order to stop it.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Oct. 2008", 
+            "episodeName": "Minimal Loss", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nReid and Prentiss, having gone undercover into an underground cult to investigate child abuse, get trapped inside the compound when a federal raid on it goes bad.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Oct. 2008", 
+            "episodeName": "Paradise", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA serial killer targeting couples stages their bodies in a way to make their deaths look like car accidents.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Oct. 2008", 
+            "episodeName": "Catching Out", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA man is jumping trains along Highway 99, brutally killing couples in their homes whenever he stops.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 Nov. 2008", 
+            "episodeName": "The Instincts", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA child abduction case in Las Vegas causes Reid to have strange nightmares which appear to be connected to an event in his past.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Nov. 2008", 
+            "episodeName": "Memoriam", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDriven by his nightmares, Reid stays behind in Las Vegas to find his father in order to find out the truth about Riley Jenkins' murder.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 Nov. 2008", 
+            "episodeName": "Masterpiece", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA serial killer turns himself in and challenges the team to find five people he has hidden somewhere before they die.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "26 Nov. 2008", 
+            "episodeName": "52 Pickup", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA greatly sadistic serial killer who disembowels women and forces them to clean it up before killing them proves difficult to catch thanks to his social charm and simple, yet clever, disguises.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Dec. 2008", 
+            "episodeName": "Brothers in Arms", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMorgan, an ex-cop, takes it personally when a serial killer targets police officers in Phoenix, Arizona.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Dec. 2008", 
+            "episodeName": "Normal", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA serial killer known as the Road Warrior is gunning down blonde women on roads in Orange County, California and the BAU suspect that the victims are surrogates and that it's only a matter of time before he kills the real one.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Jan. 2009", 
+            "episodeName": "Soul Mates", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe team suspects that a member of an affluent community is responsible for the disappearance of a young woman.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Jan. 2009", 
+            "episodeName": "Bloodline", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nA family consisting of two parents and their son break into a home, kill the parents and kidnap their daughter. As the investigation proceeds, the BAU team begin to suspect that what they're dealing with is bigger than they thought.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Feb. 2009", 
+            "episodeName": "Cold Comfort", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nA serial killer in the Olympia, Washington area has abducted four blonde, twenty-something women. When the third victim is found embalmed, the BAU are called in and suspect that the embalming is a way for him to spend more time with them.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Feb. 2009", 
+            "episodeName": "Zoe's Reprise", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA copycat serial killer is recreating murder techniques used by famous killers from the past.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Feb. 2009", 
+            "episodeName": "Pleasure Is My Business", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA high priced call girl that is killing her clients must be found and stopped.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Mar. 2009", 
+            "episodeName": "Demonology", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nPrentiss learns from an old friend, John Cooley, that their mutual friend, Matthew Benton, just died from a heart attack. Prentiss had not seen either man in several years, both for different reasons. John also mentions that Matthew thought he was going to be killed just like \"T. Valentine\". In searching, Garcia does find someone matching that name in the area who recently died from dehydration. There are similarities between the two deaths but no medical rationale for tying the two together as murders. A third person in the area then dies in a similar way but again ...    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Mar. 2009", 
+            "episodeName": "Omnivore", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAfter being inactive for 10 years, Hotch's first BAU case, an elusive serial killer known as the Reaper, starts killing again.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Mar. 2009", 
+            "episodeName": "House on Fire", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhen the kill count of a mass-murdering arsonist active in a small town reaches 31, the BAU are called in.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Apr. 2009", 
+            "episodeName": "Conflicted", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nMale college students on spring break are being raped and murdered, presumably by a man and a woman working together. The BAU are called in and suspect a shy hotel cleaner and a receptionist.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Apr. 2009", 
+            "episodeName": "A Shade of Gray", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAn AMBER alert is activated for a young boy in Cherry Hill, New Jersey and the BAU suspect it to be the work of a pedophile who has abducted and killed two other boys.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Apr. 2009", 
+            "episodeName": "The Big Wheel", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe team tracks down a highly obsessive-compulsive killer who targets blonde women and leaves messages to the police asking them to stop him.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 May 2009", 
+            "episodeName": "Roadkill", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nA serial killer in Bend, Oregon is deliberately killing people by running them over with his car.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 May 2009", 
+            "episodeName": "Amplification", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nThe BAU co-work with the U.S. Army to find the perpetrator behind an anthrax attack on a park in Annapolis, Maryland.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 May 2009", 
+            "episodeName": "To Hell... And Back", 
+            "episodeNumber": 25, 
+            "episodePlot": "\nThe team head to Canada to investigate the disappearances of a number of homeless people, junkies and prostitutes and uncover something horrific.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Sep. 2009", 
+            "episodeName": "Faceless, Nameless", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA man is threatening to kill a doctor's son and is killing a man a day until he is successful. Meanwhile, Hotch's absence is noticed by Prentiss.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 Sep. 2009", 
+            "episodeName": "Haunted", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nDarrin Call, a psychotic, suffers a breakdown in a pharmacy in Kentucky and stabs 3 people to death before running off and the BAU are called in to catch him.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "7 Oct. 2009", 
+            "episodeName": "Reckoner", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA hitman targeting people in some way guilty of children-related crimes brings the BAU to Rossi's home town.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "14 Oct. 2009", 
+            "episodeName": "Hopeless", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe BAU go after a pack of killers who mercilessly beat their victims to death simply for the thrill of violence.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "21 Oct. 2009", 
+            "episodeName": "Cradle to Grave", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe team hunts a suspect who impregnates young women and has them give birth before murdering them.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "4 Nov. 2009", 
+            "episodeName": "The Eyes Have It", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe BAU team tracks a serial killer who keeps the eyes of his victims as souvenirs.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "11 Nov. 2009", 
+            "episodeName": "The Performer", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe BAU team follows a trail of murders that seems to align with the tour schedule of a rock star.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "18 Nov. 2009", 
+            "episodeName": "Outfoxed", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhile tracking a family annihilator, the BAU must seek advice from \"The Fox,\" one of the most horrific killers from the team's past who has an ominous message for Agent Hotchner.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Nov. 2009", 
+            "episodeName": "100", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe BAU team races to help Hotchner find The Reaper and save his family before it's too late.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Dec. 2009", 
+            "episodeName": "The Slave of Duty", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhile Agent Hotchner takes a leave of absence from the BAU, the team must regroup to solve a home invasion case.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "16 Dec. 2009", 
+            "episodeName": "Retaliation", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe BAU must profile a criminal's past in order to catch him after he escapes from custody and begins a killing spree.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Jan. 2010", 
+            "episodeName": "The Uncanny Valley", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAn unusual personal obsession is at the center of a BAU abduction case. Meanwhile, Hotch struggles with his return to work.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Jan. 2010", 
+            "episodeName": "Risky Business", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nA rash of startling teen suicides in a small Wyoming town is the focus of a BAU investigation.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 Feb. 2010", 
+            "episodeName": "Parasite", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe BAU follows the mental decline of a con artist whose schemes have become so complicated that he begins to eliminate the people involved in them.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Feb. 2010", 
+            "episodeName": "Public Enemy", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe BAU are called to Providence, Rhode Island where a serial killer is on the loose. He has killed three people thus far, each in an increasingly public location. Each victim was slashed across the throat with a knife, which is left at the scene without fingerprints. As the BAU go through the three murders thus far, they determine that the unsub is more like an arsonist than a killer in the way he approaches his crimes. The victims themselves seem to be secondary to the location for the unsub, and he is only killing when it is convenient as opposed to choosing a ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 Mar. 2010", 
+            "episodeName": "Mosley Lane", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe BAU profiles a child abductor who may have been keeping children for more than eight years.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Mar. 2010", 
+            "episodeName": "Solitary Man", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe Highway Serial Killer Database exists so that information can be collated for serial murders that would not otherwise be connected due to different police jurisdictions. In reviewing the database, the BAU determine that a serial killer has killed five women thus far, the bodies found hundreds of miles apart. However Reid determines that there is a geographical focus on Edgewood, New Mexico. Each woman was strangled, the bodies laid in a fetal position found in a public location such as a ditch, and there is no sexual assault. The BAU determine that the unsub is a ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "7 Apr. 2010", 
+            "episodeName": "The Fight", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe BAU team travels to San Francisco to investigate the murders of several homeless men and teams up with a separate group of BAU operatives who are working another case they think is connected.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "14 Apr. 2010", 
+            "episodeName": "Rite of Passage", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nThe BAU team heads to Texas to track a serial killer targeting illegal immigrants attempting to make safe passage into the U.S..    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "5 May 2010", 
+            "episodeName": "...A Thousand Words", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe BAU team must profile a serial killer covered in tattoos who commits suicide, but leaves clues to the whereabouts of his last victim.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 May 2010", 
+            "episodeName": "Exit Wounds", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe team, including Garcia, go to the small town of Franklin, Alaska to catch a rapidly escalating serial killer before the locals take justice into their own hands.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "19 May 2010", 
+            "episodeName": "The Internet Is Forever", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nA serial killer in Boise, Idaho is revealed to have been posting his murders on the Internet, accumulating quite a collection of fans in the process.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "26 May 2010", 
+            "episodeName": "Our Darkest Hour", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nThe BAU are called to California when a sadistic serial killer appears and begins killing people in the dark during the rolling blackouts.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Sep. 2010", 
+            "episodeName": "The Longest Night", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAs The Prince of Darkness continues his murderous rampage across California, the BAU go after him to save Detective Spicer's daughter from him.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "29 Sep. 2010", 
+            "episodeName": "JJ", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhile trying to get two suspects to reveal what they've done with a missing woman, the BAU brace themselves for the loss of one of their own.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 Oct. 2010", 
+            "episodeName": "Remembrance of Things Past", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen several women are found murdered in a similar fashion, Rossi revisits a case that has haunted him for 25 years.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 Oct. 2010", 
+            "episodeName": "Compromising Positions", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe BAU team searches for a serial killer who is preying on married couples. Also, Hotchner looks to one of the team to fill JJ's vacant role.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "20 Oct. 2010", 
+            "episodeName": "Safe Haven", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe BAU team is on the trail of a serial killer targeting families throughout the Midwest. Meanwhile, Morgan is concerned when Ellie runs away from her foster family and pays him a visit.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "27 Oct. 2010", 
+            "episodeName": "Devil's Night", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe BAU go to Detroit to catch a man who burns his victims alive during the pre-Halloween celebration Devil's Night.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "3 Nov. 2010", 
+            "episodeName": "Middle Man", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen bodies begin turning up in the cornfields of Indiana, the team must catch a pack of serial killers targeting exotic dancers.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "10 Nov. 2010", 
+            "episodeName": "Reflection of Desire", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe team hunts a serial killer after a kidnapped woman is found murdered in an alley with her lips cut off.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "17 Nov. 2010", 
+            "episodeName": "Into the Woods", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhen a boy is found murdered on the Appalachian Trail, the BAU team goes deep into its forests in search of a man lurking in the wilderness who is targeting children.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "8 Dec. 2010", 
+            "episodeName": "What Happens at Home...", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe team searches a gated community for a killer who has strangled several women.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "15 Dec. 2010", 
+            "episodeName": "25 to Life", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nMorgan regrets his decision that a prisoner is ready for parole when the man murders someone days after being released.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Jan. 2011", 
+            "episodeName": "Corazon", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhile the BAU are in Miami investigating a series of bizarre ritualistic murders, Reid suffers from intense migraines which makes him concerned about his health.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 Jan. 2011", 
+            "episodeName": "The Thirteenth Step", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhile the BAU chases a pair of young lovers on an interstate killing spree, Prentiss is contacted by an old friend with some bad news.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Feb. 2011", 
+            "episodeName": "Sense Memory", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe BAU travels to Los Angeles to investigate unusual murders throughout the city. Also, more of Prentiss' mysterious past comes to light.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Feb. 2011", 
+            "episodeName": "Today I Do", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe team travels to upstate New York to investigate a series of mysterious disappearances.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Feb. 2011", 
+            "episodeName": "Coda", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe BAU are called to Louisiana to get information from an autistic boy who has witnessed his parents' abduction. Meanwhile, Prentiss calls in two old colleagues to track down Ian Doyle.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 Mar. 2011", 
+            "episodeName": "Valhalla", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhen a series of killings occur on the BAU's home turf, Prentiss realizes that Ian Doyle is responsible.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Mar. 2011", 
+            "episodeName": "Lauren", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhile Prentiss has gone missing to track down Ian Doyle and finish him, her team attempts to track down her and digs deeper into her past.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "30 Mar. 2011", 
+            "episodeName": "With Friends Like These", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nThe BAU travels to Portland to investigate a suspected gang of murderers targeting a new victim each night.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 Apr. 2011", 
+            "episodeName": "Hanley Waters", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nAs the BAU investigates targeted killings in Tampa, they also deal with their own feelings about the loss of Prentiss.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 Apr. 2011", 
+            "episodeName": "The Stranger", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe BAU hunts a stalker in San Diego who is targeting college students. Meanwhile, the team comes under Strauss' scrutiny in the wake of the loss of Prentiss.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "4 May 2011", 
+            "episodeName": "Out of the Light", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe BAU is called to a North Carolina mountain town after a woman is found badly injured and another is missing, and they discover that these two are not the only victims.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "11 May 2011", 
+            "episodeName": "Big Sea", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nThe discovery of bodies buried in the ocean floor off Jacksonville prompts the BAU to intervene; Morgan's aunt suspects her missing daughter may be among the dead.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "18 May 2011", 
+            "episodeName": "Supply and Demand", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nHotch calls an early morning meeting, the first he's called since Gideon left, which raises the curiosity of the team. He tells them that because of budget issues, there is going to be some restructuring at the FBI, and although he would like them all to stay with the BAU, they may be approached by other units. The meeting affects Garcia and Rossi the most, and Rossi ends up having a subsequent late-night meeting in his office because of it. Meanwhile, the team is called to assist in the investigation of a local car accident in which an unidentified male driver ...    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "21 Sep. 2011", 
+            "episodeName": "It Takes a Village", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIt's been seven months since Prentiss' death, and three months since JJ returned to the unit to fill Prentiss' empty position. Ever since Prentiss' death, Morgan had been working to find and capture Prentiss' murderer, Ian Doyle, first unsanctioned but then within the scope of the team but still without any government authority. It is because of that unsanctioned nature that the team members individually are appearing at a senate committee hearing into the case, which led to the death of two agents. Morgan felt the best way to locate Doyle was to locate his son, ...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "28 Sep. 2011", 
+            "episodeName": "Proof", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe team travels to Durant, Oklahoma, where two females - both low risk in their late teens, long blond hair and blue eyes - were found sexually assaulted then murdered within a three day span. Other similarities between the two murders are that the body dump sites are public, the victims were not wearing their own clothes but rather 1980's vintage clothing, and that the killer used sulfuric acid to blind the victims. From this evidence, the team believes the unsub is homeless, and is using the acid as a measure of power. They also know that the victims are surrogates...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "5 Oct. 2011", 
+            "episodeName": "Dorado Falls", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe BAU team investigates a mass murder at an Internet security company in Charlottesville, Va., but clues reveal it is not a typical serial killer at work. Also, Prentiss must complete recertification training under Morgan's watchful eye.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "12 Oct. 2011", 
+            "episodeName": "Painless", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nTen years ago, Hotch and Rossi, as part of the BAU at the time, worked on a mass murder case in Boise, Idaho, where bright and well liked but narcissistic North Valley High School student Randy Slade killed thirteen of his classmates in a lunch hour shooting and cell phone detonated bombing in the school's cafeteria. He himself was also killed. As several of the survivors return to Boise to commemorate the ten year anniversary of the massacre, a copycat killer seems to be on the loose. The local authorities and media believe that Randy's then seven year old brother, ...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "19 Oct. 2011", 
+            "episodeName": "From Childhood's Hour", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe BAU team investigates the abductions of young children with troubled mothers in St. Louis. Also, Rossi reconnects with his first wife who has shocking news for him.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 Nov. 2011", 
+            "episodeName": "Epilogue", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe BAU search California's Angeles National Forest after a number of bodies mysteriously turn up in the mountain lakes there. Also, Rossi struggles with an agonizing decision regarding his ex-wife.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "9 Nov. 2011", 
+            "episodeName": "There's No Place Like Home", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen a series of tornadoes hits Kansas, the BAU is called in to investigate bodies of young boys that turn up in the aftermath of the storms. Also, work pressures cause tension on JJ's home front.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "16 Nov. 2011", 
+            "episodeName": "Hope", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nGarcia leading a victims' support group is a measure to deal with the guilt associated with the death of her parents when she was a teenager, they who were looking for her past curfew late one evening when they were struck by a drunk driver. One of her closest friends in the group, Monica Kingston, just hit the seven year anniversary of the abduction of her then adolescent daughter Hope, who she believes is still alive. After the latest meeting, Garcia, who had just spoken to Monica, finds Monica's car left in the parking lot with the keys in the ignition and her ...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "7 Dec. 2011", 
+            "episodeName": "Self Fulfilling Prophecy", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe BAU team looks into the real reasons behind an apparent mass suicide of a small group of youths at a military academy. Also, Hotch and Morgan butt heads when a team member could be in jeopardy.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "14 Dec. 2011", 
+            "episodeName": "The Bittersweet Science", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe BAU team investigates a string of brutal bludgeonings in Philadelphia and is led to the city's boxing scene in search of the killer. Also, Hotch makes a connection with an attractive runner as they both train for a triathlon.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "18 Jan. 2012", 
+            "episodeName": "True Genius", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe BAU is called to San Francisco to investigate a possible Zodiac Killer copycat. Meanwhile, Reid wonders what he's done in his life as he reaches 30.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "25 Jan. 2012", 
+            "episodeName": "Unknown Subject", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe BAU is called to Houston, Texas when a past masked serial rapist coined the Piano Man - so named because of the piano wire he used to bind his victims - starts to re-offend, with his targets being his past victims. His crimes have since evolved where one of the victims, Vanessa Campbell, is abducted from her home - something the unsub had never done before - which they believe is meant to show his victims that they are safe nowhere from his clutches. He used drugs mimicking a date rape drug to knock the victims unconscious before committing his rapes. With news of...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "8 Feb. 2012", 
+            "episodeName": "Snake Eyes", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nEarly on a Sunday morning, a just woken up and extremely hung over Garcia is lamenting the fact of the huge argument she and Kevin had the previous night. Not one to face confrontation head on, she is not looking forward to her first post-fight talk with Kevin, which will happen sooner than later as she can hear that he will soon be finished his shower. That talk will be complicated by the person knocking on her front door. Meanwhile, the team is called to Atlantic City, New Jersey, where Danny Savino, a casino floor manager, was found dead in his office by a severe ...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "15 Feb. 2012", 
+            "episodeName": "Closing Time", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe BAU team hit choppy waters on the beaches of Southern California when they discover a series of bodies hidden in lifeguard towers along the coast.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "22 Feb. 2012", 
+            "episodeName": "A Thin Line", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe BAU team investigates a series of brutal home invasions and murders in California's Inland Empire that appear to be gang-related, but their investigation may uncover a more sinister motivation.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "29 Feb. 2012", 
+            "episodeName": "A Family Affair", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe BAU heads to Atlanta, where stabbings of prostitutes lead the team to suspect more than one unsub.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "14 Mar. 2012", 
+            "episodeName": "I Love You, Tommy Brown", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhen married couples fostering young children end up being killed in Seattle, the BAU team looks for an unsub with a maternal-yet-murderous instinct. Also, Garcia fears a possible proposition from Kevin.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "4 Apr. 2012", 
+            "episodeName": "Foundation", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nA boy named Angel is found wandering in the desert, and when another boy turns up missing, the BAU searches for the kidnapper.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "4 Apr. 2012", 
+            "episodeName": "Heathridge Manor", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhen an Oregon woman is found dead in an abandoned asylum, the BAU realizes that the victim is part of a series of gothic, ritualistic murders and the suspect might be a Satanist.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "11 Apr. 2012", 
+            "episodeName": "The Company", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe BAU searches for Morgan's cousin in Chicago when his sister Desiree is injured in a car accident after chasing a car presumed to be carrying his cousin.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 May 2012", 
+            "episodeName": "Divining Rod", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nMoments after serial killer Rod Garrett is executed by firing squad at Gunter State Prison, another person kills in Enid, Oklahoma where the prison is located. The victimology and M.O. are the same as in Garrett's killings - female, young, blonde, pretty, and killed with a single stab through the heart using an ice pick. By the time the BAU arrive on the scene hours later, the unsub has killed a second victim - same victimology, same M.O. Garrett is survived by his wife, Helen Garrett, who stood by her husband's side through his incarceration, since he stood by her ...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "9 May 2012", 
+            "episodeName": "Profiling 101", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAs a favor owed, Rossi presents a lecture to a university undergraduate class, the lecture at which the entire team participates to support their respected colleague. Their presentation, which provides the basics of profiling, uses one of their cases as its centerpiece. The case, which so far spans twenty years since 1992, is of perhaps the most prolific serial killer they have ever tracked, he who killed up and down the west coast of the United States. The presentation makes the team not only reminisce about the case itself, but how the current team members first met...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "16 May 2012", 
+            "episodeName": "Hit", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nIt's a lazy Saturday morning, a day off for the BAU. Beth has come over to Hotch's house to spend the day with him and Jack. JJ is playing with Henry while Will goes off to work. Morgan is going through Prentiss' just purchased house with her, the purchase pending the inspection which she seems to want to go badly as she seems to have buyer's remorse. Reid is Garcia's unofficial date to a sci-fi convention since she and Kevin split over his planned marriage proposal. And Rossi is heading home to bed after an all night cigar aficionado event... or so he says to Garcia ...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "16 May 2012", 
+            "episodeName": "Run", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nThe team is still attending to the latest bank robbery committed by the Face Cards. Following an explosion inside the bank orchestrated by the queen of diamonds, the team, after assessing the human casualties, find that the two surviving robbers - the \"king\" Chris Stratton, and the still unidentifiable queen of diamonds - have managed to escape, this method which they surmise was the queen's plan all along, with her association with the Stratton brothers and the robberies only a front for her grander plans. They also discover that Will, who was inside the bank at the ...    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "26 Sep. 2012", 
+            "episodeName": "The Silencer", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe team tracks an escaped inmate who sews his victims mouths shut.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "10 Oct. 2012", 
+            "episodeName": "The Pact", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe team suspects a pair of killers working together after discovering two seemingly unrelated bodies.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "17 Oct. 2012", 
+            "episodeName": "Through the Looking Glass", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe team races to find a connection between two families, one murdered and the other abducted.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "24 Oct. 2012", 
+            "episodeName": "God Complex", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe team pursues a surgeon performing needless amputations.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "31 Oct. 2012", 
+            "episodeName": "The Good Earth", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe team attempts to find a common link among four missing men.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "7 Nov. 2012", 
+            "episodeName": "The Apprenticeship", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe team travels to Miami to track a killer who murders hookers in a style similar to animal slayings.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "14 Nov. 2012", 
+            "episodeName": "The Fallen", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe team investigates the burned bodies of several homeless people near the Santa Monica Pier in California.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "21 Nov. 2012", 
+            "episodeName": "The Wheels on the Bus...", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe team searches for a missing school bus filled with students in Washington, DC.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "28 Nov. 2012", 
+            "episodeName": "Magnificent Light", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhen a follower of a well-known motivational speaker is murdered, the team suspects the speaker himself.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "5 Dec. 2012", 
+            "episodeName": "The Lesson", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA number of bizarre, ritualistic murders prompts the team to search for the killer.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "12 Dec. 2012", 
+            "episodeName": "Perennials", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe BAU heads south to investigate a fast-moving UnSub whose signature matches that of a serial killer from 30 years ago. Also, the team learns that someone is tracking their cases and replicating crimes the BAU is solving.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "16 Jan. 2013", 
+            "episodeName": "Zugzwang", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhen Reid discovers that his girlfriend has been kidnapped by her stalker, he and the BAU team band together to find her before it's too late.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "23 Jan. 2013", 
+            "episodeName": "Magnum Opus", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhile Reid copes with a loss in his personal life, the rest of the BAU travels to San Francisco to investigate victims discovered in the Mission District.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "6 Feb. 2013", 
+            "episodeName": "All That Remains", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nWhen the daughters of Bruce Morrison, a writer whose wife mysteriously vanished a year ago, go missing on the anniversary of their mother's disappearance, the BAU is brought in to study Morrison as a possible suspect.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "20 Feb. 2013", 
+            "episodeName": "Broken", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe BAU heads to Austin to investigate victims found there with their watches set inaccurately, a clue which may connect the crimes.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "27 Feb. 2013", 
+            "episodeName": "Carbon Copy", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen victims are found in Philadelphia in a similar style to victims of The Replicator, the stalker who has been tracking the BAU's every move, the team thinks this could be the break they need to try and apprehend him.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "20 Mar. 2013", 
+            "episodeName": "The Gathering", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe BAU investigates victims who were documenting their personal lives and inner desires on blog posts and social media. Also, Kevin gets jealous when he learns Garcia may have a new love interest.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "3 Apr. 2013", 
+            "episodeName": "Restoration", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe BAU goes to Morgan's old neighbourhood in urban Chicago in search of an UnSub targeting middle-aged men, and a clue leads Morgan to believe that they are after someone connected to the man who molested him as a child.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "10 Apr. 2013", 
+            "episodeName": "Pay It Forward", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhen a time capsule in a small Colorado town is opened 25 years later and contains a gruesome discovery, the BAU investigates that crime and a possible link to the death of a local police officer.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "1 May 2013", 
+            "episodeName": "Alchemy", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe BAU travel to Rapid City after two male victims are discovered murdered in a ritualistic manner. Also, Reid continues to grieve over Maeve's death.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "8 May 2013", 
+            "episodeName": "Nanny Dearest", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe BAU travels to Los Angeles looking for an UnSub who is kidnapping nannies and the children they care for on the same day each year.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "15 May 2013", 
+            "episodeName": "#6", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe BAU heads to Detroit when couples are murdered and put in their cars. Meanwhile, Blake's husband shares news with her.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "22 May 2013", 
+            "episodeName": "Brothers Hotchner", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nHotch receives a telephone call from his estranged New York based brother Sean, who he has not heard from in four years and coincidentally while Hotch and Jack are in New York visiting Beth. Now working as a bartender in a club, Sean wants Hotch's help in a death that occurred in the club, where the woman in question quickly bled out through her eyes, mouth and nose just before her death. Hotch convinces the team that this death is the basis for a case when Sean tells him that his own girlfriend also recently died the same way. The team quickly learns that these two ...    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "22 May 2013", 
+            "episodeName": "The Replicator", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nImmediately following the Ecstacy case in New York City, the Replicator has hacked into Garcia's computer system, on which he posts photographs of each of the team members in New York and his \"Zugzwang\" calling card. Although he has taunted most of the team members individually in the past, he seems to focus his attention on one team member while in New York. That focus, another calling card left by the Replicator in what he believes is from a past case, and that he seems to have easy access to almost anywhere the team has access, leads to the team believing he works ...    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "25 Sep. 2013", 
+            "episodeName": "The Inspiration", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe team travels to Glendale, Arizona to search for an increasingly devolving killer.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "2 Oct. 2013", 
+            "episodeName": "The Inspired", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe team is called back to Glendale, Arizona, when it is determined that who was arrested for the praying mantis murders was the wrong person. They did not apprehend Wallace Hines as they thought, but rather Jesse Gentry, who they learn is Wallace's twin brother and was given up for adoption when he was a child. The two did not know of the other growing up. A paralegal, Jesse has a strong legal team, headed by his boss Mark Anderson, who threatens to sue the FBI if they continue to \"harass\" Jesse in any way. The team knows that Jesse is involved in the case in some ...    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "9 Oct. 2013", 
+            "episodeName": "Final Shot", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nOn a lunch hour in crowded Archer Plaza in Dallas, Texas, a sniper, firing twelve shots, manages to kill six people. The BAU has to figure out if it is a random attack, a targeted attack, a terrorist attack - homegrown or foreign - or even something related to the upcoming fiftieth anniversary of the shooting death of John F. Kennedy. The six unrelated victims were killed in different parts of the plaza, the remaining six bullets splattered elsewhere throughout the plaza, leading to the team initially believing that it was a random attack by someone who was a bad shooter. But the ...    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "16 Oct. 2013", 
+            "episodeName": "To Bear Witness", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMateo Cruz has just been introduced as the new section chief. A surprised J.J., who knows him, and Cruz seem not to want to divulge that they have a history. They don't even seem to want to let the team know that they know each other, which may be difficult to hide amongst a group of profilers. Cruz wants to accompany the team into the field on their next case, which takes them to Baltimore, Maryland, where a young John Doe was found stumbling around a warehouse district. Alive, he has ligature marks on his wrists, and drill marks in the corner of his eyes which they ...    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "23 Oct. 2013", 
+            "episodeName": "Route 66", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nDuring the BAU's initial briefing for their latest case, Hotch collapses. He is rushed to the hospital suffering from complications resulting from his near fatal stabbing by George Foyet aka The Reaper. Meanwhile, the rest of the team, while concerned for his life, are urged by Rossi to go to Wichita, Kansas to work on that case of sixteen year old Samantha Wilcox who was abducted by her ex-con father, Eddie Lee Wilcox. In the process, Eddie severely beat Samantha's boyfriend. Eddie had not been in contact with his ex-wife, Samantha's mother Melody Grimes, in quite ...    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "30 Oct. 2013", 
+            "episodeName": "In the Blood", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe BAU are called to Utah to investigate the murder of a women who died by being buried under stones. All while Penelope plans a Day of the Dead party.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "6 Nov. 2013", 
+            "episodeName": "Gatekeeper", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThough Rossi is sad because his favorite bar is closing, the team goes to Boston to solve a series of strangulations.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "13 Nov. 2013", 
+            "episodeName": "The Return", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhen teenagers who were reported missing are suspected of a series of mass murders in Chicago, the BAU investigates their whereabouts to find a motive for the crimes. Also, Morgan has conflicting feelings when his girlfriend takes her job at a hospital as seriously as he takes his.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "20 Nov. 2013", 
+            "episodeName": "Strange Fruit", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhile fixing a burst water main, a city works crew digs up the back yard of the home of the Johnsons - father Charles, mother Tina, and their middle aged son Lyle - upon Tina's approval. The Johnsons have lived at the house for thirty-five years. The crew finds the skeletons of two human bodies buried in the yard. The BAU takes the three members of the Johnson family in for questioning, who they believe know something about the skeletons, primarily because Lyle ran when he saw the authorities at the house. While Hotch, JJ, Morgan, Rossi and Cruz question the Johnsons ...    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "27 Nov. 2013", 
+            "episodeName": "The Caller", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe BAU heads to St. Louis, Missouri where ten year old Andrew Taffert has gone missing. The reason it is a BAU case is that the Tafferts - father Malcolm Taffert and mother Lida Taffert - had been receiving prank calls from someone with a childlike voice stating \"I'm gonna get you\", and that blood was splattered on their front door after Andy had gone missing. Reid notices that this case is much like a fifteen year old cold case that the BAU worked on where the parents in that situation received such prank calls prior to their son being abducted and eventually found ...    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "11 Dec. 2013", 
+            "episodeName": "Bully", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhen the BAU is called to Kansas City to investigate a series of murders, a tense reunion ensues between Blake and her father, a retired police captain, and her brother, a detective, who must work together to help solve the crime.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "15 Jan. 2014", 
+            "episodeName": "The Black Queen", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhen a murder investigation opens in San Jose, Garcia is forced to delve into her past as a hacker and reconnect with her former boyfriend to help the BAU solve the case.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "22 Jan. 2014", 
+            "episodeName": "The Road Home", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhile the BAU looks for a vigilante killer on the loose in Cleveland, Rossi is concerned when his former Marine sergeant goes missing and heads to Los Angeles to find him. Also, the secret JJ has been keeping from the team may be catching up with her.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "5 Feb. 2014", 
+            "episodeName": "200", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe BAU call Emily Prentiss for help to find JJ, who has been kidnapped. The truth about JJ and Cruz's past is revealed.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "19 Feb. 2014", 
+            "episodeName": "Mr. & Mrs. Anderson", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhen the BAU investigates several murders in the Pittsburgh area, the team searches for a pair of UnSubs working as a team. Also, Garcia and Morgan share their Valentine's Day plans for their respective significant others.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "26 Feb. 2014", 
+            "episodeName": "Gabby", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen a 4-year-old girl goes missing while staying with a relative in Mississippi, the BAU uncovers some startling truths as the team races to find the child and bring her to safety.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "5 Mar. 2014", 
+            "episodeName": "Persuasion", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhen mysteriously drowned bodies are discovered in the Las Vegas desert, the BAU tries to figure out the true cause and motive for the murders.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "12 Mar. 2014", 
+            "episodeName": "Rabid", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhen three bodies are found with animal and human bite marks in a shallow grave near Milwaukee, the BAU has puzzling questions to answer. Meanwhile, Reid and Garcia work out for a company fitness test, but try to hide their preparation from Morgan.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "19 Mar. 2014", 
+            "episodeName": "The Edge of Winter", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAs the BAU wraps up an investigation into unusual stabbings in upstate New York, Morgan's visit with a survivor could uncover more questions left for the team to answer.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "2 Apr. 2014", 
+            "episodeName": "Blood Relations", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nWhen the bodies of two murder victims are found in a backwoods community in West Virginia, the BAU uncovers a long-simmering feud between two families and must investigate which one of them could be responsible for the deaths.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "9 Apr. 2014", 
+            "episodeName": "What Happens in Mecklinburg...", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nA series of targeted abductions near Memphis have the BAU searching for a commonality between the missing persons and a motive that will lead them to the unsub. Meanwhile, Savannah vents her frustration to Morgan about the amount of traveling he does for his job.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "30 Apr. 2014", 
+            "episodeName": "Fatal", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nVictims of arsenic poisoning are found in Long Beach, California. The investigation reveals that the killer has a fascination with Greek mythology, based on handwritten death threats to the deceased and other mysterious clues. Meanwhile, Hotch is concerned about participating in Jack's third grade career day.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "7 May 2014", 
+            "episodeName": "Angels", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nWhen the BAU is called to Texas to consult on the murders of prostitutes, evidence points to killings with religious overtones. But as they delve further into the investigation, the team could put their lives at risk.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "14 May 2014", 
+            "episodeName": "Demons", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nWhen Reid is in serious condition after the shootout with the Preacher, the BAU begins to investigate the Sheriff's Deputies.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "1 Oct. 2014", 
+            "episodeName": "X", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe team investigates a serial murder case in Bakersfield, California.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "8 Oct. 2014", 
+            "episodeName": "Burn", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe team heads to Seattle to hunt for a murderous high school teacher.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "15 Oct. 2014", 
+            "episodeName": "A Thousand Suns", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA terrorist hacks a passenger's tablet and uses it to take control of the auto pilot of a plane in order to crash it.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "22 Oct. 2014", 
+            "episodeName": "The Itch", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAtlanta PD has invited the BAU in for an equivocal death investigation, that of investigative journalist Albert Stillman, who died being run over late one evening as he wandered into highway traffic. An eyewitness who tried to help Stillman just before he was run over states that he was waving his arms in the air yelling, \"get them off me\", this depiction which goes against Stillman's history of no mental illness. Reluctantly, Stillman's editor, John Carlson, discloses that Stillman was using heroin as medication for a back problem. Stillman was scheduled to meet with...    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "29 Oct. 2014", 
+            "episodeName": "Boxed In", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nOn October 30, 2014, a frightened eleven year old Joshua Parker is found at a Halloween fair in San Diego. He went missing on Halloween day the previous year. His case mimics that of Tommy Wilcox, who went missing on Halloween 2012 in Los Angeles, only to be found on Venice Beach October 30, 2013, alive but he who eventually died of malnutrition a few hours later. Joshua, however, is expected to live. Both boys had atrophied muscles, and had splinters and puncture wounds, although Joshua seems to have been fed somewhat properly. Both boys were also considered troubled...    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "5 Nov. 2014", 
+            "episodeName": "If the Shoe Fits", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe BAU is stumped to find the common denominator among male victims in Montana, making it difficult to profile the UnSub. Meanwhile JJ deals with her feelings about a family crisis.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "12 Nov. 2014", 
+            "episodeName": "Hashtag", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nPeople in Maryland with large social media followings are murdered by an unsub who takes on the persona of an Internet urban legend. Meanwhile, Morgan and Savannah struggle to find quality time for each other due to their business careers.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "19 Nov. 2014", 
+            "episodeName": "The Boys of Sudworth Place", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA former Boston prosecutor turned successful defense attorney is abducted. As the team probes, past secrets of his life surface.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "26 Nov. 2014", 
+            "episodeName": "Fate", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nRossi encounters an avid follower with an important secret, and a physically and psychologically damaged woman lets loose with personal murders.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "10 Dec. 2014", 
+            "episodeName": "Amelia Porter", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe BAU is called to Salt Lake City, Utah to investigate a suspicious triple-homicide. Throughout the course of their investigation, they eventually discover that a fugitive killer could possibly be linked to the UnSub and he could also be a familiar face.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "14 Jan. 2015", 
+            "episodeName": "The Forever People", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe team head out to Nevada after several frozen bodies are found floating in water somewhere. Whilst the BAU investigate it is revealed the victims were apart of a religious cult which they believe could be responsible for the deaths. Meanwhile, JJ is forced to confront some difficult emotions and demons on the one year anniversary of her abduction, and leans on Reid to help her get through.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "21 Jan. 2015", 
+            "episodeName": "Anonymous", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe BAU searches Tallahassee for a serial killer who calls the authorities to report the crimes prior to committing them. Also, as Rossi prepares for a weekend visit with his daughter, Joy, he receives startling news about the death of a comrade from the Vietnam War.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "28 Jan. 2015", 
+            "episodeName": "Nelson's Sparrow", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe members of the BAU team are brought back to their origins as they look at one of Gideon and Rossi's old cases.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "4 Feb. 2015", 
+            "episodeName": "Hero Worship", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe BAU heads to Indianapolis, Indiana where a bomb has just exploded at a popular chain coffee house, killing several. The police believe this bomb, crudely made using TNT, is related to a bombing one week earlier at a school, also using TNT. That bomb, because it was detonated at night, killed only one, the night time custodian, who was not supposed to be in the school at the time. Based on the exact location of the coffee shop bomb, Rossi and Morgan are uncertain if the bomb was meant to be as deadly as it was or not. In relative terms, there were also some good ...    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "11 Feb. 2015", 
+            "episodeName": "Scream", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nPeter Folkmore was an abused child and is an abuser as an adult. He captures women and abuses them for not reciting the exact instruction Peter gives them.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "4 Mar. 2015", 
+            "episodeName": "Lockdown", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nTwo guards at a privatized maximum security prison in Texas are murdered. The investigation reveals the suspects may be in the prison.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "11 Mar. 2015", 
+            "episodeName": "Breath Play", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe BAU hunt a serial killer in Wisconsin and try to find a connection between the victims so they can profile and identify the UnSub. Meanwhile, Kate experiences trouble dealing with her niece when she starts acting out.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "25 Mar. 2015", 
+            "episodeName": "Rock Creek Park", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhen the wife of an increasingly prominent Congressman disappears, the BAU investigate and come to consider his adversaries and political enemies as potential suspects of the abduction, or possibly murder.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "8 Apr. 2015", 
+            "episodeName": "Beyond Borders", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhen an innocent family of four is abducted while vacationing in Barbados, Hotch and Cruz enlist the assistance of the FBI's most elite team in handling international cases. They realize that this situation closely resembles a case that the BAU once handled in Florida. Upon this discovery, the BAU contacts Jack Garrett, (Gary Sinise) the unit chief of the team with whom they will be working. The BAU will need to pool together their skills with Garrett's elite team in hopes to save this family. This will serve as the backdoor-pilot episode for the new spin-off, ...    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "15 Apr. 2015", 
+            "episodeName": "A Place at the Table", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nWhen a family from Maryland is found murdered at their dining room table, the team tracks down other family members and friends to uncover secrets and details from the past in hopes to find out what may have led to it, and to catch who is responsible. Also, Hotch must try to make peace with his father-in-law, Roy, (Ed Asner) after discovering he's been diagnosed with Alzheimer's, and it has become painfully noticeable.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "22 Apr. 2015", 
+            "episodeName": "Mr. Scratch", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe BAU searches for a suspect who controls minds; the hunt puts one team member in danger.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "29 Apr. 2015", 
+            "episodeName": "Protection", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe team heads to Los Angeles, California where three people have been murdered in two separate incidents over three days, each victim shot thirteen times while sitting in a car or next to a car located in the same crime ridden neighborhood. The ballistics show the same .45 caliber gun was used in both instances. The first victim, Gary Fisher, was known to have frequented prostitutes and was found in area where he was probably meeting with one. Nate Cochran and Tasha Brooks, the second and third victims in the same car, were a john and a hooker. When a fourth and ...    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "6 May 2015", 
+            "episodeName": "The Hunt", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nWhen Kate's niece and her best friend Markayla are kidnapped, the BAU suspects an online predator engaged in sex trafficking who poses as a teenage boy.    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "30 Sep. 2015", 
+            "episodeName": "The Job", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe BAU searches for a serial killer who leaves distinctive marks on victims' faces.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "7 Oct. 2015", 
+            "episodeName": "The Witness", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe BAU is called to Los Angeles to investigate an LA city bus poisoning resulting in many deaths. The team must work quickly to stop a second attack believed to be on a much larger scale.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "14 Oct. 2015", 
+            "episodeName": "'Til Death Do Us Part", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nIn Savannah, Georgia multiple brides-to-be have been found murdered the night before their wedding day. The team quickly realizes they are searching for an unsub suffering from severe rejection.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "21 Oct. 2015", 
+            "episodeName": "Outlaw", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe team heads to Las Vegas, New Mexico, where three employees at a local restaurant were killed during a robbery. The investigation leads to the re-opening of a cold case from six years ago, which is believed to be related to the restaurant homicides.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "28 Oct. 2015", 
+            "episodeName": "The Night Watch", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nIn Detroit, Michigan the BAU investigates several murder victims found morbidly incorporated into graffiti. They believe the murders to be the work of a notable street artist.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "4 Nov. 2015", 
+            "episodeName": "Pariahville", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe team must search for a killer in a small Florida town with a large population of sex offenders, presenting an overwhelming suspect pool.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "11 Nov. 2015", 
+            "episodeName": "Target Rich", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nRossi's daughter, a journalist, investigates the disappearance of a college student. JJ comes back from maternity leave.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "18 Nov. 2015", 
+            "episodeName": "Awake", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe team heads to Phoenix, Arizona to hunt a serial killer who tortures his victims using sleep deprivation. Hotch, Morgan, and Garcia continue their on going search for the dirty dozen.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2 Dec. 2015", 
+            "episodeName": "Internal Affairs", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe BAU works with the NSA when two undercover DEA agents are murdered and another goes missing; Hotch hopes the team's work with the NSA will bring them closer to finding a ring of hit men.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "9 Dec. 2015", 
+            "episodeName": "Future Perfect", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe BAU search for an UNSUB who is fascinated with disturbing medical experiments.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "13 Jan. 2016", 
+            "episodeName": "Entropy", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAs Reid narrates to one of the hitmen how they tracked her, the BAU works to get him out of the hitman's gunpoint.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "20 Jan. 2016", 
+            "episodeName": "Drive", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe group tries to track down and arrest a deranged man posing as a taxi driver in Boston. The man beheads his victims and leaves their bodies in very public areas.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "27 Jan. 2016", 
+            "episodeName": "The Bond", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe Atlanta field office requests the BAU's assistance in a case with two victims thus far, both stabbed multiple times to death, both victims found bound in different truck stop rest rooms, one outside of Chattanooga and one outside of Birmingham, posed post-mortem, both victims missing their left ear, with the murders probably taking place elsewhere as concluded by the lack of blood at the scenes. The wounds indicate indecisiveness and inexperience in the act of killing, while the posed bodies in highly public locales indicates the exact opposite of experience in ...    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "10 Feb. 2016", 
+            "episodeName": "Hostage", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe BAU goes to St. Louis when an 18-year old woman escapes from a house where she and 2 other women were held for a decade.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "24 Feb. 2016", 
+            "episodeName": "A Badge and a Gun", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe BAU heads to the Los Angeles, California area, where two women, in separate incidents, were found murdered within a day of each other, each found in their own home with no sign of forced entry, both single, and both having died of asphyxiation from being wrapped pre-mortem by a regular household item like a blanket or rug. By the time the team arrives at the Los Angeles FBI field office where they are basing their investigation, a third dead body with the same victimology is discovered. From surveillance footage at the third victim's apartment complex, the team ...    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "2 Mar. 2016", 
+            "episodeName": "Derek", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe BAU works against time to find Morgan after he is kidnapped. Danny Glover guest stars.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "16 Mar. 2016", 
+            "episodeName": "The Sandman", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe team searches for an unknown subject who abducts children after visually impairing their parents while they sleep. Distracted father-to-be Morgan tries to find out who attacked him.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "23 Mar. 2016", 
+            "episodeName": "A Beautiful Disaster", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhen an unsub targets the BAU, the team pursues the person who is responsible for the actions.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "30 Mar. 2016", 
+            "episodeName": "Tribute", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nFormer BAU team member and current Interpol Agent Emily Prentiss tracks an international serial killer to American soil and enlists the teams help to track him down. Meanwhile, the team deals with Morgan's departure.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "13 Apr. 2016", 
+            "episodeName": "Inner Beauty", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe team go to Sacramento, CA to find an unsub mutilating the faces of his recovering addict victims found in enclosed bodies of water. Even Rossi, who has to choose between spending time with his grandson and work, joins them.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "20 Apr. 2016", 
+            "episodeName": "Devil's Backbone", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe authorities believed that two Virginia based cases of missing boys, Adam Morrissey and Jimmy Bennett, from two years ago were unrelated, until their bloodied clothes, those in which they were last seen, had just arrived in one intercepted package at Fletcham Correctional Center in Troy, Virginia. The addressee of that package is Antonia Slade, a serial killer of young teens, she who was convicted in part by work of the BAU, most specifically Gideon. A social worker, she ran a fake youth hot-line as a means to lure her victims to her home, where the dead bodies of ...    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "4 May 2016", 
+            "episodeName": "The Storm", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe team works to clear Hotch's name after he's arrested by the DOJ for conspiracy.    ", 
+            "seasonNumber": 11
+        }, 
+        {
+            "airDate": "28 Sep. 2016", 
+            "episodeName": "The Crimson King", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nLuke Alvez (Adam Rodriguez) and the team track down one of the 13 prisoners that escaped from prison at the end of the previous season.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "5 Oct. 2016", 
+            "episodeName": "Sick Day", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nJJ tells her husband about the abduction of two children.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "12 Oct. 2016", 
+            "episodeName": "Taboo", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe BAU welcomes back Emily Prentiss (Paget Brewster) as they are called upon to investigate the disappearance of three women    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "26 Oct. 2016", 
+            "episodeName": "Keeper", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe BAU team searches for a serial killer along the Appalachian Trail in rural Virginia.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "9 Nov. 2016", 
+            "episodeName": "The Anti-Terror Squad", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe BAU investigates the case of two murdered families where the oldest siblings are the sole survivors.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "16 Nov. 2016", 
+            "episodeName": "Elliott's Pond", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen three children disappear while riding their bikes on the same path as a similar unsolved disappearance 30 years ago, the BAU team comes in to investigate.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "30 Nov. 2016", 
+            "episodeName": "Mirror Image", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe BAU opens an investigation when a man arrives in town believing he's the brother of Dr. Tara Lewis.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "7 Dec. 2016", 
+            "episodeName": "Scarecrow", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe team heads to Yakima, Washington when the remains of a dozen people are found along a creek bed.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "4 Jan. 2017", 
+            "episodeName": "Profiling 202", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhile Rossi conducts a profiling course on his birthday, he receives a call from his nemesis Tommy Yates, who discloses the location of his latest victim.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "11 Jan. 2017", 
+            "episodeName": "Seek and Destroy", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe team investigates a series of home invasions in San Diego involving casualties.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "1 Feb. 2017", 
+            "episodeName": "Surface Tension", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nReid has returned from Houston, where he was visiting his mother who is in a new facility on an experimental drug program. He is called back home from the office while the rest of the team heads off on their next case. It isn't until the team is in the air that they learn that Diana is no longer in the Houston facility, but that she is now living with Reid, as the trial drug was not having the intended effect. Reid had received professional advice that his mother should be in a facility both for her and his own good, but it may be news from a more caring rather than ...    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "8 Feb. 2017", 
+            "episodeName": "A Good Husband", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe BAU investigates the case of male victims found with no way to identify them.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "15 Feb. 2017", 
+            "episodeName": "Spencer", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhen a member of the BAU gets in trouble in Mexico, they enlist the help of the International Response Team.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "22 Feb. 2017", 
+            "episodeName": "Collision Course", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe BAU investigates a series of pedestrian deaths while a teammate's fate remains uncertain.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "1 Mar. 2017", 
+            "episodeName": "Alpha Male", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA series of acid attacks draw the BAU to Philadelphia, while Reid adjusts to a new reality.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "15 Mar. 2017", 
+            "episodeName": "Assistance Is Futile", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA mother comes forward with information to help the BAU in their investigation of an unsub called the Bone Crusher.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "22 Mar. 2017", 
+            "episodeName": "In the Dark", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe BAU suspects that two unsubs are operating at the same time when victims killed in different ways are found in the same city.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "29 Mar. 2017", 
+            "episodeName": "Hell's Kitchen", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe BAU investigates an urban vampire who kidnaps his victims at night and holds them underground in the sewer system; Reid makes a difficult decision in prison.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "5 Apr. 2017", 
+            "episodeName": "True North", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nThree victims are found tied to stakes in the Arizona desert.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "26 Apr. 2017", 
+            "episodeName": "Unforgettable", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe BAU investigates when several federal government employees, including a close friend of Walker's, succumb to symptoms of a heart attack; Reid anxiously awaits his trial date.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "3 May 2017", 
+            "episodeName": "Green Light", 
+            "episodeNumber": 21, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "10 May 2017", 
+            "episodeName": "Red Light", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nDerek Morgan brings the BAU a lead in the case against serial killer and escaped convict Mr. Scratch.    ", 
+            "seasonNumber": 12
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #13.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 13
+        }
+    ], 
+    "name": "Criminal Minds", 
+    "plot": "The cases of the FBI Behavioral Analysis Unit (BAU), an elite group of profilers who analyze the nation's most dangerous serial killers and individual heinous crimes in an effort to anticipate their next moves before they strike again.", 
+    "rating": 8.2, 
+    "releaseDate": "22 September 2005", 
+    "type": "tvserie"
+}

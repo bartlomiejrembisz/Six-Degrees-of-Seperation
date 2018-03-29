@@ -1,0 +1,40 @@
+{
+    "actorList": [
+        "Matthew McConaughey", 
+        "Reese Witherspoon", 
+        "Tye Sheridan", 
+        "Jacob Lofland", 
+        "Sam Shepard", 
+        "Ray McKinnon", 
+        "Sarah Paulson", 
+        "Michael Shannon", 
+        "Joe Don Baker", 
+        "Paul Sparks", 
+        "Bonnie Sturdivant", 
+        "Stuart Greer", 
+        "John Ward Jr.", 
+        "Kristy Barrington", 
+        "Johnny Cheek", 
+        "Kenneth Hill", 
+        "Michael Abbott Jr.", 
+        "Earnest McCoy", 
+        "Allie Wade", 
+        "Douglas Ligon", 
+        "Matt Newcomb", 
+        "Mary Alice Jones", 
+        "Tate Smalley", 
+        "Jimmy Dinwiddie", 
+        "Ryan Jacks"
+    ], 
+    "director": [
+        "Jeff Nichols"
+    ], 
+    "genres": [
+        "Drama"
+    ], 
+    "name": "Mud", 
+    "plot": "Two young boys encounter a fugitive and form a pact to help him evade the vigilantes that are on his trail and to reunite him with his true love.", 
+    "rating": 7.4, 
+    "releaseDate": "26 May 2012 (Cannes Film Festival)", 
+    "type": "movie"
+}

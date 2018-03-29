@@ -1,0 +1,46 @@
+{
+    "actorList": [
+        "Matthew Broderick", 
+        "Christopher Walken", 
+        "Matt Mulhern", 
+        "Corey Parker", 
+        "Markus Flanagan", 
+        "Casey Siemaszko", 
+        "Michael Dolan", 
+        "Penelope Ann Miller", 
+        "Park Overall", 
+        "Alan Pottinger", 
+        "Mark Evan Jacobs", 
+        "David Kienzle", 
+        "Matthew Kimbrough", 
+        "Kirby Mitchell", 
+        "Allen Turner", 
+        "Tom Kagy", 
+        "Jeff Bailey", 
+        "Bill Russell", 
+        "Natalie Canerday", 
+        "A. Collin Roddey", 
+        "Christopher Ginnaven", 
+        "Morris Mead", 
+        "David Whitman", 
+        "Norman Rose", 
+        "Ben Hynum", 
+        "Andy Wigington", 
+        "Scott Sudbury", 
+        "Michael Haley", 
+        "Virginia Sandifur", 
+        "Robert McCrary"
+    ], 
+    "director": [
+        "Mike Nichols"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Drama"
+    ], 
+    "name": "Biloxi Blues", 
+    "plot": "A group of young recruits go through boot camp during the Second World War in Biloxi Mississippi. From the play by Neil Simon.", 
+    "rating": 6.6, 
+    "releaseDate": "25 March 1988", 
+    "type": "movie"
+}

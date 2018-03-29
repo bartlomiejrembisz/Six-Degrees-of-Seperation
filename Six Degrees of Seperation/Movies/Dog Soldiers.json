@@ -1,0 +1,32 @@
+{
+    "actorList": [
+        "Sean Pertwee", 
+        "Kevin McKidd", 
+        "Emma Cleasby", 
+        "Liam Cunningham", 
+        "Thomas Lockyer", 
+        "Darren Morfitt", 
+        "Chris Robson", 
+        "Leslie Simpson", 
+        "Tina Landini", 
+        "Craig Conway", 
+        "Villrikke's Acer", 
+        "Bryn Walters", 
+        "Ben Wright", 
+        "Brian Claxton Payne"
+    ], 
+    "director": [
+        "Neil Marshall"
+    ], 
+    "genres": [
+        "Action", 
+        "Fantasy", 
+        "Horror", 
+        "Thriller"
+    ], 
+    "name": "Dog Soldiers", 
+    "plot": "A routine military exercise turns into a nightmare in the Scotland wilderness.", 
+    "rating": 6.8, 
+    "releaseDate": "22 March 2002 (Brussels International Festival of Fantasy Films)", 
+    "type": "movie"
+}

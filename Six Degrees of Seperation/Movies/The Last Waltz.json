@@ -1,0 +1,51 @@
+{
+    "actorList": [
+        "The Band", 
+        "Rick Danko", 
+        "Levon Helm", 
+        "Garth Hudson", 
+        "Richard Manuel", 
+        "Robbie Robertson", 
+        "Eric Clapton", 
+        "Neil Diamond", 
+        "Bob Dylan", 
+        "Joni Mitchell", 
+        "Neil Young", 
+        "Emmylou Harris", 
+        "Ringo Starr", 
+        "Paul Butterfield", 
+        "Dr. John", 
+        "Van Morrison", 
+        "Ronnie Hawkins", 
+        "Singers The Staple", 
+        "Muddy Waters", 
+        "Ronnie Wood", 
+        "Michael McClure", 
+        "Lawrence Ferlinghetti", 
+        "Martin Scorsese", 
+        "Jim Gordon", 
+        "Tom Malone", 
+        "Howard Johnson", 
+        "Jerry Hey", 
+        "Richard Cooper", 
+        "Charlie Keagle", 
+        "Larry Packer", 
+        "Bill Graham", 
+        "Robert Charles Guidry", 
+        "Bob Margolin", 
+        "Pinetop Perkins", 
+        "Carl Radle"
+    ], 
+    "director": [
+        "Martin Scorsese"
+    ], 
+    "genres": [
+        "Documentary", 
+        "Music"
+    ], 
+    "name": "The Last Waltz", 
+    "plot": "A film account and presentation of the final concert of The Band.", 
+    "rating": 8.2, 
+    "releaseDate": "26 April 1978", 
+    "type": "movie"
+}

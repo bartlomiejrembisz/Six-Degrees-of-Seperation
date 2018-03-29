@@ -1,0 +1,43 @@
+{
+    "actorList": [
+        "Antonio Banderas", 
+        "Elena Anaya", 
+        "Marisa Paredes", 
+        "Jan Cornet", 
+        "Roberto \u00c1lamo", 
+        "Eduard Fern\u00e1ndez", 
+        "Jos\u00e9 Luis G\u00f3mez", 
+        "Blanca Su\u00e1rez", 
+        "Susi S\u00e1nchez", 
+        "B\u00e1rbara Lennie", 
+        "Fernando Cayo", 
+        "Chema Ruiz", 
+        "Buika", 
+        "Ana Mena", 
+        "Teresa Manresa", 
+        "Fernando Iglesias", 
+        "Agust\u00edn Almod\u00f3var", 
+        "Miguel Almod\u00f3var", 
+        "Marta R. Mahou", 
+        "Guillermo Carbajo", 
+        "Violaine Est\u00e9rez", 
+        "Sheyla Fari\u00f1a", 
+        "Esther Garc\u00eda", 
+        "Iv\u00e1n Gonz\u00e1lez Lewis", 
+        "Carmen Machi", 
+        "Azahara Moyano", 
+        "David Vila"
+    ], 
+    "director": [
+        "Pedro Almod\u00f3var"
+    ], 
+    "genres": [
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "La piel que habito", 
+    "plot": "A brilliant plastic surgeon, haunted by past tragedies, creates a type of synthetic skin that withstands any kind of damage. His guinea pig: a mysterious and volatile woman who holds the key to his obsession.", 
+    "rating": 7.6, 
+    "releaseDate": "19 May 2011 (Cannes Film Festival)", 
+    "type": "movie"
+}

@@ -1,0 +1,598 @@
+{
+    "actorList": [
+        "Joseph Morgan", 
+        "Daniel Gillies", 
+        "Phoebe Tonkin", 
+        "Charles Michael Davis", 
+        "Danielle Campbell", 
+        "Leah Pipes", 
+        "Yusuf Gatewood", 
+        "Riley Voelkel", 
+        "Steven Krueger", 
+        "Claire Holt"
+    ], 
+    "director": [
+        "Matthew Hastings", 
+        "Chris Grismer", 
+        "Jeffrey G. Hunt", 
+        "Jesse Warn", 
+        "Lance Anderson", 
+        "Leslie Libman", 
+        "Michael A. Allowitz", 
+        "Kellie Cyrus", 
+        "Bethany Rooney", 
+        "Dermott Downs", 
+        "Rob Hardy", 
+        "Sylvain White", 
+        "Michael Robison", 
+        "Michael Grossman", 
+        "Joseph Morgan", 
+        "John Hyams"
+    ], 
+    "genres": [
+        "Drama", 
+        "Fantasy", 
+        "Horror", 
+        "Mystery"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "3 Oct. 2013", 
+            "episodeName": "Always and Forever", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nKlaus Mikaelson, the Original vampire/werewolf hybrid, returns to the magical melting pot that is the French Quarter of New Orleans - a town he helped build centuries ago.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Oct. 2013", 
+            "episodeName": "House of the Rising Son", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nRebekah arrives in New Orleans at her brother Elijah's insistence, but, concerned that Klaus is up to no good, she seeks help from a reluctant Sophie. Marcel enlists Davina's help.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Oct. 2013", 
+            "episodeName": "Tangled Up in Blue", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nBetrayal at the masquerade ball? Klaus and Rebekah come together to attempt to unravel Marcel's empire from within, in spite of Elijah's concerns. They enlist help from Sophie.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Oct. 2013", 
+            "episodeName": "Girl in New Orleans", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDetermined Rebekah is on a mission to get to the bottom of a recent strange encounter involving Elijah. Davina convinces Marcel to let her attend an annual street music festival.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Oct. 2013", 
+            "episodeName": "Sinners and Saints", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAngered by recent events involving the safety of his unborn baby, Klaus demands answers from Sophie, believing she was involved. Sophie reveals to Klaus and Rebekah a troubling secret from her past. Meanwhile, Marcel asks Klaus to accompany him to the bayou after gruesome remains are discovered, while Rebekah, Sophie and Hayley set off on a mission of their own. Davina confides in an unexpected ally and reveals shocking information about the witches - ultimately leading to a disturbing revelation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Nov. 2013", 
+            "episodeName": "Fruit of the Poisoned Tree", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen Klaus discovers Hayley's life is being threatened, he goes to extreme lengths to protect her and their unborn baby. Cami turns to Father Kieran for guidance when she is having a difficult time dealing with the tragic events of her past. Feeling as though he can trust no one, Marcel visits an old friend to seek out some advice, while Davina takes steps to learn how to control her magic. Finally, Klaus delivers some surprising news to Father Kieran.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Nov. 2013", 
+            "episodeName": "Bloodletting", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen someone from Hayley's past makes a startling revelation, she grows concerned for herself and the baby. Amidst growing tensions between them, Klaus and Elijah turn to Sabine for help in locating Hayley, who has gone missing. After making a trip down to the bayou, Klaus has a surprising and dangerous encounter with an unexpected visitor. Meanwhile, Davina makes a surprising connection, and Marcel makes Rebekah an enticing offer that leaves her torn.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Nov. 2013", 
+            "episodeName": "The River in Reverse", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nIn the war between Klaus and Marcel, Rebecca stands against her own brother Klaus. The chemistry between Elijah and Hayley gets stronger. Klaus accuses his siblings of distrust and betrayal.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Dec. 2013", 
+            "episodeName": "Reigning Pain in New Orleans", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nKlaus tries to get adapted to his new duties as he became the king of the city. He offers Marcel a compromise and he fixes his relationship with his siblings. Davina feels betrayed by Marcel. She finally finds an allay, Cami.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Jan. 2014", 
+            "episodeName": "The Casket Girls", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs the French Quarter prepares for its annual celebration of the Casket Girls Festival, Cami suffers through as Davina attempts to free her of Klaus' mind compulsion. Elijah and Marcel form an unlikely alliance as Klaus sets his plan in motion to get Davina back. Once it's known that Davina is missing, Sophie gets in on the hunt to track her down. Meanwhile, Hayley is forced to make a tough decision after receiving an unexpected phone call, and Rebekah sets her own plan in motion when she enlists the help of someone from Marcel's past.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Jan. 2014", 
+            "episodeName": "Apr\u00e8s Moi, Le D\u00e9luge", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhen Davina becomes violently ill and the repercussions soon begin to affect the entire French Quarter, Marcel, Klaus, Elijah and Rebekah rush to find out what is going on. Sophie approaches the others with some startling information about the Harvest Festival and presents a drastic plan to save Davina. Elsewhere, Hayley is racked with guilt as she comes clean to Elijah about her role in Sophie's plan. Last, a sequence of unforeseen events sends shockwaves through the French Quarter.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Jan. 2014", 
+            "episodeName": "Dance Back from the Grave", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nMarcel, still angered refuses to help Klaus when a gruesome discovery is made. Rebekah is on alert when she uncovers the remnants of a sacrifice down by the docks realizing it's the work of a dangerous warlock from their past. when Elijah gets some information that Rebekah may be in trouble, he and Hayley set off to find her. Camille confronts Marcel, who opens up and shares some details of his past with her, but things quickly spiral out of control when an unexpected visitor shows up. Finally, a violent confrontation ensues when Klaus faces off against a powerful ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Feb. 2014", 
+            "episodeName": "Crescent City", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAt the re-opening of St. Anne's Church, Father Kieran finds himself in a great deal of trouble after a run-in with a witch from his past. Marcel and Rebekah grow concerned when the reemergence of someone they once knew threatens to expose secrets they've kept buried for nearly a century. Elsewhere, Sophie is shocked when a discovery is made at the cemetery, but she soon realizes things may not be as they seem. With the full moon looming, Hayley lets Rebekah in on her plan to throw a party for her werewolf clan, but things take a dangerous turn when uninvited guests ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Feb. 2014", 
+            "episodeName": "Long Way Back from Hell", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nRebekah's past comes back to haunt her.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Mar. 2014", 
+            "episodeName": "Le Grand Guignol", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nIn a series of flashbacks to 1919, Klaus opens up to Cami and reveals details of the devastating secret Rebekah and Marcel were trying to keep from him. Elijah forms an unlikely alliance with Monique and asks for her help in locating Sabine. Elsewhere, Thierry is reluctant to get involved when Marcel and Rebekah approach him with a plan to take down the witches. Meanwhile, in the bayou, Hayley is at her wits' end and holds Sabine hostage in an attempt to get information that will reverse the curse on Hayley's werewolf clan.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Mar. 2014", 
+            "episodeName": "Farewell to Storyville", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nSince the original vampires were stuck in the cemetery, Klaus takes any chances to punish his sister with the Original-killer stake.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Mar. 2014", 
+            "episodeName": "Moon Over Bourbon Street", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nElijah is taking control of the quarter and receives a surprising offer, and they know how to throw a party.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Apr. 2014", 
+            "episodeName": "The Big Uneasy", 
+            "episodeNumber": 18, 
+            "episodePlot": "\n\"Genevieve asks Elijah to allow her coven to publicly celebrate a traditional feast day, where members of the community offer the witches gifts in return for blessings. Monique and Genevieve disagree over what the ancestors want from them, and Genevieve reveals her plan to build the witches' power. When Elijah focuses his attention on restoring their home to its former glory, Klaus accuses him of doing it only to impress Hayley . Next, Klaus sets a new plan in motion by finding Cary , a werewolf from his own line, and sending him off to find a missing piece of family ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Apr. 2014", 
+            "episodeName": "An Unblinking Death", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nDesperate to help Kieran, Camille insists on an unconventional treatment, but her good intentions lead Kieran to a violent episode. After Klaus and Elijah disagree over the best way to handle the Crescent Wolves, Elijah makes a trip to the bayou, where he is witness to a horrific explosion that only adds to the hatred and mistrust among the communities. While Jackson and Elijah work to save the wounded, Hayley learns a surprising piece of her family history from Marcel.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Apr. 2014", 
+            "episodeName": "A Closer Walk with Thee", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nHayley confronts a surprising enemy as she and her unborn baby fall into peril during a celebratory wake to honor a fallen member of the community. In order to save Hayley, Klaus and Elijah enlist the help of Genevieve who struggles to maintain control over Davina and the other young witches. Camille tells Marcel that Francesca is determined to find a mysterious key that may unlock a family secret. Meanwhile, as Klaus suffers from nightmares of his father Mikael, he is forced to examine his troubled relationship with his own adoptive son, Marcel.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 May 2014", 
+            "episodeName": "The Battle of New Orleans", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nKlaus and Elijah enact a plan to collect the sacred stones needed by Genevieve in order to forever change the fates of Hayley and the werewolf community. Realizing that Klaus' plan will lead to the extermination of all French Quarter vampires, Marcel rallies an army determined to take down the Mikaelsons and regain control of the city. Davina warns Josh to leave town as she is forced to make a fateful decision that will turn the tide of war. Meanwhile, Francesca threatens Cami, who attempts to decipher a code that results in a surprising revelation among the city's ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 May 2014", 
+            "episodeName": "From a Cradle to a Grave", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAs the baby's due date draws near, Klaus and Elijah embark on a search for Hayley, while Hayley determines to do whatever it takes to keep her unborn baby safe and away from the witches. Francesca takes a meeting with Oliver and Jackson to determine the future of the werewolves in New Orleans. In the aftermath of a surprising attack on Marcel and his vampires at the compound, Davina and Cami join resources to take down Klaus. Finally, in a desperate move to protect those most important to him, Klaus makes a heartbreaking decision.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Oct. 2014", 
+            "episodeName": "Rebirth", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nHayley struggles with her powers. Marcel sides with Klaus and gets revenge over the wolves. Esther is busy plotting her own plans. Everyone wants control over the city.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Oct. 2014", 
+            "episodeName": "Alive and Kicking", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nNathaniel appears as Kol in flashback whereas tensions between Elijah and Hayley grow, Klaus steps in and encourages her to regain her position within her werewolf pack. Mikael grows impatient under Davina's control while she attempts to uncover a spell that would protect those closest to her. Eljiah and Marcel work together to gather a vital piece of information. KLaus gets suspicious about Cassie.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Oct. 2014", 
+            "episodeName": "Every Mother's Son", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen Klaus and Elijah receive a cryptic invitation to dinner from their mother Esther, they find themselves preparing for the worst. Esther reveals a shocking secret about Klaus' childhood and unveils her ultimate plan for her children.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Oct. 2014", 
+            "episodeName": "Live and Let Die", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDavina takes Mikael to a cabin to heal from his wolf bites. Klaus searches for them. Elijah, Marcel and Hayley try to rescue some young wolves.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Nov. 2014", 
+            "episodeName": "Red Door", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nIn order to show Elijah that her plan is what's best for him, Esther forces him to relive a time long ago when he loved a young woman named Tatia.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Nov. 2014", 
+            "episodeName": "Wheel Inside the Wheel", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nCami teams up with Marcel and Gia after she becomes suspicious of her faculty advisor Vincent. Lastly, in a surprising turn of events, Klaus comes face-to-face with a visitor from his past.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Nov. 2014", 
+            "episodeName": "Chasing the Devil's Tail", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nGoing after everything Esther loves. Klaus and Hayley seek an antidote for Elijah in the bayou assisted by Marcel and Josh. Kaleb takes Davina to an old hangout.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Nov. 2014", 
+            "episodeName": "The Brothers That Care Forgot", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nRebekah is on the run with baby Hope.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Dec. 2014", 
+            "episodeName": "The Map of Moments", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nRebekah persuades Klaus and Elijah to take part in a family tradition from their childhood.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Jan. 2015", 
+            "episodeName": "Gonna Set Your Flag on Fire", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFinn puts a spell on the compound, trapping wolves and vampires. Klaus takes Cami to the safe house, then confronts Kol about Rebekah's whereabouts.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Jan. 2015", 
+            "episodeName": "Brotherhood of the Damned", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFinn captures his brother's spirits, while the vampires remain trapped and their hunger grows.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Feb. 2015", 
+            "episodeName": "Sanctuary", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nRebekah becomes interested in a girl. Hayley struggles with coming clean and is surprised by something Jackson admits. Klaus learns something and heads to confront Hayley. Vincent sets his eyes on Marcel for answers to what Klaus is hiding.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Feb. 2015", 
+            "episodeName": "The Devil Is Damned", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nVincent joins forces with a figure from his past. Kaleb is forced to make a difficult life or death decision, and Elijah finds himself in the fight of his life. Hayley and Jackson become pawns in Vincent's dangerous plan.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Feb. 2015", 
+            "episodeName": "I Love You, Goodbye", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nWith the final preparations for her union to Jackson underway, Hayley begins to question whether the ritual will actually work. After arriving to the compound, Elijah has a tense encounter with Klaus and quickly suspects that his brother may be up to something. Meanwhile, Kaleb, who is harboring a devastating secret from Davina, seeks help from Rebekah when he realizes time is not on his side. Lastly, Cami makes a startling revelation involving baby Hope.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Mar. 2015", 
+            "episodeName": "They All Asked for You", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhen a dangerous run-in with a coven of vengeful witches forces Rebekah to align with Marcel, they quickly discover that the body Rebekah is currently inhabiting has a checkered past. Upon learning that Rebekah is in danger, Elijah seeks out a respected elder witch, Josephine, in the hopes she might offer her assistance. Meanwhile, tensions build when Klaus clashes with Hayley and Jackson over how best to protect baby Hope from Finn, Elsewhere, Freya, convinces Finn to bring her to Mikael, the father she hasn't seen in over a thousand years. Lastly, a confrontation ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Mar. 2015", 
+            "episodeName": "Save My Soul", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nSuspicious of where her true loyalties lie, Klaus invites Freya to the compound in order to gain more insight into her past with Dahlia. After a series of strange visions,Rebekah begins to realize the body she's inhabiting is attempting to regain control. With Rebekah's life on the line, Marcel puts his bargaining skills to the test when he turns to Finn, who may have some knowledge that could help them. Lastly, at the bayou, Jackson's frustrations grow after Aiden questions his leadership skills. Elijah, Hayley and Cami also appear.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Apr. 2015", 
+            "episodeName": "Exquisite Corpse", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nKlaus must put aside his mistrust for Freya in order to save Rebekah's life.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Apr. 2015", 
+            "episodeName": "Night Has a Thousand Eyes", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhile searching for a way to vanquish Dahlia, Klaus is faced with another threat.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Apr. 2015", 
+            "episodeName": "When the Levee Breaks", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nSetting the stage for a bloody showdown, Dahlia gives Klaus and Hayley a deadline to turn over baby Hope. Elijah attempts to convince Klaus that they need to work together in their fight against Dahlia, but Klaus forges ahead with his own dangerous plan, leaving everyone concerned about his next steps. Meanwhile, when Hayley realizes their chances of outrunning Dahlia are slim, she devises a risky plan and enlists Aiden's help. Elsewhere, Freya gives Rebekah and Elijah an ultimatum, and Marcel strategizes on how best to deal with Klaus' erratic behavior.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Apr. 2015", 
+            "episodeName": "City Beneath the Sea", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nWhen Dahlia devises a clever way to get Klaus' attention, she reveals some startling details about baby Hope and leaves him with an enticing proposition to consider. Elsewhere, while Elijah and Freya find themselves with opposing views on how best to handle Dahlia's looming deadline, Rebekah, Davina and Cami work together to come up with their own strategy. Meanwhile, following a tense standoff between Elijah and Jackson in the bayou, Hayley is left to make a difficult decision about her and Hope's future. Finally, Vincent, who is eager to leave his witch past behind ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 May 2015", 
+            "episodeName": "Fire with Fire", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAfter discovering that he's been betrayed by his own siblings, Klaus teams up with an unlikely ally and sets off on a warpath, hell bent on revenge. Amidst the news that Klaus is on the loose, Elijah, Rebekah and Freya move forward with their plan to lure Dahlia to the compound and take her down once and for all. Meanwhile, Hayley and Jackson attempt to escape through the flooded bayou, even as Marcel finds himself hunted by a dangerous new threat. Finally, Davina is presented with an offer that could allow her the chance to bring back Kol, though it will require her ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 May 2015", 
+            "episodeName": "Ashes to Ashes", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nWith time running out, Klaus' ultimate plan to protect baby Hope at all costs continues to take shape. As tensions between the siblings come to a head, Camille reveals a vital piece of information that causes Elijah and Rebekah to reconsider their plan of attack against Dahlia. Davina finds herself one step closer to fulfilling the promise she made to Kol, while Freya is forced to take drastic measures to protect herself against Dahlia. Elsewhere, Marcel has to put aside his fury at Klaus in order to protect himself and everyone in their sire line. Meanwhile, Vincent ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Oct. 2015", 
+            "episodeName": "For the Next Millennium", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nKlaus's family has yet to forgive Klaus's actions. Klaus's old friend decides to show up and show him Chaos. While Elijah tries to hunt werewolves down to protect Hayley leaving Freya on nanny duty. Meanwhile Marcel's has organized another vampire community, while Davina is learning to control the coven as their leader only to find it's not as easy as it looks and seeks help from Hayley.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Oct. 2015", 
+            "episodeName": "You Hung the Moon", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAfter discovering that poachers have begun taking out werewolves in the bayou, Elijah and Jackson grow concerned for Hayley's safety when she fails to show up during the full moon. Meanwhile, Davina, the only one with the answer to Hayley's whereabouts, plots ways to use that to her advantage. Elsewhere, Cami approaches Klaus with her theory on who is behind the series of murders in the French Quarter, while Lucien delivers to Elijah an unsettling warning about the war brewing among the sire lines. Finally, after receiving a dire prophecy about the future of the ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Oct. 2015", 
+            "episodeName": "I'll See You in Hell or New Orleans", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nKlaus seeks to take revenge for the taking of his baby, Hope, by Hayley and Jackson whom Elijah also seem to be against Klaus. Meanwhile Davina tries to lead her coven, and seeks help from Freya to bring Kol back. Hope is kidnapped, meanwhile Klaus is hostage at the attic.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Oct. 2015", 
+            "episodeName": "A Walk on the Wild Side", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nIn order to uncover what his old acquaintance Tristan is really up to in New Orleans, Elijah considers attending a gala thrown by a mysterious group of ancient vampires known as The Strix, while Hayley invites herself to attend with him.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Nov. 2015", 
+            "episodeName": "The Axeman's Letter", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHayley and Jackson look after Davina after she made some enemies, meanwhile Elijah asks Marcel with help to do with Triston, Cami and Vincent keep an eye out for Lucien when things go awry; Klaus reunites with his old love and hears secrets he never would think of before now.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Nov. 2015", 
+            "episodeName": "Beautiful Mistake", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen Elijah and Freya realize that Rebekah may be the target of The Strix's latest plan, they do whatever it takes to protect her. Klaus spends time with Aurora to figure out where her loyalties lie, while a dangerous run-in with a member of The Strix leads Hayley and Marcel to make an unsettling discovery.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Nov. 2015", 
+            "episodeName": "Out of the Easy", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nKlaus and Elijah plan a Thanksgiving gathering in hopes of negotiating a truce; Vincent and Marcel realize Davina might be in over her head; Cami encounters a new threat.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Dec. 2015", 
+            "episodeName": "The Other Girl in New Orleans", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAfter learning that Cami's life is in danger and Aurora may be to blame, Klaus is forced to engage in another one of Aurora's devious games and follow a series of clues she's left behind for him. Meanwhile, Elijah, Freya and Hayley take drastic measures against Tristan when they discover he holds a valuable piece of information they need. Elsewhere, Aya gives Marcel an ultimatum that leaves him with a difficult decision to make, while tensions between Hayley and Jackson cause her to reevaluate her involvement in Mikaelson family matters.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Dec. 2015", 
+            "episodeName": "Savior", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhen a dangerous affliction threatens to expose one of her siblings, Freya searches for a way to reverse the crippling curse, even as she finds herself the target of the Strix's latest plan. Elsewhere, Klaus keeps a watchful eye over Cami while she attempts to help Detective Kinney, whose life has begun to spiral out of control as a result of Lucien's compulsion. Meanwhile, a confrontation with Marcel causes Vincent to reevaluate his decision to stay out of witch business, and Hayley's attempt at a quiet Christmas with Jackson and Hope results in an unexpected ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Jan. 2016", 
+            "episodeName": "A Ghost Along the Mississippi", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nKlaus declares war on his enemies. Hayley and Jack become Tristan's pawns.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Feb. 2016", 
+            "episodeName": "Wild at Heart", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nElijah learns that Aya might have knowlege about an elusive weapon that can take down Original Vampire for good. Davina receives a tempting offer which brings closer to reuniting Kol.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Feb. 2016", 
+            "episodeName": "Dead Angels", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nKlaus ends up in a standoff with an unlikely foe when a weapon that could destroy the Mikaelsons falls into the wrong hands.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Feb. 2016", 
+            "episodeName": "Heart Shaped Box", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAurora uses Freya as bait to lure the Mikaelson brothers into a trap.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Feb. 2016", 
+            "episodeName": "A Streetcar Named Desire", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe unexpected arrival of Stefan Salvatore may be the key to helping Freya rescue Klaus and Elijah from a magical trap.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "An Old Friend Calls", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhen Klaus learns the Cortez arrival to vendetta against him, Klaus finds himself dealing with the new threat. Meanwhile, Cortez begins threatening the lives of innocent residents, Vincent has no option but to assist Vengeful Vampire in his plan to take down Klaus.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Apr. 2016", 
+            "episodeName": "Alone with Everybody", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen rumors begin to spread about the remaining white oak bullet, dangerous foes descend upon New Orleans in an attempt to take down Klaus once and for all. As the threats continue to grow, Elijah urges his siblings to lay low at the compound while Marcel, Vincent and Josh chase down a lead involving a mysterious vampire named Sofya , who may have the answers they're looking for. Meanwhile, tensions inside the compound build as Kol is forced to come face to face with his brother Finn, the person responsible for his death. Elsewhere, Klaus and Hayley seek shelter with ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Apr. 2016", 
+            "episodeName": "Behind the Black Horizon", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhen its discovered that Freya has been kidnapped and is in the hands of a dangerous new threat, the Mikaelson brothers are forced to put aside their differences in order to save her before it's too late. Following a lead that brings them to Mystic Falls, Elijah and Finn run into deputy Matt Donovan, who does not take well to new vampires in his town. Meanwhile, Klaus and Hayley work together to uncover the motive behind one of Lucien's secret agendas, while a troubling shift in Kol's behavior leaves Davina concerned for their future together.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Apr. 2016", 
+            "episodeName": "The Devil Comes Here and Sighs", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAs the city celebrates its annual Jazz Fest, an unlikely team of Mikaelson foes joins forces to take Klaus hostage. Leading the charge to get their brother back, Elijah and Freya face off against a powerful force like none they've ever seen before, while Hayley and Cami set their own risky plan in motion to rescue Klaus. Meanwhile, when Kol's erratic behavior worsens, Davina has no choice but to turn to Marcel and Vincent for help.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Apr. 2016", 
+            "episodeName": "No More Heartbreaks", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nEveryone joins together in an attempt to save Cami's life.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 May 2016", 
+            "episodeName": "Where Nothing Stays Buried", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nIn the wake of a ruthless plan that has left their family shattered, Klaus, Elijah and Freya desperately search for a way to take down Lucien once and for all. However, their efforts are put on hold following an urgent plea for help from Kol and Marcel. At Klaus' insistence, Freya and Elijah reluctantly stay behind to offer their help, while Klaus and Hayley head to the bayou after uncovering Lucien's latest plan. Once there, an unexpected showdown between Klaus and Lucien forces Freya to take matters into her own hands, setting off a chain of events that will change ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 May 2016", 
+            "episodeName": "Give 'Em Hell Kid", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAfter receiving new visions of the looming prophecy, Freya uncovers that her family is on a collision course with a dangerous new enemy. Meanwhile, with the help of Detective Kinney, Vincent and Kol travel to the ancestral world to put a stop to the witches and take back their city once and for all. Elsewhere, Klaus and Elijah confront Marcel after a heartbreaking plan gone wrong has sent him spiraling. Hayley and Davina also appear.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 May 2016", 
+            "episodeName": "The Bloody Crown", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAfter months of thwarting off dangerous threats and deadly attacks, the Mikaelson siblings finally come face to face with the one person that could lead to their ultimate demise. With the stakes higher than ever and the compound overrun by an army of his oldest sworn enemies, Klaus is put on trial for centuries of atrocities he's committed. Meanwhile, Marcel, who has been spiraling out of control following an act of betrayal by those closest to him, is stunned by the unexpected arrival of someone from his past. Finally, Elijah, Freya and Kol frantically search for a ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Gather Up the Killers", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nOn the fifth anniversary the Mikaelsons defeat, Marcel is king of the city and welcomes the unsired vampires to New Orleans, only to find they pose an unexpected threat to his rule, leading him to seek counsel from an unlikely source.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Mar. 2017", 
+            "episodeName": "No Quarter", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAfter being cured and woken, the Mikaelson siblings join Hayley in an effort to rescue Klaus from captivity, even if they must face Marcel in the process.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "Haunter of Ruins", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAfter five long years apart, Klaus attempts to reconnect with his daughter, Hope. Elijah mediates a conflict between Hayley and Freya to determine the best way to protect the family.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Apr. 2017", 
+            "episodeName": "Keepers of the House", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhile Klaus remains behind with Hope, Elijah and a reluctant Vincent join the hunt, which puts them on a dangerous collision course with an unlikely new threat.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Apr. 2017", 
+            "episodeName": "I Hear You Knocking", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAfter being marked by The Hollow's dark magic, Klaus and Marcel experience the symptoms of a malevolent haunting. Meanwhile, Hayley and Elijah head out to speak with Mary.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Apr. 2017", 
+            "episodeName": "Bag of Cobras", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen it's discovered that The Hollow has employed a mysterious servant to do its bidding, Klaus and Elijah host an elaborate party in order to lure the new threat out and uncover its identity.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 May 2017", 
+            "episodeName": "High Water and a Devil's Daughter", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen it's discovered that The Hollow's latest servant is on the loose, Freya places a protection spell on the compound, forcing Klaus, Hayley and Hope to remain inside. Meanwhile Elijah takes matters into his own hands.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 May 2017", 
+            "episodeName": "Voodoo in My Blood", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nOld wounds are re-opened when Elijah and Marcel are forced into an uneasy alliance. Together, they meet with Alaric who has tracked down a crucial artifact that could help in their fight against The Hollow.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 May 2017", 
+            "episodeName": "Queen Death", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Phantomesque", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #4.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Voodoo Child", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Jun. 2017", 
+            "episodeName": "Episode #4.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }
+    ], 
+    "name": "The Originals", 
+    "plot": "A family of power-hungry thousand year old vampires look to take back the city that they built and dominate all those who have done them wrong.", 
+    "rating": 8.3, 
+    "releaseDate": "3 October 2013", 
+    "type": "tvserie"
+}

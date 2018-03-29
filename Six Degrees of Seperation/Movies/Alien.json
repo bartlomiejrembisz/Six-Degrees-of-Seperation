@@ -1,0 +1,26 @@
+{
+    "actorList": [
+        "Tom Skerritt", 
+        "Sigourney Weaver", 
+        "Veronica Cartwright", 
+        "Harry Dean Stanton", 
+        "John Hurt", 
+        "Ian Holm", 
+        "Yaphet Kotto", 
+        "Bolaji Badejo", 
+        "Helen Horton", 
+        "Eddie Powell"
+    ], 
+    "director": [
+        "Ridley Scott"
+    ], 
+    "genres": [
+        "Horror", 
+        "Sci-Fi"
+    ], 
+    "name": "Alien", 
+    "plot": "After a space merchant vessel perceives an unknown transmission as distress call, their landing on the source moon finds one of the crew attacked by a mysterious life-form, and soon realize that its life cycle has merely begun.", 
+    "rating": 8.5, 
+    "releaseDate": "25 May 1979 (limited)", 
+    "type": "movie"
+}

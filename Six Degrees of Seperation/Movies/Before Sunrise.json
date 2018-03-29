@@ -1,0 +1,45 @@
+{
+    "actorList": [
+        "Ethan Hawke", 
+        "Julie Delpy", 
+        "Andrea Eckert", 
+        "Hanno P\u00f6schl", 
+        "Karl Bruckschwaiger", 
+        "Tex Rubinowitz", 
+        "Erni Mangold", 
+        "Dominik Castell", 
+        "Haymon Maria Buttinger", 
+        "Harald Waiglein", 
+        "Bilge Jeschim", 
+        "Kurti", 
+        "Hans Weingartner", 
+        "Liese Lyon", 
+        "Peter Ily Huemer", 
+        "Otto Reiter", 
+        "Hubert Fabian Kulterer", 
+        "Branko Andric", 
+        "Constanze Schweiger", 
+        "John Sloss", 
+        "Alexandra Seibel", 
+        "Georg Sch\u00f6llhammer", 
+        "Christian Ankowitsch", 
+        "Wilbirg Reiter", 
+        "Barbara Klebel", 
+        "Wolfgang Staribacher", 
+        "Wolfgang Gl\u00fcxam", 
+        "Adam Goldberg", 
+        "Paul Poet"
+    ], 
+    "director": [
+        "Richard Linklater"
+    ], 
+    "genres": [
+        "Drama", 
+        "Romance"
+    ], 
+    "name": "Before Sunrise", 
+    "plot": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.", 
+    "rating": 8.1, 
+    "releaseDate": "24 January 1995 (New York City, New York)\n (premiere)", 
+    "type": "movie"
+}

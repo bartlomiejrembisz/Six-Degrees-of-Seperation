@@ -1,0 +1,42 @@
+{
+    "actorList": [
+        "Brie Larson", 
+        "Jacob Tremblay", 
+        "Sean Bridgers", 
+        "Wendy Crewson", 
+        "Sandy McMaster", 
+        "Matt Gordon", 
+        "Amanda Brugel", 
+        "Joe Pingue", 
+        "Joan Allen", 
+        "Zarrin Darnell-Martin", 
+        "Cas Anvar", 
+        "William H. Macy", 
+        "Jee-Yun Lee", 
+        "Randal Edwards", 
+        "Justin Mader", 
+        "Ola Sturik", 
+        "Rodrigo Fernandez-Stoll", 
+        "Rory O'Shea", 
+        "Tom McCamus", 
+        "Kate Drummond", 
+        "Jack Fulton", 
+        "Chantelle Chung", 
+        "Derek Herd", 
+        "Megan Park", 
+        "Graeme Potts", 
+        "Katelyn Wells", 
+        "Brad Wietersen"
+    ], 
+    "director": [
+        "Lenny Abrahamson"
+    ], 
+    "genres": [
+        "Drama"
+    ], 
+    "name": "Room", 
+    "plot": "A young boy is raised within the confines of a small shed.", 
+    "rating": 8.2, 
+    "releaseDate": "4 September 2015 (Telluride Film Festival)\n (premiere)", 
+    "type": "movie"
+}

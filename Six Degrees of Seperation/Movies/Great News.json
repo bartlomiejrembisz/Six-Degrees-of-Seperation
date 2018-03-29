@@ -1,0 +1,96 @@
+{
+    "actorList": [
+        "Briga Heelan", 
+        "Andrea Martin", 
+        "Adam Campbell", 
+        "Nicole Richie", 
+        "Horatio Sanz", 
+        "John Michael Higgins", 
+        "Marcus W. Hogan", 
+        "Sheaun McKinney", 
+        "Stewart Skelton"
+    ], 
+    "director": [
+        "Beth McCarthy-Miller"
+    ], 
+    "genres": [
+        "Comedy"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "25 Apr. 2017", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nKatie (Briga Heelan), a frustrated cable news producer, is horrified when her mom, Carol (Andrea Martin), gets an internship at \"The Breakdown.\" Despite Katie's best efforts, Carol is instantly beloved by the entire office, including blowhard veteran anchor Chuck (John Michael Higgins). But when Katie hits a roadblock while producing a big story, she realizes that maybe having a mom at work isn't such a bad thing. Nicole Richie, Adam Campbell and Horatio Sanz also star.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Apr. 2017", 
+            "episodeName": "Bear Attack", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nKatie (Briga Heelan) tries to set workplace boundaries with Carol (Andrea Martin), but when a big story about an escaped bear lands in her lap, her mom can't help but meddle. Meanwhile, Greg (Adam Campbell) tries to get Chuck (John Michael Higgins) and Portia (Nicole Richie) to do a little friendly banter at the end of the show. Horatio Sanz also stars.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 May 2017", 
+            "episodeName": "Chuck Pierce Is Blind", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 May 2017", 
+            "episodeName": "War Is Hell", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Snowmageddon of the Century", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Serial Arsonist", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "The Red Door", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Celebrity Hacking Scandal", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Carol Has a Bully", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Carol's Eleven", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "Great News", 
+    "plot": "A New Jersey mom puts her relationship with daughter to the test when she lands an internship at her new job, which comes with many challenges.", 
+    "rating": 6.0, 
+    "releaseDate": "25 April 2017", 
+    "type": "tvserie"
+}

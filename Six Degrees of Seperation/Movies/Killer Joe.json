@@ -1,0 +1,36 @@
+{
+    "actorList": [
+        "Matthew McConaughey", 
+        "Emile Hirsch", 
+        "Juno Temple", 
+        "Thomas Haden Church", 
+        "Gina Gershon", 
+        "Marc Macaulay", 
+        "Gralen Bryant Banks", 
+        "Carol Sutton", 
+        "Danny Epper", 
+        "Jeff Galpin", 
+        "Scott A. Martin", 
+        "Gregory C. Bachaud", 
+        "Charley Vance", 
+        "Julia Adams", 
+        "Geraldine Glenn", 
+        "Sean O'Hara", 
+        "Blain Sanchez", 
+        "Tony Severio", 
+        "Lynette Zumo"
+    ], 
+    "director": [
+        "William Friedkin"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "Killer Joe", 
+    "plot": "When a debt puts a young man's life in danger, he turns to putting a hit out on his evil mother in order to collect the insurance.", 
+    "rating": 6.7, 
+    "releaseDate": "8 September 2011 (Venice Film Festival)", 
+    "type": "movie"
+}

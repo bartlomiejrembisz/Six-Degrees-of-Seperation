@@ -1,0 +1,32 @@
+{
+    "actorList": [
+        "Jennifer Tilly", 
+        "Gina Gershon", 
+        "Joe Pantoliano", 
+        "John P. Ryan", 
+        "Christopher Meloni", 
+        "Richard C. Sarafian", 
+        "Mary Mara", 
+        "Susie Bright", 
+        "Margaret Smith", 
+        "Barry Kivel", 
+        "Peter Spellos", 
+        "Ivan Kane", 
+        "Kevin Michael Richardson", 
+        "Gene Borkan"
+    ], 
+    "director": [
+        "Lana Wachowski", 
+        "Lilly Wachowski"
+    ], 
+    "genres": [
+        "Crime", 
+        "Romance", 
+        "Thriller"
+    ], 
+    "name": "Bound", 
+    "plot": "Corky, a tough female ex con and her lover Violet concoct a scheme to steal millions of stashed mob money and pin the blame on Violet's crooked boyfriend Caesar.", 
+    "rating": 7.4, 
+    "releaseDate": "31 August 1996 (Venice Film Festival)", 
+    "type": "movie"
+}

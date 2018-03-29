@@ -1,0 +1,39 @@
+{
+    "actorList": [
+        "Yun-Fat Chow", 
+        "Danny Lee", 
+        "Sally Yeh", 
+        "Kong Chu", 
+        "Kenneth Tsang", 
+        "Fui-On Shing", 
+        "Wing-Cho Yip", 
+        "Fan Wei Yee", 
+        "Barry Wong", 
+        "Parkman Wong", 
+        "Alan Ng", 
+        "Yamson Domingo", 
+        "Siu Hung Ngan", 
+        "Kwong Leung Wong", 
+        "Simon Broad", 
+        "Dion Lam", 
+        "Chung Lin", 
+        "Hung Lu", 
+        "Danny Ng", 
+        "Pierre Tremblay", 
+        "Hsiang Lin Yin"
+    ], 
+    "director": [
+        "John Woo"
+    ], 
+    "genres": [
+        "Action", 
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "Dip huet seung hung", 
+    "plot": "A disillusioned assassin accepts one last hit in hopes of using his earnings to restore vision to a singer he accidentally blinded, only to be double-crossed by his boss.", 
+    "rating": 7.9, 
+    "releaseDate": "24 March 1989", 
+    "type": "movie"
+}

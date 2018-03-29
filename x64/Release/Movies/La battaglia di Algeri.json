@@ -1,0 +1,28 @@
+{
+    "actorList": [
+        "Jean Martin", 
+        "Yacef Saadi", 
+        "Brahim Hadjadj", 
+        "Samia Kerbash", 
+        "Tommaso Neri", 
+        "Ugo Paletti", 
+        "Fusia El Kader", 
+        "Franco Moruzzi", 
+        "Mohamed Ben Kassen", 
+        "Michele Kerbash", 
+        "Rou\u00efched", 
+        "Gene Wesson"
+    ], 
+    "director": [
+        "Gillo Pontecorvo"
+    ], 
+    "genres": [
+        "Drama", 
+        "War"
+    ], 
+    "name": "La battaglia di Algeri", 
+    "plot": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.", 
+    "rating": 8.1, 
+    "releaseDate": "31 August 1966 (Venice Film Festival)", 
+    "type": "movie"
+}

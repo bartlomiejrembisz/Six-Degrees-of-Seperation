@@ -1,0 +1,25 @@
+{
+    "actorList": [
+        "Damon Wayans", 
+        "Clayne Crawford", 
+        "Keesha Sharp", 
+        "Kevin Rahm", 
+        "Michelle Mitchenor"
+    ], 
+    "director": [
+        "Steve Boyum", 
+        "Jason Ensler", 
+        "McG"
+    ], 
+    "genres": [
+        "Action", 
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "Lethal Weapon", 
+    "plot": "TV show based on the popular 'Lethal Weapon' films in which a slightly unhinged cop is partnered with a veteran detective trying to maintain a low stress level in his life.", 
+    "rating": 8.0, 
+    "releaseDate": "21 September 2016", 
+    "type": "movie"
+}

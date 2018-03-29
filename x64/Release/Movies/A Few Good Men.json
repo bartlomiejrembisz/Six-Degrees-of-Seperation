@@ -1,0 +1,52 @@
+{
+    "actorList": [
+        "Tom Cruise", 
+        "Jack Nicholson", 
+        "Demi Moore", 
+        "Kevin Bacon", 
+        "Kiefer Sutherland", 
+        "Kevin Pollak", 
+        "James Marshall", 
+        "J.T. Walsh", 
+        "Christopher Guest", 
+        "J.A. Preston", 
+        "Matt Craven", 
+        "Wolfgang Bodison", 
+        "Xander Berkeley", 
+        "John M. Jackson", 
+        "Noah Wyle", 
+        "Cuba Gooding Jr.", 
+        "Lawrence Lowe", 
+        "Joshua Malina", 
+        "Oscar Jordan", 
+        "John M. Mathews", 
+        "Aaron Sorkin", 
+        "Alex Wexo", 
+        "Frank Cavestani", 
+        "Jan Munroe", 
+        "Ron Ostrow", 
+        "Matthew Saks", 
+        "Harry Caesar", 
+        "Michael DeLorenzo", 
+        "Geoffrey Nauffts", 
+        "Arthur Senzy", 
+        "Cameron Thor", 
+        "David Bowe", 
+        "Gene Whittington", 
+        "Maud Winchester", 
+        "Bernard Madrid", 
+        "Jack Serino"
+    ], 
+    "director": [
+        "Rob Reiner"
+    ], 
+    "genres": [
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "A Few Good Men", 
+    "plot": "Neo military lawyer Kaffee defends Marines accused of murder; they contend they were acting under orders.", 
+    "rating": 7.6, 
+    "releaseDate": "9 December 1992 (Westwood, California)\n (premiere)", 
+    "type": "movie"
+}

@@ -1,0 +1,614 @@
+{
+    "actorList": [
+        "Dominic Purcell", 
+        "Wentworth Miller", 
+        "Amaury Nolasco", 
+        "Robert Knepper", 
+        "Sarah Wayne Callies", 
+        "Wade Williams", 
+        "William Fichtner", 
+        "Paul Adelstein", 
+        "Marshall Allman", 
+        "Rockmond Dunbar", 
+        "Jodi Lyn O'Keefe"
+    ], 
+    "director": [
+        "Bobby Roth", 
+        "Kevin Hooks", 
+        "Dwight H. Little", 
+        "Karen Gaviola", 
+        "Michael Switzer", 
+        "Greg Yaitanes", 
+        "Vincent Misiano", 
+        "Milan Cheylov", 
+        "Brad Turner", 
+        "Jace Alexander", 
+        "Matt Earl Beesley", 
+        "Bryan Spicer", 
+        "Sergio Mimica-Gezzan", 
+        "Jesse Bochco", 
+        "Nelson McCormick", 
+        "Garry A. Brown"
+    ], 
+    "genres": [
+        "Action", 
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "29 Aug. 2005", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMichael Scofield is imprisoned in Fox River State Penitentiary. He finds his brother, Lincoln Burrows, who is a death row prisoner, and tells him that he is going to break them both out of the prison.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Aug. 2005", 
+            "episodeName": "Allen", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nTrouble is inevitable in the prison, with a race riot imminent. Michael has problems retrieving a screw from the bleachers. Veronica receives a security tape that shows Lincoln shooting Terrence Steadman.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Sep. 2005", 
+            "episodeName": "Cell Test", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTwo steps forward and one step back. Michael gets Abruzzi on his side and proves Sucre's trustworthiness, but then loses a valuable piece of his plan.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Sep. 2005", 
+            "episodeName": "Cute Poison", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMichael gets more of the tools and people he needs, but someone very high up has taken notice and started wondering what he's up to.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Sep. 2005", 
+            "episodeName": "English, Fitz or Percy", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMichael gains a necessary piece of information to effect his escape, but can he keep the Warden from kicking him out?    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Sep. 2005", 
+            "episodeName": "Riots, Drills and the Devil: Part 1", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMichael's idea to get more drilling time by provoking a lock-down backfires horribly.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Oct. 2005", 
+            "episodeName": "Riots, Drills and the Devil: Part 2", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMichael saves Dr. Tancredi from the rioting prisoners, but Lincoln and Veronica are in need of their own rescue.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Oct. 2005", 
+            "episodeName": "The Old Head", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nVeronica and LJ must go into hiding, while Michael unwittingly provides Westmoreland's motivation to aid the escape.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Oct. 2005", 
+            "episodeName": "Tweener", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWith Abruzzi becoming more desperate to regain authority within the prison, it seems that Fibonacci's number is up.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Nov. 2005", 
+            "episodeName": "Sleight of Hand", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMichael hands over an address to Falzone, allowing work to resume on the tunnel. Meanwhile, the VP enlists the help of a dangerous specialist.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Nov. 2005", 
+            "episodeName": "And Then There Were 7", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nMichael gets a visit from his wife, while Veronica and Nick get a visit from Quinn.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Nov. 2005", 
+            "episodeName": "Odd Man Out", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nC-Note overhears Michael and Lincoln discussing that there are too many fugitives for available time and they share the information with the group telling that one shall be left behind. T-Bag feels threatened and calls his cousin James Bagwell, disclosing the escape plan and asking James to call the Warden Pope in case T-Bag does not contact him later. Abruzzi asks his outside man to kidnap James, but things go wrong and the mobster kills James and his five years old son Jimmy. Abruzzi feels guilty for the death of the child and feels the need of God's forgiveness, ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Nov. 2005", 
+            "episodeName": "End of the Tunnel", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe escape is about to go through when the team hits a stainless steel snag, while Veronica is just a moment too late to get all the information she needs to prove Lincoln's innocence.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Mar. 2006", 
+            "episodeName": "The Rat", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nWith the pipe to the infirmary replaced and Lincoln's life hanging in the balance, Michael must rethink his plan to escape and save his brother's life. A fellow inmate may hold the key to preventing Lincoln's execution.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Mar. 2006", 
+            "episodeName": "By the Skin and the Teeth", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nMichael's plan to escape has failed. While Lincoln is strapped to the electric chair, he sees an oddly familiar face in the crowd. Is there one last hope to save Lincoln's life, or has his journey reached an end?    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Apr. 2006", 
+            "episodeName": "Brother's Keeper", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nFlashbacks provide exposition on how the inmates arrived at Fox River Penitentiary from The Company's framing of Lincoln to the creation of Michael's plan to save his brother's life.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2006", 
+            "episodeName": "J-Cat", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nHaving burned his shoulder, Michael's tattoo that showed the path through psych ward is now incomplete. With another inmate intimidated into snitching about the escape plans, Michael Scofield must use his wits to find a new way out of Fox River.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Apr. 2006", 
+            "episodeName": "Bluff", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nImprovising a new plan, Michael seeks out an acquaintance who may hold the key to his escape plan. In gen pop, the other members of the P.I. crew learn that the guards are auctioning Michael's cell to the highest bidder. Lincoln and Sucre devise a scheme to get Michael returned to gen pop. Veronica informs Lincoln that L.J will be tried for his mother's murder, and Lincoln desires to see his son.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Apr. 2006", 
+            "episodeName": "The Key", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAfter the crash, Kellerman tries to suffocate Lincoln, but he is saved in the last moment by a stranger. Sucre leaves the solitary confinement and Michael tells to his partners that he has completed the map, but he needs the key of the infirmary. Abruzzi is back to Fox River, apparently converted in a religious man. Warden Pope sends Captain Bellick to find Lincoln before notifying the authorities. Nick tries to convince Veronica that they are losing time checking the calls of Quinn's cell phone. Michael kisses Sara and asks her to wait for him. Tweener is in trouble ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 May 2006", 
+            "episodeName": "Tonight", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nWestmoreland uses Bellick to plug a hole in the escape plan, which forces Michael to move up the breakout timetable. A fearful Tweener pledges his loyalty to Michael and in return may get out of jail for free; Michael feels that he has no choice but to involve Sara in the plan and must betray his father figure; and Veronica finds her life in jeopardy from her closest ally, who has a surprising connection to a Fox River inmate.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 May 2006", 
+            "episodeName": "Go", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nDr. Sara questions if she should leave a light on and the door open for Michael, who must betray the Pope in order to carry out his escape plan. Veronica finds evidence that points her to Montana, but realizes that her closest ally may actually be her greatest enemy. Michael, Lincoln and the other inmates make a break for it, but after the alarm is sounded, find out who will make it over the wall, who will be left behind and who will leave the prison in a body bag.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 May 2006", 
+            "episodeName": "Flight", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAs the escape continues, lives are lost and Pope and Bellick do everything in their power to capture the convicts.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Aug. 2006", 
+            "episodeName": "Manhunt", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIt is the morning after their escape from Fox River, and the inmates narrowly avoid being caught by Bellick as they jump onto a freight train. FBI Special Agent Alex Mahone has been assigned to their case and calls a press conference urging the public to turn in the \"Fox River 8.\" Michael, Lincoln, Abruzzi, C-Note, and Sucre encounter a hunter and his daughter. He holds them at gunpoint until Abruzzi grabs the daughter and forces the hunter to give them his SUV and let them go. The escapees head for a location where Michael has things stored. Agent Mahone tracks ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Aug. 2006", 
+            "episodeName": "Otis", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe F.B.I agent Mahone decides to use L.J to get to Michael and Lincoln by cutting a deal with him and making him trick the two fugitives into revealing their location. Michael and Lincoln decide there's only one thing they can do, rescue L.J in a daring raid at the county jail. Only one problem though, Mahone is personally guarding L.J and won't let him out of his sight.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Sep. 2006", 
+            "episodeName": "Scan", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWith hospitals and clinics under surveillance, Michael brings Lincoln to Nika's home to heal his wounded leg. Then he returns to the place where he parked his Accord and finds that the car has been towed. Meanwhile agent Mahone retrieves Michael's backpack with his passport from a vagrant that broke the rear window of Michael's car to steal the backpack. Michael goes to Brewster Towing yard to recover his car. Meanwhile Sucre finds that Maricruz will marry Hector in a couple of days and he heads to New York in a stolen car. Sara is arrested and her father visits her, ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Sep. 2006", 
+            "episodeName": "First Down", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMichael, Linc, and Nika are captured by Bellick and Geary, who intend to retrieve Westmoreland's money in Utah. Tweener continues his drive with Debra Jean. Abruzzi is reunited with his wife and children and is set to flee the country with them, but decides to take care of Fibonacci first. T-Bag has a close call with the police at a Nebraska gas station, and then poses as a Marine who lost his hand in Iraq. Mahone waits for confirmation of the deaths of Michael and Linc in the car explosion, and meanwhile gets a lead on one of the other fugitives. Kellerman (posing as...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Sep. 2006", 
+            "episodeName": "Map 1213", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMichael and Linc arrive in Tooele, but the map they need to locate the double-K ranch is missing. They run into T-Bag and Tweener, who have also come to Tooele for Westmoreland's money. Meanwhile, C-Note makes his way by train toward Tooele. Sucre reaches Las Vegas and attempts to halt the wedding of Maricruz and Hector. Sara invites Kellerman to her apartment, believing he is harmless. At the FBI office in Chicago, Mahone reviews files recovered from Michael's hard drive, and begins to piece things together.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Sep. 2006", 
+            "episodeName": "Subdivision", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMahone arrives in Salt Lake City, trying to locate exactly where in Utah the escapees are. Michael and Linc hatch a plan with T-Bag and Tweener that will enable them to dig in the right place. C-Note and Sucre meet on the highway and head toward Tooele. Kellerman, in Washington, D.C., briefs Kim. Governor Tancredi phones Sara with a warning.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Oct. 2006", 
+            "episodeName": "Buried", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMichael's plan has hit a snag when the home owner's daughter, a cop, arrives. Mahone argues with Lyle Sands about how to proceed, but ultimately hopes that Tweener, in FBI custody, will reveal the location of the other escapees. Sara is now suspicious of Kellerman, so he tries something different to find Lincoln Burrows. In an Arizona detention facility, L.J. finds out he's to be released the next day; Linc drives to get him. Haywire, in Wisconsin, steals supplies from a camping shop.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Oct. 2006", 
+            "episodeName": "Dead Fall", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nIn his efforts to try to get hold of all of the money Sucre runs into some unexpected difficulties. And Captain Bellick and his partner have not given up on finding their old inmates.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Oct. 2006", 
+            "episodeName": "Unearthed", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMichael tries to retrieve an item from Blanding Botanical Garden in Utah, but Mahone's people got to it first. Mahone believes that someone on his team is leaking information to the press; meanwhile Michael does some research on Mahone at an Internet caf\u00e9, then makes a trip to Durango, Colorado, to see a woman there. Linc and L.J. are on the road in Arizona. C-Note is in Chicago, and Agent Lang tries to use his wife to capture him. Bellick and Geary phone C.O. Patterson, at Fox River, to get information on where they should look for T-Bag. Sara is at a motel in Elgin,...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Nov. 2006", 
+            "episodeName": "Rendezvous", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nCaptain Bellick tortures T-Bag for the money during which T-Bag swallows the key and Bellick uses dirty tricks to get the key out.Bellick and Mac leave T-Bag on the boundary of the police.Sarah and Michael Scofield meet,but they are constantly chased by Alexander Mahone.Michael gets close to Mahone's helplessness.Meanwhile Lincoln Burrows and LJ are rescued by Lincon's dad but they are still not shielded from the dirty political games. Sucre tries to contact Maricruz but that plan fails because of the state police doing rounds.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Nov. 2006", 
+            "episodeName": "Bolshoi Booze", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nIn Maljamar, New Mexico, Michael takes what he needs from a sporting-goods store, then has a crisis of conscience. In Tribune, Kansas, T-Bag narrowly escapes the police but has to leave his hand behind. In Trinidad, Colorado, the three Burrowses discuss politics, but face an unexpected threat. In Gila, New Mexico, Kellerman ties up Sara and resolves to get what he needs from her. Mahone meets Kim for the first time. Bellick receives treatment for the blow to his forehead, and interacts with a local police detective.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Nov. 2006", 
+            "episodeName": "Disconnect", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nPicking up from where we left off, Sucre, Michael, Linc, and Aldo are together, with Mahone on their trail. Sara is face-down in the bathtub as Kellerman prepares to dispose of her body. C-Note is in Harvey, North Dakota with Kacee and Dede, who needs her medication. In Tribune, Kansas, Detective Slattery questions Bellick.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Nov. 2006", 
+            "episodeName": "The Killing Box", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nIn Kansas T-Bag assaults and presumably kills a veteran and steals his prosthetic hand. He singles out an employee of the post office named Denise and romances her. In order to locate his ex-girlfriend (Susan Hollander) who turned him into the authorities, T-Bag lies and convinces the post officer worker to give him Susan's address. Just as she provides him with the information, Denise spots his wanted poster on the post office wall, and T-Bag kills her. In Kansas, Susan opens her door and finds T-Bag standing there. Faced with a potential death penalty sentence, ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Jan. 2007", 
+            "episodeName": "John Doe", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nLinc and Michael have decided to take the keys and escape, figuring at least they'll go down fighting. FBI Special Agent Alexander Mahone chased them while staying in contact with Secret Service Special Agent Paul Kellerman who suddenly shot Mahone and gave the brothers a ride because he wants revenge on the White House; Linc wants his instead, but is offered the location of Terence Steadman. T-bag visits his wife, who tells him the children think he's their Uncle Teddy on an oil rig, but he moves in; when his wife gets the gun, he attacks her and son Zach him, so he ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Jan. 2007", 
+            "episodeName": "The Message", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nIn Cutback, Montana, Kellerman lures the police and Michael and Lincoln abduct the cameraman Greg of Fox News and succeed in escaping from the siege. Michael and Lincoln decide to tape a message to be released in the Breaking News. Mahone is back in Chicago and analyzing the message; he interrogates Greg and he tells that he had overheard Michael tell that they should cover 460 miles in six hours. Mahone deducts that they intend to meet President Caroline in Denver. Wheeler discusses with Mahone and yells that the internal affair asked him to follow all moves of ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Feb. 2007", 
+            "episodeName": "Chicago", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nSara meets Michael and Lincoln in a train station in Evansville, Indiana; when she sees Kellerman with them, she becomes disturbed and upset. Kellerman tells that she has a key of a private cigar club in Chicago. Caroline calls Kellerman and he tells that he is heading to Chicago by train, and she promises his life back, inclusive the chief of staff position. T-Bag tells Susan that they are passing through an \"adjustment period\" in their lives; when she tells him that she will have a guest called Patty Wallace, T-Bag welcomes Patty with a magnificent family brunch and...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Feb. 2007", 
+            "episodeName": "Bad Blood", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMichael Schofield and Sara Tancredi fail to get the tape from the Corona de Oro cigar club in Chicago, where security was at the ready, and turn to former warden Henry Pope, a club member, but he wants to call the police, so Michael draws his gun and hands it over to prove his veracity; Sarah convinces him to go in with her late fathers humidor key- he finds a computer memory stick. In Mexico, Fernando Sucre has car trouble and gets a ride- from an Ixtapa airport security employee, who sees his wanted-poster just after they parted at the airport, so he must run with ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Feb. 2007", 
+            "episodeName": "Wash", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nCaptain Brad Bellick walks in the FBI office demanding Mahone pays him. Michael and his companions are impressed with the recordings on the stick, but it only helps if Kellerman's contacts in Washington use it right, notably high Justice official Cooper Green, who accepts to meet and cooperates, but is tailed by Kim's men. Linc calls his boy L.J., who refuses to give up his relatively normal life till further notice. Sarah meets Bruce Bennett. Bellick tries to bribe Sucre's incarcerated cousin into betraying his Mexican whereabouts. T-Bag finds therapist Dr. Stammel ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Mar. 2007", 
+            "episodeName": "Sweet Caroline", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nC-note has jumped with the noose around his neck, but is saved by jailers; he has Mahone told he'll still do it. At a Chicago hotel, president Caroline Reynolds is expected for a speech. Michael sends the real Cooper Green away and agrees a meeting point with Linc and Sarah. Mahone enters Sarah's room and only pretends to fail looking under the bed to trap her, she pretends the brothers left her. In Mexico, T-bag finds Bellick is waiting at the luggage conveyor and must get his from the service side, but the laborer he knocks down falls onto it, so he must run. ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Mar. 2007", 
+            "episodeName": "Panama", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nNow Caroline Reynolds has stepped down as president, she can no longer sign a pardon, so the brothers must immediately disappear, forever. At the pier, Sarah realizes she's being tailed and pretends on the phone already to be on board, so they sail without her while she is arrested; Lincoln stops Michael from returning for her. A week later, an FBI big-whig offers C-note a lesser sentence for testimony against Mahone, even freedom and witness protection for his family- bingo. Fernando grabs Bellick's gun while looking for T-bag, but he shows a crucifix to prove he has...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Mar. 2007", 
+            "episodeName": "Fin del camino", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nLinc finds Michael is gone from their Christina Rose yacht after receiving Sucre's message (also intercepted by Mahone, who thinks to have found his way out) scary scumbag T-bag is in Panama City's Fin del Camino hotel with the money. A fire-cracker he pays a local boy to plant shows Michael Mahone's two plants on the plaza, but Bellick pulls his gun at him, accompanied by Fernando who denies sending the message- Schofield smells a trap and states their goals: money for Bellick, Maricruz for Sucre, T-bag for him, then reminds Fernando in private Maricruz is his ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Apr. 2007", 
+            "episodeName": "Sona", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nOnly back at the yacht, Michael notices Lincoln is gone and calls him- Alex Mahone tells him Linc is no cold-blooded killer, so he was overpowered and hand-cuffed, and the ransom is the yacht and the fortune he assumes to be in it, to be agreed in five minutes, now Mahone is even more wanted then the brothers. Kellerman's self-incriminating testimony and documents he brings get all charges against Sarah and Lincoln dropped, him arrested. Mahone calls Kim to fly over immediately. Alex calls his wife, to make her bring the kids for a holiday in her native Colombia, at ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Sep. 2007", 
+            "episodeName": "Orientaci\u00f3n", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMichael is once again imprisoned, but now in SONA (Panama), together with T-Bag, Mahone and Bellick. The prison is solely ruled by inmates, whose local prison-lord Lechero feels threatened by Scofield's 'fame'. Lincoln tries legal means to get Michael transferred, and gets a call from a relative. Both receive the same message, through different canals, presumably from Bill Kim's organization.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Sep. 2007", 
+            "episodeName": "Fire/Water", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAfter Michael gets bad news from Linc, he sets out to find a prisoner named James Whistler, who holds the key to his freedom. That's easier said than done: James Whistler is hiding in Sona because there's a price on his head, and Lechero is not about to help Michael find him. In addition, both Mahone and Bellick want to get to Whistler too. Meanwhile, T-Bag won't allow a little humiliation stop him from insinuating himself into Lechero's good graces.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Oct. 2007", 
+            "episodeName": "Call Waiting", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nLincoln tries to save LJ and Sara. But he can't. Meanwhile, Michael has a phone conversation with Sara. And Lincoln gets a call from Susan B. saying that she put something in the garage for him.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Oct. 2007", 
+            "episodeName": "Good Fences", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAftermath of Sara's death, Lincoln decides not to tell about it to Michael. Susan B. told Lincoln that if he does something wrong again, she's going to send pieces from LJ to him. Meanwhile, Sucre got a job in Sona. And Sofia starts to help Linc.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Oct. 2007", 
+            "episodeName": "Interference", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA test with a rat proves the tower snipers are very good, so Michael figures breaking out with Whistler within 24 hours has to be at 3 PM, during a distracting soccer game. Sucre accepts $5,000 from a limousine man to smuggle a package into Sona. Linc is to arrange transport outside, but gets turned away roughly by an army patrol at two miles with Marisol in her car, then tells her Sara has already been killed, he keeps it from Michael as L.J. is his ultimate priority. New prisoner Andrew Tyge is robbed to his boxers at arrival, and warned off by Alexander Mahone ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Nov. 2007", 
+            "episodeName": "Photo Finish", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTyge tells Michael he and 'Mcfadden' where co-employees in a Nice hotel, Mahone worries he keeps observing Whistler. Having to re-plan hastily, Michael tells Linc to drug the second guard's coffee wherever he goes for lunch, and demands pictures of L.J. and Sara before he escapes. Mahone refuses a term reduction to 8 years for testimony against the government and Burrow's conspiracy: now he faces life. Tyge is stabbed dead, Lechero questions Menudo 'McGrady' and has Whistler dragged away for confession. Michael believes Mahone and Bellick's denials; T-bag offers ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Nov. 2007", 
+            "episodeName": "Vamonos", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAlexander Mahone is assured all he has to do is tell the truth, enjoying full immunity. Michael tells Whistler their row is part of a diversion, the escape is now or never, before the guard's coffee drug wears off. Just when the critical sun reflexion blinds the other tower guard, they must wait and hide till Sammy has passed, but get trough the cut bars. Lechero sees them climb down and back in -time ran out- but refuses to allow them to cancel their duel to the death in the courtyard, meant as a diversion fake announcement. Sofia draws a gun at Linc to prevent him ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Nov. 2007", 
+            "episodeName": "Bang and Burn", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nLincoln tells Michael that they have four more days to rescue Whistler, but Michael is upset with his brother that used him. Gretchen has a meeting with General and they decide to use power to release Whistler in an operation called \"Bang and Burn\"; later she asks Whistler to kill Michael. In Sona, the guards reinforce the bars in the windows, and Michael tells Lechero that this way it will be difficult to break-out. Sammy requests more men to Lechero to keep Sona under control. Sofia receives a call from Whistler's mysterious landlord telling that he has some \"...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Jan. 2008", 
+            "episodeName": "Boxed In", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAfter the helicopter failed to break out Whistler, Sona's new commander, Panamanian general Zavala, decides to make Michael talk by putting him into the sun-exposed isolation hot-box, promises to help in exchange for the truth, verifies the L.J-situation and is told it's about Whistler, who already realized the tunnel is a no-go without engineer Scofield but denies blatantly to Zavala- and is threatened with torture until he admits to collaborating with Michael, who convinces him next to give up Gretchen Morgen's name. Linc was meanwhile shown L.J., alive, as ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Jan. 2008", 
+            "episodeName": "Dirt Nap", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nPapa is dead and Sammy presses Lechero to kill Michael; Lechero replies that he also wants Michael dead, but he does not want an uprising in Sona. Mahone receives a mail with a picture of his son. Lechero, Michael, Mahone, Whistler and T-Bag inspect the hole in the tunnel and Michael requests a saw and hammer to support the tunnel. Sammy takes the power of Sona with the pistol delivered by Augusto and other three gangsters and promises a box of bottles of rum for the inmate that kills Michael. T-Bag convinces Bellick to give the chicken foot to Sammy promising him to ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Feb. 2008", 
+            "episodeName": "Under & Out", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAs Michael finalizes plans for the escape, his fellow plotters begin to turn on him. Meanwhile, Whistler ponders a betrayal when Sofia is threatened.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Feb. 2008", 
+            "episodeName": "Hell or High Water", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nMichael, Whistler, Mahone and McGrady escape from Sona - but not everything goes according to plan, and the exchange is compromised.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Feb. 2008", 
+            "episodeName": "The Art of the Deal", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nLJ and Whistler are exchanged, but more surprises abound. Meanwhile, T-Bag's scheming finally pays off.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Sep. 2008", 
+            "episodeName": "Scylla; Breaking & Entering", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMichael, Mahone, Sucre and Lincoln try to get into the house were Scylla is being kept safe. T-Bag and Sancho head to San Diego in the desert.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Sep. 2008", 
+            "episodeName": "Breaking and Entering", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Sep. 2008", 
+            "episodeName": "Shut Down", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMichael and the team have one day to locate the next cardholder or they risk going back to prison. Meanwhile, Mahone seeks revenge on Wyatt.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Sep. 2008", 
+            "episodeName": "Eagles and Angels", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nTo get the next data card, Michael, Lincoln and Sucre must crash a police benefit. Meanwhile, T-Bag arouses suspicion on the first day at his new job.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Sep. 2008", 
+            "episodeName": "Safe and Sound", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe gang, with Don's help, must break into a safe at the Treasury Department to get the next Scylla card. Elsewhere, Gretchen manages to escape.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Sep. 2008", 
+            "episodeName": "Blow Out", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMahone is arrested, putting the whole gang at risk - and Mahone squarely in Wyatt's sights. Meanwhile T-Bag's charade is discovered.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Oct. 2008", 
+            "episodeName": "Five the Hard Way", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nLincoln, Sucre, Sara and Roland follow a Scylla cardholder to Las Vegas, where Roland has his device commandeered after he gets caught gambling.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Oct. 2008", 
+            "episodeName": "The Price", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA daring plan is hatched to get the final card from Pad Man, and an uneasy alliance is formed with Gretchen - but there's a traitor among the ranks.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Nov. 2008", 
+            "episodeName": "Greatness Achieved", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe team needs to make their way through a 30,000-gallon water main to get to Scylla. Meanwhile, T-Bag fends off an investigation.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Nov. 2008", 
+            "episodeName": "The Legend", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMichael collapses and must go to the hospital. Elsewhere, Sucre steps on a land mine, and Trishanne's surprising secret is uncovered.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Nov. 2008", 
+            "episodeName": "Quiet Riot", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nDespite Michael's condition, the team goes forward with their plans to steal Scylla. Gretchen and T-Bag work together to get the sixth card from the General but without success. Michael, Lincoln, Sucre and Mahone break through the wall.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Nov. 2008", 
+            "episodeName": "Selfless", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nMichael and the gang pull off the Scylla heist from deep within Company headquarters - but a terrible surprise awaits them.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Dec. 2008", 
+            "episodeName": "Deal or No Deal", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs the gang deals with Don's betrayal, Lincoln is captured. Meanwhile, Don forces Gretchen to help him by holding her daughter and sister hostage.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Dec. 2008", 
+            "episodeName": "Just Business", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nDon and Gretchen, Michael and The Company are all after Scylla. Elsewhere, T-Bag has to make a tough decision as he holds Gretchen's family hostage.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Dec. 2008", 
+            "episodeName": "Going Under", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhen Michael undergoes surgery, he has visions of Westmoreland. Meanwhile, Lincoln and Sucre try to retrieve Scylla before Don and Gretchen sell it.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Dec. 2008", 
+            "episodeName": "The Sunshine State", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nLincoln calls Sara from Miami asking for news about Michael and tells that he is trying to retrieve the Scylla for The Company with Gretchen, T-Bag and Self. They find a lead in the Grafton Club, and Lincoln goes to the place where he abducts Tia Hayden trying to find the representative of the owner of Scylla. Meanwhile Michael awakes locked in a house in the woods under the surveillance of bodyguards of The Company. The psychiatrist, Dr. Roger Knowlton, tells him that his mother is alive and is working for 'The Company' in the Madagascar Rainforest. He wants to ...    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Apr. 2009", 
+            "episodeName": "The Mother Lode", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nLincoln and his men (Self, T-Bag, Mahone) are trying to find Scylla. They try to find a clue for the key from the fake buyer who killed Gretchen. They find a Church and an Estate that matches with key. When Lincoln and Mahone investigate the Estate, Lincoln finds a picture of him with his mother. Mahone finds out that, picture was edited and some clue about meeting place. Lincoln takes the meeting and finds his mother. Christina wants 2 days from Lincoln for eliminating Krantz. By the way Company's men finds Michael and Sara, they run away with truck and escape again....    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Apr. 2009", 
+            "episodeName": "VS.", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nMichael and Lincoln square off over Scylla as Christina sets her plan in motion. Meanwhile, T-Bag causes a scene at the Indian embassy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 May 2009", 
+            "episodeName": "S.O.B.", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nMichael has an uneasy reunion with Christina, who drops a bombshell regarding Lincoln. Elsewhere, Lincoln races to stop Christina's deadly plan.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 May 2009", 
+            "episodeName": "Cowboys and Indians", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nPandemonium erupts at the Panda Bay Hotel after an assassination at the global energy conference.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 May 2009", 
+            "episodeName": "Rates of Exchange", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAs familiar faces return to help Michael in his quest to bring down The Company, Lincoln makes a discovery about his relationship with Michael.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 May 2009", 
+            "episodeName": "Killing Your Number", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAfter the general catches the brothers and raises the stakes by abducting more of their relatives, Michael escapes with Scylla.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 May 2009", 
+            "episodeName": "The Old Ball and Chain", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nMichael and Sara's newfound happiness is short-lived, as Sara soon finds herself in prison, and Michael must break her out before a vengeful Krantz has her killed.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 May 2009", 
+            "episodeName": "Free", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nIn a continued 90 minute episode, Michael and Sara's newfound happiness is short-lived, as Sara soon finds herself in prison, and Michael must break her out before a vengeful Krantz has her killed.    ", 
+            "seasonNumber": 4
+        }
+    ], 
+    "name": "Prison Break", 
+    "plot": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside.", 
+    "rating": 8.5, 
+    "releaseDate": "29 August 2005", 
+    "type": "tvserie"
+}

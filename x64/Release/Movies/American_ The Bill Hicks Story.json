@@ -1,0 +1,30 @@
+{
+    "actorList": [
+        "Bill Hicks", 
+        "Dwight Slade", 
+        "Mary Hicks", 
+        "Steve Hicks", 
+        "Lynn Hicks", 
+        "Kevin Booth", 
+        "James Ladmirault", 
+        "David Johndrow", 
+        "John Farneti", 
+        "Andy Huggins", 
+        "Steve Epstein"
+    ], 
+    "director": [
+        "Matt Harlock", 
+        "Paul Thomas"
+    ], 
+    "genres": [
+        "Documentary", 
+        "Animation", 
+        "Biography", 
+        "Comedy"
+    ], 
+    "name": "American: The Bill Hicks Story", 
+    "plot": "Photo-animated feature documentary, uniquely narrated by the 10 people who knew Bill best.", 
+    "rating": 7.8, 
+    "releaseDate": "23 October 2009 (London Film Festival)", 
+    "type": "movie"
+}

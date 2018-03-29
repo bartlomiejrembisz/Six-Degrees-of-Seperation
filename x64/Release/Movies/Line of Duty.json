@@ -1,0 +1,201 @@
+{
+    "actorList": [
+        "Martin Compston", 
+        "Vicky McClure", 
+        "Adrian Dunbar", 
+        "Craig Parkinson", 
+        "Chrissie Harris", 
+        "Keeley Hawes", 
+        "Paul Higgins", 
+        "Maya Sondhi"
+    ], 
+    "director": [
+        "John Strickland", 
+        "Douglas Mackinnon", 
+        "David Caffrey", 
+        "Daniel Nettheim", 
+        "Michael Keillor", 
+        "Jed Mercurio"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "21 Aug. 2012", 
+            "episodeName": "Episode #1.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter a bungled raid which kills an innocent man young DS Steve Arnott faces disgrace. However he is transferred to the anti-corruption squad, whose head, superintendent Ted Hastings, gives him a \"very special case\" to investigate - DCI Tony Gates, recently awarded a medal for heroic conduct but with a suspiciously high arrest rate. Hastings tries to get Gates on minor bribery charges, in vain, and is unaware that the married Gates has covered up a fatal hit-and-run by his lover, businesswoman Jackie Laverty. Meanwhile DC Kate Fleming joins Gates's team and tells ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Aug. 2012", 
+            "episodeName": "Episode #1.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nKate watches Gates interview drug user Wes Duke, the last man to see the pushers alive. He releases him but he is later found dead on the estate, killed as a supposed informer. Arnott discovers that Gates knew Jackie Laverty well before her car was reported stolen and confronts her. However Gates discovers that Jackie deliberately murdered the hit and run victim as he had discovered she was a money launderer. He arrests her but she persuades him to let her go and they return to her house where they are attacked by masked intruders who cut her throat.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Sep. 2012", 
+            "episodeName": "Episode #1.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nGates, knocked unconscious by the attackers, tampers with evidence, hiding a whiskey glass before police arrive to find Jackie has vanished. He claims he has just got there himself. Hastings and Arnott quiz him on his relationship with Jackie and he admits she was an old flame but denies knowledge of her money laundering. Arnott goes over the top in confronting him with evidence to suggest he was at Jackie's house when she was killed but makes himself look desperate. Gates is taken off the case and later, whilst investigating Wes's murder, is grabbed by masked men and...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Sep. 2012", 
+            "episodeName": "Episode #1.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhilst the money laundering investigation is passed to Fraud Squad Gates is still hounded by his blackmailers. Kate wants to connect him to Jackie's murder and sets out to gain his trust to find further proof though Gates' loyal colleague Morton rumbles her. Hastings and Arnott interview Gates' team and learn from D.S. Cottan that he diverted them from attending the drug dealers' murders, leading them to believe that Gates knew that the dead pair were working with Jackie though Gates persuades his gullible superior that the couple were in fact terrorists building a ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Sep. 2012", 
+            "episodeName": "Episode #1.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nGates returns to rescue Arnott but leaves before Kate, her cover now blown, arrives to find evidence that a body had been stored at the warehouse. Arnott recalls that the chief torturer was called Tommy and admits to Kate that Gates saved him. She believes he is weakening in his attitude to Gates, whom he goes to see in secret, confirming his view that Gates is innocent of all the murders. Convinced that Gates is in danger but can bring the killers to justice Arnott persuades Hastings to let Gates set up a meeting with Tommy, recorded on a wire. Arnott and Kate intend...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Feb. 2014", 
+            "episodeName": "Episode #2.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA police convoy escorting a civilian under a witness protection scheme is attacked, the witness hospitalized and all the police officers killed, except Inspector Lindsay Denton, who organized the operation at very short notice and who only informed DCC Dryden of the route. Ted Hastings asks Steve and Kate to interview her but Kate pulls out, claiming one of the dead officers, Jayne Akers, was a friend - though she has been having an affair with Jayne's husband Rich. Her place is taken by Georgia Trotman, who is troubled that the men are savage with their interrogation...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Feb. 2014", 
+            "episodeName": "Episode #2.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFollowing the deaths of Georgia and the witness it is Steve who gets a grilling as to the police presence at the hospital whilst Lindsay is accused of attacking her neighbour, which she denies. Steve discovers that a nurse on the witness's ward, Claire Tindall, was threatened into giving the killer access by a man she knows as Joe, but whom she is unable to identify. Lindsay continues to search for vanished teenager Carly Kirk and Kate is drafted in as her assistant - in reality a move to try and get Lindsay to admit her guilt - but Lindsay sees through the ruse. ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Feb. 2014", 
+            "episodeName": "Episode #2.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nLindsay is remanded in custody where she is victimized by both staff and prisoners. Meanwhile Steve and Kate discover the identity of the dead witness from blunt inspector Cottan. He was known as Tommy and Cottan believes that Jayne Akers, his liaison officer, was the real mole who betrayed the escort. Kate visits Lindsay, who knows about her affair with Jayne's husband whilst Cottan has similar suspicions. Lindsay's accusations also cause friction between Hastings and Steve, whilst Dryden's driving offence attracts the press so to save himself he strikes a deal ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Mar. 2014", 
+            "episodeName": "Episode #2.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAn arrogant Dryden is questioned regarding the traffic offence and is dismissive though Steve lets him know Lindsay has revealed that he knew about the convoy route and aims to pursue it further. Rich Akers is also pulled in after \u00a320,000 of which he claims ignorance is found under the floor boards at his house. Hargreaves is convinced this was the bribe given Jayne to betray the escort and when Steve and Kate examine Jayne's car they discover a tracking device though Hargreaves is not keen for its revelation. Furthermore Cottan and Hargreaves see video evidence ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Mar. 2014", 
+            "episodeName": "Episode #2.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nLindsay wakes up in a lock-up to find that one of her abductors, Prasad, has killed the other Cole, but she outwits him by making him admit to Steve on the phone that he and Cole were working for Dryden, who set up the ambush. Steve locates her at her dead mother's bedside and she is granted bail, unaware that Prasad, whom she believed that she killed in self-defense, is still alive and demanding immunity. Cottan brings in his old mate Morton for some dirt on Dryden and it is revealed that Dryden had sex with Carly Kirk. He is arrested and questioned, admitting that ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Mar. 2014", 
+            "episodeName": "Episode #2.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nPrasad claims that Dryden wanted Tommy silenced as he was blackmailing him about Carly, hence the ambush. However the order was to spare Lindsay. Hastings charges Dryden for the driving scam but has insufficient evidence for the weightier charges as Dryden apparently proves that the last he saw of Carly was when he put on her on a train. Kate is surprised that Steve seems to believe in Lindsay's innocence until he admits that he is purposely trying to gain her confidence to trap her. When she is shown to have accepted a proposal by a colleague to snare a child abuser ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Mar. 2016", 
+            "episodeName": "Episode #3.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWhen a criminal is shot dead by a police armed-response unit led by Sgt Danny Waldron, AC-12 gather evidence suggesting it was a deliberate killing rather than self-defence.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "31 Mar. 2016", 
+            "episodeName": "Episode #3.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWaldron's armed-response unit come under increasing scrutiny and again close ranks. But AC-12 feed new information to Kate that helps uncover cracks in their story. Arnott makes a shocking discovery, then his own past catches up with him.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Apr. 2016", 
+            "episodeName": "Episode #3.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJackie and Hari tell the AC Unit that Rod killed Danny Waldron but the team are not convinced and later Jackie changes her story, incriminating Hari in Danny and Rod's deaths. As a result Hari goes on the run and Cottan is declared an unlikely hero. Steve finds out from Joe Nash, who was in care with Waldron, that they were abused at a home for boys, whose staff numbered the Murphys, the two recent victims and he also learns the result of Lindsay's retrial.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Apr. 2016", 
+            "episodeName": "Episode #3.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFresh testimony launches AC-12 back on the trail of the Caddy, a corrupt officer with links to organized crime.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2016", 
+            "episodeName": "Episode #3.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAC-12's loyalties are divided when DS Arnott comes under scrutiny from his colleagues.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Apr. 2016", 
+            "episodeName": "Episode #3.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nSteve is arrested on suspicion of murder but continues to protest his innocence. Kate's undercover operation unveils unexpected facts, but will it hold the key to Steve's innocence and the identity of the Caddy?    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Mar. 2017", 
+            "episodeName": "Episode #4.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWhen DCI Roz Huntley captures a serial killer, Forensic Coordinator Tim Ifield alerts AC-12 to a possible miscarriage of justice.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 Apr. 2017", 
+            "episodeName": "Episode #4.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA dismembered body is discovered, and worries grow when Roz fails to report for duty. After further questioning of Michael Farmer unearths crucial new information, AC-12 challenge the case against him.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Apr. 2017", 
+            "episodeName": "Episode #4.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAs shocking new evidence is unearthed, AC-12 step up their investigation in to the case against Farmer. Could the real killer still be at large?    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Apr. 2017", 
+            "episodeName": "Episode #4.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFollowing shocking events, AC-12's investigation intensifies. The discovery of new forensic anomalies appears to provide them with a major breakthrough. Meanwhile, Nick Huntley comes under scrutiny.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Apr. 2017", 
+            "episodeName": "Episode #4.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAC-12's future hangs in the balance after Hilton bars them from investigating Roz Huntley. But Roz's problems are building closer to home.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Apr. 2017", 
+            "episodeName": "Episode #4.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAC-12 pit their wits against Roz Huntley in a climactic duel to find Tim Ifield's murderer and unmask Balaclava Man.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #5.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }
+    ], 
+    "name": "Line of Duty", 
+    "plot": "DS Steve Arnott is transferred to the police anti-corruption unit after the death of a man in a mistaken shooting during a counter-terrorist operation.", 
+    "rating": 8.4, 
+    "releaseDate": "26 June 2012", 
+    "type": "tvserie"
+}

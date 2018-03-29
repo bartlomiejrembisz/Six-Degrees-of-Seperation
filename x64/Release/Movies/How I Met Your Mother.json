@@ -1,0 +1,1482 @@
+{
+    "actorList": [
+        "Josh Radnor", 
+        "Jason Segel", 
+        "Cobie Smulders", 
+        "Neil Patrick Harris", 
+        "Alyson Hannigan", 
+        "Bob Saget"
+    ], 
+    "director": [
+        "Pamela Fryman", 
+        "Rob Greenberg", 
+        "Michael J. Shea"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Romance"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "19 Sep. 2005", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIt's the year 2030 and an older Ted Mosby is telling the story to his son and daughter about how he met and will eventually marry their mother. This is where we meet for the first time Ted, Lily, Marshall, Barney and Robin.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Sep. 2005", 
+            "episodeName": "Purple Giraffe", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nTed throws a party in hopes of seeing Robin again, but when she doesn't show up, he throws another... and another.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Oct. 2005", 
+            "episodeName": "The Sweet Taste of Liberty", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nBarney's plan to meet girls at the airport backfires as he and Ted are picked up by airport security. Meanwhile, Lily gets jealous of Robin.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Oct. 2005", 
+            "episodeName": "Return of the Shirt", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nTed reconnects with an old flame and soon remembers why he dumped her in the first place. Barney pays Robin to say outrageous things on the air.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Oct. 2005", 
+            "episodeName": "Okay Awesome", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nRobin, Ted, and Barney go to a hot new club, leaving the engaged Marshall and Lily to a more adult, albeit boring, evening of wine tasting.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Oct. 2005", 
+            "episodeName": "The Slutty Pumpkin", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMarshall and Lily enter a Halloween costume party and Robin brings her new boyfriend. Ted and Barney go to the same Halloween party they go to every year where Ted looks for his lost love, the Slutty Pumpkin.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Nov. 2005", 
+            "episodeName": "Matchmaker", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen Ted signs up with a matchmaking service, he learns that love is not a science. Marshall and Lily confront a creature living in their apartment.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Nov. 2005", 
+            "episodeName": "The Duel", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nLily moves in with Marshall and Ted, and when Ted suspects that he's being edged out of the apartment, he and Marshall decide to settle it like men.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Nov. 2005", 
+            "episodeName": "Belly Full of Turkey", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThanksgiving with Marshall's family is stressful when Lily thinks she might be pregnant. Robin, Barney, and Ted spend the holiday volunteering.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Nov. 2005", 
+            "episodeName": "The Pineapple Incident", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAfter an alcohol-induced blackout, Ted awakens to find a strange woman and a pineapple in his bed.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Dec. 2005", 
+            "episodeName": "The Limo", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nIt's New Year's Eve 2005 and Ted spends a large portion of his Christmas bonus for a limo for he and the gang. In addition, he has outlined a plan how they will ring in the New Year. Unfoirtunatley, things don't always go as planned.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Jan. 2006", 
+            "episodeName": "The Wedding", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nTed's romantic hopes are dashed when he invites Robin to a fancy wedding, only to discover that the bride-to-be won't allow him to bring a date.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Jan. 2006", 
+            "episodeName": "Drumroll, Please", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nRobin is emotionally torn when Ted meets an exciting new woman, Victoria, at the wedding. Afterward, though, he doesn't know how to contact her.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Feb. 2006", 
+            "episodeName": "Zip, Zip, Zip", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nHiding in the bathroom, Marshall and Lily wait for Ted and Victoria to consummate their relationship, and Barney gets the wrong idea from Robin.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Feb. 2006", 
+            "episodeName": "Game Night", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nMarshall's game night leads to some startling and very embarrassing revelations.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Mar. 2006", 
+            "episodeName": "Cupcake", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nJust as Ted and Victoria's relationship is beginning to flourish, she's offered a scholarship to a culinary institute in Germany.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Mar. 2006", 
+            "episodeName": "Life Among the Gorillas", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWith Victoria in Germany, Ted faces the pitfalls of long-distance relationships. Marshall has trouble fitting in at Barney's company.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2006", 
+            "episodeName": "Nothing Good Happens After 2 AM", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWith Victoria on his mind, Ted has conflicted feelings when Robin invites him over for a late-night rendevouz.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Apr. 2006", 
+            "episodeName": "Mary the Paralegal", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nTed needs a date to take to Robin's awards banquet, so Barney hooks him up with Mary, who may be a call girl.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 May 2006", 
+            "episodeName": "Best Prom Ever", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nWith her wedding day fast approaching, Lily, along with Barney and Robin, crashes a high school prom to scope out a potential band for the reception.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 May 2006", 
+            "episodeName": "Milk", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nTed is excited when a matchmaking service claims to have found his soul mate, but he postpones his date to help Lily, who has a surprising revelation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 May 2006", 
+            "episodeName": "Come On", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nTed makes a final attempt to win Robin's heart. Marshall and Lily's relationship is in jeopardy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Sep. 2006", 
+            "episodeName": "Where Were We?", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMarshall becomes predictably depressed and pathetic after the breakup. And it only gets worse when he discovers that Lily may be back in town.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Sep. 2006", 
+            "episodeName": "The Scorpion and the Toad", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nBarney gets Marshall back out on the singles market, but Barney keeps taking all the prospects from him. And Ted's convinced that Lily is back because she wants Marshall back, even though she says she's never been better.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Oct. 2006", 
+            "episodeName": "Brunch", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTed discovers that his parents are keeping a secret from him after his dad acts as Barney's wingman, and Marshall and Lily intentionally try to get each other sexually aroused.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Oct. 2006", 
+            "episodeName": "Ted Mosby, Architect", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nBarney tells Ted that single women like architects. But will Ted use this useful tidbit of information to cheat on Robin after they have their first fight?    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Oct. 2006", 
+            "episodeName": "World's Greatest Couple", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nLily gets introduced to Barney's bachelor pad when she needs a place to stay, and Marshall finds a unlikely new friend to join him for brunch, concerts and musicals.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Oct. 2006", 
+            "episodeName": "Aldrin Justice", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTed gets Lily a job at his firm, but she only makes trouble for Ted when he refuses to stand up to his boss. And Barney sleeps with Marshall's law school professor to help his grades, but she's less than impressed with his prowess.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Nov. 2006", 
+            "episodeName": "Swarley", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe guys tell Marshall to stay away from his new date because she has \"crazy eyes,\" but she couldn't be any crazier than Lily after she learns that Marshall's going out on his first new date.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Nov. 2006", 
+            "episodeName": "Atlantic City", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nMarshall and Lily elope to Atlantic City, but they discover that getting married in Atlantic City isn't as easy as getting married in Las Vegas.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Nov. 2006", 
+            "episodeName": "Slap Bet", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe gang discovers that Robin's been hiding a huge secret, but they have no idea what it is. Marshall thinks she is married, and Barney thinks she was a porn star.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Nov. 2006", 
+            "episodeName": "Single Stamina", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBarney's gay black brother is in town, but he doesn't want to tell Barney that he's getting married because he'll be losing his only single sidekick.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Dec. 2006", 
+            "episodeName": "How Lily Stole Christmas", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nLily takes away her Christmas display after she finds out that Ted called her a bad name while she was broken up with Marshall, and Barney is too sick for his Christmas plans.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Jan. 2007", 
+            "episodeName": "First Time in New York", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nRobin tries to keep her younger sister from losing her virginity while on vacation in New York, which causes everyone to reminisce about their first times.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Jan. 2007", 
+            "episodeName": "Columns", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nBarney asks Lily to paint a nude picture of him after finding her painting of Marshall. And Ted can't find an opportune time to fire his old boss, who now works for him but still keeps undermining his work.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Feb. 2007", 
+            "episodeName": "Monday Night Football", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nEverybody misses the Super Bowl because of a funeral. Therefore, they all try to go 24 hours without finding out who won so that they can watch the game together on Monday night.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Feb. 2007", 
+            "episodeName": "Lucky Penny", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhen Ted misses his important business trip to Chicago, he tries to trace his steps back to the original incident that triggered the series of events that made him miss the flight.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Feb. 2007", 
+            "episodeName": "Stuff", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nTed tries to get rid of everything he received from other women at Robin's request, but getting rid of the stuff Robin received from other men won't be as easy. Meanwhile, Barney gets revenge on Lily for making him attend her terrible play.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Feb. 2007", 
+            "episodeName": "Arrivederci, Fiero", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhen Marshall's car doesn't quite make it to 200,000 miles without dying completely, everybody reminisces about their greatest memories with the car.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Mar. 2007", 
+            "episodeName": "Moving Day", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nTed and Robin decide to move in together, but nobody appears to be happy with the new living arrangements--especially Barney.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Apr. 2007", 
+            "episodeName": "Bachelor Party", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nTed changes Barney's bachelor party plans for Marshall at the last minute, so that it won't just consist of gambling and cheap strippers. And Robin gets Lily an inappropriate shower party gift.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Apr. 2007", 
+            "episodeName": "Showdown", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nBarney becomes a contestant on \"The Price Is Right\" so that he can confront Bob Barker, because he believes that the game show host is his biological father.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 May 2007", 
+            "episodeName": "Something Borrowed", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nMarshall and Lily's wedding is destined to become a disaster, until fate intervenes and makes it perfect.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 May 2007", 
+            "episodeName": "Something Blue", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAs the happy couple celebrate their wedding, Ted and Robin tell Barney about the latest development of their relationship.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Sep. 2007", 
+            "episodeName": "Wait for It", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nTed's still not ready to date months after his breakup with Robin. But when Robin returns to New York with an exotic new boyfriend, he decides it's time to finally do something adventurous.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Oct. 2007", 
+            "episodeName": "We're Not from Here", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nTed and Barney pose as tourists to pick up on a couple of New York women, and Robin starts getting fed up with her new boyfriend.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Oct. 2007", 
+            "episodeName": "Third Wheel", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTed has a chance for a threesome with two women, but Barney and Lily try to sabotage it. Meanwhile, Robin's date also goes better than expected, if only she can find a razor.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Oct. 2007", 
+            "episodeName": "Little Boys", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nRobin tries to date a guy with a child, even though she does not like or want children. Meanwhile, Ted finds it impossible to make it with a woman he knows that Barney slept with a year ago.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Oct. 2007", 
+            "episodeName": "How I Met Everyone Else", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhile everyone meets Ted's new crazy girlfriend, everyone recounts their stories of how they met everyone else. But the stories turn out to have several inconsistencies.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Oct. 2007", 
+            "episodeName": "I'm Not That Guy", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTed discovers that a porn star is using his name. Marshall is wined and dined by a firm that defends polluters, and Lily's spending habits may force him to take the job.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Nov. 2007", 
+            "episodeName": "Dowisetrepla", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMarshall and Lily decide to buy a new home, which forces Lily to finally confront Marshall about her credit card debt.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Nov. 2007", 
+            "episodeName": "Spoiler Alert", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe guys shatter Ted's impressions of his new girlfriend by telling him she talks too much. Ted responds by turning the tables on his friends, and they react by pointing out Ted's worst flaw.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Nov. 2007", 
+            "episodeName": "Slapsgiving", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMarshall warns Barney that the third slap in their \"slap bet\" will be coming on Thanksgiving night. Meanwhile, Ted and Robin sleep together on the night before Thanksgiving.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Nov. 2007", 
+            "episodeName": "The Yips", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBarney has trouble hitting on women at the Victoria's Secret after party and so has to return to the woman who took his virginity.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Dec. 2007", 
+            "episodeName": "The Platinum Rule", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nBarney and the gang try to convince Ted not to date the doctor that is removing his tattoo by giving examples of the Platinum Rule.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Mar. 2008", 
+            "episodeName": "No Tomorrow", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nOn St-Patrick's Day, Ted follows Barney to a bar to party like there's no tomorrow, while Robin discovers something strange about Marshall and Lily's new apartment.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Mar. 2008", 
+            "episodeName": "Ten Sessions", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs the search for Mrs. Right continues, Ted woos his dermatologist Stella -- but her receptionist, Abby, seems more interested in him.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "31 Mar. 2008", 
+            "episodeName": "The Bracket", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nOne of Barney's exes is sabotaging his love life, but he doesn't know who. So he makes a NCAA Basketball Tournament-style bracket to figure out which women he wronged the worst.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Apr. 2008", 
+            "episodeName": "The Chain of Screaming", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nMarshall cries in front of his boss after he chews him out, and everybody gives Marshall their own unique advice on how to confront his boss about the situation.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2008", 
+            "episodeName": "Sandcastles in the Sand", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nRobin gives romance a second try with an old boyfriend, only to have him break her heart...again.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Apr. 2008", 
+            "episodeName": "The Goat", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nBarney is upset because he violated his own \"bro code\" by sleeping with Robin. How will Ted react when he learns that Barney slept with his ex-girlfriend?    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 May 2008", 
+            "episodeName": "Rebound Bro", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nBarney finds a new wingman to replace Ted, but he's painfully shy and awkward around women. Meanwhile Ted discovers that his new girlfriend Stella hasn't had sex in 5 years.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 May 2008", 
+            "episodeName": "Everything Must Go", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nBarney helps Abby get back at Ted by staging a fake proposal, but Abby doesn't realize that it's fake. Lily decides to sell some of her paintings so that she and Marshall can pay for floor repairs at their new place.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 May 2008", 
+            "episodeName": "Miracles", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nTed breaks up with Stella but immediately wants to take it back after a life-changing experience. However, Stella doesn't realize that he broke up with her. Meanwhile, Barney has a serious accident on his way to see Ted in the hospital.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Sep. 2008", 
+            "episodeName": "Do I Know You?", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nTed and Stella get engaged, but Ted soon learns that he doesn't know anything about her. Meanwhile, Barney confesses to Lily that he's in love with Robin    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Sep. 2008", 
+            "episodeName": "The Best Burger in New York", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nMarshall claims that he had the best hamburger in the world during his first week in New York City, but he forgot where the burger joint is located. The gang then hits the streets of Manhattan to help him find it.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Oct. 2008", 
+            "episodeName": "I Heart NJ", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTed does not want to move in with Stella because he hates New Jersey. Robin prematurely quits her TV job because she incorrectly thinks that she already has a new job.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Oct. 2008", 
+            "episodeName": "Intervention", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nTed, Robin, Marshall, and Lily all begin getting cold feet because of their imminent life changes, and Barney tries to prove that he can pick up a woman while posing as an 80-year-old man.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Oct. 2008", 
+            "episodeName": "Shelter Island", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nTed and Stella move up their wedding date, but the wedding may not go off as planned after Ted breaks the \"No Exes Rule\" and invites Robin to come in from Japan for the wedding.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Nov. 2008", 
+            "episodeName": "Happily Ever After", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe gang tries to hide from Stella when they discover that they are eating at the same restaurant.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Nov. 2008", 
+            "episodeName": "Not a Father's Day", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhile Barney celebrates a pregnancy false alarm, Marshall and Lily try to figure out if it's time to have a baby.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Nov. 2008", 
+            "episodeName": "Woooo!", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nLily is disappointed to discover that Robin is secretly a \"Woooo! Girl,\" and Barney secretly sabotages Ted's chance to get the contract to design a new bank skyscraper.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Nov. 2008", 
+            "episodeName": "The Naked Man", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhen the gang learns that a bold, desperation date move got Robin into bed, Ted and Barney decide to try it out for themselves.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Dec. 2008", 
+            "episodeName": "The Fight", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe guys get invited to fight alongside Doug the Bartender. However, the fight doesn't go exactly how they imagined it to.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Dec. 2008", 
+            "episodeName": "Little Minnesota", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nTed tries to keep his irresponsible sister from hooking up with Barney during her trip to New York, and Robin starts hanging out with Marshall at a bar for Minnesotans, not telling them that she's really Canadian.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Jan. 2009", 
+            "episodeName": "Benefits", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nTed and Robin discover that sex with each other solve their fights as roommates, which makes Barney very jealous and angry. Meanwhile, Marshall reveals that he's too embarrassed to use the office bathroom.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 Jan. 2009", 
+            "episodeName": "Three Days of Snow", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nDuring a historic blizzard, Ted and Barney get an opportunity to run their own bar, while Marshall and Lily try to defy the odds and continue one of their cherished traditions.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 Feb. 2009", 
+            "episodeName": "The Possimpible", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nRobin needs to find a television job in seven days or else she loses her work visa, and Barney volunteers to come to her aid. Meanwhile, Ted, Marshall, and Lily consider cleaning up their resumes    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 Mar. 2009", 
+            "episodeName": "The Stinsons", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe guys find out that Barney is pretending to have a wife and son to make his mother happy, but the charade is blown when Ted makes a move on Barney's \"wife.\"    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Mar. 2009", 
+            "episodeName": "Sorry, Bro", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nTed meets with his ex-girlfriend from college--a girlfriend who cheated on him constantly and Marshall and Lily can't stand, and Marshall tells the story about how he forgot to bring his pants to work.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Mar. 2009", 
+            "episodeName": "The Front Porch", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nTed becomes angry with Lily when he finds out that she has been sabotaging all his relationships that she did not approve of, including his relationship with Robin.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Mar. 2009", 
+            "episodeName": "Old King Clancy", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nBarney and Marshall don't tell Ted that the plans for the building he has been working on have been scrapped, and the guys try to figure out which Canadian celebrity Robin slept with.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Mar. 2009", 
+            "episodeName": "Murtaugh", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nBarney tries to do all the items on Ted's \"I'm to old for this stuff\" list, while Marshall's over-competitive side comes out when he coaches Lily's Kindergarten basketball team.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Apr. 2009", 
+            "episodeName": "Mosbius Designs", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nTed's plans to make his own design firm in his apartment hit a snag when his personal assistant begins sleeping with Robin, and Marshall tries to find a way to make himself indispensable at his workplace.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Apr. 2009", 
+            "episodeName": "The Three Days Rule", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nTed gets around the three-day rule by texting a woman he just met, but he doesn't realize that he's actually texting Barney and Marshall.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 May 2009", 
+            "episodeName": "Right Place Right Time", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nTed recounts the series of random events that lead up to the chance meeting with the woman who would eventually become his wife.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 May 2009", 
+            "episodeName": "As Fast as She Can", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nStella's boyfriend Tony breaks up with her after having a conversation with Ted, prompting Stella to come back to Ted with a surprising request.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 May 2009", 
+            "episodeName": "The Leap", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nWhile Ted struggles with an unorthodox architecture project, Robin finds out that Barney is in love with her, and Marshall threatens to take a long-considered leap from the roof to a neighboring building.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Sep. 2009", 
+            "episodeName": "Definitions", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAs Ted begins his new career as a professor and is about to meet his future wife, Lily forces Barney and Robin to have \"the talk\" and define their new relationship.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "28 Sep. 2009", 
+            "episodeName": "Double Date", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nTed goes on a blind date with the same woman he went on a blind date with seven years ago, and Barney and Marshall find Lily's stripper look-alike.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "5 Oct. 2009", 
+            "episodeName": "Robin 101", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen Robin fears that Barney is cheating on her, she soon discovers that he is spending his evenings with Ted learning everything there is to know on how to date her    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Oct. 2009", 
+            "episodeName": "The Sexless Innkeeper", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhen Lily and Marshall realize that Robin and Barney are the perfect double-date friends, they try too hard to impress and come on too strong. Meanwhile, Ted gets a new nickname from Barney after an unsuccessful hook-up.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "19 Oct. 2009", 
+            "episodeName": "Duel Citizenship", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhile Barney tries to convince Robin to become an American citizen, Ted and Marshall's fabled road trip takes a wrong turn when Marshall invites Lily.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 Nov. 2009", 
+            "episodeName": "Bagpipes", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nDespite their best efforts to be the perfect couple, Barney's know-it-all attitude gets him in trouble with Robin and they are forced to ask Marshall and Lily for relationship advice.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Nov. 2009", 
+            "episodeName": "The Rough Patch", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAfter Barney and Robin hit a rough patch in their relationship, Lily devises the perfect plan to break them up, calling in help from Robin's famous friend, Alan Thicke.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "16 Nov. 2009", 
+            "episodeName": "The Playbook", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhen Barney hooks up with a woman Lily had been saving for Ted, she gets revenge by stealing his \"playbook,\" which contains all the moves he uses to pick up women. But will Barney have the last laugh?    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "23 Nov. 2009", 
+            "episodeName": "Slapsgiving 2: Revenge of the Slap", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nBarney freaks out when Marshall bequeaths a \"slap bet\" slap to Ted and Robin. Meanwhile, Lily's estranged father shows up for Thanksgiving.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "7 Dec. 2009", 
+            "episodeName": "The Window", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMaggie a girl next door Ted has wanted to date for years has suddenly broken up with her latest boyfriend, giving him and many other guys a chance to score with her.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "14 Dec. 2009", 
+            "episodeName": "Last Cigarette Ever", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAlthough he vowed to Robin and Marshall that he would never tell them, Ted finally tells his kids that at one time both Robin and Marshall used to smoke. In 2009, they both felt like they had good reason to do so. Marshall, only an occasional smoker, always said that each cigarette was his last. But when his old boss, the meanest man nicknamed Artillery Arthur, became his new boss, he thought he was going to be fired - again. So when Marshall found out that Arthur was a smoker, Marshall used it as a bonding mechanism to keep his job. Robin, at the time anchoring the ...    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "11 Jan. 2010", 
+            "episodeName": "Girls vs. Suits", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nBarney chooses between wearing suits and sleeping with a sexy bartender. Meanwhile, Ted gets ever closer to meeting \"the mother\".    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "18 Jan. 2010", 
+            "episodeName": "Jenkins", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhen Marshall finds out he's the \"reacher\" in his relationship with Lily and not the \"settler,\" he considers pursuing a sexy and cool female coworker. Meanwhile, Ted finds out Robin is a drinking game for his architecture students.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Feb. 2010", 
+            "episodeName": "Perfect Week", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nWhen Barney is about to complete the perfect week - landing seven different girls in seven days - the gang roots him on in order to forget about their own miserable week.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Feb. 2010", 
+            "episodeName": "Rabbit or Duck", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nBarney runs into problems when he displays his cell phone number during the Super Bowl, Ted asks Marshall and Lily to arrange a marriage for him, and Robin thinks that her co-anchor has asked her out on a date.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Mar. 2010", 
+            "episodeName": "Hooked", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhen the gang tries to convince Ted that he is being strung along by Tiffany, they reflect about relationships where each of them has been in the same situation.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Mar. 2010", 
+            "episodeName": "Of Course", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nAfter the guys discover that Robin deliberately got Barney hooked up with an incompatible female writer, they find out that that they didn't realize that Robin hasn't been handling their breakup very well.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Mar. 2010", 
+            "episodeName": "Say Cheese", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nTed angers Lily when he brings a random date to her birthday party, so she is forced to remind him of all the other random women he has brought along to important functions, only to discover that they weren't \"the one.\"    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Apr. 2010", 
+            "episodeName": "Zoo or False", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nMarshall comes up with a number of different outrageous and embarrassing stories to explain how he was mugged in Central Park, but which of his stories is the truth?    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "19 Apr. 2010", 
+            "episodeName": "Home Wreckers", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nTed reacts to his mom's second wedding by making the capricious decision to buy his \"dream house,\" while everyone tries to figure out whether Barney or Robin cried at the wedding.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 May 2010", 
+            "episodeName": "Twin Beds", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAs Robin contemplates moving in with her new boyfriend Don, Ted and Barney both decide that they want her back. Meanwhile, Marshall and Lily think they've revolutionized modern marriage when they begin sleeping in separate beds.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 May 2010", 
+            "episodeName": "Robots vs. Wrestlers", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nBarney is worried that the old gang is falling apart when Ted blows off a \"Wrestlers vs. Robots\" competition so that he can stay at a snobby party.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 May 2010", 
+            "episodeName": "The Wedding Bride", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nTed is livid when he discovers that the man Stella left Ted for at the altar wrote a blockbuster movie about the incident, and portrays Ted as the bumbling, mean-spirited bad guy.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 May 2010", 
+            "episodeName": "Doppelgangers", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nMarshall and Lily think they've spotted Barney's doppelganger, which means that they can start trying to have a baby, but it's really Barney in disguise. Meanwhile, Ted goes blonde and Robin considers taking an anchor job in Chicago.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Sep. 2010", 
+            "episodeName": "Big Days", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nTed musters up the courage to talk to a girl at the bar, but then discovers she's there with one of his exes. Meanwhile, Lily is mad at Marshall because he told his dad they're trying to have a baby, and Robin lets herself go.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "27 Sep. 2010", 
+            "episodeName": "Cleaning House", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe gang accompanies Barney and his brother James after they find the man who may be Barney's father, but it turns out to be James' father instead.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "4 Oct. 2010", 
+            "episodeName": "Unfinished", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen Ted declines Barney's offer to design the new GNB building, Barney ties to woo him by using all of his best womanizing tactics. Meanwhile, Robin is still not over her relationship with Don and drunk dials him.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "11 Oct. 2010", 
+            "episodeName": "Subway Wars", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe guys race each other, each using a different form of transportation, from the pub to a restaurant seven miles away because a friend claims that Woody Allen is there.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "18 Oct. 2010", 
+            "episodeName": "Architect of Destruction", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nIs Ted having second thoughts about designing GNB's new skyscraper because it would tear down a landmark, or because he's trying to impress a woman? Meanwhile, Lily shares a secret about Robin's new boyfriend with Marshall.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "25 Oct. 2010", 
+            "episodeName": "Baby Talk", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMarshall takes steps to make sure that he and Lily have a baby boy, but Lily has other ideas. Meanwhile, when Ted begins dating Robin's co-anchor, Barney is inspired to use baby talk to pick up women, and Robin feels betrayed.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "1 Nov. 2010", 
+            "episodeName": "Canning Randy", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMarshall struggles to fire an incompetent employee, everyone tries to figure out whom Robin slept with Halloween night, and Zoey, the GNB skyscraper protester, finds a way to turn Ted's class against him.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "8 Nov. 2010", 
+            "episodeName": "Natural History", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nTed and Zoey's feud continues during a fundraiser at the Museum of Natural History. Meanwhile, Marshall confesses to Lily that he enjoys his job at GNB, and a prank by Barney and Robin may lead Barney to his real father.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "15 Nov. 2010", 
+            "episodeName": "Glitter", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhile Barney finds a new video from Robin's Canadian teen star past, Lily fears that a baby could come between her friendship with Robin. Meanwhile, Ted's obnoxious old friend, \"Punchy,\" comes from Cleveland for a visit.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 Nov. 2010", 
+            "episodeName": "Blitzgiving", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhen Ted leaves the bar early to prepare a Thanksgiving feast for his friends, the gang winds up partying all night with The Blitz, an old friend from college who has bad luck. As a result, Ted is forced to spend Thanksgiving with Zoey.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 Dec. 2010", 
+            "episodeName": "The Mermaid Theory", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nTed goes on a boating trip with Zoey's husband, \"The Captain.\" Menawhile, Barney's \"Mermaid Theory\" prevents Marshal from having a nice dinner with Robin, and the narrator tries to recall the details of a fight between Lily and Barney.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 Dec. 2010", 
+            "episodeName": "False Positive", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nBarney and Robin contemplate drastic positive changes in their lives when Marshall and Lily announce that Lily is pregnant, but renege on their promises when Marshall and Lily tell them that it was a false positive.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "3 Jan. 2011", 
+            "episodeName": "Bad News", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nMarshall suspects that he is the reason Lily can't get pregnant after meeting a fertility doctor who also happens to be Barney's doppelganger. Meanwhile, Robin's embarrassing past is revealed at work by her former co-anchor.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "17 Jan. 2011", 
+            "episodeName": "Last Words", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe gang tries to support Marshall and Lily tries to help his mom during Marshall's father's funeral, but Marshall becomes preoccupied when he discovers that he has one final voicemail message from him.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "7 Feb. 2011", 
+            "episodeName": "Oh Honey", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nTed discovers that he is in love with Zoey after she tries to set him up on a date with her naive cousin, and he cuts off their friendship as a result. But little does he know that her marriage status has changed and she loves him too.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 Feb. 2011", 
+            "episodeName": "Desperation Day", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nLily goes to Minnesota to bring Marshall back, but he's not ready to leave yet. Meanwhile, Ted and Zoey's relationship gets off to a rocky start, and Barney searches for a female \"victim\" the night before Valentine's Day.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "21 Feb. 2011", 
+            "episodeName": "Garbage Island", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe Captain asks Ted to help find out who stole Zoey away from him, Marshall withholds sex until he does something to help the environment, and Barney is reluctant to admit that he has a crush on Robin's friend.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "28 Feb. 2011", 
+            "episodeName": "A Change of Heart", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe gang gets mad at Barney when he lies to Nora and says he wants to get married and have a family to impress her, and Robin begins dating a guy who seems to possess several canine characteristics.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "21 Mar. 2011", 
+            "episodeName": "Legendaddy", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nBarney finally meets his biological father, but is disappointed to discover that he leads a boring life and is nothing like him.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "11 Apr. 2011", 
+            "episodeName": "The Exploding Meatball Sub", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nDespite Zoey still opposing the new GNB headquarters being built on the Arcadian Hotel site, Ted and Zoey's personal relationship is thriving. That issue is only one of the many disagreements in their life, which Ted likens to the two challenging each other mentally. On the other hand, he sees Marshall and Lily's relationship as being boring, as they agree on everything to the point of them almost melding into one person. Lily and Marshall, on the other hand, see their relationship as being supportive, the way that relationships should be, whereas they see Ted and ...    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "18 Apr. 2011", 
+            "episodeName": "Hopeless", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nWhen Barney tries to bond with his father, he asks the gang to help make his life seem more exciting by lying about their own lives. Meanwhile, Robin runs into a guy she has a crush on.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 May 2011", 
+            "episodeName": "The Perfect Cocktail", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nWhen Marshall switches sides on the Arcadian dispute, his friendship with Barney is compromised and the gang is banned from the bar. Meanwhile, Ted finally finds the courage to confront Zoey about the same topic.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 May 2011", 
+            "episodeName": "Landmarks", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nTed is forced to make the final decision on whether he thinks The Arcadian should be declared a landmark, and his future with Zoey and Barney's future at GNB hinge on his decision.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 May 2011", 
+            "episodeName": "Challenge Accepted", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nIn the aftermath of Ted and Zoey's break-up, Ted is having second thoughts. He is freaking out about an issue with the GNB headquarters, and historically when Ted freaks out about something, he turns to dating an old girlfriend if only for something comfortable and familiar, however bad returning to that relationship ended up being. When Barney and Robin find out that Ted is going to meet Zoey to get back together with her, they have to try and figure out where that meeting place is so that they can stop him. Beyond piecing together this puzzle, Barney and Robin's ...    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Sep. 2011", 
+            "episodeName": "The Best Man", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWhile Barney prepares for his wedding to a mystery bride, he and Ted reminisce about Punchy's wedding, including when Marshall and Lily announced they were having a baby. Meanwhile, Robin considers telling Barney she has feelings for him.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "19 Sep. 2011", 
+            "episodeName": "The Naked Truth", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nTed tries to choose a date for the Architect's Ball, an embarrassing Internet video could cost Marshall a new job, and Barney makes a bold move to prove to Nora that he's a changed man.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "26 Sep. 2011", 
+            "episodeName": "Ducky Tie", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAt the Architect's Ball, Ted runs into Victoria, who tells him that she's getting married. Meanwhile, Barney places an unlikely wager with Marshall and Lily in order to see Lily's breasts.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "3 Oct. 2011", 
+            "episodeName": "The Stinson Missile Crisis", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJealous over Barney's relationship with Nora, Robin tells her court-appointed therapist the series of events that led up to the assault that she committed.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "10 Oct. 2011", 
+            "episodeName": "Field Trip", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nRobin tries to date her therapist, Marshall thinks his boss has gone soft on environmentalism, Barney suspects that Nora may be lying about her age, and Ted takes his Intro to Architecture class on the worst field trip ever.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "17 Oct. 2011", 
+            "episodeName": "Mystery vs. History", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTed agrees to go on a date without researching each other on the Internet beforehand, Barney urges Marshall and Lily to find out and reveal the gender of their child, and Kevin tries but fails to avoid passing judgment on the group.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "24 Oct. 2011", 
+            "episodeName": "Noretta", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nKevin's declaration that everybody marries their parents ruins Marshall and Lily's romantic evening, but will anything keep Barney from getting lucky with Nora? And will Kevin finally get fed up with Ted and Robin's close relationship?    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "31 Oct. 2011", 
+            "episodeName": "The Slutty Pumpkin Returns", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nTed finds his long lost crush from a Halloween party 10 years ago, but will there be any chemistry? Meanwhile, Lily's \"pregnancy brain\" convinces her to move to the suburbs, and Barney finds out he's one-quarter Canadian.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "7 Nov. 2011", 
+            "episodeName": "Disaster Averted", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe gang explains to Kevin the origins of the \"No boogie-boarding\" sign in front of MacLaren's, which has to do with hurricane Irene. Meanwhile, Barney negotiates with Marshall about how to get out of wearing the ducky tie.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "14 Nov. 2011", 
+            "episodeName": "Tick Tick Tick", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBarney and Robin are afraid to break the news to Nora and Kevin that they cheated with each other and want to get back together, while Ted and Marshall get stoned together at a concert.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "21 Nov. 2011", 
+            "episodeName": "The Rebound Girl", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhile Robin tries to talk Marshall and Lily out of moving to Long Island, Ted and Barney make the decision to become \"bro-parents.\"    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "5 Dec. 2011", 
+            "episodeName": "Symphony of Illumination", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAfter Robin tells Barney that she's pregnant with his child, she receives some shocking news from her doctor. Meanwhile, a neighborhood teen plays a trick on Marshall while he decorates his house with Christmas lights.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 Jan. 2012", 
+            "episodeName": "Tailgate", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAfter celebrating New Year's Eve, Marshall visits his father's graveside to carry on their tradition of tailgating. Meanwhile, Barney and Ted open a bar called \"Puzzles,\" and Robin is forced to fill in for an inebriated news anchor.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "16 Jan. 2012", 
+            "episodeName": "46 Minutes", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nWhile Marshall and Lily spend their first night in their new home after deciding to permanently move to Long Island, Barney takes over as group leader in Manhattan--both with disastrous results.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 Feb. 2012", 
+            "episodeName": "The Burning Beekeeper", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nLily and Marshall throw a housewarming party, where Ted nearly comes to blows with Marshall's boss, and Barney hits on a crazy divorcee.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "13 Feb. 2012", 
+            "episodeName": "The Drunk Train", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nKevin proposes to Robin, but will he take it back when Robin tells him she can't have children? Meanwhile, Barney and Ted try to score on the \"drunk train\" to Long Island, but something is surprisingly holding Barney back.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "20 Feb. 2012", 
+            "episodeName": "No Pressure", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhile Ted waits to find out whether Robin loves him back, he discovers that Marshall and Lily have been trying to influence him in opposite directions to win a bet. Meanwhile, Barney tries to find Marshall and Lily's sex tape.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "27 Feb. 2012", 
+            "episodeName": "Karma", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nBarney gets played and heart-broken over a stripper named \"Karma,\" Robin becomes bored with her life on Long Island with Marshall and Lily, while Ted searches for a hobby to fill the empty space in Robin's old room.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "19 Mar. 2012", 
+            "episodeName": "The Broath", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nThe gang tries to break up Barney and Quinn after learning they plan on moving in together, leaving Robin and Ted to fight over who deserves to sublet her apartment.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "9 Apr. 2012", 
+            "episodeName": "Trilogy Time", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nAs Ted, Marshall, and Barney get together for their annual viewing of the original Star Wars trilogy, Ted begins to question if he will ever end up where he wants to be - especially now that Barney and Quinn are getting serious.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "16 Apr. 2012", 
+            "episodeName": "Now We're Even", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nJust as Ted starts to settle into his new apartment alone, Barney tries to entice him into going out every single night. Meanwhile, Lily has a naughty dream about someone other than Marshall, and Robin finally becomes a famous news anchor.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "30 Apr. 2012", 
+            "episodeName": "Good Crazy", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nBarney tries to set Ted up on dates so that he can forget about Robin, while also plotting to get Quinn out of her stripping job. Meanwhile, Lily sends Marshall on a getaway so that he will stop stressing over the baby.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "14 May 2012", 
+            "episodeName": "The Magician's Code: Part 1", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nTed and Robin take care of Lily when she goes into labor because Marshall is drunk and stuck in Atlantic City with Barney.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "14 May 2012", 
+            "episodeName": "The Magician's Code: Part 2", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nTed makes a fateful phone call to his old girlfriend Victoria, Barney's magic trick gets him in trouble with airport security just as he's about to leave on a trip with Quinn, and Robin tries to take the perfect birth announcement photo.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "24 Sep. 2012", 
+            "episodeName": "Farhampton", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nTed convinces Victoria to take a brief detour before they leave together after she leaves her fianc\u00e9 at the altar, and Barney's engagement to Quinn may be short-lived after she finds about his past relationship with Robin.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "1 Oct. 2012", 
+            "episodeName": "The Pre-Nup", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nBarney's ridiculous pre-nup that he asks Quinn to sign gives the other guys ideas of their own, but the girls find a way to retaliate.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "8 Oct. 2012", 
+            "episodeName": "Nannies", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen Lily and Marshall have trouble finding a nanny, they learn it's because of an elaborate scheme Barney came up with to meet girls. Meanwhile, Robin and Ted butt heads over who has a more serious relationship.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "15 Oct. 2012", 
+            "episodeName": "Who Wants to Be a Godparent", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhen Lily and Marshall can't decide on godparents for Marvin, they put the gang to the test to see who would make the best one.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "5 Nov. 2012", 
+            "episodeName": "The Autumn of Breakups", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAs the season of break-ups continues, Ted and Victoria must choose the next step in their long and complicated relationship. Meanwhile, Robin worries about Barney when he chooses a dog to be his wingman.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "12 Nov. 2012", 
+            "episodeName": "Splitsville", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen Robin is hesitant to break up with Nick, Barney takes matters into his own hands. Meanwhile, Lily and Marshall are desperate for some private time.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "19 Nov. 2012", 
+            "episodeName": "The Stamp Tramp", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMarshall gets in the doghouse at work after he recommends a friend for a job, Robin helps Barney find a new strip club, and Ted is embarrassed after watching his video diary from college.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "26 Nov. 2012", 
+            "episodeName": "Twelve Horny Women", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhile Marshall faces the most important court case of his career against his new arch-nemesis, Brad Morris, the rest of the gang tries to figure out which one was the biggest bad-ass in their youth.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "3 Dec. 2012", 
+            "episodeName": "Lobster Crawl", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nRobin has a plan to get Barney out of her system for good, Ted witnesses Marvin's first crawl while babysitting for Marshall and Lily, and Barney has a new business idea after destroying a beloved tie.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "10 Dec. 2012", 
+            "episodeName": "The Over-Correction", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nRobin tries to get Barney's \"Playbook\" out of jealousy over his new girlfriend, Marshall catches his mom having sex with Lily's dad, and Ted tries to get everything back that was borrowed from him and never returned.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "17 Dec. 2012", 
+            "episodeName": "The Final Page: Part One", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nTed wants to rub his new building in the face of an old professor, Barney is the victim of a lengthy jinx, Marshall and Lily run into an annoying old acquaintance, and Robin gets an opportunity to fire Patrice.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "17 Dec. 2012", 
+            "episodeName": "The Final Page: Part Two", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWill Ted go to the opening of his new building with Robin as his date, or will he break his promise to Barney and tell her that Barney is proposing to Patrice? Meanwhile, Marshall and Lily have big plans for a rare night out.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "14 Jan. 2013", 
+            "episodeName": "Band or DJ?", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nRobin's dad denies Barney permission to marry his daughter, Marshall and Lily deal with Marvin's constipation, and why is Ted so dead-set against hiring a band for Barney and Robin's wedding?    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "21 Jan. 2013", 
+            "episodeName": "Ring Up!", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nBarney convinces Ted to sleep with a 20 year old until Barney learns her identity, Robin discovers that her engagement ring makes her invisible, and a leather cuff improves Marshall and Lily's love life.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "4 Feb. 2013", 
+            "episodeName": "P.S. I Love You", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nRobin's past as a Canadian pop star is revisited when Barney uncovers the lost episode of a music documentary series in which she was featured as Robin Sparkles. Marshall and Lily have some concerns about Ted's latest girlfriend.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "11 Feb. 2013", 
+            "episodeName": "Bad Crazy", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nTed's attempt to break up with his crazy new girlfriend does not go as planned, and Robin's fear of holding Marvin leads to an adventure with Mike Tyson.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "18 Feb. 2013", 
+            "episodeName": "The Ashtray", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhen Ted receives an unexpected call from The Captain, the gang reminisced about their last awkward encounter with him.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "25 Feb. 2013", 
+            "episodeName": "Weekend at Barney's", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nBarney is forced to break out \"The Playbook\" one final time to keep Ted from getting back together with Jeanette and taking her to his wedding, and Marshall embarrasses Lily at an art exhibition.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "18 Mar. 2013", 
+            "episodeName": "The Fortress", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nIt's weeks before Barney and Robin's wedding, and one of the many things they still have to decide is where to live. The one thing Robin insists is that they don't live at Barney's apartment. So it goes on the market. However, Barney doesn't want to sell it to just anyone, but someone who is worthy of what was and will always be in his heart his \"Fortress of Barnitude\". Robin has a slightly different idea, which isn't as easy to achieve as she would like when she and others learn more and more about with what Barney has equipped his apartment. Meanwhile, Lily hasn't ...    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "25 Mar. 2013", 
+            "episodeName": "The Time Travelers", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nTed and Barney run into their future selves as they debate whether to go to \"Wrestlers vs. Robots,\" while Robin and Marshall argue over who gets credit for a new drink at McLaren's.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "15 Apr. 2013", 
+            "episodeName": "Romeward Bound", 
+            "episodeNumber": 21, 
+            "episodePlot": "\n\"The Captain\" offers Lily a job in Rome, but will she take it? Meanwhile, Ted won't stop raving about the body of Barney and Robin's wedding planner.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "29 Apr. 2013", 
+            "episodeName": "The Bro Mitzvah", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nTed and Marshall turn Barney's bachelor party into the worst night of his life, or is that exactly what they want him to believe?    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "6 May 2013", 
+            "episodeName": "Something Old", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nRobin searches for a locket that she buried in Central Park for her wedding, Ted helps Marshall and Lily pack for Italy, and Barney plays laser tag with his future father in law.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "13 May 2013", 
+            "episodeName": "Something New", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nAs the wedding approaches, Barney and Robin deliberately ruin an obnoxious couple's evening, Marshall and Lily's plans for Italy hit a snag and Ted tells Lily that he's moving to Chicago.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "23 Sep. 2013", 
+            "episodeName": "The Locket", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nLily meets an interesting person on the train to Farhampton, Marshall gets kicked off his flight to New York, Barney and Robin discover that they might be related, and Ted prepares to deliver a personal gift to Robin.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "23 Sep. 2013", 
+            "episodeName": "Coming Back", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nMarshall is forced to rent a car to get to New York, causing Lily to start drinking and accidentally reveal to Barney some bad news about his brother's marriage.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "30 Sep. 2013", 
+            "episodeName": "Last Time in New York", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nBarney and Robin try to have sex before the elderly wedding guests arrive, Ted reveals a list to Lily of things to do before he leaves New York, and Marshall has problems traveling through Packer Country.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "7 Oct. 2013", 
+            "episodeName": "The Broken Code", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nBarney gives Ted's Best Man duties to The Karate Kid's William Zabka over the incident at the carousel, and Lily gives Robin a lousy bridal party.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "14 Oct. 2013", 
+            "episodeName": "The Poker Game", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nBarney is upset after Robin wins James's wedding ring during the poker game, and Ted argues with Marshall and Lily over whether he gave them a wedding gift.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "21 Oct. 2013", 
+            "episodeName": "Knight Vision", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen Ted finds himself with three prospects to be his date for the wedding weekend, he chooses poorly. Meanwhile, Barney and Robin have a confrontation with their minister, and Marshall learns more about his driving companion, Daphne.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "28 Oct. 2013", 
+            "episodeName": "No Questions Asked", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen Daphne sends a troubling text message to Lily, Marshall enlists the gang's help to remove the message while enforcing the \"No Questions Asked\" rule.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "4 Nov. 2013", 
+            "episodeName": "The Lighthouse", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhen Robin and Loretta's conflict escalates, Barney is caught in the middle. Meanwhile, Marshall and Daphne deal with a stowaway on their road trip, and Ted and Cassie try to enjoy a trip to a lighthouse.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "11 Nov. 2013", 
+            "episodeName": "Platonish", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAfter Robin finds out her mother isn't coming to the wedding, the group recalls a fateful night six months ago when Barney accepted the \"challenge\" of a lifetime, and Ted made a decision about his pursuit of Robin.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "18 Nov. 2013", 
+            "episodeName": "Mom and Dad", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBarney and James fight over which one of their fathers will get back together with their mom, Ted becomes a victim of \"Zabkatage,\" and Daphne becomes inexplicably upset with Marshall.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "25 Nov. 2013", 
+            "episodeName": "Bedtime Stories", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nOn the bus to Farhampton, Marshall tells Marvin bedtime stories about Ted, Robin and Barney in rhyme.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "2 Dec. 2013", 
+            "episodeName": "The Rehearsal Dinner", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nBarney becomes fixated on having his rehearsal dinner at a laser tag arena, much to Robin's dismay. Meanwhile, Ted doesn't come through on a promise, which aggravates Lily.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "16 Dec. 2013", 
+            "episodeName": "Bass Player Wanted", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe gang encounters a guy at the wedding who intentionally stirs up trouble among them, and Marshall finally arrives at the Farhampton Inn.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "13 Jan. 2014", 
+            "episodeName": "Slapsgiving 3: Slappointment in Slapmarra", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nIn an attempt to deliver a devastating final slap to Barney, Marshall explains how he mastered the Slap of A Million Exploding Suns.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "20 Jan. 2014", 
+            "episodeName": "Unpause", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nRobin and Ted take advantage of Barney when he becomes \"truth serum drunk,\" and Marshall does everything he can to remain in \"pause\" with Lily and avoid their fight.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "27 Jan. 2014", 
+            "episodeName": "How Your Mother Met Me", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe story of The Mother, from her traumatic 21st birthday to a number of close calls with meeting Ted to the night before Barney and Robin's wedding.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "3 Feb. 2014", 
+            "episodeName": "Sunrise", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhile out looking for Barney on the day of the wedding, Robin and Ted reminisce about past relationships. Meanwhile, Marshall and Lily finally resolve their issues and Barney befriends two young guys eager to meet women.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "24 Feb. 2014", 
+            "episodeName": "Rally", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nOn their wedding day, Barney has a massive hangover. The gang tries to help him get over the hangover by finding the correct ingredients.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "3 Mar. 2014", 
+            "episodeName": "Vesuvius", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nLily is concerned that Robin is not acting appropriately on her wedding day, Ted helps Barney pick his wedding suit, and the gang watch an embarrassing movie based on Ted's life.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "10 Mar. 2014", 
+            "episodeName": "Daisy", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe guys try to figure out where Lily went after her fight with Marshall and why. Meanwhile, after a talk with her mother, Robin is concerned that she is marrying her father.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "17 Mar. 2014", 
+            "episodeName": "Gary Blauman", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nTed wants to get a wedding guest he especially despises to leave, but Lily wants him to stay because she likes him.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "24 Mar. 2014", 
+            "episodeName": "The End of the Aisle", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nWith only half an hour to go, both Barney and Robin have panic attacks about their upcoming nuptials. Meanwhile, Marshall and Lily rewrite their old wedding vows.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "31 Mar. 2014", 
+            "episodeName": "Last Forever: Part One", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nAfter Barney and Robin's wedding, Ted builds up the courage to approach \"the mother\" at the train station. Meanwhile, three years after the wedding, Barney and Robin drop a bombshell on the group.    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "31 Mar. 2014", 
+            "episodeName": "Last Forever: Part Two", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nAs the years go on, changes cause the group to drift apart, but they reunite one more time for Ted's wedding. Meanwhile, a monumental event causes Barney to finally change his ways.    ", 
+            "seasonNumber": 9
+        }
+    ], 
+    "name": "How I Met Your Mother", 
+    "plot": "A father recounts to his children, through a series of flashbacks, the journey he and his four best friends took leading up to him meeting their mother.", 
+    "rating": 8.4, 
+    "releaseDate": "19 September 2005", 
+    "type": "tvserie"
+}

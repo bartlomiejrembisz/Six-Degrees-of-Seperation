@@ -1,0 +1,43 @@
+{
+    "actorList": [
+        "Bruce Campbell", 
+        "Ellen Sandweiss", 
+        "Richard DeManincor", 
+        "Betsy Baker", 
+        "Theresa Tilly", 
+        "Philip A. Gillis", 
+        "Dorothy Tapert", 
+        "Cheryl Guttridge", 
+        "Barbara Carey", 
+        "David Horton", 
+        "Wendall Thomas", 
+        "Don Long", 
+        "Stu Smith", 
+        "Kurt Rauf", 
+        "Ted Raimi", 
+        "Ivan Raimi", 
+        "Bill Vincent", 
+        "Mary Beth Tapert", 
+        "Scott Spiegel", 
+        "John Cameron", 
+        "Joanne Kruse", 
+        "Gwen Cochanski", 
+        "Debie Jarczewski", 
+        "Josh Becker", 
+        "Bob Dorian", 
+        "Sam Raimi", 
+        "Tom Sullivan", 
+        "Rob Tapert"
+    ], 
+    "director": [
+        "Sam Raimi"
+    ], 
+    "genres": [
+        "Horror"
+    ], 
+    "name": "The Evil Dead", 
+    "plot": "Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.", 
+    "rating": 7.5, 
+    "releaseDate": "15 October 1981 (Detroit, Michigan)\n (premiere)", 
+    "type": "movie"
+}

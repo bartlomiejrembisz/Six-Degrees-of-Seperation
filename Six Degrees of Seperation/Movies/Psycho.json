@@ -1,0 +1,53 @@
+{
+    "actorList": [
+        "Anthony Perkins", 
+        "Vera Miles", 
+        "John Gavin", 
+        "Janet Leigh", 
+        "Martin Balsam", 
+        "John McIntire", 
+        "Simon Oakland", 
+        "Frank Albertson", 
+        "Patricia Hitchcock", 
+        "Vaughn Taylor", 
+        "Lurene Tuttle", 
+        "John Anderson", 
+        "Mort Mills", 
+        "Fletcher Allen", 
+        "Walter Bacon", 
+        "Prudence Beers", 
+        "Kit Carson", 
+        "Francis De Sales", 
+        "George Dockstader", 
+        "George Eldredge", 
+        "Harper Flaherty", 
+        "Sam Flint", 
+        "Virginia Gregg", 
+        "Alfred Hitchcock", 
+        "Paul Jasmin", 
+        "Lee Kass", 
+        "Frank Killmond", 
+        "Ted Knight", 
+        "Pat McCaffrie", 
+        "Hans Moebus", 
+        "Jeanette Nolan", 
+        "Lillian O'Malley", 
+        "Robert Osborne", 
+        "Don Ross", 
+        "Fred Scheiwiller", 
+        "Helen Wallace"
+    ], 
+    "director": [
+        "Alfred Hitchcock"
+    ], 
+    "genres": [
+        "Horror", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "Psycho", 
+    "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.", 
+    "rating": 8.5, 
+    "releaseDate": "16 June 1960 (New York City, New York)\n (premiere)", 
+    "type": "movie"
+}

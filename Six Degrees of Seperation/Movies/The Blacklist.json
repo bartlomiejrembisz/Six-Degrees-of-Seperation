@@ -1,0 +1,664 @@
+{
+    "actorList": [
+        "James Spader", 
+        "Megan Boone", 
+        "Diego Klattenhoff", 
+        "Harry Lennix", 
+        "Hisham Tawfiq", 
+        "Amir Arison", 
+        "Ryan Eggold", 
+        "Mozhan Marn\u00f2"
+    ], 
+    "director": [
+        "Michael W. Watkins", 
+        "Andrew McCarthy", 
+        "Steven A. Adelson", 
+        "Karen Gaviola", 
+        "Donald E. Thorin Jr.", 
+        "Bill Roe", 
+        "Joe Carnahan", 
+        "John Terlesky", 
+        "Vincent Misiano", 
+        "David Platt", 
+        "Paul A. Edwards", 
+        "Michael Zinberg", 
+        "Terrence O'Hara", 
+        "Alex Zakrzewski"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "23 Sep. 2013", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nEx-government agent and one of the FBI's Most Wanted fugitives, Raymond \"Red\" Reddington (James Spader) mysteriously turns himself in to the FBI and offers to give up everyone he has ever worked with including a long-thought-dead terrorist but under one condition - he'll only talk to newly-minted female FBI profiler, Elizabeth Keen (Megan Boone) with whom he seemingly has no connection. For Liz, it's going to be one hell of a first day on the job and what follows is a twisting series of events as the race to stop a terrorist begins.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Sep. 2013", 
+            "episodeName": "The Freelancer (No. 145)", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nRed predicts an impending catastrophe rooted by the work of an assassin called \"The Freelancer.\" Together Liz and Red go undercover to prevent his next target, Floriana Campo, from being killed. Elsewhere, Ressler and newly re-hired CIA agent, Meera Malik, who's been added to Red's private security detail, keep an eye on them from a distance. Meanwhile Liz considers what she should do next concerning Tom and the mysterious box she found hidden under the floorboards.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Oct. 2013", 
+            "episodeName": "Wujing (No. 84)", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nRed (James Spader) takes Liz (Megan Boone) on an undercover assignment to bring down a freelance Chinese spy who's targeting CIA agents.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Oct. 2013", 
+            "episodeName": "The Stewmaker (No. 161)", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhen a witness in the murder trial of a ruthless cartel boss disappears, Red (James Spader) leads Liz (Megan Boone) and Ressler (Diego Klattenhoff) on a search for the Blacklist's No. 161, a gruesome hit man known as the Stewmaker.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Oct. 2013", 
+            "episodeName": "The Courier (No. 85)", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nRed (James Spader) leads Liz (Megan Boone) and Ressler (Diego Klattenhoff) in a hunt for a kidnap victim and his abductor - The Blacklist No. 85, a secretive criminal courier whose inability to feel pain makes him impossible to stop. Liz uncovers evidence linking Tom (Ryan Eggold) to a Russian defector's unsolved murder.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Oct. 2013", 
+            "episodeName": "Gina Zanetakos (No. 152)", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAfter Tom confronts Liz about the box - he claims he's innocent and insists that they turn it into the FBI so his name can be cleared. Elsewhere, Red informs Liz and the FBI that the next name on the Blacklist is beautiful and deadly corporate terrorist, Gina Zanetakos.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Nov. 2013", 
+            "episodeName": "Frederick Barnes (No. 47)", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nRed (James Spader) leads Liz (Megan Boone) in the search for a deranged chemical weapons expert who unleashed a rare but fatal disease in the Washington, DC subway.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Nov. 2013", 
+            "episodeName": "General Ludd (No. 109)", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nRed (James Spader) demands a deal from Cooper (Harry Lennix) before he'll agree to stop an anti-capitalist terrorist network's next deadly attack, while her dad's failing health reveals secrets in Liz's (Megan Boone) past.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Nov. 2013", 
+            "episodeName": "Anslo Garrick (No. 16)", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe Team's Headquarters (Post Office Black Site) is attacked in an effort to assassinate Red (James Spader).    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Dec. 2013", 
+            "episodeName": "Anslo Garrick (No. 16): Conclusion", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nRed is kidnapped by terrorist Anslo Garrick. Will Elizabeth find him? What other secrets will be unveiled?    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Jan. 2014", 
+            "episodeName": "The Good Samaritan (No. 106)", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA serial killer from Liz's past strikes again while Red hunts for his betrayer.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Jan. 2014", 
+            "episodeName": "The Alchemist (No. 101)", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAs Red (James Spader) enlists activist whistleblowers in his search for the mole, Liz (Megan Boone) pursues a deranged scientist who's helped dozens of criminals escape by engineering and killing their genetic doubles.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Jan. 2014", 
+            "episodeName": "The Cyprus Agency (No. 64)", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs Liz (Megan Boone) heads up an investigation that exposes an adoption agency's shocking secret, Red's (James Spader) pursuit of the FBI mole identifies a surprising new suspect.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Feb. 2014", 
+            "episodeName": "Madeline Pratt (No. 73)", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nLiz helps Tom adjust to the impending adoption; Red reveals a woman from his past is a target; Red convinces Liz to pull off a heist at the Syrian Embassy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Mar. 2014", 
+            "episodeName": "The Judge (No. 57)", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nRed investigates Jolene's life; Liz and Ressler go after a criminal known as The Judge, who incarcerates the ones that put innocent men away.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2014", 
+            "episodeName": "Mako Tanida (No. 83)", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nTom struggles to keep his secret safe. Ressler goes after the man who's taking down his old team one by one, Mako Tanida.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Mar. 2014", 
+            "episodeName": "Ivan (No. 88)", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nLiz investigates the disappearance of Jolene. The team hunts a young boy posing as Ivan, the infamous hacker.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2014", 
+            "episodeName": "Milton Bobbit (No. 135)", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nNow aware that Tom is not whom he pretends to be, Liz uses a case to distract the team as she investigates her husband's true intentions.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2014", 
+            "episodeName": "The Pavlovich Brothers (No. 119-122)", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nThe Pavlovich brothers specialize in abductions of high value targets and according to Red, they are planning their next hit. While the team tries to protect the next target, Red has a job of his own for the Pavlovich Brothers. Elsewhere, Liz patiently tries to uncover the truth about Tom.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Apr. 2014", 
+            "episodeName": "The Kingmaker (No. 42)", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nAfter a politician in Prague is framed for a murder, Red suspects it's the work of The Kingmaker - a strategist behind the rise of some of the world's most powerful politicians. While Red helps Liz and the FBI catch him, Liz uncovers a secret that Red's been keeping from her.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 May 2014", 
+            "episodeName": "Berlin (No. 8)", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nLiz refuses to work with Red after discovering the truth about the death of her father. Seeking to make amends and force Liz to see him, Red brings the FBI a case they can't ignore. Meanwhile, Liz reveals what she knows about Tom's secret life to the FBI.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 May 2014", 
+            "episodeName": "Berlin (No. 8): Conclusion", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nWith the crashing of the mysterious prisoner transport plane, the city is on lock down as the authorities are on the hunt for all the escapees. Meanwhile, with Red in custody, Liz uses her power to get him out since he is their best chance at finding all the suspects. Elsewhere, their main objective is to track down Berlin, a prisoner on the plane who is somehow involved.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Sep. 2014", 
+            "episodeName": "Lord Baltimore (No. 104)", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nRed continues to battle Berlin and faces a new threat from a man named Lord Baltimore. An important person comes back from the past into Red's world. Meanwhile, Liz tries to move forward with her life after her showdown with Tom.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Sep. 2014", 
+            "episodeName": "Monarch Douglas Bank (No. 112)", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhen the Monarch Douglas Bank is robbed, Red seizes the opportunity to try and take the money-laundering bank down. Liz questions Red's intentions as she investigates the crime. Meanwhile, a new member joins Cooper's taskforce after impressing everyone on the team.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Oct. 2014", 
+            "episodeName": "Dr. James Covington (No. 89)", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen a man is found with his heart cut out, Agents Keen and Ressler team up with agent Samar Navabi to uncover the intricacies of Dr. Covington's black-market operation. Meanwhile, Red and his associate try to capitalize on a new opportunity in Indonesia, leaving Reddington in a vulnerable position.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Oct. 2014", 
+            "episodeName": "Dr. Linus Creel (No. 82)", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAfter a series of seemingly nonviolent citizens become killers, Red tips off Liz that a dangerous social-psychological experiment may be underway. Elsewhere, Red tries to convince Naomi and her husband into accepting a complicated proposition.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Oct. 2014", 
+            "episodeName": "The Front (No. 74)", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAgents Keen, Ressler and Cooper pursue an eco-terrorist cell in search of a destructive weapon. Meanwhile, Liz tries to lose her guardian. Elsewhere, Red uses manipulation to pursue someone close to his heart.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Oct. 2014", 
+            "episodeName": "The Mombasa Cartel (No. 114)", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen a mutilated corpse washes ashore, Agent Liz Keen consults Red over what he knows about the deadly underworld of wildlife poachers. Meanwhile Agent Donald Ressler develops a dangerous habit.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Nov. 2014", 
+            "episodeName": "The Scimitar (No. 22)", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen an Iranian nuclear scientist is suspiciously assassinated, a revenge ploy begins against a valued American. Red informs agents Keen and Navabi that a dangerously conniving hitman \"The Scimitar\" has been sent to the job. Liz and Ressler find themselves in a tricky predicament as they investigate a surveillance lead. Agent Keen attempts to gather information on Berlin, while Red finds company with a woman working at a food truck.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Nov. 2014", 
+            "episodeName": "The Decembrist (No. 12)", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nLiz struggles to keep her secret from unraveling.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Feb. 2015", 
+            "episodeName": "Luther Braxton (No. 21)", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe task force tries to save Red when he's arrested and taken to a secret detention facility. At the facility, Red tangles with a thief with whom he shared a complicated history.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Feb. 2015", 
+            "episodeName": "Luther Braxton (No. 21): Conclusion", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFBI boss Cooper tries to rescue his team in the wake of chaos at a detention facility. Elsewhere, thief Luther Braxton attempts to attain confidential information.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Feb. 2015", 
+            "episodeName": "Ruslan Denisov (No. 67)", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe task force must rescue an undercover CIA agent who was kidnapped by separatists in Uzbekistan; Red thinks they are up against a dangerous past associate known as Ruslan Denisov.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Feb. 2015", 
+            "episodeName": "The Kenyon Family (No. 71)", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhen Red tips Liz off on the disappearance of Justin Kenyon, a polygamous cult leader with dangerous shipping containers buried on his property, the task force sets out to investigate. Meanwhile, Red utilizes his sources to appease Fitch's last words and travels to track down his hidden safe.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Feb. 2015", 
+            "episodeName": "The Deer Hunter (No. 93)", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhen Liz learns of a serial killer known as \"The Deer Hunter\" who tracks his victims down like prey, Red helps the task force search for the killer. Meanwhile, the local DC police suspect the city Harbormaster was murdered as Liz struggles to keep her secret from unraveling.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Mar. 2015", 
+            "episodeName": "T. Earl King VI (No. 94)", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nA former paramour involves Reddington in a deadly game with a wealthy and powerful family dynasty whose ill-begotten fortune was amassed from an underground auction of human and material contraband. Meanwhile, Tom takes on a new mission.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Mar. 2015", 
+            "episodeName": "The Major (No. 75)", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhen Agent Keen is questioned in court as a suspect in the murder of the DC Harbormaster, her unusual relationship with Red and their task force falls under scrutiny. Meanwhile, Red enlists Cooper and Ressler to locate \"The Major\", a dangerous former associate who is key in keeping Liz out of prison.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Mar. 2015", 
+            "episodeName": "Tom Keen (No. 7)", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAs evidence mounts against Liz in the case of the murdered DC Harbormaster, a federal judge makes it clear to her that she will face severe criminal charges. Reddington and Ressler jump into high gear to exonerate Liz but the only solution is to find the recently vanished Tom Keen - wherever he may be operating in the world.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Mar. 2015", 
+            "episodeName": "The Longevity Initiative (No. 97)", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe task force tracks a scientist who abducts disabled patients to conduct experiments on immortality. Now back in Washington, DC, Tom scrambles to save himself from new enemies.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Apr. 2015", 
+            "episodeName": "Vanessa Cruz (No. 117)", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe task force tracks a provocative female Blacklister (guest star Ana de la Reguera), a frame-up artist who targets the wealthy elite. Tom (Ryan Eggold) pleads for Liz's (Megan Boone) help. Red (James Spader) pressures Liz for the Fulcrum, claiming it's now a matter of life and death.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Apr. 2015", 
+            "episodeName": "Leonard Caul (No. 62)", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAs Red fights for his life, he pleads with Liz to track down a key figure from his past with knowledge of the Fulcrum.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Apr. 2015", 
+            "episodeName": "Quon Zhang (No. 87)", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nAfter decoding the information embedded in the Fulcrum, Red is determined to stop the imminent threat. Meanwhile, the task force discovers that deceased bodies of Chinese-American women are being smuggled out of the country under false identities. Liz continues to search for answers about her past after discovering a picture hidden in Red's secret flat.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 May 2015", 
+            "episodeName": "Karakurt (No. 55)", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nFollowing intel from Red, the FBI find themselves one-step behind the most dangerous Russian Assassin, Karakurt, an enemy on U.S. soil. To avoid catastrophe, Liz and Ressler meet with Russian Counter-Intelligence who offer insight not only on Karakurt, but also on the identity of Liz's mother. Cooper finds himself in a compromising position.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 May 2015", 
+            "episodeName": "Tom Connolly (No. 11)", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nLiz discovers she's been framed by The Cabal, prompting Red to tap into his connections to clear her name. Also: Cooper receives stunning news; and the task force is plagued by trust issues.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Oct. 2015", 
+            "episodeName": "The Troll Farmer (No. 38)", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAgent Keen and Red are on the run from the FBI, while Dembe receives contact that will jeopardise his future.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Oct. 2015", 
+            "episodeName": "Marvin Gerard (No. 80)", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAs Liz pleads for her safety in the Russian Embassy, Red discovers a new plan devised by the Cabal to kill her. A familiar face reaches out to Ressler.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Oct. 2015", 
+            "episodeName": "Eli Matchett (No. 72)", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDembe continues at Solomon's mercy. Red and Keen head to Iowa to investigate a corporation connected to the Cabal, with Ressler and Navabi on their tail. Cooper and Tom join forces.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Oct. 2015", 
+            "episodeName": "The Djinn (No. 43)", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nRed enlists a task force to locate the Djinn, an enigmatic woman who fulfills revenge fantasies. Red and Liz believe the Djinn can lead them to the Cabal and help them exonerate Liz.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Oct. 2015", 
+            "episodeName": "Arioch Cain (No. 50)", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nRed and the FBI come together to protect Liz when a huge reward for her capture attracts attention from assassins.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Nov. 2015", 
+            "episodeName": "Sir Crispin Crandall (No. 86)", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nRed and Liz catch wind that Andras Halmi, a trusted advisor of The Director, has gone missing. In pursuit of Halmi, Red and Liz narrowly escape a violent confrontation. Meanwhile, Tom ends up in a brutal \"Fight Club\" to find the one man he thinks will be able to exonerate Liz.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Nov. 2015", 
+            "episodeName": "Zal Bin Hasaan (No. 31)", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nA family tragedy in Samar's past resurfaces when the Task Force hunt for an elusive international terrorist. The FBI and the Cabal gain significant ground in their search for Liz and Red. Meanwhile, Tom encounters complications in his plan to exonerate Liz.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Nov. 2015", 
+            "episodeName": "Kings of the Highway (No. 108)", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nRed and Liz are separated when Red falls into a perilous situation. Elsewhere, Samar makes a risky choice to help Liz, and Tom and Cooper continue their quest to exonerate Liz.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Jan. 2016", 
+            "episodeName": "The Director (No. 24)", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhile Red creates a crime scene to retrieve his care package, friends of the truth rally around Liz, whose life is in danger now that she's in custody.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Jan. 2016", 
+            "episodeName": "The Director (No. 24): Conclusion", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs the Cabal prepares to assassinate Liz, Red calls upon the task force to combine efforts to outmaneuver The Cabal to exonerate her. Red delivers a final ultimatum.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Jan. 2016", 
+            "episodeName": "Mr. Gregory Devry (No. 95)", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWith her name finally cleared, Liz attempts to reclaim her former life. Red works with the task force to infiltrate an assembly of high-level criminals at large in a rare, risky opportunity to capture the heads of the world's most lethal organized crime syndicates.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Jan. 2016", 
+            "episodeName": "The Vehm (No. 132)", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA rare medieval device is used in a murder, prompting Red to warn the task force that a lethal vigilante group from the Middle Ages is now in operation. Meanwhile, Liz receives startling news and cautiously plans her next move.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Feb. 2016", 
+            "episodeName": "Alistair Pitt (No. 103)", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nRed and Liz work with the taskforce to stop a negotiator who has resurfaced to unite two rival crime families. Tom reconnects with a former flame.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Feb. 2016", 
+            "episodeName": "Lady Ambrosia (No. 77)", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nA child who had been missing and presumed dead reappears, prompting Red and Liz to hunt down a woman who is known to abduct children; Tom puts himself in a consequential position after aiding Gina.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Feb. 2016", 
+            "episodeName": "Drexel (No. 113)", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe owner of a tech startup is murdered in his own home by a man known only as \"Drexel\". He takes his time staging the body. Meanwhile Tom is rushed to hospital after sustaining two bullet wounds following the jewelry heist.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Feb. 2016", 
+            "episodeName": "The Caretaker (No. 78)", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA State Department official is killed in Beijing, leading Red and Liz to \"The Caretaker,\" a shadowy keeper who maintains a safety-deposit vault for criminals. Also, Tom makes a risky decision, and Liz continues her quest to learn more about her mother.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Apr. 2016", 
+            "episodeName": "Mr. Solomon (No. 32)", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nAfter Red learns that a tactical nuclear weapon is being targeted by thieves, it's a race against the clock as the task force struggles to stop them - and prevent an imminent nuclear disaster. Meanwhile, Tom and Liz make a decision that will change their relationship forever.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Apr. 2016", 
+            "episodeName": "Mr. Solomon (No. 32): Conclusion", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nSolomon is still after Elizabeth Keen and she is running against the clock to have her baby. An unexpected turn of events will happen to change everything.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2016", 
+            "episodeName": "Cape May", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nA mysterious beauty on the run from unknown assailants accidentally crosses paths with Reddington and enlists his help to fight back against her attackers.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Apr. 2016", 
+            "episodeName": "The Artax Network (No. 41)", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nAfter an unexpected loss devastates the FBI task force, they must track down their assailants; a mysterious group whose agents operate using a worldwide satellite network. Meanwhile, Reddington is forced to confront a ghost from his past -- one who knows many of Red's secrets.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 May 2016", 
+            "episodeName": "Susan Hargrave (No. 18)", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nWhen Reddington links an elegant, powerful and extremely dangerous Romanian woman to the recent tragic events, the task force is forced to play a deadly cat and mouse game to stop her before she strikes again.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 May 2016", 
+            "episodeName": "Alexander Kirk (No. 14)", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe FBI task force's hunt for revenge nears its endgame. As Reddington and the team close in on the mysterious arch-criminal responsible for recent tragic events, they're forced to operate outside their comfort zone - and outside the law - in order to take down their enemy once and for all.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 May 2016", 
+            "episodeName": "Alexander Kirk (No. 14): Conclusion", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nAs Reddington and the task force close in on the person responsible for Liz's death, a shocking betrayal leaves them racing to save one of their own.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Sep. 2016", 
+            "episodeName": "Esteban (No. 79)", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nLiz is abducted by a man claiming to be her father, prompting Red's desperate efforts to find her.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Sep. 2016", 
+            "episodeName": "Mato (No. 66)", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nRed enlists Tom and the Task Force to help track a notorious bounty hunter who may know Alexander Kirk's next move. Meanwhile, Liz struggles to decide if Kirk is trustworthy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Oct. 2016", 
+            "episodeName": "Miles McGrath (No. 65)", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nRed and the Task Force take extreme measures to hunt down one of Alexander Kirk's allies, Miles McGrath, a \"criminal incubator\" who finances crimes for profit. Meanwhile, Liz learns more about her family.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Oct. 2016", 
+            "episodeName": "Gaia (No. 81)", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAs Red sets Liz and the Task Force on the trail of an eco-terrorist with a mysterious connection to Alexander Kirk, Tom takes matters into his own hands.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Oct. 2016", 
+            "episodeName": "The Lindquist Concern (No. 105)", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nLiz's loyalties are tested as Red takes action on an operation to intercept Alexander Kirk. Meanwhile the Task Force races to find a killer who targets inventors of revolutionary technology.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Oct. 2016", 
+            "episodeName": "The Thrushes (No. 53)", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen Alexander Kirk contracts a mysterious group that specializes in hacking the world's most secure computer systems, Red and Liz see an opportunity to make a move on Kirk's organization.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Nov. 2016", 
+            "episodeName": "Dr. Adrian Shaw (No. 98)", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nRed directs the Task Force to track down an individual who provides new identities to criminals on the run. Meanwhile, as Alexander Kirk's medical condition worsens, Liz seeks guidance from Cooper on a crucial decision.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Nov. 2016", 
+            "episodeName": "Dr. Adrian Shaw (No. 98): Conclusion", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nRed pressures Dr. Shaw to locate a former patient. Liz contemplates the implications of her ties to an increasingly desperate and dangerous Alexander Kirk. Mr. Kaplan comes to a critical realization about her future.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 Jan. 2017", 
+            "episodeName": "Lipet's Seafood Company (No. 111)", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThere is a mole in the task force who spy Liz and Red, but the question is who is that mole ?    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Jan. 2017", 
+            "episodeName": "The Forecaster (No. 163)", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA new case arrives at Liz's doorstep, where someone has left a diorama depicting a crime soon to be committed. Meanwhile, Red explores a new business opportunity.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 Jan. 2017", 
+            "episodeName": "The Harem (No. 102)", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nLiz infiltrates an elite gang of female thieves as they prepare for their next heist, but she must first prove herself to the group's leader. Meanwhile, unexpected problems plague Red's operations, and Tom focuses on fatherly duties.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 Feb. 2017", 
+            "episodeName": "Natalie Luca (No. 184)", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe team tracks down a killer who imparts a fatal disease on her victims.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Feb. 2017", 
+            "episodeName": "Isabella Stone (No. 34)", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe task force targets a sophisticated criminal who's been aiming at Red's businesses. Meanwhile, Tom goes on the hunt for information about his past.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Feb. 2017", 
+            "episodeName": "The Architect (No. 107)", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAram goes undercover to find a criminal who makes crimes for a profit; Tom continues to look for details about his past; Red attempts to find the source of his compromised business operations.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Feb. 2017", 
+            "episodeName": "The Apothecary (No. 59)", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nRed has to figure out who betrayed him when he's poisoned; Liz and the task force look for the toxin's designer to save Red's life.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Apr. 2017", 
+            "episodeName": "Dembe Zuma (No. 10)", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAfter weeks of hunting for Dembe, Ruddington and the Task Force finally get a lead on his location when Aram goes missing. Meanwhile, Dembe takes a calculated risk as Reddington closes in.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Apr. 2017", 
+            "episodeName": "Requiem", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMemories of the past set Red (James Spader) on a dangerous collision course with an enemy determined to destroy his criminal empire.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Apr. 2017", 
+            "episodeName": "Philomena (No.61)", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe task force chases an artful bounty hunter employed to target Red's closest associates. Meanwhile, Ressler faces a moral dilemma while taking on a new assignment with a former colleague.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 May 2017", 
+            "episodeName": "Dr. Bogdan Krilov", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nRed sets the Task Force to trace a Blacklister with tools to manipulate memories, causing Liz to questions her own experience. With Gale intensifies his investigation, Ressler gets a new lead on a case.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 May 2017", 
+            "episodeName": "Episode #4.20", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nWhen Liz becomes the target of a mercenary, the Debt Collector, Red turns to an unlikely source for help. Meanwhile, Ressler faces a complication in his efforts to stay ahead of Gale's investigation.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 May 2017", 
+            "episodeName": "Mr. Kaplan", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nFacing a crippling siege on his organization, Red tracks a thief enlisted by Mr Kaplan for a mysterious assignment. Agent Gale takes extreme measures in his investigation into the conduct of his Task Force.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 May 2017", 
+            "episodeName": "Mr. Kaplan: Conclusion", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nRed sets a risky plan in motion to save the Task Force. With the future of the Task Force in jeopardy, Liz confronts the biggest questions about her past.    ", 
+            "seasonNumber": 4
+        }
+    ], 
+    "name": "The Blacklist", 
+    "plot": "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.", 
+    "rating": 8.1, 
+    "releaseDate": "23 September 2013", 
+    "type": "tvserie"
+}

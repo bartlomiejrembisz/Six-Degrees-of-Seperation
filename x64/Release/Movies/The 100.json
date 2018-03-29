@@ -1,0 +1,456 @@
+{
+    "actorList": [
+        "Eliza Taylor", 
+        "Paige Turco", 
+        "Bob Morley", 
+        "Marie Avgeropoulos", 
+        "Devon Bostick", 
+        "Christopher Larkin", 
+        "Isaiah Washington", 
+        "Henry Ian Cusick", 
+        "Lindsey Morgan", 
+        "Richard Harmon", 
+        "Ricky Whittle", 
+        "Jarod Joseph", 
+        "Chelsey Reist", 
+        "Sachin Sahel", 
+        "Adina Porter"
+    ], 
+    "director": [
+        "Dean White", 
+        "P.J. Pesce", 
+        "Ed Fraiman", 
+        "John F. Showalter", 
+        "Mairzee Almas", 
+        "Omar Madha", 
+        "Matt Barber", 
+        "Antonio Negret", 
+        "Uta Briesewitz", 
+        "Tim Scanlan"
+    ], 
+    "genres": [
+        "Drama", 
+        "Mystery", 
+        "Sci-Fi"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "19 Mar. 2014", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n97 years after a nuclear war, human kind is living in space. 100 juvenile delinquents are sent down to Earth to see if the planet is habitable.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Mar. 2014", 
+            "episodeName": "Earth Skills", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nDiscovering that Jasper may still be alive, Clarke, Bellamy, Finn, Wells and Murphy head out to find him. On the Ark, Abby is determined to prove Earth is habitable, and enlists a mechanic to craft an escape pod.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Apr. 2014", 
+            "episodeName": "Earth Kills", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAs a dangerous, acidic fog approaches, Clarke, Finn and Wells set out in search of a seaweed-like plant to make an antibiotic poultice for Jasper's wounds, while a vulnerable young girl follows when Bellamy takes a group out hunting for food.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Apr. 2014", 
+            "episodeName": "Murphy's Law", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nBellamy, Clarke and Finn try to protect Charlotte when everyone learns she killed Wells. On the Ark, Abby risks getting floated in order to give Raven the chance to launch the escape pod.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Apr. 2014", 
+            "episodeName": "Twilight's Last Gleaming", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA plan to contact the Ark is put in motion after Raven crash lands on Earth. Meanwhile, Abby exposes Kane's plan to reduce the population of the Ark.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Apr. 2014", 
+            "episodeName": "His Sister's Keeper", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nBellamy, Finn and Jasper head into Grounder territory to search for Octavia, as flashbacks show the siblings' difficult childhood on the Ark. Meanwhile, Raven finds out about Clarke and Finn.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Apr. 2014", 
+            "episodeName": "Contents Under Pressure", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhile Bellamy tortures the Grounder, Raven and Clarke make contact with the Ark and ask Abby to help them save Finn. On the Ark, Kane deals with his guilt, and Jaha surprises the council with a shocking revelation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 May 2014", 
+            "episodeName": "Day Trip", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nShumway secretly orders one of the 100 to kill Bellamy. Meanwhile, hallucinogenic nuts provide Octavia with an opportunity to help the Grounder escape the camp, and Bellamy and Clarke investigate a nearby underground depot, where they find military weapons.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 May 2014", 
+            "episodeName": "Unity Day", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nFinn arranges a meeting with Clarke and the leader of the Grounders in order to bring peace, however a sceptical Clarke warns Bellamy, who along with Jasper and Raven follow them to the meeting with weapons. On the Ark, Diana takes over the exodus ship.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 May 2014", 
+            "episodeName": "I Am Become Death", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMurphy returns to the camp carrying a horrific virus created by the Grounders to weaken the camp. After learning the Grounders plan to attack the next day, Bellamy, Finn and Raven come up with a plan to delay them.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 May 2014", 
+            "episodeName": "The Calm", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nClarke and Finn are captured by Anya, who forces them to save the life of a victim of the explosion. Meanwhile, Raven deals with her split from Finn, and Kane fights to save the Ark and it's survivors.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Jun. 2014", 
+            "episodeName": "We Are Grounders: Part 1", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nClarke and Finn come face to face with a new enemy after Lincoln rescues them from Anya, while Bellamy, Raven, Octavia and Jasper deal with a vengeful Murphy. On the Ark, Jaha makes a plan to try and get to Earth.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Jun. 2014", 
+            "episodeName": "We Are Grounders: Part 2", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs the remaining members of the 100 face off against the Grounders, Jaha makes a noble sacrifice to ensure the Ark makes it to Earth.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Oct. 2014", 
+            "episodeName": "The 48", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWhile Clarke struggles to make sense of her bizarre surroundings, Lincoln risks his life to save Octavia, and Kane establishes his authority.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Oct. 2014", 
+            "episodeName": "Inclement Weather", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nClarke demands answers from President Wallace, Abby performs emergency surgery on Raven, and Octavia resorts to violence to find Lincoln.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Nov. 2014", 
+            "episodeName": "Reapercussions", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nClarke and Anya join forces to escape Mount Weather. Kane issues an order to have Abby brutally punished. Octavia searches for Lincoln.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Nov. 2014", 
+            "episodeName": "Many Happy Returns", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAfter being betrayed by Anya, Clarke takes matters into her own hands. Meanwhile, Bellamy, Finn, Murphy, Sterling and Monroe race against time to save a survivor of the Ark crash, and Raven struggles to cope with her paralysis.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Nov. 2014", 
+            "episodeName": "Human Trials", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhile Kane leads a mission to make peace with the Grounders, Jasper agrees to participate in a risky experiment, and Finn's search for Clarke takes a violent turn.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Dec. 2014", 
+            "episodeName": "Fog of War", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTensions run high between Clarke and Finn, and Raven discovers that Mount Weather is interfering with Camp Jaha's communication systems. Meanwhile, Jasper and Monty discover the truth about what's going on at Mount Weather.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Dec. 2014", 
+            "episodeName": "Long Into an Abyss", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAs Abby and Jaha each try to establish their authority, Clarke comes up with a plan to stop the Grounders' attack. At Mount Weather, Jasper, Monty, Miller and Harper plan their escape, as Dr. Tsing and Cage conduct deadly experiments.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Dec. 2014", 
+            "episodeName": "Spacewalker", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nCamp Jaha butt heads over what to do with Finn, as flashbacks show his and Raven's relationship on the Ark.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Jan. 2015", 
+            "episodeName": "Remember Me", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe alliance between Camp Jaha and the Grounders is jeopardized when Gustus is poisoned. Meanwhile at Mount Weather, Monty lands himself in hot water.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Jan. 2015", 
+            "episodeName": "Survival of the Fittest", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nClarke and Lexa encounter a new enemy. Bellamy and Lincoln work together to break into Mount Weather. Murphy helps Jaha confront his past. Indra makes Octavia an offer she can't refuse.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Feb. 2015", 
+            "episodeName": "Coup de Gr\u00e2ce", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nBellamy receives help from an unlikely source after being captured. Meanwhile, Abby fights to stay in control, and Jasper confronts President Wallace.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Feb. 2015", 
+            "episodeName": "Rubicon", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nClarke is faced with a difficult choice and Raven helps Bellamy navigate Mount Weather as Dr. Tsing begins to harvest the 47, while Jaha and Murphy encounter a stranger on their journey to the City of Light.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Feb. 2015", 
+            "episodeName": "Resurrection", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nClarke begins to question Lexa's leadership decisions and Indra continues to push Octavia. Meanwhile, at Mount Weather, Jasper steps up into the role of leader, and Cage throws Maya into a life threatening situation.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Feb. 2015", 
+            "episodeName": "Bodyguard of Lies", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAs Jaha and Murphy encounter a perilous obstacle on their journey, Raven and Wick try to figure out how to disable the acid fog, and Bellamy races against time as his cover is blown.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Mar. 2015", 
+            "episodeName": "Blood Must Have Blood: Part 1", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAs the Grounder army prepare to attack Mount Weather, a desperate Cage turns to Dante for help, and Raven and Wick experience a major setback.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Mar. 2015", 
+            "episodeName": "Blood Must Have Blood: Part 2", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAfter being betrayed by Lexa, Clarke makes a final stand against Mount Weather, while Jaha shocks Murphy as they continue their journey to the City of Light.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Jan. 2016", 
+            "episodeName": "Wanheda: Part 1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter leaving Camp Arkadia due to her inability to accept her actions, Clarke sets out on her own, dealing with her emotions while encountering new challenges. Camp Arkadia begins to see political turmoil as the hunger for power mounts.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Jan. 2016", 
+            "episodeName": "Wanheda: Part 2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nBellamy and Kane put their lives on the line to rescue Clarke; Abby considers opening Mount Weather as a medical facility; Murphy schemes against Jaha.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Feb. 2016", 
+            "episodeName": "Ye Who Enter Here", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nNow with Clarke in her possession, Lexa has the power to force Skikru to become one with the grounders. Kane and Abby journey to the Polis Summit, while the Ice Nation prepares to draw first blood against Skikru and the other grounder clans.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Feb. 2016", 
+            "episodeName": "Watch the Thrones", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nClarke discovers the mastermind behind a devious plan, while Kane struggles to keep the peace. Meanwhile, Jasper's grief drives him to reckless behavior.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Feb. 2016", 
+            "episodeName": "Hakeldama", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nPike's twisted crusade threatens Clarke's attempts for peace. Raven becomes a target, while Murphy tries to conspire against Jaha.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Feb. 2016", 
+            "episodeName": "Bitter Harvest", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nClarke struggles with her morality while Abby grows suspicious of Jaha's motives.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Mar. 2016", 
+            "episodeName": "Thirteen", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAnger and lust for vengeance and justice from the clans threatens Lexa's position. Murphy unveils new secrets about the identity of Polis. Meanwhile, a dangerous coup brews against Clarke and Lexa and their trust for each other is tested.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Mar. 2016", 
+            "episodeName": "Terms and Conditions", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nKane tries to stop Pike, but he learns that he is onto him. Kane realizes that for him to ensure peace in Arkadia, he'll have to go through drastic measures.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "31 Mar. 2016", 
+            "episodeName": "Stealing Fire", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nBellamy tries to save Kane from Pike. Clarke and Murphy debate over what to do with Titus and the A.I. Bellamy confronts Octavia.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Apr. 2016", 
+            "episodeName": "Fallen", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nJaha employs a terrifying new method to convince Abby to join his cause, Kane is on a mission, and Bellamy is hit with a hard truth. Meanwhile, Monty finds himself in a precarious situation, and Jasper rushes to save one of his own.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Apr. 2016", 
+            "episodeName": "Nevermore", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nClarke and her friends try to save Raven from Alie's control. However, they realize that they will have to undergo dangerous procedures that may cost Raven's life.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Apr. 2016", 
+            "episodeName": "Demons", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAlie forces Raven's dark side to come out, Jasper's anger continues to grow. Meanwhile Octavia wrestles with her place in the world and Monty is forced to make a split second decision.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Apr. 2016", 
+            "episodeName": "Join or Die", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nClarke is on a mission that could change everything. Meanwhile Murphy gains insight that might prove useful in ensuring his survival. Lastly Kane reaches a breaking point.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 May 2016", 
+            "episodeName": "Red Sky at Morning", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nClarke, Bellamy, Octavia and Jasper hit a tragic roadblock. Meanwhile, Raven and Monty make an important discovery.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 May 2016", 
+            "episodeName": "Perverse Instantiation: Part One", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nClarke finds hope in a place she never expected. Alie's master plan begins to coalesce.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 May 2016", 
+            "episodeName": "Perverse Instantiation: Part Two", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nIn the second half of the two-part season finale, everyone prepares for a final showdown as they begin to face the reality of their tragic situation in the epic and mind-bending conclusion.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Feb. 2017", 
+            "episodeName": "Echoes", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn the aftermath of the chaos done by ALLIE, Clarke struggles with the decision over telling the world of the impending nuclear apocalypse. The Grounders struggle with each other and Echo uses the chaos as a chance to declare war on the Sky People.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Feb. 2017", 
+            "episodeName": "Heavy Lies the Crown", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe burden of leading weighs heavily upon Bellamy (Bob Morley) and Clarke (Eliza Taylor) when different challenges force them to determine who will live and die.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Feb. 2017", 
+            "episodeName": "The Four Horsemen", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJaha leads Clarke and Bellamy on a road to possible salvation, while tensions rise in Arkadia and Polis.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Feb. 2017", 
+            "episodeName": "A Lie Guarded", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nClarke's decision on who gets to live causes tension in Arcadia. Jasper loses his sanity when the Black Rain falls. Bellamy and his friends face judgement for their crimes against the Ice Nation.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Mar. 2017", 
+            "episodeName": "The Tinder Box", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nClarke pleads with a former allied force to avoid a war and ensure her people's survival.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Mar. 2017", 
+            "episodeName": "We Will Rise", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nClarke and Roan are forced to work together when they are tasked to deliver a dangerous but crucial asset to Abby through enemy territories.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Mar. 2017", 
+            "episodeName": "Gimme Shelter", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nClarke's arrival on the island quickly takes a turn for the worse. Meanwhile, Bellamy tries to avoid further tragedy in Arkadia.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Mar. 2017", 
+            "episodeName": "God Complex", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nClarke and Abby question how far they're willing to go when they make a disappointing discovery; Jaha finds a lead to the Second Dawn.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "26 Apr. 2017", 
+            "episodeName": "DNR", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nClarke struggles to keep the peace after word of Jaha's discovery spreads.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 May 2017", 
+            "episodeName": "Die All, Die Merrily", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nOctavia fights in the final battle for survival, but not everyone is willing to play fair.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 May 2017", 
+            "episodeName": "The Other Side", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 May 2017", 
+            "episodeName": "The Chosen", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nJaha and Kane disagree over how to handle their grim reality. Meanwhile, Clarke leads a group to save a friend.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 May 2017", 
+            "episodeName": "Episode #4.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #5.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }
+    ], 
+    "name": "The 100", 
+    "plot": "Set 97 years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends 100 juvenile delinquents back to Earth in hopes of possibly re-populating the planet.", 
+    "rating": 7.8, 
+    "releaseDate": "19 March 2014", 
+    "type": "tvserie"
+}

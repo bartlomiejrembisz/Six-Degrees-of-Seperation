@@ -1,0 +1,35 @@
+{
+    "actorList": [
+        "Mark Borchardt", 
+        "Tom Schimmels", 
+        "Monica Borchardt", 
+        "Alex Borchardt", 
+        "Chris Borchardt", 
+        "Ken Keen", 
+        "Mike Schank", 
+        "Matt Weisman", 
+        "Bill Borchardt", 
+        "Cliff Borchardt", 
+        "Tom Beach", 
+        "Joan Petrie", 
+        "Robert Richard Jorge", 
+        "Dean Allen", 
+        "Tommy Dallace", 
+        "Dawn Borchardt", 
+        "Miriam Frost", 
+        "Billy Crystal", 
+        "Louis Sather"
+    ], 
+    "director": [
+        "Chris Smith"
+    ], 
+    "genres": [
+        "Documentary", 
+        "Comedy"
+    ], 
+    "name": "American Movie", 
+    "plot": "Documentary about an aspiring filmmaker's attempts to finance his dream project by finally completing the low-budget horror film he abandoned years before.", 
+    "rating": 7.9, 
+    "releaseDate": "January 1999 (Sundance Film Festival)", 
+    "type": "movie"
+}

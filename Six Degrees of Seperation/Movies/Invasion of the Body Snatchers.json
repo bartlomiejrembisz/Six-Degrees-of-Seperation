@@ -1,0 +1,49 @@
+{
+    "actorList": [
+        "Donald Sutherland", 
+        "Brooke Adams", 
+        "Jeff Goldblum", 
+        "Veronica Cartwright", 
+        "Leonard Nimoy", 
+        "Art Hindle", 
+        "Lelia Goldoni", 
+        "Kevin McCarthy", 
+        "Don Siegel", 
+        "Tom Luddy", 
+        "Stan Ritchie", 
+        "David Fisher", 
+        "Tom Dahlgren", 
+        "Garry Goodrow", 
+        "Jerry Walter", 
+        "Maurice Argent", 
+        "Sam Conti", 
+        "Wood Moy", 
+        "R. Wong", 
+        "Rose Kaufman", 
+        "Joe Bellan", 
+        "Sam Hiona", 
+        "Lee McVeigh", 
+        "Al Nalbandian", 
+        "Lee Mines", 
+        "Misty", 
+        "Michael Chapman", 
+        "Robert Duvall", 
+        "Anthony Garibaldi", 
+        "Kevin Harris", 
+        "Philip Kaufman", 
+        "Al Perez", 
+        "Jeff Scheftel"
+    ], 
+    "director": [
+        "Philip Kaufman"
+    ], 
+    "genres": [
+        "Horror", 
+        "Sci-Fi"
+    ], 
+    "name": "Invasion of the Body Snatchers", 
+    "plot": "In San Francisco, a group of people discover the human race is being replaced one by one, with clones devoid of emotion.", 
+    "rating": 7.4, 
+    "releaseDate": "22 December 1978", 
+    "type": "movie"
+}

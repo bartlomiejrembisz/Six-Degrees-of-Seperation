@@ -1,0 +1,50 @@
+{
+    "actorList": [
+        "Rowan Atkinson", 
+        "Matthew Broderick", 
+        "Niketa Calame", 
+        "Jim Cummings", 
+        "Whoopi Goldberg", 
+        "Robert Guillaume", 
+        "Jeremy Irons", 
+        "James Earl Jones", 
+        "Moira Kelly", 
+        "Nathan Lane", 
+        "Zoe Leader", 
+        "Cheech Marin", 
+        "Ernie Sabella", 
+        "Madge Sinclair", 
+        "Jonathan Taylor Thomas", 
+        "Frank Welker", 
+        "Cathy Cavadini", 
+        "Judi M. Durand", 
+        "Daamen J. Krall", 
+        "David McCharen", 
+        "Mary Linda Phillips", 
+        "Phil Proctor", 
+        "David Randolph", 
+        "Jeff Bennett", 
+        "Sally Dworsky", 
+        "Evan Saucedo", 
+        "Brian Tochi", 
+        "Jason Weaver", 
+        "Joseph Williams", 
+        "Laura Williams"
+    ], 
+    "director": [
+        "Roger Allers", 
+        "Rob Minkoff"
+    ], 
+    "genres": [
+        "Animation", 
+        "Adventure", 
+        "Drama", 
+        "Family", 
+        "Musical"
+    ], 
+    "name": "The Lion King", 
+    "plot": "Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.", 
+    "rating": 8.5, 
+    "releaseDate": "6 May 1994 (limited)", 
+    "type": "movie"
+}

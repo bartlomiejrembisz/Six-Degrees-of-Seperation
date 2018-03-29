@@ -1,0 +1,53 @@
+{
+    "actorList": [
+        "Sean Astin", 
+        "Josh Brolin", 
+        "Jeff Cohen", 
+        "Corey Feldman", 
+        "Kerri Green", 
+        "Martha Plimpton", 
+        "Jonathan Ke Quan", 
+        "John Matuszak", 
+        "Robert Davi", 
+        "Joe Pantoliano", 
+        "Anne Ramsey", 
+        "Lupe Ontiveros", 
+        "Mary Ellen Trainor", 
+        "Keith Walker", 
+        "Curt Hanson", 
+        "Steve Antin", 
+        "Paul Tuerpe", 
+        "George Robotham", 
+        "Charles McDaniel", 
+        "Elaine Cohen McMahon", 
+        "Michael Paul Chan", 
+        "Nick McLean", 
+        "Bill Bradley", 
+        "Jeb Stuart Adams", 
+        "Eric Briant Wells", 
+        "Gene Ross", 
+        "Max Segar", 
+        "Newt Arnold", 
+        "Jack O'Leary", 
+        "Patrick Cameron", 
+        "Orwin C. Harvey", 
+        "Ted Grossman", 
+        "Richard Donner", 
+        "Rick Kuhn", 
+        "Cyndi Lauper", 
+        "Jennie Lew Tugend"
+    ], 
+    "director": [
+        "Richard Donner"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Comedy", 
+        "Family"
+    ], 
+    "name": "The Goonies", 
+    "plot": "In order to save their home from foreclosure, a group of misfits set out to find a pirate's ancient valuable treasure.", 
+    "rating": 7.8, 
+    "releaseDate": "7 June 1985", 
+    "type": "movie"
+}

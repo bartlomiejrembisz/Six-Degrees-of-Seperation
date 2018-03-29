@@ -1,0 +1,34 @@
+{
+    "actorList": [
+        "Tom Mison", 
+        "Lyndie Greenwood", 
+        "Nicole Beharie", 
+        "Orlando Jones", 
+        "Katia Winter", 
+        "John Noble"
+    ], 
+    "director": [
+        "Russell Lee Fine", 
+        "Paul A. Edwards", 
+        "Douglas Aarniokoski", 
+        "Ken Olin", 
+        "Marc Roskin", 
+        "Dwight H. Little", 
+        "Wendey Stanzler", 
+        "Kate Dennis", 
+        "Olatunde Osunsanmi", 
+        "Jim O'Hanlon"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Drama", 
+        "Fantasy", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "Sleepy Hollow", 
+    "plot": "Ichabod Crane is resurrected and pulled two and a half centuries through time to unravel a mystery that dates all the way back to the founding fathers.", 
+    "rating": 7.5, 
+    "releaseDate": "16 September 2013", 
+    "type": "movie"
+}

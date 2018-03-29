@@ -1,0 +1,29 @@
+{
+    "actorList": [
+        "Muse Watson", 
+        "Carrie Fisher", 
+        "Wallace Merck", 
+        "Stephanie Astalos-Jones", 
+        "Kirk Bovill", 
+        "Owen Campbell", 
+        "Edward Hogg", 
+        "Stephen Lester", 
+        "Steve Nicolson", 
+        "Damian Samuels", 
+        "Clay Steakley", 
+        "Allison Varnes", 
+        "Raymond Waring"
+    ], 
+    "director": [
+        "Dominic Murphy"
+    ], 
+    "genres": [
+        "Biography", 
+        "Drama"
+    ], 
+    "name": "White Lightnin'", 
+    "plot": "Deep in the heart of the Appalachian Mountains in West Virginia, where every man owns a gun and a moonshine still...", 
+    "rating": 7.1, 
+    "releaseDate": "19 January 2009 (Sundance Film Festival)", 
+    "type": "movie"
+}

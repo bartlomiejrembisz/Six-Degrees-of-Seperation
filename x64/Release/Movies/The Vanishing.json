@@ -1,0 +1,50 @@
+{
+    "actorList": [
+        "Jeff Bridges", 
+        "Kiefer Sutherland", 
+        "Nancy Travis", 
+        "Sandra Bullock", 
+        "Park Overall", 
+        "Maggie Linderman", 
+        "Lisa Eichhorn", 
+        "George Hearn", 
+        "Lynn Hamilton", 
+        "Garrett Bennett", 
+        "George Catalano", 
+        "Frank Girardeau", 
+        "Stephen Bridgewater", 
+        "Susan Barnes", 
+        "Rich Hawkins", 
+        "Michael Kaufman", 
+        "Sabrena Roddy", 
+        "Andrea Lauren Herz", 
+        "Joanne Schmoll", 
+        "Allison Barcott", 
+        "Aeryk Egan", 
+        "James Chesnutt", 
+        "Danielle Zuckerman", 
+        "Floyd Van Buskirk", 
+        "Marius Mazmanian", 
+        "Gina Saadi", 
+        "Michael John Hughes", 
+        "Howard Matthew Johnson", 
+        "Kristopher Logan", 
+        "Russell Dow", 
+        "David J. Goldfarb", 
+        "Leonard Kelly-Young"
+    ], 
+    "director": [
+        "George Sluizer"
+    ], 
+    "genres": [
+        "Drama", 
+        "Horror", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "The Vanishing", 
+    "plot": "The boyfriend of an abducted woman never gives up the search as the abductor looks on.", 
+    "rating": 6.3, 
+    "releaseDate": "5 February 1993", 
+    "type": "movie"
+}

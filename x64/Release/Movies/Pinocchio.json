@@ -1,0 +1,38 @@
+{
+    "actorList": [
+        "Mel Blanc", 
+        "Don Brodie", 
+        "Walter Catlett", 
+        "Marion Darlington", 
+        "Frankie Darro", 
+        "Cliff Edwards", 
+        "Dickie Jones", 
+        "Charles Judels", 
+        "Clarence Nash", 
+        "Patricia Page", 
+        "Thurl Ravenscroft", 
+        "Christian Rub", 
+        "Evelyn Venable"
+    ], 
+    "director": [
+        "Norman Ferguson", 
+        "T. Hee", 
+        "Wilfred Jackson", 
+        "Jack Kinney", 
+        "Hamilton Luske", 
+        "Bill Roberts", 
+        "Ben Sharpsteen"
+    ], 
+    "genres": [
+        "Animation", 
+        "Comedy", 
+        "Family", 
+        "Fantasy", 
+        "Musical"
+    ], 
+    "name": "Pinocchio", 
+    "plot": "A living puppet, with the help of a cricket as his conscience, must prove himself worthy to become a real boy.", 
+    "rating": 7.5, 
+    "releaseDate": "7 February 1940 (New York City, New York)\n (premiere)", 
+    "type": "movie"
+}

@@ -1,0 +1,34 @@
+{
+    "actorList": [
+        "Martin Balsam", 
+        "John Fiedler", 
+        "Lee J. Cobb", 
+        "E.G. Marshall", 
+        "Jack Klugman", 
+        "Edward Binns", 
+        "Jack Warden", 
+        "Henry Fonda", 
+        "Joseph Sweeney", 
+        "Ed Begley", 
+        "George Voskovec", 
+        "Robert Webber", 
+        "Rudy Bond", 
+        "Tom Gorman", 
+        "James Kelly", 
+        "Billy Nelson", 
+        "John Savoca", 
+        "Walter Stocker"
+    ], 
+    "director": [
+        "Sidney Lumet"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama"
+    ], 
+    "name": "12 Angry Men", 
+    "plot": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.", 
+    "rating": 8.9, 
+    "releaseDate": "1957", 
+    "type": "movie"
+}

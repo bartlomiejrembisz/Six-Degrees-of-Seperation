@@ -1,0 +1,44 @@
+{
+    "actorList": [
+        "Craig T. Nelson", 
+        "JoBeth Williams", 
+        "Beatrice Straight", 
+        "Dominique Dunne", 
+        "Oliver Robins", 
+        "Heather O'Rourke", 
+        "Michael McManus", 
+        "Virginia Kiser", 
+        "Martin Casella", 
+        "Richard Lawson", 
+        "Zelda Rubinstein", 
+        "James Karen", 
+        "Lou Perryman", 
+        "Clair E. Leucart", 
+        "Dirk Blocker", 
+        "Allan Graf", 
+        "Joseph Walsh", 
+        "Helen Baron", 
+        "Noel Conlon", 
+        "Robert Broyles", 
+        "Sonny Landham", 
+        "Jeffrey Bannister", 
+        "William Vail", 
+        "Craig Simmons", 
+        "Phil Stone", 
+        "Barry Nelson", 
+        "Fred Rogers"
+    ], 
+    "director": [
+        "Tobe Hooper"
+    ], 
+    "genres": [
+        "Fantasy", 
+        "Horror", 
+        "Thriller"
+    ], 
+    "name": "Poltergeist", 
+    "plot": "A family's home is haunted by a host of ghosts.", 
+    "rating": 7.4, 
+    "releaseDate": "4 June 1982", 
+    "type": "movie"
+}

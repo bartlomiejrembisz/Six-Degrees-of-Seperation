@@ -1,0 +1,412 @@
+{
+    "actorList": [
+        "Tom Ellis", 
+        "Lauren German", 
+        "Kevin Alejandro", 
+        "D.B. Woodside", 
+        "Lesley-Ann Brandt", 
+        "Scarlett Estevez", 
+        "Rachael Harris", 
+        "Aimee Garcia", 
+        "Tricia Helfer"
+    ], 
+    "director": [
+        "Nathan Hope", 
+        "Greg Beeman", 
+        "Tara Nicole Weyr", 
+        "Karen Gaviola", 
+        "Mairzee Almas", 
+        "Eagle Egilsson", 
+        "Louis Shaw Milito"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Fantasy"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "25 Jan. 2016", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nLucifer has left Hell to take up a life on Earth. When a friend of his is murdered Lucifer joins forces with the good side of the law to discover who the perpetrators are and to give them what they rightfully deserve.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2016", 
+            "episodeName": "Lucifer, Stay. Good Devil.", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhen a movie star's son is killed after being chased by the paparazzi, Chloe takes a deep look into the case with a little help from Lucifer. Meanwhile, Maze and Amenadiel continue to encourage Lucifer to go back to hell.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Feb. 2016", 
+            "episodeName": "The Would-Be Prince of Darkness", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAn up-and-coming quarterback calls Lucifer after finding a corpse in his pool; Lucifer asks Chloe to help investigate, which leads them into the world of big-money sports.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Feb. 2016", 
+            "episodeName": "Manly Whatnots", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nIn an effort to get over his infatuation with Chloe, Lucifer decides that he must seduce her. Meanwhile, the two team up on a missing girl case and Amenadiel confronts Maze about his concerns about Lucifer.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Feb. 2016", 
+            "episodeName": "Sweet Kicks", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhen Lucifer is attending a fashion show, a girl gets murdered. He then volunteers to help Detective Decker solve the homicide. Mazikeen goes behind Lucifer's back.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Feb. 2016", 
+            "episodeName": "Favorite Son", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA robbery gone bad leads to Lucifer and Chloe working together. Dan has an unusual encounter with Mazikeen. Chloe suspects Lucifer might be a criminal. Linda chooses to play Lucifer's game.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Mar. 2016", 
+            "episodeName": "Wingman", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nLucifer gets help from an unlikely source while trying to find the contents of his stolen container; Chloe uncovers a vital clue.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Mar. 2016", 
+            "episodeName": "Et Tu, Doctor?", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe murder of a therapist prompts Lucifer to enlist the help of Dr. Linda to search for a suspect.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Mar. 2016", 
+            "episodeName": "A Priest Walks Into a Bar", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA priest seeks out Lucifer's help when he suspects an underground drug operation has set up shop at a neighborhood youth center. Meanwhile, Malcolm manipulates a way to keep an eye on Dan.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Mar. 2016", 
+            "episodeName": "Pops", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nLucifer and Chloe suspect a restaurateur's son played a part in his death; the return of Chloe's mother sends her life into upheaval.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Apr. 2016", 
+            "episodeName": "St. Lucifer", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhen philanthropist Tim Dunlear is found dead, Lucifer explores his good side by becoming a benefactor for Tim's glitzy Los Angeles charity.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Apr. 2016", 
+            "episodeName": "#TeamLucifer", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe team investigates the death of a woman whose body with \"Hail Lucifer\" message was found lying in a pentagram.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Apr. 2016", 
+            "episodeName": "Take Me Back to Hell", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhen Lucifer is framed for murder, he and Chloe must work together to clear his name and prove the identity of the true killer.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Sep. 2016", 
+            "episodeName": "Everything's Coming Up Lucifer", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nLucifer and Chloe look into the murder of a stand-in actress; Chloe's faith in Lucifer is tested.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Oct. 2016", 
+            "episodeName": "Liar, Liar, Slutty Dress on Fire", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nLucifer suspects his mother may be involved in a ghastly murder for which she claims she's innocent.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Oct. 2016", 
+            "episodeName": "Sin-Eater", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nLucifer and Chloe investigate a gruesome murder after a video of the crime surfaces on social media. When a second video appears, they realize they have a serial killer on their hands.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Oct. 2016", 
+            "episodeName": "Lady Parts", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAfter the bodies of two young L.A. transplants are found poisoned, Chloe and Lucifer hunt for the killer. Upon Maze convincing Chloe to go out for drinks, which the detective perceives as an act of friendship, but is actually part of a bet between Maze and Lucifer, the two make a shocking decision.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Oct. 2016", 
+            "episodeName": "Weaponizer", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nLucifer's brother Uriel shows up as he investigates the murder of his favorite action hero.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Oct. 2016", 
+            "episodeName": "Monster", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nLucifer clashes with Chloe during an investigation, leading her to partner with Dan.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Nov. 2016", 
+            "episodeName": "My Little Monkey", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAfter the man convicted of killing Chloe's father is murdered, new clues suggests he was framed; Maze looks for a job; Lucifer tries to learn how to be normal by watching Dan.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Nov. 2016", 
+            "episodeName": "Trip to Stabby Town", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nLucifer seeks Azrael's blade when he discovers it's been used in a string of violent stabbings linked to a local yoga studio.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Nov. 2016", 
+            "episodeName": "Homewrecker", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nLucifer goes to great lengths to protect his home when the owner is murdered and the new owner wants it demolished.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Nov. 2016", 
+            "episodeName": "Quid Pro Ho", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nCharlotte is determined to get Lucifer to leave Earth by turning Chloe against him. Meanwhile, Amenadiel has begun working as Charlotte's soldier, which makes Maze question his loyalty.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Jan. 2017", 
+            "episodeName": "Stewardess Interruptus", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe tension between Lucifer and Chloe makes it difficult for them to investigate the murder of two victims who happen to be Lucifer's old flames.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Jan. 2017", 
+            "episodeName": "Love Handles", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nLucifer and Chloe investigate a mysterious masked killer who is poisoning college students. They also try to make sense of their new relationship, after a long-awaited kiss. Meanwhile, Charlotte visits Linda for advice on a touchy subject.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Jan. 2017", 
+            "episodeName": "A Good Day to Die", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nLucifer returns to hell to find an antidote for Chloe and his mother goes to hell to bring him back.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 May 2017", 
+            "episodeName": "Candy Morningstar", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nLucifer has gone off the grid and cut off all contact from his family and the police department, following Chloe's near-death. But the murder of an up-and-coming guitarist causes him to resurface - with a new mystery woman. Meanwhile, Lucifer's mom realizes she may have found a way to finally get them back to Heaven.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 May 2017", 
+            "episodeName": "Deceptive Little Parasite", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nLucifer attempts to control his emotions when he learns the flaming sword is the only way the family can return home. In the meantime, a therapist and head of admissions at a prestigious private school is found dead.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 May 2017", 
+            "episodeName": "God Johnson", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nLucifer believes the prime suspect in a murder at an insane asylum could be his father.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 May 2017", 
+            "episodeName": "Sympathy for the Goddess", 
+            "episodeNumber": 17, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 May 2017", 
+            "episodeName": "The Good, the Bad, and the Crispy", 
+            "episodeNumber": 18, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Mr. & Mrs. Mazikeen Smith", 
+            "episodeNumber": 19, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.14", 
+            "episodeNumber": 14, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.15", 
+            "episodeNumber": 15, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.16", 
+            "episodeNumber": 16, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.17", 
+            "episodeNumber": 17, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.18", 
+            "episodeNumber": 18, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.19", 
+            "episodeNumber": 19, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.20", 
+            "episodeNumber": 20, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.21", 
+            "episodeNumber": 21, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.22", 
+            "episodeNumber": 22, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "Lucifer", 
+    "plot": "Lucifer takes up residence in Los Angeles.", 
+    "rating": 8.3, 
+    "releaseDate": "July 2015 (San Diego Comic-Con)", 
+    "type": "tvserie"
+}

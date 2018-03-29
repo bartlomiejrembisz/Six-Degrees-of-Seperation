@@ -1,0 +1,300 @@
+{
+    "actorList": [
+        "Thomas Middleditch", 
+        "T.J. Miller", 
+        "Josh Brener", 
+        "Martin Starr", 
+        "Kumail Nanjiani", 
+        "Amanda Crew", 
+        "Zach Woods", 
+        "Matt Ross", 
+        "Jimmy O. Yang", 
+        "Suzanne Cryer", 
+        "Aly Mawji", 
+        "Brian Tichnell", 
+        "Jill E. Alexander"
+    ], 
+    "director": [
+        "Mike Judge", 
+        "Alec Berg", 
+        "Eric Appel", 
+        "Jamie Babbit", 
+        "Charlie McDowell"
+    ], 
+    "genres": [
+        "Comedy"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "6 Apr. 2014", 
+            "episodeName": "Minimum Viable Product", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nRichard is a computer programmer. He has to choose between a $10 million deal with Gavin Belson and a $200.000 deal with Peter Gregory, in exchange for his cooperation to make the idea of a super compressing algorithm change the world.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Apr. 2014", 
+            "episodeName": "The Cap Table", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nRichard hires Jared to design a business plan. Big Head is asked to work for Gavin Belson, where he discovers that Hooli has stolen the Pied Piper algorithm and calls it Nucleus. Meanwhile Richard struggles to get his money from Gregory.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Apr. 2014", 
+            "episodeName": "Articles of Incorporation", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe guys find themselves in trouble with their company name when they find out it's already taken. So whilst Richard tries to find a solution, Erlich searches for a new name in another dimension of his consciousness.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Apr. 2014", 
+            "episodeName": "Fiduciary Duties", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nRichard drunkenly promises to make Erlich a board member, which he regrets the next morning. Big Head finds others at Hooli, who like him, have made careers out of doing nothing. Richard struggles to put Pied Piper's vision into words.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 May 2014", 
+            "episodeName": "Signaling Risk", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nNow that Pied Piper is the official company name, Erlich wants a logotype to go with it so he hires a very unexpected artist in for the job. Meanwhile Richard gets a tighter deadline for the project after a simple mistake.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 May 2014", 
+            "episodeName": "Third Party Insourcing", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nRichard comes across a problem in the code writing and hires Kevin, a young kid, to write the code for him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 May 2014", 
+            "episodeName": "Proof of Concept", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nRichard has trouble getting Pied Piper ready in time for the TechCrunch Disrupt, while Erlich realizes he slept with the wife of one of the judges of the contest.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Jun. 2014", 
+            "episodeName": "Optimal Tip-To-Tip Efficiency", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nPied Piper makes it to the next stage of Disrupt but runs into trouble with Hooli's presentation. The guys break out into a ridiculous argument and Richard tries to pull Pied Piper together before the big presentation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Apr. 2015", 
+            "episodeName": "Sand Hill Shuffle", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMonica deals with her new boss; Richard makes a decision about the company's future.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Apr. 2015", 
+            "episodeName": "Runaway Devaluation", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nRichard and the guys struggle to find a backer as they face legal and financial woes. Meanwhile, an old enemy pays Richard a visit.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Apr. 2015", 
+            "episodeName": "Bad Money", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhile considering Gavin's proposal, Richard is approached by a billionaire.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 May 2015", 
+            "episodeName": "The Lady", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nRichard butts heads with Erlich over a prospective hire; Dinesh and Gilfoyle grow suspicious.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 May 2015", 
+            "episodeName": "Server Space", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nGavin's interference causes Pied Piper to struggle with securing their expansion.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 May 2015", 
+            "episodeName": "Homicide", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMonica encourages the guys to pounce on an opportunity; Erlich reconnects with a former mentee.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 May 2015", 
+            "episodeName": "Adult Content", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWith the Pied Piper team fielding job offers, Richard faces the prospect of folding.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 May 2015", 
+            "episodeName": "White Hat/Black Hat", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nRichard accidentally sparks a feud that leads him to become paranoid about security.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Jun. 2015", 
+            "episodeName": "Binding Arbitration", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nErlich demands to be put on stand as Pied Piper and Hooli enter Arbitration. Richard faces a moral dilemma now that he realizes that Hooli's claim may have successful potential. Meanwhile back at Pied Piper headquarters, Jared, Dinesh and Gilfoyle question a profound theory and its affiliation to their live stream.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Jun. 2015", 
+            "episodeName": "Two Days of the Condor", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe verdict on Pied Piper's fate coincides with a startling real-life drama that makes their livestream immensely popular, and emotions run high as the gang tries to keep the company together.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Apr. 2016", 
+            "episodeName": "Founder Friendly", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter being unceremoniously fired, an angry Richard faces a tough decision: accept the diminished role of CTO, or leave Pied Piper for good. Erlich takes a shine to Jack Barker, Laurie's new choice of CEO, while Dinesh and Gilfoyle weigh their options in Richard's absence. At Hooli, Gavin tries to improve his image by admitting failure, and Big Head gets wind of major changes.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 May 2016", 
+            "episodeName": "Two in the Box", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe new and improved Pied Piper impresses Dinesh and Gilfoyle, but worries Richard; Jared and Erlich face housing issues; Gavin suggests a controversial move.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 May 2016", 
+            "episodeName": "Meinertzhagen's Haversack", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nRichard searches for a way around Jack; Gilfoyle opens himself up to recruiters; Dinesh draws unwanted attention from a recent purchase.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 May 2016", 
+            "episodeName": "Maleant Data Systems Solutions", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe Pied Piper guys struggle to phone it in; Erlich faces competition; Monica takes a stand; Gavin makes a decision about Nucleus.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 May 2016", 
+            "episodeName": "The Empty Chair", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nRichard lets his ego get in the way at an interview; Dinesh, Gilfoyle and Jared misplace hardware; Erlich pitches his plans to Big Head.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 May 2016", 
+            "episodeName": "Bachmanity Insanity", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nRichard's new relationship is threatened by neuroses; Big Head and Erlich's launch party has snags; Dinesh falls for a foreign coworker.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Jun. 2016", 
+            "episodeName": "To Build a Better Beta", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nRichard decides to test the Pied Pipper beta. Erlich finds himself in trouble.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Jun. 2016", 
+            "episodeName": "Bachman's Earning's Over-Ride", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nErlich tries to be honest with Richard, who has mixed emotions about their friendship and the future of Pied Piper. Meanwhile, Jared's new company apparel turns heads but fuels yet another clash between Dinesh and Gilfoyle.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Jun. 2016", 
+            "episodeName": "Daily Active Users", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nShocking stats are revealed and prompt Richard to bridge the gap between Pied Piper and its users, but Jared must go to extremes to keep everything intact. Meanwhile, Gavin tries to recapture his former glory by bringing in new talent after discovering secrets about the competition.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Jun. 2016", 
+            "episodeName": "The Uptick", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nPied Piper's future is hazy, but Erlich's industry profile begins to rise, creating a moral dilemma for Richard as Dinesh's new app starts to catch on. Meanwhile, Laurie makes plans for her exit; and Gavin's pompous personality haunts his comeback at Hooli.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Apr. 2017", 
+            "episodeName": "Success Failure", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe guys struggle to find funding for Pied Piper's video chat app to keep up with their rapidly growing user base. Erlich faces resistance from Big Head's father. Jack steps on Gavin's toes at Hooli. Richard gets sage advice.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Apr. 2017", 
+            "episodeName": "Terms of Service", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nRichard butts heads with Dinesh, whose new position goes to his head. Later, Richard discovers interesting data about PiperChat's users. Erlich makes a play to be involved in Jian-Yang's new app; Jared sets ground rules in his friendship with Richard; Gavin's paranoia over Jack's enthusiasm causes him to make a rash decision.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 May 2017", 
+            "episodeName": "Intellectual Property", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 May 2017", 
+            "episodeName": "Teambuilding Exercise", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 May 2017", 
+            "episodeName": "The Blood Boy", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 May 2017", 
+            "episodeName": "Customer Service", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Jun. 2017", 
+            "episodeName": "Episode #4.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Jun. 2017", 
+            "episodeName": "Episode #4.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Jun. 2017", 
+            "episodeName": "Episode #4.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Jun. 2017", 
+            "episodeName": "Episode #4.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }
+    ], 
+    "name": "Silicon Valley", 
+    "plot": "Follows the struggle of Richard Hendricks, a silicon valley engineer trying to build his own company called Pied Piper", 
+    "rating": 8.6, 
+    "releaseDate": "6 April 2014", 
+    "type": "tvserie"
+}

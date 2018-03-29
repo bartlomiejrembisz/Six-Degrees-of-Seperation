@@ -1,0 +1,35 @@
+{
+    "actorList": [
+        "Leigh Whannell", 
+        "Cary Elwes", 
+        "Danny Glover", 
+        "Ken Leung", 
+        "Dina Meyer", 
+        "Mike Butters", 
+        "Paul Gutrecht", 
+        "Michael Emerson", 
+        "Benito Martinez", 
+        "Shawnee Smith", 
+        "Makenzie Vega", 
+        "Monica Potter", 
+        "Ned Bellamy", 
+        "Alexandra Bokyun Chun", 
+        "Avner Garbi", 
+        "Tobin Bell", 
+        "Oren Koules", 
+        "Hans Raith"
+    ], 
+    "director": [
+        "James Wan"
+    ], 
+    "genres": [
+        "Horror", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "Saw", 
+    "plot": "Two strangers awaken in a room with no recollection of how they got there or why, and soon discover they are pawns in a deadly game perpetrated by a notorious serial killer.", 
+    "rating": 7.7, 
+    "releaseDate": "19 January 2004 (Sundance Film Festival)", 
+    "type": "movie"
+}

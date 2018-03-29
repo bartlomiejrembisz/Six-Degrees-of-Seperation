@@ -1,0 +1,27 @@
+{
+    "actorList": [
+        "Jeff Goldblum", 
+        "Geena Davis", 
+        "John Getz", 
+        "Joy Boushel", 
+        "Leslie Carlson", 
+        "George Chuvalo", 
+        "Michael Copeman", 
+        "David Cronenberg", 
+        "Carol Lazare", 
+        "Shawn Hewitt"
+    ], 
+    "director": [
+        "David Cronenberg"
+    ], 
+    "genres": [
+        "Drama", 
+        "Horror", 
+        "Sci-Fi"
+    ], 
+    "name": "The Fly", 
+    "plot": "A brilliant but eccentric scientist begins to transform into a giant man/fly hybrid after one of his experiments goes horribly wrong.", 
+    "rating": 7.5, 
+    "releaseDate": "15 August 1986", 
+    "type": "movie"
+}

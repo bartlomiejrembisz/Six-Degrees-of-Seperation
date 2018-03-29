@@ -1,0 +1,102 @@
+{
+    "actorList": [
+        "Dominic Purcell", 
+        "Wentworth Miller", 
+        "Sarah Wayne Callies", 
+        "Rockmond Dunbar", 
+        "Robert Knepper", 
+        "Amaury Nolasco", 
+        "Mark Feuerstein", 
+        "Marina Benedict", 
+        "Christian Michael Cooper", 
+        "Steve Mouzakis", 
+        "Paul Adelstein", 
+        "Inbar Lavi", 
+        "Augustus Prew", 
+        "Bobby Naderi", 
+        "Kunal Sharma", 
+        "Amin El Gamal", 
+        "Curtis Lum"
+    ], 
+    "director": [
+        "Nelson McCormick", 
+        "Maja Vrvilo"
+    ], 
+    "genres": [
+        "Action", 
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "4 Apr. 2017", 
+            "episodeName": "Ogygia", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nSeven years has passed and with everyone moved on with their lives, Michael is discovered to still be alive after his apparent death and has ended up in a Yemen prison. Lincoln gets a visit from a familiar face and learns the news about Michael and his whereabouts.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Apr. 2017", 
+            "episodeName": "Kaniel Outis", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAs Lincoln and C-Note search for the \"Sheik of Light,\" Michael and his cellmate, Whip, attempt an escape from Ogygia. Meanwhile, Sara's investigation into Michael's reappearance leads her to the state department and an uneasy reunion with Paul Kellerman.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "The Liar", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen T-Bag ambushes Sara, he warns her that two of Poseidon's henchmen, Van Gogh and A&W, may be following her. Meanwhile, Lincoln attempts to retrieve his confiscated passport to escape Yemen, and Michael plans his next move.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Apr. 2017", 
+            "episodeName": "The Prisoner's Dilemma", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMichael must make a difficult choice when he feels he has run out of options.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 May 2017", 
+            "episodeName": "Contingency", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nLincoln tries to find out what happened to Michael and C-Note hopes to execute a new escape plan with Cyclops close behind.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 May 2017", 
+            "episodeName": "Phaecia", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMichael, Lincoln and the Ogygia gang race through the desert pursued by Cyclops; A&W and Van Gogh question their roles when their trailing the escapees leads them to Graceland.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 May 2017", 
+            "episodeName": "Wine Dark Sea", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nSara fears for her family's safety when she discovers the reason why Michael faked his death; Sucre helps Michael and Lincoln find a way home; Poseidon's true identity is revealed.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 May 2017", 
+            "episodeName": "Episode #1.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Episode #1.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nFinal episode of the entire TV series.    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "Prison Break: Sequel", 
+    "plot": "Seven years later, thanks to information provided by T-Bag, Lincoln and Sara discover that Michael is still alive in a Yemen prison", 
+    "rating": 0, 
+    "releaseDate": "30 March 2017 (special screening) (limited)", 
+    "type": "tvserie"
+}

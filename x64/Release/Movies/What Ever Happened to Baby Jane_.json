@@ -1,0 +1,51 @@
+{
+    "actorList": [
+        "Bette Davis", 
+        "Joan Crawford", 
+        "Victor Buono", 
+        "Wesley Addy", 
+        "Julie Allred", 
+        "Anne Barton", 
+        "Marjorie Bennett", 
+        "Bert Freed", 
+        "Anna Lee", 
+        "Maidie Norman", 
+        "Dave Willock", 
+        "William Aldrich", 
+        "Russ Conway", 
+        "Maxine Cooper", 
+        "Robert Cornthwaite", 
+        "Michael Fox", 
+        "Gina Gillespie", 
+        "Barbara Merrill", 
+        "Don Ross", 
+        "James Seay", 
+        "John Shay", 
+        "Jon Shepodd", 
+        "Peter Virgo", 
+        "Bobs Watson", 
+        "Debbie Burton", 
+        "Murray Alper", 
+        "Ernest Anderson", 
+        "Steve Condit", 
+        "Norman Papson", 
+        "Mike Ragan", 
+        "Sammy Shack", 
+        "Michael St. Angel", 
+        "Jack Tornek", 
+        "Ralph Volkie"
+    ], 
+    "director": [
+        "Robert Aldrich"
+    ], 
+    "genres": [
+        "Drama", 
+        "Horror", 
+        "Thriller"
+    ], 
+    "name": "What Ever Happened to Baby Jane?", 
+    "plot": "A former child star torments her paraplegic sister in their decaying Hollywood mansion.", 
+    "rating": 8.1, 
+    "releaseDate": "31 October 1962 (Cincinnati, Ohio)", 
+    "type": "movie"
+}

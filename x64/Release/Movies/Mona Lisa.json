@@ -1,0 +1,53 @@
+{
+    "actorList": [
+        "Bob Hoskins", 
+        "Cathy Tyson", 
+        "Michael Caine", 
+        "Robbie Coltrane", 
+        "Clarke Peters", 
+        "Kate Hardie", 
+        "Zo\u00eb Nathenson", 
+        "Sammi Davis", 
+        "Rod Bedall", 
+        "Joe Brown", 
+        "Pauline Melville", 
+        "Hossein Karimbeik", 
+        "John Darling", 
+        "Bryan Coleman", 
+        "Robert Dorning", 
+        "Raad Rawi", 
+        "David Halliwell", 
+        "Stephen Persaud", 
+        "Maggie O'Neill", 
+        "Gary Cady", 
+        "Donna Cannon", 
+        "Perry Fenwick", 
+        "Dawn Archibald", 
+        "Richard Strange", 
+        "Alan Talbot", 
+        "Geoffrey Larder", 
+        "Helen Martin", 
+        "Kenny Baker", 
+        "Jack Purvis", 
+        "Bill Moore", 
+        "Richard Ashton", 
+        "Harry Fielder", 
+        "Jeremy Hardy", 
+        "Derek Lyons", 
+        "G.B. Zoot Money", 
+        "Mandy Winch"
+    ], 
+    "director": [
+        "Neil Jordan"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Romance"
+    ], 
+    "name": "Mona Lisa", 
+    "plot": "George has just been released from prison, and manages to get a job driving a call girl from customer to customer. Initially they don't get on; he doesn't fit in with the high class customers Simone services. Will they ever get on?", 
+    "rating": 7.4, 
+    "releaseDate": "13 June 1986", 
+    "type": "movie"
+}

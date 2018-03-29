@@ -1,0 +1,27 @@
+{
+    "actorList": [
+        "Joe Bishop", 
+        "Keith Cavill", 
+        "Andy Cohn", 
+        "Scott Hogsett", 
+        "Christopher Igoe", 
+        "Bob Lujano", 
+        "Kevin Orr", 
+        "Joe Soares", 
+        "Dave Willsie", 
+        "Mark Zupan"
+    ], 
+    "director": [
+        "Henry Alex Rubin", 
+        "Dana Adam Shapiro"
+    ], 
+    "genres": [
+        "Documentary", 
+        "Sport"
+    ], 
+    "name": "Murderball", 
+    "plot": "Paraplegics, who play full-contact rugby in wheelchairs, overcome unimaginable obstacles to compete in the Paralympic Games in Athens, Greece.", 
+    "rating": 7.8, 
+    "releaseDate": "23 January 2005 (Sundance Film Festival)", 
+    "type": "movie"
+}

@@ -1,0 +1,35 @@
+{
+    "actorList": [
+        "Akshay Kumar", 
+        "Paresh Rawal", 
+        "Sunil Shetty", 
+        "Tabu", 
+        "Om Puri", 
+        "Gulshan Grover", 
+        "Kulbhushan Kharbanda", 
+        "Mukesh Khanna", 
+        "Asrani", 
+        "Sulabha Arya", 
+        "Dinesh Hingoo", 
+        "Mushtaq Khan", 
+        "Razak Khan", 
+        "Kashmira Shah", 
+        "Namrata Shirodkar", 
+        "Snehal Dabi", 
+        "Anna Edwards"
+    ], 
+    "director": [
+        "Priyadarshan"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Crime", 
+        "Musical", 
+        "Thriller"
+    ], 
+    "name": "Hera Pheri", 
+    "plot": "Three unemployed men find the answer to all their money problems when they recieve a call from a kidnapper. However, things do not go as planned.", 
+    "rating": 8.3, 
+    "releaseDate": "31 March 2000", 
+    "type": "movie"
+}

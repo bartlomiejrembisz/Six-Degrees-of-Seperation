@@ -1,0 +1,47 @@
+{
+    "actorList": [
+        "Nick Nolte", 
+        "Brigid Tierney", 
+        "Holmes Osborne", 
+        "Jim True-Frost", 
+        "Tim Post", 
+        "Christopher Heyerdahl", 
+        "Marian Seldes", 
+        "Janine Theriault", 
+        "Mary Beth Hurt", 
+        "Paul Stewart", 
+        "Sissy Spacek", 
+        "Wayne Robson", 
+        "Sean McCann", 
+        "Sheena Larkin", 
+        "Penny Mancuso", 
+        "Danielle Desormeaux", 
+        "Charles Edwin Powell", 
+        "Donovan Reiter", 
+        "James Coburn", 
+        "Brawley Nolte", 
+        "Michael Caloz", 
+        "Joanna Noyes", 
+        "Marcel Jeannin", 
+        "Susan Almgren", 
+        "Steve Adams", 
+        "Willem Dafoe", 
+        "Martha-Marie Kleinhans", 
+        "Mark Camacho", 
+        "Ralph Allison", 
+        "Eugene Lipinski"
+    ], 
+    "director": [
+        "Paul Schrader"
+    ], 
+    "genres": [
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "Affliction", 
+    "plot": "A deeply troubled small town cop investigates a suspicious hunting death while events occur that cause him to mentally disintergrate.", 
+    "rating": 7.0, 
+    "releaseDate": "28 August 1997 (Venice Film Festival)", 
+    "type": "movie"
+}

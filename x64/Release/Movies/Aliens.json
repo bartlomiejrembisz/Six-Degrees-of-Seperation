@@ -1,0 +1,51 @@
+{
+    "actorList": [
+        "Sigourney Weaver", 
+        "Carrie Henn", 
+        "Michael Biehn", 
+        "Paul Reiser", 
+        "Lance Henriksen", 
+        "Bill Paxton", 
+        "William Hope", 
+        "Jenette Goldstein", 
+        "Al Matthews", 
+        "Mark Rolston", 
+        "Ricco Ross", 
+        "Colette Hiller", 
+        "Daniel Kash", 
+        "Cynthia Dale Scott", 
+        "Tip Tipping", 
+        "Trevor Steedman", 
+        "Paul Maxwell", 
+        "Valerie Colgan", 
+        "Alan Polonsky", 
+        "Alibe Parsons", 
+        "Blain Fairman", 
+        "Barbara Coles", 
+        "Carl Toop", 
+        "John Lees", 
+        "William Armstrong", 
+        "Jay Benedict", 
+        "Holly De Jong", 
+        "Christopher Henn", 
+        "Elizabeth Inglis", 
+        "Mac McDonald", 
+        "Stuart Milligan", 
+        "Chris Webb", 
+        "Tom Woodruff Jr."
+    ], 
+    "director": [
+        "James Cameron"
+    ], 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Sci-Fi", 
+        "Thriller"
+    ], 
+    "name": "Aliens", 
+    "plot": "The moon from  (1979) has been colonized, but contact is lost. This time, the rescue team has impressive firepower, but will it be enough?", 
+    "rating": 8.4, 
+    "releaseDate": "14 July 1986 (Westwood, California)\n (premiere)", 
+    "type": "movie"
+}

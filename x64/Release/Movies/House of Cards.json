@@ -1,0 +1,500 @@
+{
+    "actorList": [
+        "Kevin Spacey", 
+        "Robin Wright", 
+        "Michael Kelly", 
+        "Justin Doescher", 
+        "Nathan Darrow", 
+        "Mahershala Ali", 
+        "Derek Cecil", 
+        "Mark Falvo", 
+        "Lamont Easter", 
+        "Molly Parker", 
+        "Michel Gill", 
+        "Marla Aaron Wapner", 
+        "Jayne Atkinson", 
+        "Elizabeth Marvel"
+    ], 
+    "director": [
+        "James Foley", 
+        "Robin Wright", 
+        "John David Coles", 
+        "Carl Franklin", 
+        "Tucker Gates", 
+        "Tom Shankland", 
+        "Alik Sakharov", 
+        "Allen Coulter", 
+        "David Fincher", 
+        "Charles McDougall", 
+        "Joel Schumacher", 
+        "John Dahl", 
+        "Agnieszka Holland", 
+        "Jakob Verbruggen", 
+        "Roxann Dawson"
+    ], 
+    "genres": [
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "1 Feb. 2013", 
+            "episodeName": "Chapter 1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCongressman Francis Underwood has been declined the chair for Secretary of State. He's now gathering his own team to plot his revenge. Zoe Barnes, a reporter for the Washington Herald, will do anything to get her big break.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2013", 
+            "episodeName": "Chapter 2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFrancis and Doug plan to frame Secretary of State nominee, Michael Kern. Meanwhile, Zoe's popularity at the Washington Herald continues to grow.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2013", 
+            "episodeName": "Chapter 3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nFrancis heads for his hometown to deal with a crisis. Zoe negotiates the politics of being a journalist on the rise. Claire finds herself a new business partner.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2013", 
+            "episodeName": "Chapter 4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFrancis shakes down the Congressional leadership. Zoe is offered the promotion of White House Correspondent and doesn't know if she should take it or not.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2013", 
+            "episodeName": "Chapter 5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA feud starts between Francis and Marty Spinella. Russo goes into depression about the job losses at the shipyards.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2013", 
+            "episodeName": "Chapter 6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe strike between Frank and Marty starts to get out of hand. Russo has decided to run for Governor of Pennsylvania.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2013", 
+            "episodeName": "Chapter 7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFrank helps Peter get ready for his governor race, but Peter is starting to have second thoughts. Doug tries to help a young hooker in trouble.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2013", 
+            "episodeName": "Chapter 8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nFrank has a library named after him at his old military school. Peter tries to win back the support of his hometown.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2013", 
+            "episodeName": "Chapter 9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nFrank tries to do whatever it takes to get the new bill past congress. Russo goes on a bus campaign with the Vice President, but the VP is not making it an easy trip for him. Zoe's relationship with Frank gets a little bumpy.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2013", 
+            "episodeName": "Chapter 10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nTold that Claire was behind the watershed bill's failure, Francis works to contain the damage and maintain control over Peter Russo. Zoe and Claire each seek relief from their respective relationships with Francis.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2013", 
+            "episodeName": "Chapter 11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFollowing the collapse of Russo's campaign, Francis launches a risky ploy to join the Walker administration.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2013", 
+            "episodeName": "Chapter 12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe President sends Frank to St. Louis to persuade Raymond Tusk into becoming the new Vice President. Zoe and Janine investigate Peter Russo's death.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2013", 
+            "episodeName": "Chapter 13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nFrank scrambles to keep his plan on track. Gillian is planning to sue Claire. Zoe, Janine, and Lucas investigate Rachel Posner and her relationship with Peter Russo.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Feb. 2014", 
+            "episodeName": "Chapter 14", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFrank prepares for his promotion to Vice President. Doug tries to erase all leads leading back to him and Frank. Claire fights back against Gillian. Zoe considers working with Frank again.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2014", 
+            "episodeName": "Chapter 15", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFrank is announced as Vice President. The US meets with China. Jackie faces obstacles as she plans to run for new whip. Lucas looks into Zoe's death.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2014", 
+            "episodeName": "Chapter 16", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe tension between Francis and Raymond Tusk increases while the situation in China is getting worse. A fight in the Senate puts Francis against the republicans.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2014", 
+            "episodeName": "Chapter 17", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA Terror threat traps Francis in the Congress building with a bitter Donald Blythe. Claire gives a live interview that shakes the media.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2014", 
+            "episodeName": "Chapter 18", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nFrancis resorts to informal negotiations with a Chinese billionaire. Lucas takes extreme measures in use to reveal the vice president. Team Underwood gets a new member.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2014", 
+            "episodeName": "Chapter 19", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nIn the middle of an energy crisis, Francis and Tusk end their fragile alliance. Lucas must make a difficult choice. Stamper gets closer to Rachel.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2014", 
+            "episodeName": "Chapter 20", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDespite friction, the friendship between the Walkers and the Underwoods becomes stronger. But there's a war between Francis and Tusk.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2014", 
+            "episodeName": "Chapter 21", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe war with Tusk intensified. Claire influences Tricia Walker, both on the political and domestic front.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2014", 
+            "episodeName": "Chapter 22", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nIt becomes personal when Tusk hits the Underwood pair with a scandal. Freddy and his restaurant will be involved in it all.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2014", 
+            "episodeName": "Chapter 23", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWith a military stalemate abroad and a possible violent situation at home, Francis wants to put an end to Tusk forever. Claire and Jackie Sharp collide.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2014", 
+            "episodeName": "Chapter 24", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFrank is questioned by a special prosecutor. Remy Danton is trying to keep all options open. Stamper is struggling with his demons.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2014", 
+            "episodeName": "Chapter 25", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nFrancis feels shut out. Stamper tries to regain control.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2014", 
+            "episodeName": "Chapter 26", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nFrancis is about to be destroyed while the nation is in turmoil. Stamper must pick up loose ends. Claire marks the conclusion of her ruthlessness.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Chapter 27", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFrank's approval ratings have plummeted. Doug goes through rehab over his injury. Claire plans to run for Ambassador to the U.N.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Chapter 28", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nClaire's U.N. bid runs into trouble. Frank fights off mutiny with a bold address to the country.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Chapter 29", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe Russian president's state visit becomes a cold war of wills.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Chapter 30", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nClaire bypasses Russia at the U.N. Frank tries to outmaneuver a potential challenger and ends up face to face with a higher power.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Chapter 31", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nFrank declares war on Congress to jump-start his jobs program. Claire spars with the Russian Ambassador.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Chapter 32", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nFrank and Claire travel to Moscow to negotiate the return of an imprisoned U.S. citizen. Claire takes a stand that jeopardizes their plans.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Chapter 33", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe damage is done and the Underwoods must repair it. But deep wounds don't heal fast, and sometimes not at all.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Chapter 34", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA hurricane endangers more than just the entire East Coast and Frank must make a difficult choice.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Chapter 35", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe Jordan Valley erupts in chaos just as Frank's campaign is picking up steam. Claire gets disturbing intel and counsels him.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Chapter 36", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFrank needs to deal with Petrov one on one, while Claire tries to preserve the peace-keeping mission. Sacrifices must be made.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Chapter 37", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThings turn ugly when Frank, Jackie, and Heather square off during their first debate. Tom joins Claire on the campaign trail.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Chapter 38", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nClaire is given an even larger role in the campaign. The gain in points drives Heather to look for dirt on Claire.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2015", 
+            "episodeName": "Chapter 39", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nFrancis and Claire's relationship reaches a critical point. Doug catches up with his past    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Chapter 40", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nClare's absence causes problems for Frank on the campaign trail amid rumors of a marital rift. Claire tries to strike out on her own.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Chapter 41", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAs Claire begins exploring a campaign of her own, she and Frank engage in backdoor political maneuvering. But this time they're not on the same side.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Chapter 42", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nClaire joins Frank as he campaigns in South Carolina, but he doesn't trust her. A disastrous scandal blindsides Frank on primary day.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Chapter 43", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nClaire threatens Frank while Frank makes a politically bold move that may provoke Russia.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Chapter 44", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nClaire advises the VP Donald Blythe on dealing with Russia. Further investigation of Lucas Goodwin dredges up his accusations against Frank.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Chapter 45", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nClaire clashes with the Secretary of State Durant over her involvement in negotiations with Russia. Dunbar must choose between her campaign and her ethics.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Chapter 46", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFrank and Claire adjust to their new reality. The search for Frank's running mate begins. Frank starts a campaign to weaken Conway's strong support.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Chapter 47", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nFormidable as ever, Frank and Claire have their eyes on the big picture as they manipulate a potential running mate and push a gun bill.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Chapter 48", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAt the convention, Frank and his team publicly push for Secretary of State Durant to be chosen as his running mate, but privately push a different agenda.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Chapter 49", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs Frank deals with a new threat to his candidacy, Claire has doubts about their plan. Claire faces a difficult decision concerning her mother's health.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Chapter 50", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFrank ups the ante on the war on terror to counter Conway's public criticism of his lack of action. Tom joins Claire on the campaign trail.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Chapter 51", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nFrank asks Conway to help deal with extremists threatening to murder hostages. Tom Hammerschmidt digs deeper into the allegations against Frank.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Chapter 52", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs the hostage situation continues, Claire secretly negotiates with an extremist leader. Frank confronts Hammerschmidt.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter 53", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter 54", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter 55", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter 56", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter 57", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter 58", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter 59", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter 60", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter 61", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter 62", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter 63", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter 64", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 May 2017", 
+            "episodeName": "Chapter 65", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 5
+        }
+    ], 
+    "name": "House of Cards", 
+    "plot": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.", 
+    "rating": 9.0, 
+    "releaseDate": "1 February 2013", 
+    "type": "tvserie"
+}

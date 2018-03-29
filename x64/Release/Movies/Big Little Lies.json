@@ -1,0 +1,115 @@
+{
+    "actorList": [
+        "Reese Witherspoon", 
+        "Nicole Kidman", 
+        "Shailene Woodley", 
+        "Alexander Skarsg\u00e5rd", 
+        "Adam Scott", 
+        "Zo\u00eb Kravitz", 
+        "James Tupper", 
+        "Jeffrey Nordling", 
+        "Laura Dern", 
+        "Iain Armitage", 
+        "Santiago Cabrera", 
+        "Darby Camp", 
+        "Kelen Coleman", 
+        "Kathryn Newton", 
+        "Larry Bates", 
+        "Kathreen Khavari", 
+        "David Monahan", 
+        "Larry Sullivan", 
+        "Chloe Coleman", 
+        "Cameron Crovetti", 
+        "Nicholas Crovetti", 
+        "Sarah Baker", 
+        "Sarah Burns", 
+        "P.J. Byrne", 
+        "Gia Carides", 
+        "Hong Chau", 
+        "Joseph Cross", 
+        "Ivy George", 
+        "Virginia Kull", 
+        "Merrin Dungey", 
+        "Robin Weigert", 
+        "Nelly Buchet", 
+        "Parker Croft", 
+        "Kimmy Shields", 
+        "Sarah Sokolovic", 
+        "Joel Spence", 
+        "Tim True", 
+        "Benai Boyd", 
+        "Danielle Judovits", 
+        "Chris Kauffmann", 
+        "Ryan O'Connor", 
+        "Richard Israel", 
+        "Keisuke Hoashi", 
+        "Stephen Graybill", 
+        "Stacie Greenwell", 
+        "Angela Ai", 
+        "Anthony Zediker"
+    ], 
+    "director": [
+        "Jean-Marc Vall\u00e9e"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "19 Feb. 2017", 
+            "episodeName": "Somebody's Dead", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA suspicious death at an elementary school fundraiser draws attention to the frictions among three mothers and their families.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Feb. 2017", 
+            "episodeName": "Serious Mothering", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nJane deflects questions from Ziggy; Madeline is outraged over a slight from Renata; Celeste suggests she and Perry see a counselor.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Mar. 2017", 
+            "episodeName": "Living the Dream", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMadeline organizes a trip to compete with Amabella's birthday party; Celeste succumbs to Perry's charms; Jane opens up about her past.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Mar. 2017", 
+            "episodeName": "Push Comes to Shove", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nNathan invites Madeline and Ed for couples' dinner, to discuss Abigail; Ms Barnes suggests Ziggy be medically evaluated, in light of further evidence of bullying.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Mar. 2017", 
+            "episodeName": "Once Bitten", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMadeline is thrown by a change in her play's director; Conclusions are shared about Ziggy and Amabella; Dr. Reisman presses Celeste about her marriage.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Mar. 2017", 
+            "episodeName": "Burning Love", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nBonnie tells Nathan about Abigail's secret project; Jane confronts Renata; Ed and Madeline have a candid conversation about their lack of passion.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Apr. 2017", 
+            "episodeName": "You Get What You Need", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nCeleste makes a bold move; Madeline deals with fallout from her past; Jane learns who's really been hurting Amabella.    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "Big Little Lies", 
+    "plot": "The apparently perfect lives of three mothers of first graders unravel to the point of murder.", 
+    "rating": 0, 
+    "releaseDate": "19 February 2017", 
+    "type": "tvserie"
+}

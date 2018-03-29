@@ -1,0 +1,113 @@
+{
+    "actorList": [
+        "Bella Thorne", 
+        "Charlie DePew", 
+        "Georgie Flores", 
+        "Carter Jenkins", 
+        "Niki Koss", 
+        "Keith Powers", 
+        "Perrey Reeves", 
+        "Pepi Sonuga", 
+        "Shawn Christian", 
+        "Vanessa Williams", 
+        "Jason Antoon", 
+        "Tom Maden", 
+        "Nathan Stewart-Jarrett", 
+        "Tanjareen Thomas", 
+        "Katelyn Tarver"
+    ], 
+    "director": [
+        "Miguel Arteta", 
+        "Mary Lou Belli", 
+        "Norman Buckley", 
+        "Susanna Fogel", 
+        "Michael Goi", 
+        "Tanya Hamilton", 
+        "Roger Kumble", 
+        "Ron Lagomarsino", 
+        "Tawnia McKiernan", 
+        "Geary McLeod", 
+        "Elizabeth Allen Rosenbaum"
+    ], 
+    "genres": [
+        "Drama", 
+        "Romance"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nPaige Townsen, a college girl working on her business degree, gets the leading role in the new Locked film.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "A Star Is Torn", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nOn the eve of the cast announcement party, Paige is nervous about telling her parents the truth; Nina is determined to shut down the gossip about Rainer and Jordan's fight.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 May 2017", 
+            "episodeName": "Not So Easy A", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nPaige struggles to balance school and the film's schedule; Nina must make cuts to the film's budget; Jake meets with an agent about his script.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 May 2017", 
+            "episodeName": "Prelude to a Diss", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPaige's first day on set is riddled with difficulties; Cassie's schooling is in jeopardy; Tangey and her mother argue over the future direction of her career.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "Some Like It Not", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nJordan and Tangey renew their relationship in secret; Rainer surprises everyone when he throws Paige a surprise birthday party, but things don't turn out as expected when Jake arrives late.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "Found in Translation", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nNina and Rainer take a last-minute trip to China to rescue Locked from a new setback; Cassie's financial problems continue; Jordan deals with issues involving his mother.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "Secrets & Pies", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nIssues in Paige and Cassie's friendship are revealed; Jake learns the reality of what it means to sell a script in Hollywood; Alexis embraces her role as Producer; Jordan's problems continue to mount.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "Crazy Scripted Love", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nPaige and Cassie's fight is impacting Paige's performance, and when Jake is too busy to help, Rainer offers his own advice. Later, Jake's career takes an unexpected turn. Meanwhile, when Alan and Rainer spend some time together, Nina grows concerned. On top of her worries, she's facing a possible lawsuit, and she agrees to help Jordan with his mother's issues. Rainer surprises Nina with a helpful solution, but her happiness is short-lived when her worst fears about Alan and Rainer are confirmed.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "Fifty Shades of Red", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nPaige deals with Jake's impending move to Austin, and a revelation about Cassie fractures their friendship. Meanwhile, Rainer starts searching for his real father, but he's thrown into a tailspin after he puts the pieces together. Later, Jordan tries to mend his relationship with Tangey, who feels betrayed by his secret. But when he shares information about his past, she considers forgiving him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Apr. 2017", 
+            "episodeName": "Leaving Los Angeles", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nRainer's downward spiral continues, and Paige searches for him after he disappears. Plus, Alexis receives bad news, and she takes revenge on Rachel. Jake briefly returns to Los Angeles, and Paige tries to confess her feelings. Meanwhile, Jordan attempts to handle the Barrett Hopper problem with an exclusive, but a shocking event stops the plan. Later, Nina stages a press conference to address Rainer's public meltdown, but things are disrupted by an unexpected appearance.    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "Famous in Love", 
+    "plot": "A college student's big break in a Hollywood blockbuster leaves her navigating through an undeniable chemistry, and uncovering the truth about a missing popstar.", 
+    "rating": 0, 
+    "releaseDate": "18 April 2017", 
+    "type": "tvserie"
+}

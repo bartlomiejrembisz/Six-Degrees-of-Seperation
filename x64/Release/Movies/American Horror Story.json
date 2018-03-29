@@ -1,0 +1,639 @@
+{
+    "actorList": [
+        "Evan Peters", 
+        "Sarah Paulson", 
+        "Denis O'Hare", 
+        "Jessica Lange", 
+        "Kathy Bates", 
+        "Angela Bassett", 
+        "Lily Rabe", 
+        "Frances Conroy"
+    ], 
+    "director": [
+        "Bradley Buecker", 
+        "Alfonso Gomez-Rejon", 
+        "Michael Uppendahl", 
+        "Loni Peristere", 
+        "Ryan Murphy", 
+        "Michael Goi", 
+        "Michael Lehmann", 
+        "David Semel", 
+        "Howard Deutch", 
+        "Jeremy Podeswa", 
+        "Michael Rymer"
+    ], 
+    "genres": [
+        "Drama", 
+        "Horror", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "5 Oct. 2011", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nTherapist Ben Harmon, his wife, Vivien, and their daughter, Violet, move across the country to Los Angeles to escape their troubled past.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Oct. 2011", 
+            "episodeName": "Home Invasion", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nSerial killer enthusiasts reenact the brutal murders of two nursing students, while Ben returns to Boston to fix a mistake involving an old flame.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Oct. 2011", 
+            "episodeName": "Murder House", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nBen confronts Moira about recent strange behavior, while Vivien learns about the house's first resident.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Oct. 2011", 
+            "episodeName": "Halloween: Part 1", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nTwo of the house's previous residents, interior designers Chad and Patrick, give the Harmons decorating advice.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Nov. 2011", 
+            "episodeName": "Halloween: Part 2", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhile on a date with Violet, Tate is harassed by a group of bloody teens. Ben and Vivien are haunted by one of the house's newest guests.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Nov. 2011", 
+            "episodeName": "Piggy Piggy", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nBen sees a new patient who is terrified by the legend of a man who slaughters those who repeat a specific mantra into a mirror.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Nov. 2011", 
+            "episodeName": "Open House", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMoira persuades a prospective buyer to make an offer. Constance and Larry work against her efforts.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Nov. 2011", 
+            "episodeName": "Rubber Man", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe man in the rubber suit is revealed.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Nov. 2011", 
+            "episodeName": "Spooky Little Girl", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nOne of history's most famous murder victims pays the house a visit. Constance discovers more of Tate's bad behavior.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Dec. 2011", 
+            "episodeName": "Smoldering Children", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nIn 1994, Larry gets burned. In the present, Ben begins to understand what happened to cause Vivien's institutionalization. Constance is questioned by the police in Travis' death. Violet learns something about herself that she doesn't know.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Dec. 2011", 
+            "episodeName": "Birth", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nVivien gives birth. Violet learns who fathered one of her new siblings.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Dec. 2011", 
+            "episodeName": "Afterbirth", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe aftermath of Vivien's difficult labour is revealed and Ben makes plans to get out of the house. Some of the spirits have other plans and the family has to pull together to make it through these very tough changes.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Oct. 2012", 
+            "episodeName": "Welcome to Briarcliff", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter a life-changing experience, a young man is admitted into a notorious insane asylum, while a local reporter is determined to get the full story.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Oct. 2012", 
+            "episodeName": "Tricks and Treats", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAn exorcist is summoned to Briarcliff to help save a troubled farm boy. Sister Jude's darkest secret is revealed.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Oct. 2012", 
+            "episodeName": "Nor'easter", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA group of patients plan an escape from the asylum during a violent storm.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Nov. 2012", 
+            "episodeName": "I Am Anne Frank: Part 1", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA new patient claiming to be Anne Frank exposes Arden's past. Kit learns why Grace was admitted to Briarcliff.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Nov. 2012", 
+            "episodeName": "I Am Anne Frank: Part 2", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSister Jude digs up dirt on Arden. Kit makes a surprising confession. Bloody Face is unmasked.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Nov. 2012", 
+            "episodeName": "The Origins of Monstrosity", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA mysterious little girl is abandoned at Briarcliff. The Monsignor makes a Faustian pact with Dr. Arden. The origin of Bloody Face is revealed.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Nov. 2012", 
+            "episodeName": "Dark Cousin", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nSister Mary Eunice is terrified to discover a dark angel has descended on Briarcliff. Kit makes a bold move to be reunited with Grace.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Dec. 2012", 
+            "episodeName": "Unholy Night", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA murderous Santa wrecks havoc on the asylum. Sister Jude faces off with the Devil. Arden has a shocking encounter in the Death Chute.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Dec. 2012", 
+            "episodeName": "The Coat Hanger", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe Monsignor takes on an unlikely convert. Lana secures a new piece of evidence that can exonerate Kit. Arden witnesses a miraculous return.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Jan. 2013", 
+            "episodeName": "The Name Game", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe Monsignor confronts the Devil. Arden's experiments reach a shocking conclusion. Dr. Thredson facilitates a surprising reunion for Kit.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Jan. 2013", 
+            "episodeName": "Spilt Milk", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nGrace brings Kit devastating news about the aliens' experiments on Alma. Dr. Thredson receives an unexpected visitor. The Monsignor goes to extreme lengths to silence Jude.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Jan. 2013", 
+            "episodeName": "Continuum", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA deadly new inmate threatens Sister Jude's chance of release from Briarcliff. Grace's obsession with the aliens turns violent.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Jan. 2013", 
+            "episodeName": "Madness Ends", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nJohnny sets out to complete his father's work. Lana leads the charge to finally shut down Briarcliff.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Oct. 2013", 
+            "episodeName": "Bitchcraft", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter discovering her unique bloodline, a young girl is whisked away to a special academy for girls who share the same lineage.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Oct. 2013", 
+            "episodeName": "Boy Parts", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFiona threatens a long-standing peace when she delves into Madame LaLaurie's past, while Zoe and Madison must deal with a horrible tragedy.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Oct. 2013", 
+            "episodeName": "The Replacements", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nFiona takes on an unlikely protege. A guilt-ridden Zoe tries to give Kyle his old life back. Madison has a fiery exchange with Joan Ramsey, a new neighbor.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "30 Oct. 2013", 
+            "episodeName": "Fearful Pranks Ensue", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFiona's choices rattle a decades-long truce between the Salem witches and Marie Laveau. The Council of Witchcraft pays a surprise visit to the Academy with disturbing allegations.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Nov. 2013", 
+            "episodeName": "Burn, Witch. Burn!", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nZoe reveals a new power during the zombie army siege. Meanwhile, Fiona exacts revenge on Myrtle when an attack leaves Cordelia blinded.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Nov. 2013", 
+            "episodeName": "The Axeman Cometh", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen Zoe, Queenie and Nan use a ouija board to find out what happened to Madison, they awaken the spirit of a long-dead serial killer, the Axeman.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Nov. 2013", 
+            "episodeName": "The Dead", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFiona finds new purpose in a dangerous love affair. A night out with LaLaurie leads Queenie to question her place in the Coven. Cordelia makes a fateful decision about her mother.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Dec. 2013", 
+            "episodeName": "The Sacred Taking", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWith Fiona struggling to cope with the effects of her medication, the rest of the coven undertake a ritual known as the \"sacred taking\" to prepare for the next supreme. However Fiona must take her own life if the ritual is to be a success.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Dec. 2013", 
+            "episodeName": "Head", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nCordelia's attacker is revealed. Fiona looks to form an alliance with Marie Laveau. Nan learns a disturbing truth about Luke's past.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Jan. 2014", 
+            "episodeName": "The Magical Delights of Stevie Nicks", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFiona attempts to out the new Supreme with a visit from Stevie Nicks. Cordelia learns the truth about Hank and the Witch Hunters. Madison tries to eliminate her competition for the Supremacy.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Jan. 2014", 
+            "episodeName": "Protect the Coven", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFiona and Laveau have a deadly face off with The Corporation. Cordelia makes a desperate sacrifice to protect the Coven.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Jan. 2014", 
+            "episodeName": "Go to Hell", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nCordelia's latest vision puts the Coven's future in question. With the end of Fiona's reign approaching, the girls manifest powerful new gifts. Queenie's search for Marie Laveau leads her to Hell and back.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Jan. 2014", 
+            "episodeName": "The Seven Wonders", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nZoe, Madison, Misty and Queenie undergo the test of the Seven Wonders, seven magical challenges that will determine the coven's next Supreme.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Oct. 2014", 
+            "episodeName": "Monsters Among Us", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter their mother's murder, conjoined twins Bette and Dot are hired by struggling freak show owner Elsa Mars.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Oct. 2014", 
+            "episodeName": "Massacres and Matinees", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWith a killer on the loose, police impose a curfew on Jupiter. Elsa hires a strongman, unaware of his dark past with Ethel.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 Oct. 2014", 
+            "episodeName": "Edward Mordrake: Part 1", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nElsa defies superstition to rehearse on Halloween, summoning the spirit of Edward Mordrake and his ghostly band of freaks.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "29 Oct. 2014", 
+            "episodeName": "Edward Mordrake: Part 2", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMordrake hunts for a freak soul to add to his ghost troupe. Jimmy and Maggie have a run-in with Twisty the clown.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 Nov. 2014", 
+            "episodeName": "Pink Cupcakes", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nStanley makes a plan to abduct and kill the Tattlers. However, Elsa has her own plan for getting rid of the sisters. Meanwhile, Dandy selects his first victim.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Nov. 2014", 
+            "episodeName": "Bullseye", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nElsa prepares for her television show by bringing out a new act. Meanwhile, Paul pursues romance and the twins settle in to their new home.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 Nov. 2014", 
+            "episodeName": "Test of Strength", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAfter Dell attacks one of their own, the women of the camp plan revenge. Stanley tries to blackmail one of the freaks, and Penny confronts her father.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Dec. 2014", 
+            "episodeName": "Blood Bath", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe freaks mourn the death of one of their own, while Elsa welcomes a new performer. Penny and her new friends get revenge on her father.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Dec. 2014", 
+            "episodeName": "Tupperware Party Massacre", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJimmy wallows in self-pity, and Dandy sets out to destroy the man who deprived him of the twins. Meanwhile, Desiree meets an old flame, and Elsa and Stanley track the Tattlers.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Dec. 2014", 
+            "episodeName": "Orphans", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA death at the camp causes Elsa to seek out a new home for Pepper. Meanwhile, Desiree has enough of Dell's failure as a husband, and Stanley lends Jimmy a hand.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Jan. 2015", 
+            "episodeName": "Magical Thinking", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA traveling salesman named Chester convinces Elsa to hire him as a magician for the show. The twins set their sights on the newcomer, while Dell and Eve help Jimmy escape.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Jan. 2015", 
+            "episodeName": "Show Stoppers", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe freaks exact poetic justice after learning of Stanley's sins. Maggie tries to make amends with Jimmy, and Dandy tells the Tattlers some troubling information about Chester.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Jan. 2015", 
+            "episodeName": "Curtain Call", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nDandy prepares for his debut performance. The Tattlers contemplate marriage, while in Hollywood, Elsa discovers she's further from love than ever before.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Oct. 2015", 
+            "episodeName": "Checking In", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA pair of foreign sisters check into the Hotel Cortez, while an L.A. detective investigates a brutal murder.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "14 Oct. 2015", 
+            "episodeName": "Chutes and Ladders", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFashion mogul Will Drake brings couture to the Hotel Cortez. A model catches the Countess' eye. John learns about the hotel's sadistic first owner.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "21 Oct. 2015", 
+            "episodeName": "Mommy", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJohn deals with marital issues. Donovan is targeted by a dangerous rival of the Countess.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "28 Oct. 2015", 
+            "episodeName": "Devil's Night", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJohn receives an invitation to attend an exclusive Devil's Night Soiree. Alex tries to diagnose Holden's strange condition.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "4 Nov. 2015", 
+            "episodeName": "Room Service", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAlex uses an unconventional treatment to save a dying patient; a Halloween-hating couple tests Iris's limits.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "11 Nov. 2015", 
+            "episodeName": "Room 33", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nRamona and Donovan enact their plan for revenge; Liz Taylor finds true love; the resident of Room 33 is revealed.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "18 Nov. 2015", 
+            "episodeName": "Flicker", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWill Drake's renovations uncover one of the hotel's greatest secrets; John undergoes psychiatric evaluation; The Countess learns the fate of her first love.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 Dec. 2015", 
+            "episodeName": "The Ten Commandments Killer", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nJohn closes in on the Ten Commandments Killer and Sally details her arrangements with Mr. March.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Dec. 2015", 
+            "episodeName": "She Wants Revenge", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe Countess is reunited with her one true love; Donovan and Ramona take another stab at revenge; a careless decision lands Alex in hot water.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "16 Dec. 2015", 
+            "episodeName": "She Gets Revenge", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAlex enlists John's help in containing an outbreak; Donovan learns The Countess' true intentions; Liz and Iris plan to leave the hotel for good.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Jan. 2016", 
+            "episodeName": "Battle Royale", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nRamona draws vitality from an unlikely source. Sally uses her past to negotiate her future. Scarlett learns the truth of her family's affliction.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Jan. 2016", 
+            "episodeName": "Be Our Guest", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nIris and Liz oversee a new era at the Cortez. John and Alex struggle to adapt to life outside the hotel.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "14 Sep. 2016", 
+            "episodeName": "Chapter 1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMatt and Shelby, a couple from Los Angeles, leave the city and move into a mysterious house in North Carolina, where strange things begin to occur.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "21 Sep. 2016", 
+            "episodeName": "Chapter 2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhile the Millers discover some of their house's history, Lee falls into old habits and her daughter, Flora, makes a new friend.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "28 Sep. 2016", 
+            "episodeName": "Chapter 3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe search for Flora continues as the situation grows more and more dire. The Millers talk to a paranormal expert to help them with their problem.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "5 Oct. 2016", 
+            "episodeName": "Chapter 4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nShelby and Matt are saved from someone who could help them find Flora. More is learned about the colonist and the Witch.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Oct. 2016", 
+            "episodeName": "Chapter 5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe Butcher and her mob arrive at the house, with intent on killing Matt and Shelby, who are saved by an unlikely ally. The origins of the house are revealed.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Oct. 2016", 
+            "episodeName": "Chapter 6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAfter the wrap of the show My Roanoke Nightmare, the producer creates a follow up show called Return to Roanoke, bringing the actors of the previous show and the real Shelby, Matt, and Lee, back to the house.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 Oct. 2016", 
+            "episodeName": "Chapter 7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAudrey, Lee, and Monet find themselves in grave danger as they search for Rory; Agnes comes back for revenge; Matt and Shelby deal with the ramifications of their situation.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 Nov. 2016", 
+            "episodeName": "Chapter 8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAudrey, Monet, and Lee remain hostages of the Polks, while Shelby and Dominic try to think of a way to escape the wrath of The Butcher back at the house.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Nov. 2016", 
+            "episodeName": "Chapter 9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA new actor shows up to the house per Sidney's request; three young adults enter the woods to shoot footage of the blood moon and the history of the house for the web. Meanwhile Lee, Monet and Audrey remain on the run.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "16 Nov. 2016", 
+            "episodeName": "Chapter 10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nLee Harris, the lone survivor of Return to Roanoke: Three Days in Hell, agrees to an interview live on television, the Lana Winters Special.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "Sep. 2017", 
+            "episodeName": "Episode #7.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "Sep. 2017", 
+            "episodeName": "Episode #7.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #7.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #7.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #7.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #7.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #7.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #7.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #7.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #7.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #7.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #8.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #9.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 9
+        }
+    ], 
+    "name": "American Horror Story", 
+    "plot": "An anthology series that centers on different characters and locations, including a house with a murderous past, an insane asylum, a witch coven, a freak show, a hotel and a sinister farmhouse.", 
+    "rating": 8.2, 
+    "releaseDate": "5 October 2011", 
+    "type": "tvserie"
+}

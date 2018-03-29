@@ -1,0 +1,557 @@
+{
+    "actorList": [
+        "Claire Danes", 
+        "Mandy Patinkin", 
+        "Rupert Friend", 
+        "F. Murray Abraham", 
+        "Damian Lewis", 
+        "Morena Baccarin", 
+        "Jackson Pace", 
+        "Morgan Saylor"
+    ], 
+    "director": [
+        "Lesli Linka Glatter", 
+        "Michael Cuesta", 
+        "Daniel Attias", 
+        "Clark Johnson", 
+        "Keith Gordon", 
+        "Seith Mann", 
+        "Alex Graves", 
+        "Tucker Gates", 
+        "Guy Ferland", 
+        "Jeffrey Nachmanoff", 
+        "Carl Franklin", 
+        "Michael Offer"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "2 Oct. 2011", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nEight years after being listed as missing in action and presumed dead in Iraq, Marine Corps Sgt. Nicholas Brody is found alive in an Al Qaeda prison. He returns home to a hero's welcome and begins reconnecting with his family. His wife Jessica welcomes him back while his daughter Dana has only a slim memory of him. Son Chris doesn't remember him at all. He's not aware that his wife had begun a serious relationship with his best friend. Meanwhile, CIA agent Carrie Mathison has been back in Washington for 10 months after a tour of duty in Iraq that ended when she bribed...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Oct. 2011", 
+            "episodeName": "Grace", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nVirgil and Carrie's illegal surveillance of the Brody home is covered for a month by a dodgy court order Saul Berenson gets from 'vulnerable' judge Jeffrey Turner. Unfortunately Carrie's surveillance crew failed to install cameras in the garage, where Nicholas piously performs Muslim prayers. Inside, he's rather aloof with his family and suffers torture nightmares during which he hurtfully grabs his wife. Young son Chris bravely handles witnessing the sergeant decking a provocative reporter with a single throat punch. The theory his hand twitches are a code is ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Oct. 2011", 
+            "episodeName": "Clean Skin", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nNicholas Brody quickly proves himself a welcome father for already doting son Chris and even brat Dana, who for his sake swallows her objections to a \"hero's perfect family\" TV show, despite her mother's adultery. Prince Farid Bin Abbud nearly catches Lynne Reed copying his cellphone, which yields no information about financial transactions the CIA hopes to trace, and gives her a precious diamond necklace. Since the CIA refused to provide a protection team and Carrie and Virgil fail to trace her in time, her murderer can easily escape with the necklace. As Saul ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Oct. 2011", 
+            "episodeName": "Semper I", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPolitical powers make big plans to promote Brody as a national hero, but erratic behavior on his part threatens his media image.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Oct. 2011", 
+            "episodeName": "Blind Spot", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA man is captured by the CIA in Islamabad, who turns out to be Brody's former guard and torturer while he was a prisoner. The man is interrogated by Saul, but Brody wants to see him in person.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Nov. 2011", 
+            "episodeName": "The Good Soldier", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nCarrie manages to prepare a polygraph test for the 11 people who were near Afsal Hamid, including Sgt. Brody. Meannwhile, she tries to get closer to Brody using other personal methods.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Nov. 2011", 
+            "episodeName": "The Weekend", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAileen is taken into custody by Saul in Mexico. Meanwhile, Carrie and Brody share some quality time at a cabin in the woods, owned by Carrie's family. Everything seems to be going well until shocking revelations are made.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Nov. 2011", 
+            "episodeName": "Achilles Heel", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhile Carrie and Saul are left reeling by the news that Walker is alive, the intelligence organizations squabble over how to capture him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Nov. 2011", 
+            "episodeName": "Crossfire", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nBrody's efforts to sever ties with Abu Nazir triggers flashbacks to his time as a captive. Meanwhile, the mosque shooting results in a public-relations nightmare for Carrie.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Dec. 2011", 
+            "episodeName": "Representative Brody", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWalker's Washington contact is identified by Carrie and Saul, but the target is protected via diplomatic immunity. Meanwhile, political bigwigs approach Brody about running for a disgraced congressman's seat.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Dec. 2011", 
+            "episodeName": "The Vest", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhen the dust settles from an explosion, Saul finds a manic Carrie hospitalized and realizes there may be merit to her wild theories.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Dec. 2011", 
+            "episodeName": "Marine One", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nIn the Season 1 finale, a near-catatonic Carrie is confined to bed as Saul puzzles over the unnerving implications of her time line.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Sep. 2012", 
+            "episodeName": "The Smile", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAn asset from Carrie's former life comes in from the cold. Freshman Congressman Nick Brody discovers that Abu Nazir may not be content with his nonviolent approach to affecting change in American foreign policy.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Oct. 2012", 
+            "episodeName": "Beirut Is Back", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nBefore she makes it to a safe house, Carrie interviews the wife of a Lebanese official on her own, learning that Abu Nazir will be in Beirut the next day. Estes and Saul are skeptical, fearing that the CIA is being set up; Carrie believes the informant. Back in D.C., Dana makes an unexpected friend, Jessica takes a step into political high society, Brody's Army buddies want him to get to the bottom of why the unerring Tom Walker missed when he shot at the Vice President, and Brody gets an invitation to the Pentagon. Will Nazir show up, or is it an ambush. How will ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Oct. 2012", 
+            "episodeName": "State of Independence", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJessica's fund-raising dinner for veterans is tonight, with Brody making a speech and with her also in full view of D.C. high society. With tension between them early that afternoon, is a reconciliation at hand? Then Brody gets a call from Roya, sending him to Pennsylvania. As the afternoon wanes, Jessica calls him and he makes up stories. Will he get to the dinner in time? Carrie works on her report through the night and looks forward to the debrief at Langley at 6:00 PM. How will she respond to a fresh discovery of how the CIA values her?    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Oct. 2012", 
+            "episodeName": "New Car Smell", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJess suggests to Brody that he pack a bag if he won't tell her the truth. The CIA has him under 24-hour surveillance from an off-site location run by Peter Quinn, Estes' loyal and acerbic man. They decide to push Brody by having him run into Carrie outside Langley. That night, he's checked into a hotel, he's sitting at the bar, and he reaches for his phone. That afternoon, a drunk Lauder visits Jess; when she can't reach Brody, she calls Mike. Lauder pushes Mike to think anew about Walker and Brody. Dana's relationship with the Vice President's son includes a visit to...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Oct. 2012", 
+            "episodeName": "Q&A", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nBrody finds himself prisoner again, but this time it's on American soil. Meanwhile, Carrie is forced to play second fiddle after her rash judgment call at the hotel as Estes is busy keeping Jessica off their trail.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Nov. 2012", 
+            "episodeName": "A Gettysburg Address", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMore secrets. Roya talks to an unknown man in a park: what do they say to each other? Peter takes a crew to search the bomb-making tailor's shop in Gettysburg: is there anything to find? Lauder's speculations about Walker's death send Mike to talk to Estes, and Dana goes to the hospital to check on a hit-and-run victim. Brody tells Jessica that Carrie's not involved in his new relationship with the CIA, and Saul checks on Carrie to make sure she's okay with her new relationship with Brody.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Nov. 2012", 
+            "episodeName": "The Clearing", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFearing an attack is imminent, Saul goes to a federal prison to interview Aileen (whom he brought back from the U.S.-Mexican border a year or so ago) and Carrie, under orders from Quinn, presses Brody to find out from Roya what's going on. Brody and his family are at a weekend fundraiser for Walden at the mansion of a self-made Vietnam vet. Dana wants Finn to go to the police with her. Carrie visits with Mike. Aileen is depressed and uncooperative, so Saul agrees to get her a cell with a window in exchange for her help. Is this the break they need? And what of Dana ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Nov. 2012", 
+            "episodeName": "I'll Fly Away", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nDana's disgust with dad leads to his shouting at Jessica and then telling Roya and the CIA that he's out, he's quitting. Can Carrie talk him out of depression, convince him to reconnect with Roya, and also convince Estes and Quinn to trust her judgment? Dana goes to Mike's for comfort and safety, then has him drive her to the home in Columbia Heights of the woman who died in the hit and run. A new dilemma faces her there.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Nov. 2012", 
+            "episodeName": "Two Hats", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhere's Brody? Is he compromised? The CIA is about to roll up Roya when Brody gets word to them that he's okay. Once his family is safe, he will share details of a planned attack and Abu Nazir's first-hand involvement. The CIA has Mike take the family to a safe house, but should they believe Brody's report? Saul and Carrie check into Quinn's background, the Vice President gets a briefing on the situation, and Carrie encourages Brody with the promise that everything will soon be over.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Dec. 2012", 
+            "episodeName": "Broken Hearts", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBrody rejoins his family and Mike takes his leave. Then Brody gets a call that Carrie is in mortal danger - only he can save her, but at a price? Saul continues his inquiry into who Peter Quinn is and why he's on this assignment: there are consequences when he figures it out. Finn pays a visit to Dana, and Brody pays a call on the Vice President's residence.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Dec. 2012", 
+            "episodeName": "In Memoriam", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nExhaustion all around. Carrie tracks Abu Nazir through the abandoned factory where she had been a hostage, but he slips away. Teams of FBI find nothing, so Carrie suspects that someone on the team has helped Nazir escape. She interrogates Roya and prompts an outburst. Estes puts Saul through a lie detector test with the promise of wrapping him in red tape. After Dana throws a fit, Brody, Jess, and the kids are released from protective custody; back at their house, Brody decides it's time to tell Jessica the truth.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Dec. 2012", 
+            "episodeName": "The Choice", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nBrody, Carrie, Estes, Quinn, and Dana must make choices. Brody and Carrie repair to the lakeside cabin where their affair took a serious turn some months ago. Quinn is watching from across the lake, with orders from Estes. A high-powered rifle is at his side. Saul is locked down with a minder while Estes covers tracks. The CIA plans a memorial as well as a burial at sea.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Sep. 2013", 
+            "episodeName": "Tin Man Is Down", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nNow director Estes is dead and Brody disappeared, the decapitated CIA mourns over 200 casualties and fears for its very existence unless a congressional commission can be appeased despite its hostile chairman. Saul Berenson is promoted director, seconded by Dar Adal, who pushes him to go ahead with a coordinated lethal strikes on six main henchmen in different countries, alas without the director of the Iranian Revolutionaru Guard secret division which is held responsible. While most are killed from the air, Peter Quinn must penetrate a Caracas mansion to manually ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Oct. 2013", 
+            "episodeName": "Uh... Oh... Ah...", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nPeter Quinn protests to Saul, on account of Carrie being blamed solely for the Brody and bomb disaster. Peter visits her in a CIA psych ward, where she's collocated due to her erratic aggression which extends even to him. Saul recruits a new financial analyst, Fara Sherazi, to investigate the financing of the Iran-directed terrorists he suspects, then leans heavily on the collaborating New York bankers. Unlike sensible Chris, mother Jessica remains clueless about the frustration about father motivating Dana's genuine suicide attempt. Worse, by opposing Dana's ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Oct. 2013", 
+            "episodeName": "Tower of David", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nCarrie has now been in the psychiatric ward of the hospital for three weeks back on her meds. She is on a no visitor directive. She does whatever she needs to do to get dismissed, even stating that she appreciated what Saul did for her in getting her admitted. Wanting to get out is despite she herself knowing that she is not in full control of her faculties. She also learns that someone has come by wanting to see her, that person who she is certain is Saul. However, that person has different thoughts as to Carrie's future than she probably has in mind. Meanwhile, ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Oct. 2013", 
+            "episodeName": "Game On", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nCarrie hopes to be released given effective medication and family support, but sees both as sabotage. Paul Franklin's law firm however gets her released for a day, so they can offer her freedom and an end to the freezing of her assets (so she must crash with and steal from a friend) in exchange for 'consulting' their client, implied Iran, on the sixfold CIA-vengeance-killings, just as Saul hoped. Leo Carras sneaks out of the mental institution for a wild drive with enamored Dana, confiding about his kid brother's suicide, but Mike Faber finds out he has darker secrets...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Oct. 2013", 
+            "episodeName": "The Yoga Play", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSaul hopes to be appointed regular CIA director when summoned to the presidential chief of staff's geese hunt, but senator Andrew Lockhart is the one toasted as nominee. Quinn is meanwhile taken into confidence and asked to supervise Carrie, who dumps her medication again. She even risks arousing suspicion from Iranian spy chief Majid Javadi's personal henchmen by abusing the 'yoga class' alibi to summon an FBI agent to check out runaway Dana, who is spooked by broadcast reports about lover Leo's allegedly fratricidal past, and dumps him as another 'liar'. Majid's men...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Nov. 2013", 
+            "episodeName": "Still Positive", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhile Saul pretends not to mind being passed over, nominated CIA director senator Andrew Lockhart turns to Dar Adal to 'clean out the closet'. Only Quinn is told about Carrie's triple agent mission. She's roughly abducted and fails Iranian secret service vice director Majlis's lie detector test, but plays the Venezuelan accounts fraud card. He still manages to dispose of his ex first. Jessica is relieved when Dana, who claims the Brody burden is unbearable, adopts her maiden name, but the faithless daughter leaves home to move in with another dubious new friend, ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Nov. 2013", 
+            "episodeName": "Gerontion", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMajid Javadi is firmly in Saul's grip and seems to run out of excuses to give in to blackmail, so he's put on an airplane back to Teheran as double agent. As the police found his family's corpses, Quinn must take the blame and invoke national security to go free. It works, but disgust him enough to consider leaving the CIA, yet he accepts to help find out what happened to Brody. Majid assures Carrie that not Brady, but henchmen of his law firm helped Abu Nasir's men bomb the CIA site. Confident Dar Adal deserts senator Andrew Lockhart when Saul rather keeps his ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Nov. 2013", 
+            "episodeName": "A Red Wheelbarrow", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nSaul has only nine days left as interim CIA director and successor senator Andrew Lockhart opposes operation Majid, but the chief of staff agrees that Saul can continue the top-secret project so long. Saul also authorizes Quinn to lead a team to investigate Majid's suggestion that Brody didn't place the bomb and the real culprit is still in the States, handled by 'his' law firm. After Dar Adal 'warns' his golf contact, senior partner Leland Bennett, his deputy Paul Franklin is instructed to get rid of him. When he turns up armed, pregnant Carrie breaks orders and has ...    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Nov. 2013", 
+            "episodeName": "One Last Thing", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSaul has found and rescued Brody and is now trying to help him recover from addiction. A task that proved to be a little challenging, so Saul turns to Carrie for help. She only agrees to help after she hears about Saul's new plan.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Dec. 2013", 
+            "episodeName": "Good Night", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBrody tries to get in Iran as an informer with the help of CIA.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Dec. 2013", 
+            "episodeName": "Big Man in Tehran", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhile Brody starts his mission in Tehran intending to kill the grand general of Iran, Carrie tries to give local support and a extraction plan for him.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Dec. 2013", 
+            "episodeName": "The Star", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWith Akbari dead, Carrie and Brody try to get to a safe house and wait for extraction.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Oct. 2014", 
+            "episodeName": "The Drone Queen", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCarrie makes a crucial decision after learning pressing intelligence; Saul struggles to adjust to his new role in the private sector.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 Oct. 2014", 
+            "episodeName": "Trylon and Perisphere", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nCarrie returns home to the states for an inquiry; Quinn spins out of control; a disgraced former case officer discloses information of great interest.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Oct. 2014", 
+            "episodeName": "Shalwar Kameez", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nCarrie ventures a delicate alliance with the Pakistan's secretive Inter-Services Intelligence (ISI). Fara fails to recruit a key asset, forcing Carrie to intervene. After the events in Islamabad, Quinn zeroes in on a potential lead.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 Oct. 2014", 
+            "episodeName": "Iron in the Fire", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nCarrie gets a tip from Redmond regarding Quinn's lead. Saul calls in a favor with an old friend in the Pakistani military. Fara uncovers a deep-rooted conspiracy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "26 Oct. 2014", 
+            "episodeName": "About a Boy", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nCarrie works a frightened asset. Quinn and Fara stake out a new suspect.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 Nov. 2014", 
+            "episodeName": "From A to B and Back Again", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nCarrie puts her operation in motion, staging an attack on herself and Ayaan to make him flee to his uncle in the North. But where is Saul?    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Nov. 2014", 
+            "episodeName": "Redux", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nLockhart arrives. Carrie's investigation gets complicated.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Nov. 2014", 
+            "episodeName": "Halfway to a Donut", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nCarrie organizes a last-ditch operation. Lockhart and Martha stall the ISI.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Nov. 2014", 
+            "episodeName": "There's Something Else Going On", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nCarrie improvises to salvage her mission. The CIA closes in on a leak.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Dec. 2014", 
+            "episodeName": "13 Hours in Islamabad", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe security breach at the Embassy has far reaching consequences.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Dec. 2014", 
+            "episodeName": "Krieg Nicht Lieb", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nCarrie puts her life on the line to get her team out of Pakistan.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Dec. 2014", 
+            "episodeName": "Long Time Coming", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nBack in the States, Carrie and Saul investigate what she saw in Islamabad.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Oct. 2015", 
+            "episodeName": "Separation Anxiety", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCarrie is thrust back into the world she left behind.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "11 Oct. 2015", 
+            "episodeName": "The Tradition of Hospitality", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nCarrie and D\u00fcring visit a refugee camp. Saul and Allison are at odds.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "18 Oct. 2015", 
+            "episodeName": "Super Powers", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJonas and Carrie revisit her past. Quinn stalks his prey.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Oct. 2015", 
+            "episodeName": "Why Is This Night Different?", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nCarrie is told who the person that wants her dead is but she doesn't believe it. In order to stay alive Quinn helps Carrie stage her death.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Nov. 2015", 
+            "episodeName": "Better Call Saul", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nQuinn covers for Carrie. Dar and Allison assess the damage.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Nov. 2015", 
+            "episodeName": "Parabiosis", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nSaul orders a sweep at the station. Carrie looks to D\u00fcring for support.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Nov. 2015", 
+            "episodeName": "Oriole", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nCarrie reconnects with old friends. Saul opens up to Allison.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Nov. 2015", 
+            "episodeName": "All About Allison", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nCarrie needs Allison's help. Quinn's plans change.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Nov. 2015", 
+            "episodeName": "The Litvinov Ruse", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe CIA and BND make a play, while Quinn reaches a terrifying discovery.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Dec. 2015", 
+            "episodeName": "New Normal", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhile the questioning of Alison continues, the footage of Quinn is being released with threats and demands, and the search for the responsible individuals begins, all hands on deck.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Dec. 2015", 
+            "episodeName": "Our Man in Damascus", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nCarrie follows a lead.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Dec. 2015", 
+            "episodeName": "A False Glimmer", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe clock runs out.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Jan. 2017", 
+            "episodeName": "Fair Game", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCarrie returns home to the US with Franny to work as an advocate for Muslim Americans. Dar and Saul brief President-elect Keane. Quinn struggles with his new circumstances.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 Jan. 2017", 
+            "episodeName": "The Man in the Basement", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nCarrie and Reda fight for their client while Quinn fights against his new life. Saul and Dar suspect Keane has a secret.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "29 Jan. 2017", 
+            "episodeName": "The Covenant", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nSaul goes to Abu Dhabi. Carrie delivers bad news. Quinn senses something.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Feb. 2017", 
+            "episodeName": "A Flash of Light", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nCarrie handles her client. Saul's trip takes a turn. Quinn investigates.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Feb. 2017", 
+            "episodeName": "Casus Belli", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nIn the wake of devastation, Keane finds herself sidelined, Carrie makes a surprising discovery, and Peter's paranoia leads to chaos.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 Feb. 2017", 
+            "episodeName": "The Return", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nCarrie follows a lead. Saul meets an old friend. Keane takes a stand.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "5 Mar. 2017", 
+            "episodeName": "Imminent Risk", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nCarrie gets bad news. Saul makes a plan. Quinn accepts his situation.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Mar. 2017", 
+            "episodeName": "Alt.truth", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nCarrie and Saul present evidence to Keane. Quinn tracks a mark.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Mar. 2017", 
+            "episodeName": "Sock Puppets", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nCarrie catches a break. Keane makes a plan. Max goes undercover.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 Mar. 2017", 
+            "episodeName": "The Flag House", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nDar plays his hand. Quinn revisits his past.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 Apr. 2017", 
+            "episodeName": "R Is for Romeo", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nCarrie and Quinn make a discovery. Keane makes a decision. Max finds trouble.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "9 Apr. 2017", 
+            "episodeName": "America First", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nPieces fall into place.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #7.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #8.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }
+    ], 
+    "name": "Homeland", 
+    "plot": "A bipolar CIA operative becomes convinced a prisoner of war has been turned by al-Qaeda and is planning to carry out a terrorist attack on American soil.", 
+    "rating": 8.4, 
+    "releaseDate": "2 October 2011", 
+    "type": "tvserie"
+}

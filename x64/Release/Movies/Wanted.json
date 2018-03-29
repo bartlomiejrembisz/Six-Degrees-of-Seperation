@@ -1,0 +1,53 @@
+{
+    "actorList": [
+        "James McAvoy", 
+        "Morgan Freeman", 
+        "Angelina Jolie", 
+        "Terence Stamp", 
+        "Thomas Kretschmann", 
+        "Common", 
+        "Kristen Hager", 
+        "Marc Warren", 
+        "David O'Hara", 
+        "Konstantin Khabenskiy", 
+        "Dato Bakhtadze", 
+        "Chris Pratt", 
+        "Lorna Scott", 
+        "Sophiya Haque", 
+        "Brian Caspe", 
+        "Mark O'Neal", 
+        "Bridget McManus", 
+        "Bob Ari", 
+        "Brad Calcaterra", 
+        "Julia Copeland", 
+        "Claudia DiBiccari", 
+        "Sharlene Grover", 
+        "Michael Jeremiah", 
+        "John Joseph MacDonald", 
+        "Joseph Mazurk", 
+        "Tyson Minnick", 
+        "Larry Nazimek", 
+        "Eliyas Qureshi", 
+        "Amit Shah", 
+        "Scarlett Sperduto", 
+        "Giota Trakas", 
+        "Mike Whyte", 
+        "Bernadett Belinda York", 
+        "George Zerante", 
+        "Joshua Zumhagen"
+    ], 
+    "director": [
+        "Timur Bekmambetov"
+    ], 
+    "genres": [
+        "Action", 
+        "Crime", 
+        "Fantasy", 
+        "Thriller"
+    ], 
+    "name": "Wanted", 
+    "plot": "A frustrated office worker learns that he is the son of a professional assassin, and that he shares his father's superhuman killing abilities.", 
+    "rating": 6.7, 
+    "releaseDate": "12 June 2008 (London)\n (premiere)", 
+    "type": "movie"
+}

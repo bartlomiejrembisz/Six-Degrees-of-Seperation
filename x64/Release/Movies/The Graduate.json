@@ -1,0 +1,51 @@
+{
+    "actorList": [
+        "Anne Bancroft", 
+        "Dustin Hoffman", 
+        "Katharine Ross", 
+        "William Daniels", 
+        "Murray Hamilton", 
+        "Elizabeth Wilson", 
+        "Buck Henry", 
+        "Brian Avery", 
+        "Walter Brooke", 
+        "Norman Fell", 
+        "Alice Ghostley", 
+        "Marion Lorne", 
+        "Eddra Gale", 
+        "Frank Baker", 
+        "George Bruggeman", 
+        "Buddy Douglas", 
+        "Richard Dreyfuss", 
+        "Mike Farrell", 
+        "Elisabeth Fraser", 
+        "Donald F. Glut", 
+        "Harry Holcombe", 
+        "Jonathan Hole", 
+        "Robert P. Lieb", 
+        "Elaine May", 
+        "Eve McVeagh", 
+        "Lainie Miller", 
+        "Ben Murphy", 
+        "William H. O'Brien", 
+        "Sam O'Steen", 
+        "Noam Pitlik", 
+        "Hal Taggart", 
+        "Kevin Tighe", 
+        "Arthur Tovey", 
+        "David Westberg", 
+        "Jay Dee Witney"
+    ], 
+    "director": [
+        "Mike Nichols"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Drama"
+    ], 
+    "name": "The Graduate", 
+    "plot": "A disillusioned college graduate finds himself torn between his older lover and her daughter.", 
+    "rating": 8.0, 
+    "releaseDate": "21 December 1967 (Los Angeles, California)\n (premiere)", 
+    "type": "movie"
+}

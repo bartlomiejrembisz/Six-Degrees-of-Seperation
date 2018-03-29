@@ -1,0 +1,38 @@
+{
+    "actorList": [
+        "Lamberto Maggiorani", 
+        "Enzo Staiola", 
+        "Lianella Carell", 
+        "Elena Altieri", 
+        "Gino Saltamerenda", 
+        "Giulio Chiari", 
+        "Vittorio Antonucci", 
+        "Michele Sakara", 
+        "Fausto Guerzoni", 
+        "Emma Druetti", 
+        "Carlo Jachino", 
+        "Giulio Battiferri", 
+        "Ida Bracci Dorati", 
+        "Nando Bruno", 
+        "Eolo Capritti", 
+        "Memmo Carotenuto", 
+        "Giovanni Corporale", 
+        "Sergio Leone", 
+        "Mario Meniconi", 
+        "Massimo Randisi", 
+        "Checco Rissone", 
+        "Peppino Spadaro", 
+        "Umberto Spadaro"
+    ], 
+    "director": [
+        "Vittorio De Sica"
+    ], 
+    "genres": [
+        "Drama"
+    ], 
+    "name": "Ladri di biciclette", 
+    "plot": "In post-war Italy, a working-class man's bicycle is stolen. He and his son set out to find it.", 
+    "rating": 8.3, 
+    "releaseDate": "24 November 1948", 
+    "type": "movie"
+}

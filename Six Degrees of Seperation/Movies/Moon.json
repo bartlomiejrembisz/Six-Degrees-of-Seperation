@@ -1,0 +1,28 @@
+{
+    "actorList": [
+        "Sam Rockwell", 
+        "Kevin Spacey", 
+        "Dominique McElligott", 
+        "Rosie Shaw", 
+        "Adrienne Shaw", 
+        "Kaya Scodelario", 
+        "Benedict Wong", 
+        "Matt Berry", 
+        "Malcolm Stewart", 
+        "Robin Chalk", 
+        "Gavin Rothery"
+    ], 
+    "director": [
+        "Duncan Jones"
+    ], 
+    "genres": [
+        "Drama", 
+        "Mystery", 
+        "Sci-Fi"
+    ], 
+    "name": "Moon", 
+    "plot": "Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.", 
+    "rating": 7.9, 
+    "releaseDate": "23 January 2009 (Sundance Film Festival)", 
+    "type": "movie"
+}

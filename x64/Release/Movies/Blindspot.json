@@ -1,0 +1,355 @@
+{
+    "actorList": [
+        "Kelly P. Williams", 
+        "Sullivan Stapleton", 
+        "Jaimie Alexander", 
+        "Rob Brown", 
+        "Audrey Esparza", 
+        "Ashley Johnson", 
+        "Ukweli Roach", 
+        "Marianne Jean-Baptiste", 
+        "Kelly Aaron", 
+        "Luke Mitchell", 
+        "Michelle Hurd", 
+        "Archie Panjabi"
+    ], 
+    "director": [
+        "Rob Seidenglanz", 
+        "Marcos Siega", 
+        "David McWhirter", 
+        "Mark Pellington", 
+        "Jeff T. Thomas", 
+        "Jeff King", 
+        "Karen Gaviola", 
+        "Rob Hardy", 
+        "Steve Shill"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "21 Sep. 2015", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nJane Doe gets discovered and together with a team of FBI agents, they try to discover her past and who she is.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Sep. 2015", 
+            "episodeName": "A Stray Howl", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA tattoo points to an Air Force pilot with a difficult past; a disturbing memory haunts Jane; Weller believes he knows Jane's identity.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Oct. 2015", 
+            "episodeName": "Eight Slim Grins", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA member of a jewel heist crew is caught during a robbery & physical evidence shows he has unknown ties to Jane Doe. Someone from her past visits her but is unable to relay any useful information in time.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Oct. 2015", 
+            "episodeName": "Bone May Rot", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPatterson and her puzzle-expert boyfriend, David decode a tattoo clue that sends the team to the Centers for Disease Control (CDC). While at the CDC, the team discovers a hidden message on Jane's body that uncovers a plot that could have catastrophic global consequences. Meanwhile, Jane and Weller grow closer.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Oct. 2015", 
+            "episodeName": "Split the Law", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAfter a seemingly straightforward hostage situation turns out to have deeper international implications, the CIA and FBI find themselves racing against each other to apprehend the same criminal with a dark history. Carter expresses concern about Jane's trustworthiness, causing friction with Mayfair and testing Reade's loyalty to the team. Meeting Weller's family proves overwhelming for Jane as she grapples with her identity.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Oct. 2015", 
+            "episodeName": "Cede Your Soul", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhen an assassination leads the team to a dangerous app that allows criminals to track government vehicles, they have to work with the app's surprising creator to take it down. Jane and Weller attempt to keep their relationship professional. Zapata struggles with a moral issue.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Nov. 2015", 
+            "episodeName": "Sent on Tour", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nOne of Jane's tattoos sends the team to a remote location where they find themselves face to face with a dangerous criminal in a case that puts Jane and Weller's strained relationship to the test and threatens to expose Mayfair's secrets. Meanwhile, Patterson breaks the rules to solve a tattoo puzzle.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Nov. 2015", 
+            "episodeName": "Persecute Envoys", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAfter a police officer is murdered, Patterson unlocks a disturbing tattoo that appears to have predicted his killing, and the team chases a violent clue trail to stop further attacks. Mayfair reveals secrets from her past to Weller, seriously testing their relationship.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Nov. 2015", 
+            "episodeName": "Authentic Flirt", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJane and Weller go undercover as a top-notch assassin couple in order to protect some lethal info. Meanwhile, David tries to repair his relationship with Patterson; and Carter and Mayfair disagree about how to deal with a menacing person.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Nov. 2015", 
+            "episodeName": "Evil Handmade Instrument", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nSleeper spies get activated and prepare for assassinations so the team rushes to stop them.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Feb. 2016", 
+            "episodeName": "Cease Forcing Enemy", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nJane reels from a series of massive revelations about her tattoos and grapples with whether to trust Oscar; A tattoo leads the team to a shocking discovery at the Black Sea.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Mar. 2016", 
+            "episodeName": "Scientists Hollow Fortune", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nTeller's team investigate an ex-soldier who starts killing people, even though he's supposed to be dead. Moreover, they find the same drug that was used to wipe out Jane's memory in his system. Jane looks for answers when seeing Oscar.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Mar. 2016", 
+            "episodeName": "Erase Weary Youth", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAfter a tip reveals a mole within the FBI, the team must hunt for the operative while facing extreme scrutiny from Inspector Fischer; The team's deepest secrets threatened to be exposed and everyone is a potential suspect.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Mar. 2016", 
+            "episodeName": "Rules in Defiance", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAn anonymous tip leads the team to investigate an urgent death row case, sending Zapata undercover; After nearly getting caught during the mole hunt, Jane considers leaving the FBI.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Mar. 2016", 
+            "episodeName": "Older Cutthroat Canyon", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAfter a painting featuring one of Jane's tattoos is heisted from a gallery, the team discovers Jane is the real target. In order to protect her team, Jane goes AWOL.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Apr. 2016", 
+            "episodeName": "Any Wounded Thief", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAfter an armored truck is robbed, the team discovers that the stolen goods are chemical weapons and they must race to thwart a terrorist plot; Jane grapples with a confusing memory of Weller; Patterson receives a phone call from someone from her past.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Apr. 2016", 
+            "episodeName": "Mans Telepathic Loyal Lookouts", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nPatterson discovers a hidden message in the New York Times crossword and embarks on a tattoo scavenger hunt that leads her into danger; Oscar finally tells Jane more about who she was.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Apr. 2016", 
+            "episodeName": "One Begets Technique", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nRich Dotcom realizes he will never survive in prison, so he decides to give the FBI the option to capture Shohid Ahtar. The man who finances many of worlds terrorist organisations. But to get to him, the FBI needs to steal some paintings to lure him out.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Apr. 2016", 
+            "episodeName": "In the Comet of Us", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nA shooting takes place on a college campus while the team is investigating one of Jane's tattoos. The team halts their investigation to hunt for the shooter. Meanwhile someone from Mayfair's past resurfaces.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 May 2016", 
+            "episodeName": "Swift Hardhearted Stone", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe team protects a young girl with a tattoo connection and ties to a terrorist organization; Jane is conflicted; Borden and Patterson's friendship starts to bloom.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 May 2016", 
+            "episodeName": "Of Whose Uneasy Route", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nCriminal hackers infiltrate the FBI building, causing it to be locked down while the team is trapped inside; personal conflicts ignite as the team members struggle in close quarters.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 May 2016", 
+            "episodeName": "If Love a Rebel, Death Will Render", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe team races to identify an abandoned infant with the same tattoo as jane    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 May 2016", 
+            "episodeName": "Why Await Life's End", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nWeller searches for the truth within a heartbreaking and confounding assertion. And while Jane reaches out to a former suspect for help with Oscar, the rest of the team struggle to help a friend.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Sep. 2016", 
+            "episodeName": "In Night So Ransomed Rogue", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nJane is recaptured by the CIA and agrees to become a triple-agent.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Sep. 2016", 
+            "episodeName": "Heave Fiery Knot", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe team races to stop a corrupt DEA agent from selling stinger missiles to a drug cartel as Weller fights to keep everyone together under the increasing pressures of Jane's rift with the others and the uncomfortable addition of Nas as co-leader.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Sep. 2016", 
+            "episodeName": "Hero Fears Imminent Rot", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWeller and the team must race the clock to stop a series of escalating New York City bombings, while Jane is forced to go on an assassination mission to prove her loyalty...or suffer the consequences.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Oct. 2016", 
+            "episodeName": "If Beth", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nNas and Weller navigate their new dynamic as co-leaders during the team's hunt for a museum gala assassin, who turns out turns out to be harboring a dark secret; Jane starts to see a softer side of her old organization.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Oct. 2016", 
+            "episodeName": "Condone Untidiest Thefts", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAfter a prominent politician is almost killed during a rally, Weller and the team must work with US Marshal Allie Knight (recurring guest star TRIESTE KELLY DUNN) to take down a leader of the Irish Mob.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Oct. 2016", 
+            "episodeName": "Her Spy's Harmed", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWeller and Nas chase a fugitive whistleblower in Bulgaria; Jane goes on a sandstorm mission with Roman; Reade and Zapata deal with an urgent matter.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Oct. 2016", 
+            "episodeName": "Resolves Eleven Myths", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nRich Dotcom returns to the FBI when he needs help with a pressing issue.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Nov. 2016", 
+            "episodeName": "We Fight Deaths on Thick Lone Waters", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWeller and Jane disappear while undercover so the team has to turn to two criminals to figure out what happened; AUSA Weitz comes back to settle a score with the team.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Nov. 2016", 
+            "episodeName": "Why Let Cooler Pasture Deform", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nAfter Jane discovers that Sandstorm is gearing up for an imminent attack, she risks everything to send a secret SOS to her FBI team.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Jan. 2017", 
+            "episodeName": "Nor I, Nigel, AKA Leg in Iron", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nPatterson is missing and Roman is loose, so Jane and Weller must find them before Shepherd does.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Jan. 2017", 
+            "episodeName": "Droll Autumn, Unmutual Lord", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAfter one of the world's most-wanted terrorists surfaces in New York for unknown reasons, the team must partner with the CIA to stop a deadly bombing.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Jan. 2017", 
+            "episodeName": "Devil Never Even Lived", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhen an unusual tattoo leads back to Roman, the team must decide whether to send him into the field...to go undercover with a dangerous biker gang.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Feb. 2017", 
+            "episodeName": "Name Not One Man", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe team faces a struggle when they find out that Kurt Weller might be working as a double agent without even realizing it himself.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Feb. 2017", 
+            "episodeName": "Borrow or Rob", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nA tattoo points the team to a powerful collegiate secret society, but only Rich Dotcom, one their alumni, can infiltrate it.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Feb. 2017", 
+            "episodeName": "Draw O Caesar, Erase a Coward", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe team chases down a deadly underworld courier after a set of tattoos produces multiple leads.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Mar. 2017", 
+            "episodeName": "Evil Did I Dwell, Lewd I Did Live", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWeller and Jane face off against an old foe when they come face to face with Nas's source in Sandstorm.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Mar. 2017", 
+            "episodeName": "Solos", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nJane and Oliver end up in a dangerous situation that reveals their secrets.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Apr. 2017", 
+            "episodeName": "Senile Lines", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAs the team tries to defend itself against an old rival, a tattoo leads them to a mysterious death at a foster home.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Apr. 2017", 
+            "episodeName": "Regard a Mere Mad Rager", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nJane and Weller go undercover on a high-stakes scavenger hunt run by powerful hackers. Shepherd journeys to Thailand to procure a dangerous weapon.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 May 2017", 
+            "episodeName": "In Words, Drown I", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nZapata is sent jail alongside Devon, a Sandstorm asset. The team must go to exceptional lengths to help Zapata out.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 May 2017", 
+            "episodeName": "Mom", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe team finally cracks a member of Sandstorm, leading to a huge breakthrough in uncovering Phase Two.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 May 2017", 
+            "episodeName": "Episode #2.22", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAs the FBI copes with a tragedy, Weller finds himself the center of a surprising event. Jane faces an uncertain future.    ", 
+            "seasonNumber": 2
+        }
+    ], 
+    "name": "Blindspot", 
+    "plot": "Jane Doe is found in Times Square with no memory and mysterious tattoos on her body.", 
+    "rating": 7.6, 
+    "releaseDate": "21 September 2015", 
+    "type": "tvserie"
+}

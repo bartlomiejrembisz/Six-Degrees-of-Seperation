@@ -1,0 +1,37 @@
+{
+    "actorList": [
+        "Marco D'Amore", 
+        "Fortunato Cerlino", 
+        "Salvatore Esposito", 
+        "Fabio De Caro", 
+        "Christian Giroso", 
+        "Giovanni Buselli", 
+        "Carmine Monaco", 
+        "Lino Musella", 
+        "Marco Palvetti", 
+        "Vincenzo Fabricino", 
+        "Maria Pia Calzone", 
+        "Domenico Balsamo", 
+        "Emanuele Vicorito", 
+        "Carmine Battaglia", 
+        "Alessio Gallo", 
+        "Gaetano di Vaio", 
+        "Walter Lippa"
+    ], 
+    "director": [
+        "Stefano Sollima", 
+        "Claudio Cupellini", 
+        "Francesca Comencini", 
+        "Claudio Giovannesi"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "Gomorra - La serie", 
+    "plot": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.", 
+    "rating": 8.7, 
+    "releaseDate": "2014", 
+    "type": "movie"
+}

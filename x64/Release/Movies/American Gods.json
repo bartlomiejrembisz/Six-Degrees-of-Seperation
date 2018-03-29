@@ -1,0 +1,88 @@
+{
+    "actorList": [
+        "Ricky Whittle", 
+        "Emily Browning", 
+        "Bruce Langley", 
+        "Yetide Badaki", 
+        "Pablo Schreiber", 
+        "Ian McShane", 
+        "Crispin Glover", 
+        "Demore Barnes", 
+        "Cloris Leachman", 
+        "Peter Stormare", 
+        "Gillian Anderson", 
+        "Kristin Chenoweth", 
+        "Orlando Jones"
+    ], 
+    "director": [
+        "David Slade", 
+        "Adam Kane"
+    ], 
+    "genres": [
+        "Fantasy", 
+        "Mystery"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "30 Apr. 2017", 
+            "episodeName": "The Bone Orchard", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA man, broken and alone, wishes only to survive his time in prison long enough to see his wife again. Although unexpected news releases him from prison early, it is hardly the news he wishes. Left feeling like he is looking at the world from the bottom of a well, he must literally walk the heroes' path back to a time where he even resembles sanity.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 May 2017", 
+            "episodeName": "The Secret of Spoon", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 May 2017", 
+            "episodeName": "Head Full of Snow", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 May 2017", 
+            "episodeName": "Git Gone", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #1.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #1.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #1.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #1.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "American Gods", 
+    "plot": "A recently released ex-convict named Shadow meets a mysterious man who calls himself \"Wednesday\" and who knows more than he first seems to about Shadow's life and past.", 
+    "rating": 8.4, 
+    "releaseDate": "11 March 2017 (South by Southwest Film Festival)", 
+    "type": "tvserie"
+}

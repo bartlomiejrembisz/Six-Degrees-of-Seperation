@@ -1,0 +1,912 @@
+{
+    "actorList": [
+        "David Giuntoli", 
+        "Russell Hornsby", 
+        "Silas Weir Mitchell", 
+        "Sasha Roiz", 
+        "Reggie Lee", 
+        "Elizabeth Tulloch", 
+        "Bree Turner", 
+        "Claire Coffee"
+    ], 
+    "director": [
+        "Norberto Barba", 
+        "Terrence O'Hara", 
+        "Eric Laneuville", 
+        "Aaron Lipstadt", 
+        "Peter Werner", 
+        "David Solomon", 
+        "Steven DePaul", 
+        "John Behring", 
+        "Darnell Martin", 
+        "Karen Gaviola", 
+        "David Straiton", 
+        "Rob Bailey", 
+        "Omar Madha", 
+        "Clark Mathis", 
+        "Holly Dale", 
+        "Tawnia McKiernan", 
+        "Michael W. Watkins", 
+        "John Gray", 
+        "Paul A. Kaufman", 
+        "Jim Kouf", 
+        "Hanelle M. Culpepper", 
+        "David Greenwalt", 
+        "Lee Rose", 
+        "Carlos \u00c1vila"
+    ], 
+    "genres": [
+        "Drama", 
+        "Fantasy", 
+        "Horror", 
+        "Mystery"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "28 Oct. 2011", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nNick Burkhardt, a promising Portland homicide detective, told nobody he's been seeing visions of people 'transforming' into monsters when he looks at them. While investigating the murder and disappearance of two girls, he realizes it's a Grimm family gift, which passes from his aunt Marie Kessler when she is dying from cancer. She also gives him a mysterious key. Nick becomes her attacker's next target, narrowly escaping. Nick discreetly uses his gift to track down a postman, who turns out to be a descendant of werewolf lineage, and who helps him find the violent ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Nov. 2011", 
+            "episodeName": "Bears Will Be Bears", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA case of breaking and entering introduces Nick and Hank to a mysterious family whose cultural background blurs the line of right and wrong. Meanwhile, Nick tasks Monroe with safeguarding Aunt Marie.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Nov. 2011", 
+            "episodeName": "BeeWare", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDuring a flash-mob on a bus, a lawyer is killed with a stunning overdose of bee venom, but it fits no geographical origin. Monroe and the Grim records help Nick work out it must be the work of a feral bee queen, the sworn enemy of Hexebiests like Adalind. Trailing a professor-beekeeper and the other twelve attendants of a bee-keeping convention, Nick and his partner Hank find them congregating and get attacked by an unnatural bee swarm.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Nov. 2011", 
+            "episodeName": "Lonelyhearts", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nNick discovers that several disappeared women were raped, a few also killed, after a stay in Billy Capra's romantic, honeymoon-oriented hotel. After a Grimm-flash shows him Bill as a goat, Nick enlists Eddie Monroe to help him identify the feral type, which uses irresistible seduction pheromones, and to prepare a hotel intrusion to save the latest victims. Meanwhile Captain Sean Renard gives an uninvited French reaper a terrible welcome.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Dec. 2011", 
+            "episodeName": "Danse Macabre", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nNick investigates the death of popular Seattle private prep school music teacher, who was seemingly bitten to death by rats in his car. The popular crowd suggest the only feasible suspect is recently suspended outsider Roddy Geiger, a gifted violinist but son of ruffian junk yard keeper Ephram. Near the fatal car are found cages used by Roddy to keep his pet rodents. As Nick recognizes the knave as feral rat, Monroe tries to give 'fatherly' guidance. However when his father is falsely arrested and abused in jail, the boy snaps and sets a trap for the rich kids who ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Dec. 2011", 
+            "episodeName": "The Three Bad Wolves", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nBlutbad (feral wolf) Hap Lasser coincidentally survives a cunning arson attack which makes his home explode, two months after his brother died in a similar fire. Monroe reluctantly takes him in, also as a favor to Hap's sister, Monroe's own ex-lover Angelina. She returns to revenge both brothers and hates Grimms but resumes nocturnal hunt fun with Monroe. Lieutenant Peter Orson didn't call either case arson, but lost his own brother in a fire which may be a Blutbad's doing.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Dec. 2011", 
+            "episodeName": "Let Your Hair Down", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nA drug trafficker was murdered without apparent motive deep in the forest. Helped by unusually enthusiastic Monroe, Nick soon works out the killer must be a feral and after tracing her it's a girl. Then follows traces indicating she may be a long-missing child having nearly grown up in the woods, and suggesting a link with recluse tracker James Addison, but there are others involved.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Jan. 2012", 
+            "episodeName": "Game Ogre", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nHighly respected judge Logan Patterson is murdered, and shortly after several other people who played some part in the conviction and incarceration of an escaped giant of unnatural strength. Nick is badly wounded, out of action. Monroe however shows unusual enthusiasm to help out while Hank follows the paper trail.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Jan. 2012", 
+            "episodeName": "Of Mouse and Man", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nA man named Leonard \"Lenny\" Drake is found dead in a garbage truck and Nick and Hank investigate the case. They find blood in the dumpster near his building and a trail of blood to the parking garage. The manager explains that the tenant was a violent man that lived in his apartment with the gorgeous Natalie Havershaw. On the previous night, they had an argument and the tenants Marty Burgess first and the lawyer Mason Snyder then had come to protect her. Marty returned to his apartment while Lenny and Mason continued to argue. Then Mason escorted her to her car and ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Feb. 2012", 
+            "episodeName": "Organ Grinder", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhile investigating the death of a homeless teen, Nick and Hank uncover a ring of Geiers harvesting human organs. Also, the Ferrat threaten Captain Renard to keep the Grimm under control.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Feb. 2012", 
+            "episodeName": "Tarantella", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nA mysterious woman seduces men, then kills them in a way too gruesome to watch. Nick must uncover this new and rare creature's secret and find her before she kills again. Concurrently, Nick takes (admittedly belated) action to stop the (Wesen) creatures from rumor-mongering and stalking his home; in this show of power, Nick is slowly coming into his own as a Grimm - and defending house and home.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Feb. 2012", 
+            "episodeName": "Last Grimm Standing", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhen Nick consults him about an erratic murder committed by athletic ex-con Dimitri Skontos, Monroe soon helps him realize that's actually a victim of 'gladiator games' organized by the most bloodthirsty pride of L\u00f6wen, a lionesque feral species. Nick spends his anniversary working out the fighters are recruited through a dodgy parole officer and where the arena is hidden. Captain Sean Renard realizes the lucrative fights are becoming too notorious, his royal order to close down the games is ignored, so he turns to a priestly enforcer. Meanwhile first Monroe, then ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Mar. 2012", 
+            "episodeName": "Three Coins in a Fuchsbau", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nJeweler Sam Bertram was murdered by three Europeans killers, of rival feral species, to steal the rarest Ancient gold coins from his safe. Two are dead, the third steals a uniform from a cop he murders. The coins are found on the elusive Farley Kolt, who is arrested and tells Nick enough to work out he was late aunt Marie's true love. The coins, minted on Zakynthos, with swastika's and lions heads, are poisonous and magically attract great power and utter disaster. Captain Sean Renard keeps them and starts an ambitious 'campaign against crime' amidst dreams of ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Mar. 2012", 
+            "episodeName": "Plumed Serpent", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nNick is puzzled by several corpses with unusual semi-internal combustion symptoms. After Nick and Hank are attacked by a fire-breathing dragon, which fits the riddle, Monroe teaches Nick about the suspect feral breed, not actual dragons but close, and brings him in contact with a member, Ariel Eberhart, fire-breather at his favorite nightclub. She seems however more interested in Nick than is safe for his relationship with Juliette, and is the daughter of the murdering 'dragon'.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Mar. 2012", 
+            "episodeName": "Island of Dreams", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nNick investigates the robbery of a spice shop, that is owned by wesen, discovering that the thieves were after a dangerous drug.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Apr. 2012", 
+            "episodeName": "The Thing with Feathers", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nNick and Juliette go away for a little R & R. They meet a couple who turns out to be not human. Juliette meets the wife and senses she's being abused. Nick learns the man is a being who abuses women.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Apr. 2012", 
+            "episodeName": "Love Sick", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nNick is in the trailer trying to find out what the key that he received from his aunt might open. Juliette calls him telling that Hank has invited them to have dinner together with Adalind. Captain Renard is forced by a criminal with a weapon to go with him to meet his cousin, but he reacts and kills them both. When Nick meets Adalind, he recalls that she wanted to kill his aunt and he confronts her near the restrooms. But he is called to investigate the murder of the two men and leaves the restaurant. Meanwhile Renard goes to the house of Catherine and she tells him ...    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Apr. 2012", 
+            "episodeName": "Cat and Mouse", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nNick investigates the failed attempt to murder feral Ian Harmon, who seeks help from ex-lover Rosalee, who brings in Monroe, who turns to Nick. He finds the feral hit-man Edgar Waltz is a Hundj\u00e4ger ('canine hunter'), a ruthless breed used by the seven competing royal families, who demands police captain Renard's help. Waltz stops at nothing, threatening with city-wide slaughter and kidnapping Rosalee to get his prey, but Nick, Ian and Monroe still fight back, for once overruling human law.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Apr. 2012", 
+            "episodeName": "Leave It to Beavers", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nNick investigates the murder of a bridge construction contractor who is a beaver (Eisbiber), by a building inspector who is a troll (Hasslich). The contractor's refusal to pay tribute to the inspector potentially disrupted long history of trolls controlling bridges.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 May 2012", 
+            "episodeName": "Happily Ever Aftermath", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nAfter a man and his wife are scammed out their fortune by a Madoff-like fraudster, the husband approaches his wife's evil stepmother for financial assistance. But she refuses and is soon after murdered by a Murcielago - a bat-like creature that kills with a sonic scream.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 May 2012", 
+            "episodeName": "Big Feet", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nEpisodes of vicious attacks by Bigfoot-like Wesen known as Wildermann are suddenly rampant. Nick and Monroe discover that the errant Wesen are connected to a psychologist performing medical experiments to help the Wesen control their urges.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 May 2012", 
+            "episodeName": "Woman in Black", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nA Schakal Wesen wreaks havoc while searching for the ancient Zakynthos gold coins, while a mysterious woman in black tracks his movements. Nick informs a dubious Juliette of his heritage just before she collapses and is hospitalized because of a poisonous scratch from Adalind's cat.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Aug. 2012", 
+            "episodeName": "Bad Teeth", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFacing their far and family feral past shakes up the Portland PD protagonists. Nick joins forces with his death-presumed mother Kelly Burkhardt, a huntress who followed Akira Kimura, to chase the excessively cruel 'mauvais dent' monster murderers, who are after six golden coins, part of the key to a terrible secret since the crusades. It's the obsession of rivaling feral royalty branches, including Renard's, putting him opposite his estranged European half-brother.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Aug. 2012", 
+            "episodeName": "The Kiss", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAs Nick and his mother continue to battle the Mauvais Dentes, Monroe and Rosalee fight against the clock to save Juliette. More details are revealed about the source of Juliette's illness, resulting in an epic showdown. Back at the precinct, Hank senses that something is amiss when Nick lands in hot water with the FBI. Meanwhile, Captain Renard continues to reveal himself as he deals with his estranged brother.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Aug. 2012", 
+            "episodeName": "Bad Moon Rising", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMonroe explains to Nick about the feral Coyotl prison gang-like, even tattooed kind's pack code when they find on old friend of Hank is actually one who fled his pack years ago and now finds his daughter kidnapped. The trail leads to their Texas relatives, the Kempfers, who stop at nothing but ignore the other side has a Grimm. Nick shows angelic patience when Juliette's memory returns about everything except their love.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Sep. 2012", 
+            "episodeName": "Quill", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPark ranger Ryan Gilko is the first of several Wesen, affected by a contagious disease, who suddenly commit violent attacks on people. The team felt relaxed now Hank is being included in the secret, so Monroe takes Rosalee on a picnic. Alas, the plague spreads and even affects her, so it's up to Monroe to make the remedy they researched together while Nick holds her feral state in check. Captain Renard meanwhile learns that another terrifying European fugitive has arrived in Portland.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Sep. 2012", 
+            "episodeName": "The Good Shepherd", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nReverend Calvin, a feral wolf, reports a fortune stolen from church funds and the parishioner who did the accounts, a feral sheep like most of his flock, missing. The man is later found cut-up in the grinder of his employer's factory, but has no motive or suspicious record. Undercover as a 'homeless' seeking church shelter, Monroe discovers reverend Calvin, whose previous Southern parish was similarly robbed presumably by a parishioner, has an affair with his sheep church secretary, who transferred with him, but is up for a rude surprise too.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Oct. 2012", 
+            "episodeName": "Over My Dead Body", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nNick is delighted when Juliette, who still can't remember him, invites over for a home cooked dinner to get acquainted all over. But he's called away urgently by Monroe, who has a feral visitor: a ruthless killer, yet also a friend of his, who only pretended to take a contract for Monroe's death to warn him after 'accidentally' killing the initial hit man. Nick, who wants her for at least two earlier murders, grudgingly cooperates, going so far as to allow her to pretend to be his partner. To get to the royal presumed to have hired the killer, Monroe must fake his ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Oct. 2012", 
+            "episodeName": "The Bottle Imp", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAn unsettling murder scene leads Nick and Hank to what looks like a bitter custody battle.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Oct. 2012", 
+            "episodeName": "The Other Side", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nEven Nick is puzzled by the case of two murdered teenage favorite candidates to the high-school general knowledge quiz qualifying for the state competition. Wesen in the story belong to several species, one extremely rare. Captain Sean Renard wins a community prize and turns to Monroe for a medicinal cure for his sexual obsession with Juliette Silverton. Surviving competitor Pierce Higgins is actually an unwitting Wesen cross breed. In Vienna, Renard's brother, Prince Eric, confides unto his latest conquest.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Oct. 2012", 
+            "episodeName": "La Llorona", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhen Mexican immigrant Alvarez tries to save a woman in white from drowning herself in the river, the actual ghost abducts his small son Rafael. The next day, a girl suffers the same fate. Valentina Espinosa, an Albuquerque detective, arrives to offer the Portland PD her expertise on many similar trios of abductions , all ending in the childrens' midnight drowning by a strict MO. It ties in with the legend of La Llorona, but the FBI reports Espinoza as having been fired and now illegally intruding in the investigation. Nick finds that the ghost is a Wesen.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Nov. 2012", 
+            "episodeName": "The Hour of Death", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nNick is puzzled by several cases where a suspect who escaped the police is violently dealt with by a masked, cloaked avenger. He even leaves Nick messages, suggesting he is a 'real Grimm' who is cleaning up 'weakling' Nick's messes. But he strikes terror even with gentle Wesen, like the beavers, who seek help through Monroe, who fears it's a descendant of a medieval Grimm vigilante order. Nick suspects a police mole.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Nov. 2012", 
+            "episodeName": "To Protect and Serve Man", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nHank's knowledge of Nick's world has him second guessing a past case.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Nov. 2012", 
+            "episodeName": "Season of the Hexenbiest", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nNick is shocked about Juliette's infidelity, which she can't explain, yet sort of accepts it and ends up moving out to his heritage trailer. Monroe realizes from a TV appearance that Juliette's partner, who ordered an obsession cure, is none other than Police Captain Sean Renard and ends up telling Nick. Meanwhile Adalind and a pack of canine Wesen almost hunt down Renard for the key, and he locates Nick's trailer after allowing him to lock up Adalind.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Mar. 2013", 
+            "episodeName": "Face Off", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nOnce Monroe shows him that Renard is Juliette's lover, Nick can barely control the urge for illegal revenge. Assisted by just returned Rosalee, Monroe works out how the passion spell can be broken, and ultimately Renard convinces Nick they must work together. Meanwhile Adalind is released for lack of evidence and returns to Renard's traitor brother in Vienna, without the key, not knowing Renard found and stole it from Nick's desk.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Mar. 2013", 
+            "episodeName": "Natural Born Wesen", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nMonroe's potion finally relieves Renard and Juliette's passionate obsession, so he and Nick can collaborate again, even closer then ever, with Monroe and Hank aboard, against the royal conspirators. Three youngster Wesen, Cole Pritchard, his girl Krystal Fletcher and his former cell-mate Gus, repeatedly commit robberies using their Wesen appearances as if masks. Monroe witnessed a bank robbery and alerts Nick's police team as well as the 'Wesen Council', as this is a blatant violation of the centuries old Schwaben code, which Amsterdam HQ chief De Groot orders ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Mar. 2013", 
+            "episodeName": "Mr. Sandman", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nShortly after each-other, people are attacked by a revolting fly Wesen, which causes blindness by licking, thus introducing river blindness-type parasitic worms. Nick is affected himself. Monroe and Rosalee work out they only have a few hours to prevent permanent blinding by capturing the Wesen in feral form, scooping up an eye and mixing it in a concoction. So they must find it even faster, using heirloom Grimm record clues.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Mar. 2013", 
+            "episodeName": "Nameless", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nIn Dominick Spinner's successful Portland games design company, several employees engaged in developing and testing a single video-game are, one by one, killed i the game and hours later for real, by similar gruesome devices. At each corpse a literary clue is found, an anonymous caller dares the police to identify him. Nick handles the case, using Wu's bachelor hobbies experience. Monroe helps work out what rare Wesen could be behind it. Renard is preoccupied with royalty parties rivalry.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Apr. 2013", 
+            "episodeName": "One Angry Fuchsbau", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nAfter sleeping on it Nick decides it would be best for Monroe to take Juliette to the trailer. However, the trailer triggers more memories of Nick than Juliette may be able to handle leading her to seek the help of Pilar for insights into her current condition. Meanwhile Monroe fears Rosalee, who is serving jury duty, maybe under the influence of a toad dropping Ziegevolk who is jury tampering to win his case. Nick, Hank, Bud, Monroe and Rosalee hatch a plan to stop this Ziefevolk once and for all.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Apr. 2013", 
+            "episodeName": "Volcanalis", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhile Hank goes on vacation, Nick and Renard team up to investigate the death of a local geologist who was cooked from the inside out after taking volcanic rock samples from Mount Hood. Meanwhile in Austria, Frau Pech takes Adalind to a Gypsy woman to learn the value of her baby, but the former Hexenbiest desires something other than money.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Apr. 2013", 
+            "episodeName": "Endangered", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nRanchhand John is killed while accidentally bumping at night into Vincent, a blue-fluorescent feral performing one of the 27 raids on cows that went from Nebraska to Portland, actually harvesting bovine ovaries for his pregnant mate Jocelyn, with whom he keeps moving and hiding. Besides Nick, the case seems to be followed only by an 'ufologist' or alien-hunter, who in fact chases the very feral species. Monroe recognizes the print Nick made from his key as part of a medieval map as Swabia, Renard explains the keys combine into a map to a terrible treasure hidden by ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 May 2013", 
+            "episodeName": "Kiss of the Muse", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nWhen Nick encounters a muse-like Wesen after the murder of her boyfriend by her jealous ex-lover, things start to get a little complicated.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 May 2013", 
+            "episodeName": "The Waking Dead", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nA Caribbean feral, called 'bouckman' in the Grim records, causes his victims to get green foam around the mouth. Only apparently dead, they arise as extremely violent zombies. Their feral creator in Portland, a voodoo 'baron', is in league with captain Renard's rogue brother Eric, who visits from Vienna to discuss dynastic matters. It concerns a royal bastard child, equally dangerous and valuable, born by Hexenbiest Adalind, who is torn between conflicting advice and tricked into 'signing' a gypsy-style contract. Meanwhile Monroe, Rosalee and Bud oblige Juliet's ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 May 2013", 
+            "episodeName": "Goodnight, Sweet Grimm", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nNick is back on lovers' terms with Juliette, who remains eager to learn about ferals. Nick must however give priority to the violent crime wave caused by zombies. As he feared, they are created by the voodoo 'baron', who sets a trap as instructed. Captain Sean Renard informs Nick about his mistrusting meeting with visiting European royal half-brother Eric and the counterfeit documents Eric had prepared at the castle. Still in Vienna, Adalind, poisoned by Pech to switch appearances, is seen roughly overtaken by the gypsy witch's family Popescu. Rosalee prepares a ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Oct. 2013", 
+            "episodeName": "The Ungrateful Dead", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nNick's destiny is uncertain as zombies continue to overrun Portland.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Nov. 2013", 
+            "episodeName": "PTZD", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nMonroe (Silas Weir Mitchell), Hank (Russell Hornsby), Rosalee (Bree Turner) and Juliette (Bitsie Tulloch) track down a manic Nick (David Giuntoli) and do all they can to find him and reverse what's been done to him before he causes any more damage. Meanwhile, Captain Renard (Sasha Roiz) does his best to clean up the zombie fallout on all fronts - domestic and international. Elsewhere, the more time Adalind (Claire Coffee) spends with Stefania (guest star Shohreh Aghdashloo), the more disturbing things seem to get in her quest to regain her Hexenbiest abilities.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Nov. 2013", 
+            "episodeName": "A Dish Best Served Cold", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA series of disturbing crime scenes leads Nick (David Giuntoli) and Hank (Russell Hornsby) to the resurrection of an old feud that's all too familiar for Nick and Monroe (Silas Weir Mitchell). With the news of a royal family member's demise, several key players start to make their move. Meanwhile despite his recent trauma, Nick finds himself healthier than normal and Monroe and Rosalee (Bree Turner) talk about moving their relationship forward.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Nov. 2013", 
+            "episodeName": "One Night Stand", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhen Nick (David Giuntoli) and Hank (Russell Hornsby) investigate a drowning death with mysterious marks on the victim's ankles, they happen upon a group of water-bound Wesen. Meanwhile, Rosalee (Bree Turner) starts unpacking her things at Monroe's (Silas Weir Mitchell), and Captain Renard (Sasha Roiz) makes a startling realization about the possible identities of the Royal Baby's parents.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Nov. 2013", 
+            "episodeName": "El Cucuy", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhen investigating a series of brutal murders committed on criminals, to Nick it appears that the culprit may be a character from a Latino legend.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Dec. 2013", 
+            "episodeName": "Stories We Tell Our Young", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nNick and Hank look into the death of a priest, who was performing an exorcism on a 9-year-old boy. Is the boy a Wesen or possessed by a demon?    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Dec. 2013", 
+            "episodeName": "Cold Blooded", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAs a deadly crime spree begins to surface, a century-old urban legend takes shape in Portland's sewers and becomes Nick's latest case. In Europe, Adalind meets Prince Viktor, who comes to bring those responsible for his cousin Eric's demise to justice. Meanwhile, Captain Renard responds to the recent attempt on his life.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Dec. 2013", 
+            "episodeName": "Twelve Days of Krampus", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAfter a string of delinquent teens go missing, an old Wesen tale of an evil Santa who brings more than just a lump of coal may be the prime suspect. The investigation intensifies as Nick and Hank take things a little too far. Meanwhile, Monroe enlists Juliette to surprise Rosalee for their first Christmas together with unintended results. Elsewhere, Captain Renards tour of Europe brings him closer to tracking down Adalind.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Jan. 2014", 
+            "episodeName": "Red Menace", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nNick (David Giuntoli) and Hank (Russell Hornsby) investigate a Wesen \"healer\" whose ability holds risks that far outweigh its rewards. Meanwhile, Juliette (Bitsie Tulloch) takes in a friend when domestic issues escalate and Hank makes a move on his physical therapist Zuri (guest star Sharon Leal). Elsewhere, Captain Renard (Sasha Roiz) finally tracks down Adalind (Claire Coffee) and has a stern warning for her.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Jan. 2014", 
+            "episodeName": "Eyes of the Beholder", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nNick (David Giuntoli) and Hank (Russell Hornsby) are called to the scene of a gang-related homicide. The case escalates as Zuri (guest star Sharon Leal), Hank's physical therapist, and her brother get caught up in the investigation. Meanwhile, Juliette (Bitsie Tulloch) seeks advice from Rosalee (Bree Turner) in dealing with the news that her friend is Wesen.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Jan. 2014", 
+            "episodeName": "The Good Soldier", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nNick (David Giuntoli) and Hank (Russell Hornsby) are called to the gruesome murder of a veteran working in home security. During their investigation, they discover this might be one of several revenge killings regarding a horrifying cover-up involving members of the army and military contractors. On the domestic front, Monroe (Silas Weir Mitchell) accompanies Rosalee (Bree Turner) during her long overdue reunion with her mother and sister. In Europe, Adalind (Claire Coffee) sees hints of what she thinks might be her powers returning.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Jan. 2014", 
+            "episodeName": "The Wild Hunt", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nNick (David Giuntoli) and Hank (Russell Hornsby) investigate a cop killer who scalps his victims. Meanwhile, Juliette (Bitsie Tulloch) begins to communicate with Nick's mom via email and Adalind (Claire Coffee) finds herself much closer to delivering her baby than she previously thought. Elsewhere, Monroe's (Silas Weir Mitchell) parents (guest stars Dee Wallace and Chris Mulkey) decide to surprise him and Rosalee (Bree Turner) with an early arrival to Portland after learning some exciting news.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Feb. 2014", 
+            "episodeName": "Revelation", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nMonroe (Silas Weir Mitchell) fights an impossible battle to convince his parents (guest stars Dee Wallace and Chris Mulkey) to embrace the life choices he's made. Meanwhile, Nick (David Giuntoli) turns to Juliette (Bitsie Tulloch) to help him figure out the Wesen aspect of his cop-killing scalper investigation. On the Royal Baby front, Captain Renard (Sasha Roiz) learns new information that forces him to contact Adalind (Claire Coffee) in the interest of keeping her and the baby safe from Viktor (guest star Alexis Denisof).    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Mar. 2014", 
+            "episodeName": "Mommy Dearest", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nA horrible new predator creeps into Portland with its sight set on a young expectant couple who are close friends of Sgt. Wu (Reggie Lee). Nick (David Giuntoli) and Hank (Russell Hornsby) must figure out how to deal with Wu as the investigation escalates. Meanwhile, Adalind (Claire Coffee) prepares for a special delivery while her enemies are hot on her trail.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Mar. 2014", 
+            "episodeName": "Once We Were Gods", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nNick, Hank and Juliette learn what the Wesen Community already know, the Wesen were GODS in ancient Egypt Meanwhile, Adalind and Meisner again run for their lives after a tortured Sebastien reveals their location of them being dropped off. Sgt. Wu, still fighting for his sanity is visited by Juliette. She tells Wu of her ordeal, which seems to have helped him because Wu is later picked up and taken home by Nick and Hank.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Mar. 2014", 
+            "episodeName": "The Show Must Go On", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA double homicide leads Nick (David Giuntoli) and Hank (Russell Hornsby) to a traveling carnival where the performers are not what they seem. To get a better understanding of what's going on behind the scenes Monroe (Silas Weir Mitchell) and Rosalee (Bree Turner) go undercover. On the wedding front, Monroe has a really important question for Nick. In Austria, an invaluable member of the Resistance makes the ultimate sacrifice to help Adalind (Claire Coffee).    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Apr. 2014", 
+            "episodeName": "Synchronicity", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nNick's mother Kelly returns to help Adalind escape Europe with her baby. Meanwhile, Monroe and Rosalee prepare for their wedding.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Apr. 2014", 
+            "episodeName": "The Law of Sacrifice", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe Verrat find out that Adelind and her baby have gone to Captain Sean Renard for help. Nick enlists the help of Monroe and Rosalee to keep Adalind safe, as his mother figures how to deal with the Royals.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Apr. 2014", 
+            "episodeName": "Nobody Knows the Trubel I've Seen", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nNick (David Giuntoli) and Hank (Russell Hornsby) investigate a dangerous female suspect (guest star Jacqueline Toboni) leaving a trail of Wesen in her wake. Elsewhere, Adalind (Claire Coffee) takes measures into her own hands, even if that means forging a dangerous alliance.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 May 2014", 
+            "episodeName": "My Fair Wesen", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nNick (David Giuntoli) does his best to educate Trubel (guest star Jacqueline Toboni) on how best to handle the world she is learning about for the first time, and decides it best to bring her on a ride along with Hank (Russell Hornsby). They find themselves investigating the homicide of a young woman that strikes a chord for Trubel. Meanwhile, Adalind (Claire Coffee) makes a discovery that she hopes will lead her to regain something she has lost.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 May 2014", 
+            "episodeName": "The Inheritance", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nNick and Hank are called to investigate a double homicide, and quickly learn the victims were from a special section of the Verrat tasked with finding rare objects pertaining to the Wesen world. Trubel gets involved with a mysterious father-and-son tandem that crossed the country in a desperate attempt to deliver invaluable cargo to \"the Portland Grimm.\" Meanwhile, Captain Renard begins to grow suspicious of Adalind's recent behavior and quietly decides to put extra eyes on her.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 May 2014", 
+            "episodeName": "Blond Ambition", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nIt's Monroe (Silas Weir Mitchell) and Rosalee's (Bree Turner) big day and their joy will only be matched by unexpected heartache for those around them. Nick (David Giuntoli) and Juliette (Bitsie Tulloch) make a startling realization that could shake their relationship to its core. Meanwhile, Adalind (Claire Coffee) proceeds with a delicately laid plan that leads to a catastrophic event that will alter the course of Nick's journey.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Oct. 2014", 
+            "episodeName": "Thanks for the Memories", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe team scrambles to find a cure to get Nick's abilities back.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "31 Oct. 2014", 
+            "episodeName": "Octopus Head", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe Ged\u00e4chtnis Esser continues to steal memories and Captain Renard's mother visits him in the hospital to try to save his life. Meanwhile Wu confronts Nick about Trubel and Nick and Adalind share a psychic connection.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Nov. 2014", 
+            "episodeName": "The Last Fight", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nNick's power loss aftermath showed that the changes are far more than anticipated, Elizabeth, Monroe and Rosalee look for the cure. Nick and Hank call on Trubel to help out on a case.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Nov. 2014", 
+            "episodeName": "Dyin' on a Prayer", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA rabbi raises a golem to protect his nephew, but he can't control it. Elizabeth successfully recreates Adalind's spell, but it still requires a key ingredient.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Nov. 2014", 
+            "episodeName": "Cry Luison", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA woman claims a persistent talking wolf drove her to madness; Juliette and Nick weigh the potential costs of getting back his abilities, and the threats against Rosalee and Monroe get worse.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Nov. 2014", 
+            "episodeName": "Highway of Tears", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWith Monroe and Rosalie are dealing with a growing problem from Wesen purists, Nick and Juliette must decide if a normal life is really what they want.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 Dec. 2014", 
+            "episodeName": "The Grimm Who Stole Christmas", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMonroe has a Christmas surprise for Rosalee; Trubel has a realization that impacts everyone.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Dec. 2014", 
+            "episodeName": "Chupacabra", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAn unsuspecting traveler brings a blood-sucking legend with him to Portland, and Nick (David Giuntoli) and Hank (Russell Hornsby) find themselves investigating the gruesome trail of \"El Chupacabra.\" Meanwhile, Monroe (Silas Weir Mitchell) and Rosalee (Bree Turner) prepare to leave for their long-overdue honeymoon as they are met with more threats regarding their marriage. Elsewhere, Viktor (guest star Alexis Denisof) and Adalind (Claire Coffee) decide to take a trip of their own, while Wu (Reggie Lee) decides to confront Nick about what he has been seeing.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Jan. 2015", 
+            "episodeName": "Wesenrein", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe Wesenrein act on their many threats against Monroe (Silas Weir Mitchell) and Rosalee's (Bree Turner) marriage. Meanwhile, Nick (David Giuntoli) and Hank (Russell Hornsby) bring Wu (Reggie Lee) to a place where he's sure to find the answers he's looking for. Elsewhere, Juliette (Bitsie Tulloch) tries to come to grips with her new reality.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Jan. 2015", 
+            "episodeName": "Tribunal", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAfter Monroe's (Silas Weir Mitchell) abduction by the Wesenrein, Nick (David Giuntoli) gathers the whole team, including Wu (Reggie Lee), to track him down and return him to Rosalee (Bree Turner). As the search intensifies, Juliette (Bitsie Tulloch) learns more about her new reality as a Hexenbiest.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Jan. 2015", 
+            "episodeName": "Death Do Us Part", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nRosalee and Monroe finally go on their honeymoon; Nick and Hank investigate a shocking homicide at an abandoned - and supposedly haunted - residence; Renard seeks help from a mystical woman.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Feb. 2015", 
+            "episodeName": "Mar\u00e9chauss\u00e9e", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nNick and Hank investigate a series of murders that lead back to the Wesen Council and a mysterious bounty hunter.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Feb. 2015", 
+            "episodeName": "Trial by Fire", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhile Nick and Hank investigate the deaths of two teenagers in an arson case they realize they need the help of someone that Nick had arrested several years ago.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Mar. 2015", 
+            "episodeName": "Bad Luck", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nNick (David Giuntoli) and Hank (Russel Hornsby) investigate a murder victim with his foot cut off, and stumble onto a disturbing Wesen take on the \"lucky rabbit's foot.\" In an effort to help, Monroe (Silas Weir Mitchell) and Rosalee (Bree Turner) go undercover. Meanwhile, the fallout from Adalind (Claire Coffee) and Juliette's (Bitsie Tulloch) showdown still has Nick reeling and sends him on a path that leads to Henrietta (guest star Garcelle Beauvais).    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Mar. 2015", 
+            "episodeName": "Double Date", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nNick (David Giuntoli) and Hank (Russell Hornsby) are called to investigate a one night stand turned deadly when a man finds himself in the middle of a very bizarre love triangle. Captain Renard (Sasha Roiz) hopes Monroe (Silas Weir Mitchell) and Rosalee (Bree Turner) can help him deal with recurring episodes of phantom bleeding. Meanwhile, Adalind (Claire Coffee) makes a discovery that might turn the tables in her favor and Juliette (Bitsie Tulloch) makes a big decision that could change the course of her relationship with Nick.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Apr. 2015", 
+            "episodeName": "Heartbreaker", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA cyclist's homicide introduces Nick (David Giuntoli) and Hank (Russell Hornsby) to a Wesen with a tragic fatal touch. Captain Renard (Sasha Roiz) and Adalind (Claire Coffee) learn the Royals have stepped up their efforts to find their child, and another member of the Royal family (guest star Nico Evers-Swindell) is introduced. Meanwhile, Juliette (Bitsie Tulloch) ponders the idea of embracing what she's become as opposed to fighting it.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "Hibernaculum", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nNick and Hank investigate a rare wesen that leaves victims frozen; Juliette seeks revenge.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Apr. 2015", 
+            "episodeName": "Mishipeshu", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nAn investigation leads Nick and Hank to the path of a Native American power quest.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Apr. 2015", 
+            "episodeName": "Iron Hans", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nNick and Hank investigate a homicide they discover is linked to a wesen rite of passage.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 May 2015", 
+            "episodeName": "You Don't Know Jack", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe press thinks a Jack the Ripper copycat is responsible for a series of recent homicides.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 May 2015", 
+            "episodeName": "Headache", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAs Hank and Nick get close to identifying a vicious serial killer, Wu's life is put into jeopardy.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 May 2015", 
+            "episodeName": "Cry Havoc", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAfter a horrifying discovery leaves Nick stunned, he is determined to get revenge.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Oct. 2015", 
+            "episodeName": "The Grimm Identity", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nNick must look inside himself and decide who he wants to be while also dealing with fathering a child with Adalind.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Nov. 2015", 
+            "episodeName": "Clear and Wesen Danger", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nNick deals with his new home life as he tries to keep his child and Adalind safe.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Nov. 2015", 
+            "episodeName": "Lost Boys", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nRosalee goes missing after a band of orphaned children target her as the mother figure they have always wanted. With a furious Monroe by their side, Nick and Hank race against the clock to find Rosalee.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Nov. 2015", 
+            "episodeName": "Maiden Quest", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA wealthy mobster sets three young men on a quest to win his daughter Emily's hand in marriage and earn his fortune.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "4 Dec. 2015", 
+            "episodeName": "Rat King", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nNick and Hank are called to a local dump after some Wesen have a deadly encounter with the mythical Rat King.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "11 Dec. 2015", 
+            "episodeName": "Wesen Nacht", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMonroe is in danger when Wesen business owners are targeted in a string of attacks being investigated by Nick and Hank. Trouble catches Nick and Adalind up on her recent activities. Captain Renard endorses a political candidate.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Jan. 2016", 
+            "episodeName": "Eve of Destruction", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAfter surviving a wesen ambush from a terrorist cell known as the Black Claw, Nick discovers \"Juliette\" is still alive, but learns what Chavez and Meisner were doing to her. The group interrogate Xavier. The group soon learns these attacks go beyond Portland. An attack occurs at the Wesen Council.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "5 Feb. 2016", 
+            "episodeName": "A Reptile Dysfunction", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe legend of the Lake Monster comes back to life as Nick and Hank investigate a mysterious sighting linked to a tourist's death at a local lake. Rosalee's past comes back to haunt her. Elsewhere, Capt. Renard continues to support a candidate for mayor. Meanwhile, Nick is shown the scope of the Wesen uprising as the secret government agency takes him into the heart of their Portland operations center.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Feb. 2016", 
+            "episodeName": "Star-Crossed", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nNick and Hank race against time to prevent the completion of an ancient Wesen ritual that requires seven sacrificial murders. Meisner, Trubel, and Eve track a suspected Black Claw agent's arrival in Portland.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "19 Feb. 2016", 
+            "episodeName": "Map of the Seven Knights", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMonroe receives a call from a relative in Germany that will bring Nick closer to his ancestors. Complications arise when the nefarious group Black Claw also takes an interest in this discovery.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "4 Mar. 2016", 
+            "episodeName": "Key Move", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nArtifacts take Monroe and Nick closer to the heart of a mystery; a deadly move could send Portland into chaos.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "11 Mar. 2016", 
+            "episodeName": "Into the Schwarzwald", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nNick and Monroe discover the hidden treasure in the Black Forest. A figure from Rosalee's past comes back to haunt her. The hexenbiest suppression on Adalind begins to wear off. Renard, Hank, and Wu hunt down an assassin.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": "Silence of the Slams", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nA down on his luck Luchador receives a special mask that will make him the star he's always wanted to be. Misuse, however, leads to terrible consequences. Meanwhile, Eve believes something is amiss with Dixon's assassination.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Mar. 2016", 
+            "episodeName": "Lycanthropia", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nNick and Hank investigate an attack which leads them to a wesen disease that makes blutbad rabid every full moon. Eve discovers the Black Claw want to recruit Sean into their cause.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Apr. 2016", 
+            "episodeName": "Skin Deep", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA beauty regimen proves deadly for a young woman, who seems to have aged 70 years when Nick and Hank find her lifeless body. As they search for proof of Wesen involvement, they are led to a local doctor, and end up enlisting Rosalee's help in their investigation. Meanwhile, Eve takes a bold step to learn more about Capt. Renard's nefarious dealings.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Apr. 2016", 
+            "episodeName": "The Believer", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nNick investigates a traveling preacher who uses his wesen identity to gain followers after one of his bodyguards winds up dead, while a religious sect is seeking to capture him. Eve uses Renards body to further investigate the Black Claw.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Apr. 2016", 
+            "episodeName": "Inugami", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nLocal youths are in danger from a Japanese Wesen looking for revenge; and Adalind crosses paths with Eve.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Apr. 2016", 
+            "episodeName": "Good to the Bone", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nWhen a man is found dead with all of the bones in his body seemingly liquefied and removed, Nick and Hank find themselves in the middle of a gruesome family arrangement. Meanwhile, Wu deals with a crisis of his own and Hank reunites with his old flame, Zuri.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Apr. 2016", 
+            "episodeName": "The Taming of the Wu", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWu discovers he is infected with lycanthropia after he was attacked by a scalengag from black claw. Trouble is back and Adalind left Nick to join black claw to protect her kids and Nick.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 May 2016", 
+            "episodeName": "Bad Night", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nNick leans on Monroe and Rosalee as he worries that he may lose everything as he continues to battle Black Claw. Captain Renard ramps up his campaign as election day nears.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 May 2016", 
+            "episodeName": "Beginning of the End: Part 1", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nBlack Claw makes a strategic move against Hank that shocks everyone and sends Nick on a war path. Hadrian's Wall ramps up their investigation    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 May 2016", 
+            "episodeName": "Beginning of the End: Part 2", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nThe war with Black Claw escalates as Nick and his friends are targeted for elimination.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "6 Jan. 2017", 
+            "episodeName": "Fugitive", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCaptain Renard vows to kill Nick following the massacre in Nick's loft.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 Jan. 2017", 
+            "episodeName": "Trust Me Knot", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHank and Wu find a solution to stop Renard while Nick is still fleeing. Adalind gets a phone call that throws her into the middle of everything. Monroe and Rosalee's babysitting adventure turns interesting as they witness Diana's power.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "20 Jan. 2017", 
+            "episodeName": "Oh Captain, My Captain", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nNick devises a plan that will take Capt. Renard out of his element; Adalind and Monroe attempt to keep the plan on track; Eve and Rosalee race to get the spell ready in time.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "27 Jan. 2017", 
+            "episodeName": "El Cuegle", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nA menacing new Wesen terrorizes a young family; Capt. Renard is shocked by an unexpected guest; Diana has news for Monroe and Rosalee; Eve looks for answers relating to her strange visions and side effects after being healed by the stick.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "3 Feb. 2017", 
+            "episodeName": "The Seven Year Itch", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nNick (David Giuntoli) and Hank (Russell Hornsby) join Wu (Reggie Lee) to investigate a bizarre murder in a local park. Elsewhere, Capt. Renard (Sasha Roiz) continues to deal with a ghost from his past. Meanwhile, Monroe (Silas Weir Mitchell) and Rosalee (Bree Turner) visit the doctor to see if Diana's (guest star Hannah R. Loyd) premonition is true. Back at the loft, Adalind (Claire Coffee) finds a very weak Eve (Bitsie Tulloch) in the tunnels and mysterious drawings scrawled on the walls.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "10 Feb. 2017", 
+            "episodeName": "Breakfast in Bed", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA grisly murder in a hotel leads to a guest who claims to be haunted by a terrifying creature in the night; at the Spice Shop, Monroe, Rosalee and Eve investigate the origins of the symbols on the cloth.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "17 Feb. 2017", 
+            "episodeName": "Blind Love", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nRosalee surprises Monroe with a birthday getaway and invites the gang to join them; at a hotel, an employee targets Nick to avenge his father; Eve is visited by a familiar dark force; Capt. Renard spends the weekend with Diana.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "24 Feb. 2017", 
+            "episodeName": "The Son Also Rises", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA team of scientists is the target of deadly attacks; research continues on the cloth's origins, while Eve still feels the effects of the death grip.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "3 Mar. 2017", 
+            "episodeName": "Tree People", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nNick, Hank and Wu search the woods for a tree-like Wesen dedicated to protecting Mother Nature, while Capt. Renard seeks insight into Diana's drawings.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "10 Mar. 2017", 
+            "episodeName": "Blood Magic", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nA series of brutal murders lead to an unlikely lead in a nursing home. Eve goes to Adelind to see if there is a Hexenbiest way to travel through mirrors. Renard wants answers about the symbols that Diana has been drawing.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "17 Mar. 2017", 
+            "episodeName": "Where the Wild Things Were", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nEve embarks on a mission to take on the mysterious force she saw in the mirror.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "24 Mar. 2017", 
+            "episodeName": "Zerst\u00f6rer Shrugged", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA powerful Wesen named Zerst\u00f6rer arrives in Portland, planning to do something with Diana. Nick returns to the house where he solved his first Wesen case to find a solution. However, Zerst\u00f6rer is one step ahead of the gang.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "31 Mar. 2017", 
+            "episodeName": "The End", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nNick faces off against his greatest foe, yet as it seems no weapon can defeat him. Monroe, Rosalee and Eve search for answers that may help them in the fight. Renard and Adalind try to keep Diana and Kelly safe    ", 
+            "seasonNumber": 6
+        }
+    ], 
+    "name": "Grimm", 
+    "plot": "A homicide detective discovers he is a descendant of hunters who fight supernatural forces.", 
+    "rating": 7.8, 
+    "releaseDate": "28 October 2011", 
+    "type": "tvserie"
+}

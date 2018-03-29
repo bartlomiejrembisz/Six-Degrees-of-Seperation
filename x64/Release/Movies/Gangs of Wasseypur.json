@@ -1,0 +1,50 @@
+{
+    "actorList": [
+        "Manoj Bajpayee", 
+        "Richa Chadha", 
+        "Nawazuddin Siddiqui", 
+        "Tigmanshu Dhulia", 
+        "Jameel Khan", 
+        "Piyush Mishra", 
+        "Jaideep Ahlawat", 
+        "Huma Qureshi", 
+        "Zeishan Quadri", 
+        "Vipin Sharma", 
+        "Satyakam Anand", 
+        "Aditya Kumar", 
+        "Rajkummar Rao", 
+        "Vineet Kumar Singh", 
+        "Sankalp Acharekar", 
+        "Mahesh Balraj", 
+        "Mukesh Chhabra", 
+        "Shreedhar Dubey", 
+        "Anurita Jha", 
+        "Harish Khanna", 
+        "Murari Kumar", 
+        "Pramod Pathak", 
+        "Vijesh Rajan", 
+        "Reema Sen", 
+        "Rajesh Kumar Sharma", 
+        "Yashpal Sharma", 
+        "Akash Sinha", 
+        "Suhas Sirsat", 
+        "Pankaj Tripathy", 
+        "Jack Wayne", 
+        "Rohit Pandey", 
+        "Sanjeeva Vatsa"
+    ], 
+    "director": [
+        "Anurag Kashyap"
+    ], 
+    "genres": [
+        "Action", 
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "Gangs of Wasseypur", 
+    "plot": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.", 
+    "rating": 8.3, 
+    "releaseDate": "22 May 2012 (Cannes Directors' Fortnight)\n (premiere)", 
+    "type": "movie"
+}

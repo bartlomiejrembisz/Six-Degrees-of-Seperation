@@ -1,0 +1,42 @@
+{
+    "actorList": [
+        "Manuela Velasco", 
+        "Ferran Terraza", 
+        "Jorge-Yamam Serrano", 
+        "Pablo Rosso", 
+        "David Vert", 
+        "Vicente Gil", 
+        "Martha Carbonell", 
+        "Carlos Vicente", 
+        "Mar\u00eda Teresa Ortega", 
+        "Manuel Bronchud", 
+        "Akemi Goto", 
+        "Chen Min Kao", 
+        "Maria Lanau", 
+        "Claudia Silva", 
+        "Carlos Lasarte", 
+        "Javier Botet", 
+        "Ben Temple", 
+        "Ana Isabel Vel\u00e1squez", 
+        "Daniel Trinh", 
+        "Marita Borrego", 
+        "Jana Prats", 
+        "V\u00edctor Massagu\u00e9", 
+        "Javier Coromina", 
+        "Pep Sais"
+    ], 
+    "director": [
+        "Jaume Balaguer\u00f3", 
+        "Paco Plaza"
+    ], 
+    "genres": [
+        "Horror", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "[Rec]", 
+    "plot": "A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.", 
+    "rating": 7.5, 
+    "releaseDate": "29 August 2007 (Venice Film Festival)", 
+    "type": "movie"
+}

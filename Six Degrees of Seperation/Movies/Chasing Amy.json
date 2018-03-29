@@ -1,0 +1,53 @@
+{
+    "actorList": [
+        "Ethan Suplee", 
+        "Ben Affleck", 
+        "Scott Mosier", 
+        "Jason Lee", 
+        "Casey Affleck", 
+        "Dwight Ewell", 
+        "Joey Lauren Adams", 
+        "Guinevere Turner", 
+        "Carmen Llywelyn", 
+        "Brian O'Halloran", 
+        "Matt Damon", 
+        "Alexander Goebbel", 
+        "Tony Torn", 
+        "Rebecca Waxman", 
+        "Paris Petrick", 
+        "Welker White", 
+        "Kelli Simpkins", 
+        "John Willyung", 
+        "Tse-Mach Washington", 
+        "Ernest O'Donnell", 
+        "Jason Mewes", 
+        "Kevin Smith", 
+        "Kristin Mosier", 
+        "Virginia Smith", 
+        "Mike Allred", 
+        "Illeana Douglas", 
+        "'Krazy Joe' Fiore", 
+        "Walter Flanagan", 
+        "Monica Hampton", 
+        "Robert Hawk", 
+        "Brian Jude", 
+        "John Launder", 
+        "Brian Lynch", 
+        "Jeff Millstein", 
+        "Vincent Pereira", 
+        "Joe Quesada"
+    ], 
+    "director": [
+        "Kevin Smith"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Drama", 
+        "Romance"
+    ], 
+    "name": "Chasing Amy", 
+    "plot": "Holden and Banky are comic book artists. Everything's going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's gay.", 
+    "rating": 7.3, 
+    "releaseDate": "23 January 1997 (Sundance Film Festival)", 
+    "type": "movie"
+}

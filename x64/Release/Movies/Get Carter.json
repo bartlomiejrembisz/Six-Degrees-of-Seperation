@@ -1,0 +1,51 @@
+{
+    "actorList": [
+        "Sylvester Stallone", 
+        "Miranda Richardson", 
+        "Rachael Leigh Cook", 
+        "Rhona Mitra", 
+        "Johnny Strong", 
+        "John C. McGinley", 
+        "Alan Cumming", 
+        "Michael Caine", 
+        "John Cassini", 
+        "Mickey Rourke", 
+        "Mark Boone Junior", 
+        "Garwin Sanford", 
+        "Darryl Scheelar", 
+        "Crystal Lowe", 
+        "Lauren Lee Smith", 
+        "John Moore", 
+        "Tyler Labine", 
+        "Mike Cook", 
+        "Morgan Brayton", 
+        "Yves Cameron", 
+        "Alexander Pervakov", 
+        "Chris Duggan", 
+        "Michael Rumain", 
+        "Rob Lee", 
+        "Nathaniel DeVeaux", 
+        "Riley Cantner", 
+        "Carrie Anne Fleming", 
+        "Saskia Gould", 
+        "Stephen Kay", 
+        "David Lea", 
+        "Gretchen Mol", 
+        "Tom Sizemore", 
+        "Frank Stallone"
+    ], 
+    "director": [
+        "Stephen Kay"
+    ], 
+    "genres": [
+        "Action", 
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "Get Carter", 
+    "plot": "A Las Vegas mob enforcer, travels back to his hometown to investigate his brothers' mysterious death.", 
+    "rating": 5.1, 
+    "releaseDate": "25 September 2000 (New York City, New York)\n (premiere)", 
+    "type": "movie"
+}

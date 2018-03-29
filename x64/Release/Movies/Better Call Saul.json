@@ -1,0 +1,241 @@
+{
+    "actorList": [
+        "Patrick Fabian", 
+        "Michael McKean", 
+        "Rhea Seehorn", 
+        "Bob Odenkirk", 
+        "Jonathan Banks", 
+        "Michael Mando"
+    ], 
+    "director": [
+        "Vince Gilligan", 
+        "Thomas Schnauz", 
+        "Adam Bernstein", 
+        "Peter Gould", 
+        "Colin Bucksey", 
+        "Larysa Kondracki", 
+        "Terry McDonough", 
+        "John Shiban"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "8 Feb. 2015", 
+            "episodeName": "Uno", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nStruggling public defender Jimmy McGill constructs an elaborate yet questionable plan for winning back a pair of wealthy, potential clients.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Feb. 2015", 
+            "episodeName": "Mijo", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWith his latest scam gone horribly wrong, Jimmy finds himself face to face with violent criminals, and is forced to talk his way out of a life-threatening situation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Feb. 2015", 
+            "episodeName": "Nacho", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJimmy must prove that Nacho is innocent when he is wrongly suspected of kidnapping.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Feb. 2015", 
+            "episodeName": "Hero", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJimmy makes a bold move against Hamlin in an effort to attract potential clients.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Mar. 2015", 
+            "episodeName": "Alpine Shepherd Boy", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAfter a strange encounter with the police, Chuck ends up in the hospital. Jimmy meets up with a series of unruly clients.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Mar. 2015", 
+            "episodeName": "Five-O", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMike's days as a police officer in Philadelphia catch up to him when he's questioned about a tragic event from his past.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Mar. 2015", 
+            "episodeName": "Bingo", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe Kettlemans seek Jimmy as their lawyer after turning down an offer from HHM, going as far as attempting to blackmail him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Mar. 2015", 
+            "episodeName": "RICO", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nJimmy discovers the Sandpiper Retirement Home has been scamming his elderly clients, and prepares to take legal action.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Mar. 2015", 
+            "episodeName": "Pimento", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nChuck wants to transfer the Sandpiper case to HHM much to Jimmy's dismay. Mike gets a job offer working as a bodyguard.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Apr. 2015", 
+            "episodeName": "Marco", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nJimmy seizes an opportunity to reconnect with an old friend; Chuck adjusts to a new way of life.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Feb. 2016", 
+            "episodeName": "Switch", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nJimmy decides to quit the law after turning down a job at Davis & Main. Mike breaks ties with a former associate.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Feb. 2016", 
+            "episodeName": "Cobbler", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhile Mike attempts to track down Pryce's stolen baseball cards, Jimmy must defend him when the police call him in for further questioning.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Feb. 2016", 
+            "episodeName": "Amarillo", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJimmy struggles with client outreach and decides to shoot a TV commercial for Davis & Main. Mike begins an investigation.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Mar. 2016", 
+            "episodeName": "Gloves Off", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJimmy and Kim face the repercussions of the TV commercial. Mike makes a deal with Nacho in regards to his newest job offer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Mar. 2016", 
+            "episodeName": "Rebecca", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nJimmy chafes under his restrictive work environment; Kim goes to extremes to dig herself from a bottomless hole at HHM.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Mar. 2016", 
+            "episodeName": "Bali Ha'i", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nJimmy finds comfort in familiarity; Kim receives a life-changing proposal; when he is threatened, Mike finds himself pushed to the limit.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Mar. 2016", 
+            "episodeName": "Inflatable", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen Mike's hand is forced, he can no longer hide his frustration; Mike and Jimmy work together to keep the peace.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Apr. 2016", 
+            "episodeName": "Fifi", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nMike aims to settle the score with an enemy; an unexpected opportunity presents itself to Jimmy.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Apr. 2016", 
+            "episodeName": "Nailed", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMike takes a methodical approach to his mission; someone questions Chuck's capabilities; Jimmy faces a personal dilemma.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Apr. 2016", 
+            "episodeName": "Klick", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nJimmy must make a hard choice; Mike takes control of matters; Hamlin delivers shocking news.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Apr. 2017", 
+            "episodeName": "Mabel", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAs Chuck plots his next move, another lie comes back to haunt Jimmy. A rattled Mike tries to find out who's been tracking his movements - and how.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Apr. 2017", 
+            "episodeName": "Witness", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nJimmy and Kim hire an assistant; Mike seeks out a mysterious acquaintance; and Chuck uses the law to gain an advantage over Jimmy.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Apr. 2017", 
+            "episodeName": "Sunk Costs", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJimmy decides to represent a new client, much to Kim's dismay. Meanwhile, Mike meets a formidable ally who presents him an enticing offer.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 May 2017", 
+            "episodeName": "Sabrosito", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 May 2017", 
+            "episodeName": "Chicanery", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Off Brand", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Expenses", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Slip", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Fall", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Lantern", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "Better Call Saul", 
+    "plot": "The trials and tribulations of criminal lawyer, Jimmy McGill, in the time leading up to establishing his strip-mall law office in Albuquerque, New Mexico.", 
+    "rating": 8.7, 
+    "releaseDate": "8 February 2015", 
+    "type": "tvserie"
+}

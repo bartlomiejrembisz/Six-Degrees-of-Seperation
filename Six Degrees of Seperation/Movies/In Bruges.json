@@ -1,0 +1,48 @@
+{
+    "actorList": [
+        "Elizabeth Berrington", 
+        "Rudy Blomme", 
+        "Olivier Bonjour", 
+        "Mark Donovan", 
+        "Ann Elsley", 
+        "Colin Farrell", 
+        "Jean-Marc Favorin", 
+        "Ralph Fiennes", 
+        "Brendan Gleeson", 
+        "Eric Godon", 
+        "Zeljko Ivanek", 
+        "Sachi Kimura", 
+        "Anna Madeley", 
+        "Louis Nummy", 
+        "Cl\u00e9mence Po\u00e9sy", 
+        "Jordan Prentice", 
+        "J\u00e9r\u00e9mie Renier", 
+        "Thekla Reuten", 
+        "Theo Stevenson", 
+        "Inez Stinton", 
+        "Emily Thorling", 
+        "Angel Witney", 
+        "Bonnie Witney", 
+        "Ran Yaniv", 
+        "Stephanie Carey", 
+        "Jamie Edgell", 
+        "Susan Ateh", 
+        "Ciar\u00e1n Hinds", 
+        "Arnold Montey", 
+        "Matt Smith"
+    ], 
+    "director": [
+        "Martin McDonagh"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "In Bruges", 
+    "plot": "Guilt-stricken after a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.", 
+    "rating": 7.9, 
+    "releaseDate": "17 January 2008 (Sundance Film Festival)", 
+    "type": "movie"
+}

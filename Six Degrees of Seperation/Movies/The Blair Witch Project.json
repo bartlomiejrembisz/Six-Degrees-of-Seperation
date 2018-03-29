@@ -1,0 +1,27 @@
+{
+    "actorList": [
+        "Heather Donahue", 
+        "Joshua Leonard", 
+        "Michael C. Williams", 
+        "Bob Griffin", 
+        "Jim King", 
+        "Sandra S\u00e1nchez", 
+        "Ed Swanson", 
+        "Patricia DeCou", 
+        "Mark Mason", 
+        "Jackie Hallex"
+    ], 
+    "director": [
+        "Daniel Myrick", 
+        "Eduardo S\u00e1nchez"
+    ], 
+    "genres": [
+        "Horror", 
+        "Mystery"
+    ], 
+    "name": "The Blair Witch Project", 
+    "plot": "Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.", 
+    "rating": 6.4, 
+    "releaseDate": "25 January 1999 (Sundance Film Festival)", 
+    "type": "movie"
+}

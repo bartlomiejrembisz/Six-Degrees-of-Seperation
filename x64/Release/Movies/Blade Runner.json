@@ -1,0 +1,47 @@
+{
+    "actorList": [
+        "Harrison Ford", 
+        "Rutger Hauer", 
+        "Sean Young", 
+        "Edward James Olmos", 
+        "M. Emmet Walsh", 
+        "Daryl Hannah", 
+        "William Sanderson", 
+        "Brion James", 
+        "Joe Turkel", 
+        "Joanna Cassidy", 
+        "James Hong", 
+        "Morgan Paull", 
+        "Kevin Thompson", 
+        "John Edward Allen", 
+        "Hy Pyke", 
+        "Kimiko Hiroshige", 
+        "Bob Okazaki", 
+        "Carolyn DeMirjian", 
+        "Ben Astar", 
+        "Judith Burnett", 
+        "Leo Gorcey Jr.", 
+        "Dawna Lee Heising", 
+        "Sharon Hesky", 
+        "Kelly Hine", 
+        "Tom Hutchinson", 
+        "Charles Knapp", 
+        "Rose Mascari", 
+        "Jir\u00f4 Okazaki", 
+        "Steve Pope", 
+        "Robert Reiter", 
+        "Alexis Rhee"
+    ], 
+    "director": [
+        "Ridley Scott"
+    ], 
+    "genres": [
+        "Sci-Fi", 
+        "Thriller"
+    ], 
+    "name": "Blade Runner", 
+    "plot": "A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.", 
+    "rating": 8.2, 
+    "releaseDate": "25 June 1982", 
+    "type": "movie"
+}

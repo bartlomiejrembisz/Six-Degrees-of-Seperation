@@ -1,0 +1,1361 @@
+{
+    "actorList": [
+        "Ed O'Neill", 
+        "Sof\u00eda Vergara", 
+        "Julie Bowen", 
+        "Jesse Tyler Ferguson", 
+        "Eric Stonestreet", 
+        "Ty Burrell", 
+        "Rico Rodriguez", 
+        "Nolan Gould", 
+        "Sarah Hyland", 
+        "Ariel Winter", 
+        "Aubrey Anderson-Emmons"
+    ], 
+    "director": [
+        "Gail Mancuso", 
+        "Michael Alan Spiller", 
+        "Jason Winer", 
+        "Steven Levitan", 
+        "Beth McCarthy-Miller", 
+        "James R. Bagdonas", 
+        "James Alan Hensz", 
+        "Chris Koch", 
+        "Fred Savage", 
+        "Ryan Case", 
+        "Alisa Statman", 
+        "Jeffrey Walker", 
+        "Scott Ellis", 
+        "Reginald Hudlin", 
+        "Randall Einhorn", 
+        "Bryan Cranston", 
+        "Ken Whittingham"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Romance"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "23 Sep. 2009", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nJay must adapt to his young new wife, Gloria and her son. Meanwhile, Claire deals with her own family. Mitchell and Cam decide to adopt a baby.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Sep. 2009", 
+            "episodeName": "The Bicycle Thief", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAfter buying a new bike for his son, Phil ends up lying when it gets stolen. Jay tries bonding with Manny. Cam and Mitchell begin daycare classes for Lily.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Oct. 2009", 
+            "episodeName": "Come Fly with Me", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJay takes Phil on a model-airplane excursion with disastrous results. While Manny is at their house, Claire must get used to the fact they are actually siblings.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Oct. 2009", 
+            "episodeName": "The Incident", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJay's ex-wife shows up for the first time following a nasty incident at Gloria and Jay's wedding.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Oct. 2009", 
+            "episodeName": "Coal Digger", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA conflict between Manny and Luke spreads to their respective parents during a football game.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Oct. 2009", 
+            "episodeName": "Run for Your Wife", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nClaire and Phil have mixed feelings regarding the first day of school for the kids. Jay and Gloria argue about an outfit for Manny, and a minor problem with Lily gets blown out of proportion by Mitchell and Cameron.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Nov. 2009", 
+            "episodeName": "En Garde", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe whole family comes out to support Manny's newfound interest - fencing. It turns out he's quite masterful in the sport, but Jay's proud enthusiasm triggers an old childhood wound for Mitchell. Meanwhile Phil is determined to find where Luke's hidden talents lie.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Nov. 2009", 
+            "episodeName": "Great Expectations", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nJay has a sleepover for his grandkids, but Haley is looking for a way out. Claire tries to get a perfect anniversary gift for Phil, and Mitchell and Cameron discover that their ladyfriend is crazy and jealous of their daughter.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Nov. 2009", 
+            "episodeName": "Fizbo", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nCameron breaks out his favorite clown costume to make Luke's birthday party a hit. However, a series of accidents causes the party to break into chaos and leads to an unfortunate injury.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Dec. 2009", 
+            "episodeName": "Undeck the Halls", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nPhil and Claire cancel Christmas for their kids until they confess to wrongdoings at the house. Jay is hesitant to celebrate Gloria and Manny's holiday traditions. Mitchell and Cameron take Lily to meet Santa.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Jan. 2010", 
+            "episodeName": "Up All Night", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nManny's dad shows up bearing extravagant gifts, Mitchell and Cameron fight over how to care for their daughter when she cries at night, and Claire tries to impress the firefighters who responded to Phil's kidney stone 911 call.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Jan. 2010", 
+            "episodeName": "Not in My House", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nGloria plots to get rid of Jay's new \"dog butler,\" Cameron's helpful nature gets himself in trouble with Mitchell, and Claire asks Phil to punish their son for looking at nude pictures, not knowing they're Phil's.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Jan. 2010", 
+            "episodeName": "Fifteen Percent", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nMitchell tells Jay that one of his friends is gay to teach him a lesson, Claire gets frustrated with Phil's new master remote control, and Gloria gives Manny's \"date\" a makeover to improve her self-esteem.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Feb. 2010", 
+            "episodeName": "Moon Landing", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nClaire feels like a loser when she catches up with an old friend from work, Jay and Cameron have an unpleasant \"encounter\" in a locker room, and Mitchell tries to give legal advice to Gloria after she has a wreck.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Feb. 2010", 
+            "episodeName": "My Funky Valentine", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nJay takes Gloria to see David Brenner. Mitchell and Cameron try to set Manny up on a date. Phil and Claire try to spice things up by going on a romantic getaway.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Mar. 2010", 
+            "episodeName": "Fears", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nHaley confronts a terrifying driving examiner in her third attempt to pass the road test. Alex is nervous about a school dance. Gloria taunts Jay and Manny to ride a roller coaster. Phil and Luke look for treasure under the house.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Mar. 2010", 
+            "episodeName": "Truth Be Told", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nJay accidentally kills Manny's pet turtle and lies about it, Claire becomes jealous when Phil's ex-girlfriend pays a visit, and Mitchell makes a bold decision after he misses a family day because he's called in to work.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Mar. 2010", 
+            "episodeName": "Starry Night", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nJay and Mitchell attempt to bond while watching a meteor shower, but things don't go according to plan. Gloria and Cameron try to find something else to occupy their time. Claire and Phil try to help their kids with their school projects.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2010", 
+            "episodeName": "Game Changer", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nJay takes on Gloria and Manny in the ultimate chess game. Claire goes all out to find a cool new electronic gadget for Phil's birthday gift, and Cameron pokes his nose into a neighbor's affairs.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Apr. 2010", 
+            "episodeName": "Benched", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nJay and Phil vie for the same coaching position on Manny and Luke's basketball team. Mitchell helps Cameron with a job interview, and Gloria and Claire talk about their kids growing up.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Apr. 2010", 
+            "episodeName": "Travels with Scout", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nCameron wants to join Dylan's band. Claire is suspicious when Phil's father pays a visit, and Manny is traumatized by a horror movie.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 May 2010", 
+            "episodeName": "Airport 2010", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nGloria's birthday present to Jay of a trip to Hawaii becomes a vacation for the entire family.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 May 2010", 
+            "episodeName": "Hawaii", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nJay's plan to relax in Hawaii are thwarted. Phil tries to make the vacation special for Claire, but this results in the kids being unsupervised. Mitchell and Cameron debate on what to see.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 May 2010", 
+            "episodeName": "Family Portrait", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nClaire goes through great lengths to organize a family portrait. Gloria and Phil have an awkward moment while taking Manny and Alex to a Lakers game. Cameron becomes a wedding singer, and Jay has to help Luke with a school project.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Sep. 2010", 
+            "episodeName": "The Old Wagon", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe Dunphys get nostalgic when Phil has to get rid of their station wagon. Cameron begs Jay to intervene when Mitchell wants to build Lily a castle, and Manny invites a girl over to study.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Sep. 2010", 
+            "episodeName": "The Kiss", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nCameron is upset with Mitchell's lack of public affection, Gloria gets back at Jay for disrespecting her Colombian traditions, and Claire goes overboard as Alex tries to get her first kiss.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Oct. 2010", 
+            "episodeName": "Earthquake", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWhen an earthquake hits the area, Claire gets locked in the bathroom with a plumber, Cameron and Mitchell use it as an excuse to get out of brunch with an obnoxious friend, and Manny reevaluates the meaning of life while on a trip with Jay.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Oct. 2010", 
+            "episodeName": "Strangers on a Treadmill", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMitchell and Claire agree to break some embarrassing news to each other's significant others, Jay makes a fool of himself at what he thinks is a quinceanera, and Haley helps Alex try to make a popular friend.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Oct. 2010", 
+            "episodeName": "Unplugged", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nPhil, Claire, and the kids try to improve their communication skills by giving up their electronic devices. Gloria is getting obsessed over a neighbor's barking dog, and Mitchell and Cameron try to find a preschool for Lily.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Oct. 2010", 
+            "episodeName": "Halloween", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nClaire needs the family's help to run Halloween smoothly at their house. Jay and Manny have fun at Gloria's expense, and the holiday brings back painful memories for Cameron.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Nov. 2010", 
+            "episodeName": "Chirp", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhile Claire and Haley get sick at the same time, Phil wages battle against a chirping smoke detector. Manny accidentally gets one of Jay's employees fired, and Cameron wants to put Lily in a TV commercial.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Nov. 2010", 
+            "episodeName": "Manny Get Your Gun", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nA birthday dinner for Manny at a family restaurant turns into a race for Phil and Claire and a chance for Cameron to socialize at a shopping mall while looking for a gift.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Nov. 2010", 
+            "episodeName": "Mother Tucker", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJay and Manny's online diagnosis of Jay's illness makes matters worse. A visit from Cameron's mother sends Mitchell into a frenzy. Phil is more upset about Haley's breakup with Dylan than she is.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Dec. 2010", 
+            "episodeName": "Dance Dance Revelation", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nClaire is threatened when Gloria becomes her co-chair for a school dance, Jay bullies Phil into taking a stand during a trip to the mall, and Mitchell and Cameron discover that their daughter is a biter.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Jan. 2011", 
+            "episodeName": "Slow Down Your Neighbors", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nClaire tries to stop a woman from speeding in the neighborhood, which creates a business conflict for Phil. Meanwhile, Mitchell and Cameron befriend a strange new neighbor, and Gloria and Manny learn how to ride a bicycle.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Jan. 2011", 
+            "episodeName": "Our Children, Ourselves", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nPhil and Claire question their intelligence after a comment by Alex, Mitchell suspects that he fathered a child 8 years ago, and Gloria tells an embarrassing lie about Jay to cover up his rudeness to another couple.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Jan. 2011", 
+            "episodeName": "Caught in the Act", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nPhil and Claire's kids walk in on them having sex while delivering their anniversary present, Gloria tries to keep Claire from seeing an angry e-mail, and Mitchell and Cameron contemplate how to cover up a juice stain on a rug.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Feb. 2011", 
+            "episodeName": "Bixby's Back", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nPhil and Clair try to revisit an old Valentine's Day act, Jay tries to surprise Gloria with a romantic dinner, Mitchell and Cameron disagree over Mitchell's assistant's crush, and Manny gives Haley relationship advice.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Feb. 2011", 
+            "episodeName": "Princess Party", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nDede hooks up with Claire's high school boyfriend the night before Lily's birthday party. Meanwhile, Mitchell won't let Cameron play Fizbo the Clown at the party, while Gloria self-medicates to cope with Dede.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Feb. 2011", 
+            "episodeName": "Regrets Only", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nGloria helps Phil figure out why Claire is mad at him, Mitchell forgets to send out invitations to Cameron's fund raiser, and Alex tries to prove that Haley is lying when she says she has a job as a waitress.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Mar. 2011", 
+            "episodeName": "Two Monkeys and a Panda", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nPhil spends the day at the spa while Claire tries to replace Haley's favorite sweater, Cameron discovers Mitchell's dirty secret about Lily's adoption, and Jay and Gloria argue over their final resting place.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Mar. 2011", 
+            "episodeName": "Boys' Night", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nPhil and Claire have some trepidation when they find out that Luke has befriended their crotchety old neighbor, Mr. Kleezak; Jay's attempt to avoid sitting through a symphony concert with Gloria and Manny lands him in the middle of Mitchell and Cameron's \"boys' night out\"; and Haley has her own adventures in babysitting with Lily.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Apr. 2011", 
+            "episodeName": "The Musical Man", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nPhil's new real estate ad creates embarrassment for Claire and Haley, Cameron goes over the top while directing a school musical, and Jay's brother comes to town with some surprising news.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Apr. 2011", 
+            "episodeName": "Someone to Watch Over Lily", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nMitchell and Cameron try to determine Lily's guardian in case something happens to them, Claire is scared that Luke will turn out like Phil, and Haley bonds with Alex after she is forced to take Alex to cello practice.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 May 2011", 
+            "episodeName": "Mother's Day", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nCameron is upset that Mitchell thinks he's the \"Mom\" of the family, Claire and Gloria take the kids on a disastrous hike, and Phil witnesses Jay tearing up while they prepare Mother's Day dinner.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 May 2011", 
+            "episodeName": "Good Cop Bad Dog", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nPhil and Claire trade discipline roles for the day, Gloria forces Jay to listen to a horrible business proposal, and Mitchell tries to convince a sick Cameron to let him go to the Lady Gaga concert without him.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 May 2011", 
+            "episodeName": "See You Next Fall", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nHaley tries to convince Alex not to deliver an angry graduation speech, Jay has a botched Botox procedure, and Cameron gets upset with Mitchell because he keeps laughing at his accidents.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 May 2011", 
+            "episodeName": "The One That Got Away", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nJay wants nothing more than to have a quiet birthday out fishing on the lake, but the family take that as him wanting a big celebration, and in their frantic scramble to put everything together, Claire and Mitchell wind up trapped in the yard of their childhood home; Phil runs into his old college nemesis while at the mall with Gloria and Lily; Cameron gets himself into some hot water at the bakery, and the kids frantically do some creative editing on grandpa's birthday video, all of which leaves Jay with a headache.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Sep. 2011", 
+            "episodeName": "Dude Ranch", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe family's dude ranch vacation turns into disaster when Dylan proposes to Haley, Alex gets an unexpected first kiss, their cowboy guide keeps hitting on Gloria, and Phil goes out of his way to impress Jay.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Sep. 2011", 
+            "episodeName": "When Good Kids Go Bad", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nLily has problems with Mitchell and Cameron's plans to adopt another child, Jay tries to get Manny to confess to stealing a locket at school, and Claire goes to extreme lengths to prove that she was right in an argument.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Sep. 2011", 
+            "episodeName": "Phil on Wire", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nPhil tries to learn tightrope walking, Haley and Alex wind up in the same math class, Gloria becomes upset over Jay's pampering of the dog, and Mitchell joins Cameron on a juice fast.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Oct. 2011", 
+            "episodeName": "Door to Door", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nClaire recruits her family to help gather signatures for a petition to get a stop sign, Gloria loses the family dog, Jay helps Manny try to sell wrapping paper for school, and Cameron leaves a mess in the kitchen for Mitchell.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Oct. 2011", 
+            "episodeName": "Hit and Run", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nClaire leaves Phil at home to watch the kids while she applies to run for public office, Mitchell and Cameron are victimized by a hit-and-run driver, and an annoying client asks Jay to \"wow\" him.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Oct. 2011", 
+            "episodeName": "Go Bullfrogs!", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhile Phil takes Haley on a tour of his alma mater, Claire goes out on the town with a man she mistakenly assumes is Mitchell and Cameron's gay friend. Meanwhile, Gloria is alarmed and curious about Manny's mail-order package.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 Nov. 2011", 
+            "episodeName": "Treehouse", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nPhil tries to build a treehouse, Haley struggles with writing a college admissions essay, Cameron hits on a single woman to win a bet with Mitchell, and Jay doesn't want to go out salsa dancing with Gloria and another couple.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Nov. 2011", 
+            "episodeName": "After the Fire", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAs the family collects goods for a family whose house burned down, Jay makes an embarrassing remark to Phil during a massage, Claire is jealous of Mitchell's friendship with Gloria, and Cameron struggles with a moving van in a parking lot.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Nov. 2011", 
+            "episodeName": "Punkin Chunkin", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nPhil is upset that Claire is stifling his creativity, Mitchell doesn't believe Cameron's \"punkin chunkin\" story, Gloria won't let Jay tell Manny that his Thanksgiving centerpiece is horrible, and Hayley and Alex get in an accident.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Dec. 2011", 
+            "episodeName": "Express Christmas", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nPhil proposes that the entire family celebrate \"Express Christmas\" together on December 16, when they discover that they won't be spending Christmas Day together.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Jan. 2012", 
+            "episodeName": "Lifetime Supply", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAfter having a doctor's visit but then missing the call with the test results, Phil automatically jumps to conclusions and starts saying his goodbyes. Meanwhile Javier pops up unannounced again and takes Manny to the horse races for a belated birthday celebration, and a subtle competition ensues when Mitchell brings home an environmental law award and it becomes a game of who has the bigger trophy.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Jan. 2012", 
+            "episodeName": "Egg Drop", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nWhile Jay and Claire become hyper-competitive while working on their boys' science project, Gloria tries to help Phil with his real estate seminar. Meanwhile, Cameron and Mitchell interview a potential birth mother.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Jan. 2012", 
+            "episodeName": "Little Bo Bleep", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nClaire's family tries to help her prepare for her political debate, Lily begins saying the \"F word\" right before her appearance as a flower girl at a wedding, and Jay begins to wonder if his dog Stella is suicidal.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Feb. 2012", 
+            "episodeName": "Me? Jealous?", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nClaire thinks Phil's prospective new client is hitting on her, tensions rise as Mitchell and Cameron temporarily stay with Jay and Gloria, and Alex becomes jealous when Hayley volunteers as a Big Sister.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Feb. 2012", 
+            "episodeName": "Aunt Mommy", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nClaire makes a drunken decision to donate her egg for Mitchell and Cameron's next child, while Manny gets hurt after Jay gets him into a football game.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Feb. 2012", 
+            "episodeName": "Virgin Territory", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAlex accidentally reveals a secret about Haley to their dad, Cameron fakes a back injury to catch Claire in a lie, Mitchell confesses a secret about one of Jay's proudest moments, and Luke helps Manny try to impress a girl.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Feb. 2012", 
+            "episodeName": "Leap Day", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nClaire, Hayley, and Alex's cycles ruin Phil's big Leap Day plans, Mitchell tries to throw an elaborate party for Cameron's \"tenth\" birthday, and Gloria wants Jay to get in a fight.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Mar. 2012", 
+            "episodeName": "Send Out the Clowns", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nCameron reunites an old clown act despite Mitchell's warnings, Phil plays hardball with a rival to get a listing, Manny's new \"friend\" has a crush on Gloria, and Claire wants her daughters to friend her on Facebook.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Apr. 2012", 
+            "episodeName": "Election Day", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nIt's Claire's election day, and the entire family tries in vain to pitch in to help her win the vote. Meanwhile, Haley anxiously awaits her final chance to get accepted into a college.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Apr. 2012", 
+            "episodeName": "The Last Walt", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nCameron's dad is visiting from the farm, and when Jay comes over, it's two manly men squaring off.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 May 2012", 
+            "episodeName": "Planes, Trains and Cars", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nPhil makes an impulsive car purchase and wonders how Claire will react, Jay struggles to get himself and his family to a weekend with the guys at Pebble Beach, and Mitchell and Cameron lose Lily's stuffed bunny on the subway.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 May 2012", 
+            "episodeName": "Disneyland", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nVisiting the happiest place on earth triggers old memories and creates new ones.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 May 2012", 
+            "episodeName": "Tableau Vivant", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nJay and Gloria argue about how a waitress is closer to Jay than Gloria. Luke is awarded a medal for putting out a fire he started, Phil tries to fire Mitchell, and Claire and Cam fight about Cam's parenting strategies.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 May 2012", 
+            "episodeName": "Baby on Board", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nJay and Manny are left to accompany Lily at her recital as Mitchell and Cameron bring Gloria along as translator as they adopt a Mexican child. Meanwhile, Haley has a surprise announcement about her plans after high school.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Sep. 2012", 
+            "episodeName": "Bringing Up Baby", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nGloria tries to surprise Jay with news on his birthday that she is pregnant, while Phil surprises Jay with a fishing trip. Meanwhile, Mitchell and Cameron debate getting Lily a cat after she loses out on getting a baby brother.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Oct. 2012", 
+            "episodeName": "Schooled", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nPhil and Claire get emotional as they send Haley off to school, Manny makes Jay and Gloria take a parenting class, and Mitchell and Cameron clash with lesbian parents from Lily's school.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Oct. 2012", 
+            "episodeName": "Snip", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nClaire has problems with the kids as Phil prepares to get a vasectomy, Gloria refuses to wear maternity clothes, and Mitchell encourages Cameron to get a job.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Oct. 2012", 
+            "episodeName": "The Butler's Escape", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPhil is upset that Luke wants to give up magic, Jay tries to get away from Gloria's snoring, Mitchell does errands as Cameron starts his new job as music teacher, and Alex suddenly becomes more sarcastic.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Oct. 2012", 
+            "episodeName": "Open House of Horrors", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nClaire tries to scare Phil on Halloween night, Cameron tries to show off his new slimmer body at his Halloween party, and Mitchell's white lie about Lily's mother gets him in trouble.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "31 Oct. 2012", 
+            "episodeName": "Yard Sale", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA yard sale at Jay's house reveals a secret in Gloria's past, Phil's wild side when he tries Jay's old motorcycle, and concern that Alex's new boyfriend might be gay.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Nov. 2012", 
+            "episodeName": "Arrested", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen Haley is arrested for underage drinking, Phil, Claire, and Mitchell must intervene, leaving Cameron in charge of the kids. Jay's ex-wife, DeDe, makes a surprise visit, and he desperately tries to hide Gloria's pregnancy from her.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Nov. 2012", 
+            "episodeName": "Mistery Date", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhile Claire and the kids are away at one of Alex's competitions, one of Cam's friends has a \"date\" with Phil. Meanwhile, Mitchell has a breakthrough with Jay on a shopping trip, and Cameron gets Jay and Gloria a surprise gift.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Nov. 2012", 
+            "episodeName": "When a Tree Falls", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nMitchell and Cameron fight to save a tree, Phil and Jay literally come to blows at a kids' birthday party, Claire goes shopping with Gloria--who is suffering from \"pregnancy brain,\" and Alex tries to get an embarrassing photo of Haley.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Dec. 2012", 
+            "episodeName": "Diamond in the Rough", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nGloria buys a microphone so she can sing to her unborn baby. Claire and Cameron try to renovate a baseball field so Luke's and Manny's baseball team has a place to play.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Jan. 2013", 
+            "episodeName": "New Year's Eve", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nOn New Year's Eve, Jay plays poker with Billy Dee Williams, Phil and Claire try to rekindle their romance, Mitchell and Cameron search for a bar where they fit in, and Haley and Alex stay home to babysit.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Jan. 2013", 
+            "episodeName": "Party Crasher", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nJay and Gloria throw a surprise birthday party for Manny, but their unborn baby may have other plans. Meanwhile, Haley dates a man twice her age, and Cameron becomes jealous of Mitchell and Lily's relationship    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Jan. 2013", 
+            "episodeName": "Fulgencio", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nJay fights with his mother in law over naming the baby, Phil unsuccessfully tries to solve his kids' problems, and Mitchell and Cameron try to curb Lily's snarkiness.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "6 Feb. 2013", 
+            "episodeName": "A Slight at the Opera", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nCam is left without a lead on the first school performance of \"Phantom of the Opera,\" Phil and Mitchell play golf with Jay, and Haley and her boyfriend help Claire take care of the baby.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Feb. 2013", 
+            "episodeName": "Heart Broken", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nPhil and Claire's Valentine's plans land Claire in the emergency room, Jay and Gloria try to be intimate for the first time after the baby, and Mitchell has a wild Valentine's night after drinking and blacking out at his party.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Feb. 2013", 
+            "episodeName": "Bad Hair Day", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nClaire runs into an old lover at her college reunion, a mishap causes Cam to give the baby a disastrous haircut, and Jay has to put his bowling match on hold to build up Manny's confidence.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Feb. 2013", 
+            "episodeName": "Best Men", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMitchell and Cameron are co-best men for a friend's wedding, but the bride has cold feet. Meanwhile, Manny has a crush on the nanny, Phil helps Luke get a date, and Claire and Haley go together to Alex's concert.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Mar. 2013", 
+            "episodeName": "The Wow Factor", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nClaire and Cam clash over a fountain as they try to flip a house, Mitchell confronts a playground bully, Jay spends the day alone with Joe, and Phil tries to teach the girls about home repairs.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Apr. 2013", 
+            "episodeName": "The Future Dunphys", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nPhil and Claire get a possible glimpse at their future children, Gloria helps Lily get in touch with her Vietnamese heritage, and Jay tries to help Manny get into a prestigious prep school.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Apr. 2013", 
+            "episodeName": "Flip Flop", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nPhil pulls out all the stops to flip Cameron and Claire's house and avoid embarrassment from a rival realtor, and Gloria is jealous of Manny's. relationship with her ex-husband Javier's new girlfriend.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 May 2013", 
+            "episodeName": "Career Day", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nPhil's rival, Gil Thorpe, offers Claire a job, Lily gets a extra-generous gift from the Tooth Fairy, and Jay decides to begin working on his novel.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 May 2013", 
+            "episodeName": "My Hero", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nCam is jealous of Mitchell's ex-boyfriend, Claire tries to avoid her dad's job offer, Manny has to write an essay about his hero, Phil tries to teach Gloria to skate, and Hayley tries to help Alex flirt with boys.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 May 2013", 
+            "episodeName": "Games People Play", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nThe Dunphys take an RV trip together, Mitchell and Cam become over-competitive at Lily's gymnastics meet, and Jay and Gloria are upset that they weren't invited to a party.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "22 May 2013", 
+            "episodeName": "Goodnight Gracie", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nThe family goes to Florida for Phil's mother's funeral. Phil has to honor his mom's odd last request, Jay sees a familiar face, Mitchell defends Gloria in court, and Cameron makes some new friends.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "25 Sep. 2013", 
+            "episodeName": "Suddenly, Last Summer", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMitchell and Cam go behind each other's backs to set up the perfect marriage proposal, Gloria is sad about sending Manny to Colombia, and Phil and Claire try to arrange the kids' vacations to maximize their \"alone time.\"    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "25 Sep. 2013", 
+            "episodeName": "First Days", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nManny and Luke have their first day of high school, Cam works as a substitute social studies teacher, Claire begins her new job working for her dad, and Mitchell's boss hits on Haley.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 Oct. 2013", 
+            "episodeName": "Larry's Wife", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMitchell leaves the wedding plans to Cam, who is busy preparing a cat funeral for Lily. Meanwhile, Phil tries to cater his real estate business to divorced women, and Gloria thinks her baby may be cursed.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Oct. 2013", 
+            "episodeName": "Farm Strong", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nCam's sister comes to town with good news, Phil and Claire agree to skip Luke's soccer game, Gloria refuses to admit she needs glasses, and Alex thinks Jay is cheating at Words With Friends.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "16 Oct. 2013", 
+            "episodeName": "The Late Show", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nJay pulled a lot of strings to get reservations at the hottest new restaurant for a family adult's night out. Unfortunately, in each household everyone is running late.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "23 Oct. 2013", 
+            "episodeName": "The Help", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nPhil tries to get dad back in the dating scene, Jay does not like Gloria's new choice for a nanny, and Mitchell and Cameron are not impressed with their old friend Pepper's plans for their wedding.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "13 Nov. 2013", 
+            "episodeName": "A Fair to Remember", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAt a local fair, Phil tries to surprise Claire with an anniversary gift, Jay works as a \"police officer,\" Manny enters a cake baking contest, Luke confronts a crush, and Cameron tries to rally the football team.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Nov. 2013", 
+            "episodeName": "ClosetCon '13", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nClaire joins Jay at a closet convention; Cam, Mitchell and Lily visit Cam's childhood Missouri farm, Phil breaks Jay's priceless Apollo 13 model, and Hayley and Alex fight over the pizza delivery guy.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "4 Dec. 2013", 
+            "episodeName": "The Big Game", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nCam tries to break a school record as freshman football coach, Phil is on the verge of his first month without selling a house, Claire still struggles with being the boss's daughter, and Mitchell tries to let his boss down easily.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "11 Dec. 2013", 
+            "episodeName": "The Old Man & the Tree", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nLuke helps Phil try to reach Canada on his elliptical machine, Jay and Manny try to get a Christmas tree in the wild, Gloria is jealous of Claire and his mom, and a mix-up lands Cam and Lily with the homeless at Christmas.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Jan. 2014", 
+            "episodeName": "And One to Grow On", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nPhil tricks Luke into taking a dance class, but the joke is on him when the white lie indirectly lands him in the slammer. Meanwhile, Jay and Gloria throw a birthday party for Manny and Joe but are worried that Manny might be hitting on girls who are way out of his league. And Mitch and Cam are having more problems with planning their wedding when they get a rude awakening in the cutthroat world of booking a wedding venue.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Jan. 2014", 
+            "episodeName": "Under Pressure", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe parents go to open house at school, Alex goes see a therapist, Manny and Luke have a double date with twins, and Mitchell doesn't feel like he's \"green\" enough after speaking to his neighbor.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Jan. 2014", 
+            "episodeName": "Three Dinners", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nPhil and Claire take Hayley to dinner to discuss her future, Shorty tells Jay that he and his wife are moving to Costa Rica, and Mitchell and Cam unknowingly interrupt a couple's surprise engagement dinner.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "5 Feb. 2014", 
+            "episodeName": "iSpy", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nGloria is suspicious of Jay after he says \"baby\" in a dream, Phil and Claire spy on Haley, Luke and Manny, and Mitchell is reluctant to share some juicy gossip with Cameron.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "26 Feb. 2014", 
+            "episodeName": "The Feud", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe feud between Phil and Gil Thorpe reaches a new level, a lice outbreak hits the family, Haley and Alex are trapped in the basement by a possum, and Manny and Gloria are embarrassed during a school field trip.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "5 Mar. 2014", 
+            "episodeName": "Spring-A-Ding-Fling", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nA returning teacher steals Cam's thunder at the school dance he organized, Mitchell discovers that his new boss is evil, Hayley goes with Phil to an awards show, and Jay and Gloria try to get Lily to confess.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "12 Mar. 2014", 
+            "episodeName": "Other People's Children", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nGloria and Claire take Lily dress shopping, Jay teaches woodworking to Luke, Cameron tries to get out of a museum trip, and Phil helps Andy make a video for his girlfriend--which Hayley thinks is lame.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "26 Mar. 2014", 
+            "episodeName": "Las Vegas", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nOn a trip to Las Vegas, Jay wheels and deals to get a better room, Claire tries to win back the money she lost last year, Phil tries to get into a magician's club, and Cameron chooses a bachelor party over a spa day with Mitchell.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 Apr. 2014", 
+            "episodeName": "A Hard Jay's Night", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nJay's plans to host a family evening are derailed when Phil gets in trouble trying to sell Gloria's old apartment and Mitchell doesn't approve of the wedding topper Cameron's father made.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "23 Apr. 2014", 
+            "episodeName": "Australia", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nThe family joins Phil in Australia as he fulfills his late mother's wishes to discover where his parents had their honeymoon.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 Apr. 2014", 
+            "episodeName": "Sleeper", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nPhil has to tell an elaborate lie to Claire when he messes up a household task. Gloria is put in charge of the family portrait, and Jay enters Stella in a dog show.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "7 May 2014", 
+            "episodeName": "Message Received", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nMitchell and Cameron have to sell a few prized possessions to afford their wedding. Phil and Claire are the victims of a practical joke pulled off by their kids. Jay, Gloria and Manny are each forced to confront a fear.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "14 May 2014", 
+            "episodeName": "The Wedding, Part 1", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nPreparations for Mitchell and Cameron's wedding become a logistical nightmare, especially when a wildfire pushes the wedding time four hours ahead of schedule.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "21 May 2014", 
+            "episodeName": "The Wedding, Part 2", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nA series of mishaps and unruly guests threaten to undermine Mitchell and Camerson's wedding.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Sep. 2014", 
+            "episodeName": "The Long Honeymoon", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCameron isn't ready to conclude his honeymoon with Mitchell after their wedding. Gloria takes Jay to task over his appearance. The Dunphys must ready themselves for the return to school.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "1 Oct. 2014", 
+            "episodeName": "Don't Push", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nPhil, Luke, and Haley cause nothing but aggravation for Alex when they tag along on her tour of Caltech. Jay and Gloria have trouble finding the perfect gifts for their anniversary.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "8 Oct. 2014", 
+            "episodeName": "The Cold", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe Dunphys are down with a cold, thanks to Phil. Jay and Gloria try to help Manny deal with playing football, and Cameron doesn't know how much playtime to give him. Mitchell debates with Lily's new friend, Sydney.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "15 Oct. 2014", 
+            "episodeName": "Marco Polo", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThings become tense when the Dunphys temporarily move into a hotel, Gloria is suspicious of Manny's new girlfriend, and Mitchell discovers that he has jinxed Cameron's football team.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 Oct. 2014", 
+            "episodeName": "Won't You Be Our Neighbor", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe Dunphys try to persuade the perfect couple to move in next door, Manny dates the daughter of Jay's biggest nemesis, and Mitchell and Cameron try to get Lily a new teacher.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "29 Oct. 2014", 
+            "episodeName": "Halloween 3: AwesomeLand", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nPhil takes over Halloween decorating duties from Claire. Jay is upset when he wants to dress up as Prince Charming but Gloria buys him a Shrek costume. Mitchell has a problem in court with the stenographer working in a scary costume.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Nov. 2014", 
+            "episodeName": "Queer Eyes, Full Hearts", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nHaley and Andy start spending a lot of time together. Gloria wants Manny to learn Spanish at school instead of French, and a reporter takes more than a passing interest in Cameron and Mitchell's lives.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Nov. 2014", 
+            "episodeName": "Three Turkeys", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nPhil and Luke take over Thanksgiving duties but Claire readies an emergency plan. Jay and Gloria get their holiday plans interrupted and regret not telling anyone. Cameron has to think of a way to get Lily to wear a dress for dinner.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "3 Dec. 2014", 
+            "episodeName": "Strangers in the Night", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJay and Gloria try to get out of parties they must attend. Mitchell's kind gesture to a co-worker backfires on him, and Phil and Claire think Alex is lying when she tells them she found a boyfriend.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "10 Dec. 2014", 
+            "episodeName": "Haley's 21st Birthday", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nHaley celebrates her 21st birthday, but will anything go wrong?    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "7 Jan. 2015", 
+            "episodeName": "The Day We Almost Died", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhile driving out to get breakfast, the Dunphys including Manny have a near death experience causing everyone to reevaluate their lives. Claire resolves to be more fun and less uptight, Haley and Alex agree not to fight anymore, Manny refuses to ever ride in a car again, Luke wants to check off his bucket list, Phil decides to be a take action type of guy and the rest of the family has to bear the brunt of all the new attitudes.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 Jan. 2015", 
+            "episodeName": "The Big Guns", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe Dunphys want their neighbors to move their boat out the driveway, Jay is determined to potty train his son while Manny learns the hard way he wasn't a special child, and Mitchell disapproves when Cam trains Lily to be Fizbo's sidekick.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "4 Feb. 2015", 
+            "episodeName": "Rash Decisions", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhen Phil thinks Luke is giving him the cold shoulder. Andy becomes Phil's new right-hand man. Meanwhile, Jay may have to give Stella away because Joe is allergic to her, and Mitchell savors being the popular guy in the office.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "11 Feb. 2015", 
+            "episodeName": "Valentine's Day 4: Twisted Sister", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nClaire has difficulty in accepting that Phil is more interested by her alter-ego Juliana. Gloria's sister tries to seduce Jay. Mitch and Cam have to get back a present for their friend Anders.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "18 Feb. 2015", 
+            "episodeName": "Fight or Flight", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA single first-class upgrade comes between Phil and Claire, Sal abandons her baby during Mitchell and Cam's baby shower, Jay helps Manny confront a bully, and Alex and Haley help Luke break up with a girl via text message.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "25 Feb. 2015", 
+            "episodeName": "Connection Lost", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nClaire is stuck at an airport and trying to digitally track down Haley after an argument.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "4 Mar. 2015", 
+            "episodeName": "Closet? You'll Love It!", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nJay and Claire scramble to shoot a commercial in response, but there might be some creative differences between father and daughter. A peeping-Tom in the neighborhood keeps using a drone to spy on Gloria.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "25 Mar. 2015", 
+            "episodeName": "Spring Break", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nHayley gets Alex drunk at a concert, Phil becomes jealous of Luke's increasing abilities, Cam gets in trouble over a song at a talent show, and Mitchell and Jay try to go behind their spouses' backs.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "1 Apr. 2015", 
+            "episodeName": "Grill, Interrupted", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nJay isn't impressed with Phil's birthday gift, Alex isn't excited about her acceptance to Cal Tech, Mitch and Cam get an inheritance, Andy sees Hayley for the first time since the hospital, and the boys sneak alcohol behind Gloria's back.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 Apr. 2015", 
+            "episodeName": "Knock 'Em Down", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nJay agrees to sub on Cam's bowling team, not knowing it's an all-gay league. Phil and Claire finally bond with their neighbors over an offensive statue. Gloria and Mitchell agree to a night out with Haley to prove they're not too old.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "29 Apr. 2015", 
+            "episodeName": "Integrity", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nJay talks Phil into standing up to Claire, but freaks out when Phil turns the tables on him. Claire lobbies for Luke to win a school award. Mitch and Cam finally address a sensitive topic while babysitting for Joe.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 May 2015", 
+            "episodeName": "Patriot Games", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nAlex is not satisfied when she is named co-valedictorian, and neither is her competitor. Gloria prepares to take her citizenship exam until she finds out the real reason Jay wants her to take it. Mitch and Cam consider joining a protest.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 May 2015", 
+            "episodeName": "Crying Out Loud", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nClaire thinks about leaving her job with her father. Phil, Haley and Luke take Alex on her \"senior ditch day\". Mitch and Cam are worried that Lily doesn't show empathy. Gloria tries to drive a wedge between Manny and his girlfriend.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "20 May 2015", 
+            "episodeName": "American Skyper", 
+            "episodeNumber": 24, 
+            "episodePlot": "\nAs Alex finally graduates from high school, Phil uses Skype because he stuck in Seattle. Mitchell loses his job and Claire has to find the perfect gift for Alex while Andy is caught between Haley and Beth.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Sep. 2015", 
+            "episodeName": "Summer Lovin'", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nHaley loses out on Andy and gets back with Dylan. Alex and Sanjay plan their breakup for when they leave for school. Mitchell takes up art instead of finding a new job. Jay and Gloria try to get Joe in a good preschool.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "30 Sep. 2015", 
+            "episodeName": "The Day Alex Left for College", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHaley drops Alex off at school, where they meet her intense new roommate. Phil asks Luke to help him show a house, but he'd rather be with his friends. And everybody else is looking for an excuse to get out of Lily's soccer game.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "7 Oct. 2015", 
+            "episodeName": "The Closet Case", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMitchell takes a job with his dad's rival. Luke and Manny visit Alex at college to meet a girl. Gloria is upset when a cheerleader doesn't decorate Manny's locker. Phil and Claire play chicken when Dylan moves into the house.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "14 Oct. 2015", 
+            "episodeName": "She Crazy", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPhil builds a habitat for the duck eggs and convinces Lily to help him hatch them; Claire is anxious about telling Jay her ideas for closets; Gloria and Manny assist each other with their \"crushes\"; Cam bonds with frat guys.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "21 Oct. 2015", 
+            "episodeName": "The Verdict", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nClaire is excited to give Haley and Alex a great experience for \"Bring Your Daughter to Work Day\" but the staff is not making it easy, and Phil takes Luke and Manny's class out for community service day, which becomes a teachable moment in more ways than one. Elsewhere, Gloria is thrilled to be on jury duty leaving Jay to help out at Joe's pre-school and he is not happy about it at all. Cam and Mitch disagree over which of their friends to invite to their party, so could Gloria help mediate?    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "11 Nov. 2015", 
+            "episodeName": "The More You Ignore Me", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nLuke is arrested, and Phil is surprised by Claire's reaction. Mitchell has a new job offer to ponder. Cameron helps Gloria uncover the secret recipe for her family's sauce. Jay is set to receive an award from the Chamber of Commerce.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "18 Nov. 2015", 
+            "episodeName": "Phil's Sexy, Sexy House", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nHaley sneaks into the fancy house Phil is selling for some alone time, but discovers that other people had the same idea. Meanwhile, Jay secretly plans a trip for the family, and Manny tries to use his brother Joe to impress a girl.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 Dec. 2015", 
+            "episodeName": "Clean Out Your Junk Drawer", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nGloria pays for all three couples to have a Sunday afternoon group therapy session, but nobody else is taking it seriously. Meanwhile, Haley and Alex discuss whether they should dump their boyfriends.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "9 Dec. 2015", 
+            "episodeName": "White Christmas", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nGloria makes plans for the family to have a \"White Christmas,\" but the weather does not cooperate. Jay makes a decision about the future of his business. Alex makes a new friend. Haley and Andy continue to fool around in secret.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 Jan. 2016", 
+            "episodeName": "Playdates", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe Dunphy kids make a last-minute birthday surprise for Mitchell, and run into Ray Liotta. Jay is uncomfortable with the father of Joe's new play date. Claire asks Phil to not pick up the bill at lunch. Cam helps Lily with a new crush.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "13 Jan. 2016", 
+            "episodeName": "Spread Your Wings", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhile Phil visits a lonely Alex at CalTech, Claire tries to get rid of the ducks. Gloria and Cam have to steal some peppers to fill their sauce recipe. Jay helps Mitchell with Lily's sleepover.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "10 Feb. 2016", 
+            "episodeName": "Clean for a Day", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nClaire's efforts at cleaning house brings resistance from her family and a bittersweet memory for Alex. While Jay sneaks off for flying lessons with Cameron, Mitchell tries to help Gloria learn how to play golf.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "17 Feb. 2016", 
+            "episodeName": "Thunk in the Trunk", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nClaire's new position means Phil feels like a housewife. Gloria's provocative sauce ad gets Jay jealous. Mitch and Cam rent the apartment above their own, but end up spying on their guests    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "24 Feb. 2016", 
+            "episodeName": "The Storm", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nDuring an electrical storm, Phil tries too hard to prove that he's useful, Jay desperately tries to make an appointment at a bar, Manny has an embarrassing moment with Claire, and Mitch and Cam try to save Lily's failing birthday party.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 Mar. 2016", 
+            "episodeName": "I Don't Know How She Does It", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nClaire doesn't tell Phil that she's using an assistant to do all her family chores. Jay, Gloria and Manny each try to keep an embarrassing secret from each other. Mitch and Cam try to find out why they've been blacklisted at gay weddings.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "16 Mar. 2016", 
+            "episodeName": "The Cover-Up", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nPhil hides a secret about his new client from Claire, but Claire has her own secret about her yoga instructor. Jay needs help to find the identity of an online troll. Cam has an accident while forcing Lily to learn how to ride a bike.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "23 Mar. 2016", 
+            "episodeName": "Express Yourself", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nPhil talks Claire into a last-minute trip to Paris, and Andy has a wild night out in Las Vegas with Haley. Jay's bathroom remodeling project frustrates Gloria, and Mitchell can't sleep when Cameron's sister comes to visit.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 Apr. 2016", 
+            "episodeName": "The Party", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nManny and Luke are in charge of babysitting Lily so that the adults can enjoy a day to themselves. Claire and Gloria have a lovely trip to the spa planned; Phil and Mitch nerd out in the movies; Jay and Cam go to a sports bar to watch the big fight. Things started going awry though when the fire alarm goes off back at the house, Claire is convinced the boys are secretly throwing a party.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "13 Apr. 2016", 
+            "episodeName": "Man Shouldn't Lie", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nClaire takes in a stray dog and tries to hide it from Phil. Gloria persuades a reluctant Jay to make a new friend. Mitchell tries to persuade the drummer in a Christian rock band he suspects of being gay to come out of the closet.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "4 May 2016", 
+            "episodeName": "Promposal", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nMitchell helps Luke out with his \"promprosal,\" sparking Cam's jealousy. Claire discovers that there is a mole for Jay in the company. Phil and Gloria confront a competitor who stole Gloria's sauce recipe.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "11 May 2016", 
+            "episodeName": "Crazy Train", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nThe family travels by train to Dede's wedding. Phil and Cam help a mystery writer with his book, Jay's comment puts the wedding in jeopardy, Claire helps Mitch write the toast, and Luke and Alex meet possible romantic interests.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "18 May 2016", 
+            "episodeName": "Double Click", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nJay struggles as he returns to the job, and Claire is in a no-win situation having to fire an employee. Mitchell and Cam fight over who keeps Lily for the summer. Meanwhile, Phil and the kids struggle with relationships and change.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "21 Sep. 2016", 
+            "episodeName": "A Tale of Three Cities", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe three families will be in three different cities. The Dunphys will be in New York, Jay and Gloria will attend a wedding in Mexico and Mitchell and Cameron will attend a funeral in Missouri.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "28 Sep. 2016", 
+            "episodeName": "A Stereotypical Day", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nJay wants to make a good impression on a family moving in across the street; Manny tries to attract a radical thinker; the Pritchett family uses Alex's bout of mono to their advantage; Cam and Mitchell try to teach a message of acceptance.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "5 Oct. 2016", 
+            "episodeName": "Blindsided", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe Dunphys and Pritchetts are competing when Luke decided his best shot at getting into college is to win the senior class president election against Manny. The election seems much more important to Jay, Gloria, and Claire, though. Now that Haley has started her own promotion business, Phil introduces her to Merv Schechter, a marketing guru. When Cam finds out his star football player is moving, he does everything in his power to keep him, which means a crowded situation at home.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "12 Oct. 2016", 
+            "episodeName": "Weathering Heights", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPhil is excited when he's invited to appear in a real estate segment for the local news; Phil meets his weatherman hero, Rainer Shine; Jay tries to improve Manny's video interview for a college application.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "26 Oct. 2016", 
+            "episodeName": "Halloween 4: The Revenge of Rod Skyhook", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe Dunphy's try to kick start Luke's Halloween party; Cam confronts his Halloween nemesis; Jay plans to go to a party at an old enemy's home to deliver an unforgettable trick.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "9 Nov. 2016", 
+            "episodeName": "Grab It", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nPhil considers becoming a member at Jay's favorite refuge; Claire is mistaken about her influence on Alex's choices; Cam holds back on telling Mitchell what his play is really about.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "16 Nov. 2016", 
+            "episodeName": "Thanksgiving Jamboree", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nCameron spares no expense for his Thanksgiving jamboree; Hayley tells Phil she'd rather spend the holiday with her new boyfriend; Jay works to keep his blood pressure down; Alex and Dwight get closer.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "30 Nov. 2016", 
+            "episodeName": "The Alliance", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nHayley's day with Rainer Shine's daughter doesn't go as expected; Luke unintentionally helps Jay with his petition; Gloria, Phil and Cam have a secret meeting.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "14 Dec. 2016", 
+            "episodeName": "Snow Ball", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nManny and Luke's efforts to put on the school's winter dance get complicated due to a texting error; Gloria, Claire, Mitchell and Cam volunteer at the dance while Jay tries to get out of it by pretending he wants to spend time with Phil.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "4 Jan. 2017", 
+            "episodeName": "Ringmaster Keifth", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nCam wants to throw a New Year's Day feast for the family. Phil's father arrives with his new girlfriend, who happens to be Phil's childhood babysitter. Gloria and Jay must decide who will look after little Joe if something should happen to them.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "11 Jan. 2017", 
+            "episodeName": "Sarge & Pea", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nCam goes to the extremes to confront a parent who robbed him of a precious Lily moment during her dance recital.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "8 Feb. 2017", 
+            "episodeName": "Do You Believe in Magic", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nPhil calls upon his alter ego to inject some sizzle back into his marriage; Jay shows favoritism in his parenting; Haley and Sal try to stand up to men in their lives.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "15 Feb. 2017", 
+            "episodeName": "Do It Yourself", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nPhil talks Jay into investing in a property he has long wanted to develop; Claire's culinary ventures aren't as successful as she thinks; Cam and Mitchell try to teach Lily the value of hard work.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "22 Feb. 2017", 
+            "episodeName": "Heavy Is the Head", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nPhil and Jay get an offer to sell a land investment for a 20 percent profit but turn it down. Cam is petrified to have an MRI so Mitchell tries to ease his fear. Gloria arranges a birthday surprise at Claire's work at an inconvenient time.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "1 Mar. 2017", 
+            "episodeName": "Finding Fizbo", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAfter seeing an online video of his Fizbo costume being desecrated, Cam sets out to restore the character's good name; Phil meets his soon-to-be stepbrother; Manny enlists Gloria, Claire and Haley to do a read-through of his newest play.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "8 Mar. 2017", 
+            "episodeName": "Basketball", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nNBA stars Charles Barkley and DeAndre Jordan attend the charity basketball game Phil is playing in; Gloria's nemesis tries to shame her for lack of support at Manny's school; Claire tries to keep a work mistake secret from Jay.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "15 Mar. 2017", 
+            "episodeName": "Pig Moon Rising", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nMitchell accidentally knocks over an urn containing the ashes of Cam's beloved pet pig, Lilly; Cam tries to catch Mitchell in a lie.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "29 Mar. 2017", 
+            "episodeName": "Five Minutes", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nMitch and Cam fight the effects of sleeping pills while rushing to catch a flight; Haley and Rainer re-evaluate their relationship; Phil and Claire meet Alex's new boyfriend when they pay her a surprise visit.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "5 Apr. 2017", 
+            "episodeName": "Frank's Wedding", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nPhil gets the Dunphy clan to show up in costume for Frank's Roaring '20s-themed wedding; Jay masters the art of saying no; Cam stands up to his sister, Pam.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "3 May 2017", 
+            "episodeName": "All Things Being Equal", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nGloria, Claire, Haley, Alex, Lily, Luke and Manny show support for gender equality and the women's movement in their own ways; Jay and Phil butt heads over their parking attendant; Cam feels jealous when Pam prefers Mitchell's help with the baby.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "10 May 2017", 
+            "episodeName": "Alone Time", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nMitch and Jay end up at the same resort when they separately seek out a retreat from the family; Phil and Claire struggle to enjoy empty-nester life; not knowing what to do with himself while Mitch is away, Cam drops in on Gloria.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "17 May 2017", 
+            "episodeName": "Episode #8.22", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nJay picks up the pieces after Manny's father takes him out to celebrate graduation; the family prepares for Luke and Manny's big day.    ", 
+            "seasonNumber": 8
+        }
+    ], 
+    "name": "Modern Family", 
+    "plot": "Three different, but related families face trials and tribulations in their own uniquely comedic ways.", 
+    "rating": 8.5, 
+    "releaseDate": "23 September 2009", 
+    "type": "tvserie"
+}

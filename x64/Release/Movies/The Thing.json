@@ -1,0 +1,36 @@
+{
+    "actorList": [
+        "Kurt Russell", 
+        "Wilford Brimley", 
+        "T.K. Carter", 
+        "David Clennon", 
+        "Keith David", 
+        "Richard Dysart", 
+        "Charles Hallahan", 
+        "Peter Maloney", 
+        "Richard Masur", 
+        "Donald Moffat", 
+        "Joel Polis", 
+        "Thomas G. Waites", 
+        "Norbert Weisser", 
+        "Larry J. Franco", 
+        "Nate Irwin", 
+        "William Zeman", 
+        "Adrienne Barbeau", 
+        "John Carpenter", 
+        "Jed"
+    ], 
+    "director": [
+        "John Carpenter"
+    ], 
+    "genres": [
+        "Horror", 
+        "Mystery", 
+        "Sci-Fi"
+    ], 
+    "name": "The Thing", 
+    "plot": "A research facility in Antarctica comes across an alien force that can become anything it touches with 100% accuracy. The members must now find out who's human and who's not before it's too late.", 
+    "rating": 8.2, 
+    "releaseDate": "25 June 1982", 
+    "type": "movie"
+}

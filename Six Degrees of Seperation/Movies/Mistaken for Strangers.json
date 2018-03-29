@@ -1,0 +1,40 @@
+{
+    "actorList": [
+        "Matt Berninger", 
+        "Aaron Dessner", 
+        "Bryce Dessner", 
+        "Bryan Devendorf", 
+        "Scott Devendorf", 
+        "Brandon Reid", 
+        "Carin Besser", 
+        "Isla Berninger", 
+        "Nancy Berninger", 
+        "Paul Berninger", 
+        "Barack Obama", 
+        "Dawn Barger", 
+        "Tom Berninger", 
+        "Annie Clark", 
+        "Ira Kaplan", 
+        "Benjamin Lanz", 
+        "Dave Nelson", 
+        "Padma Newsome", 
+        "Kyle Resnick", 
+        "Will Arnett", 
+        "Lucas Cotterman", 
+        "Werner Herzog", 
+        "John Krasinski"
+    ], 
+    "director": [
+        "Tom Berninger"
+    ], 
+    "genres": [
+        "Documentary", 
+        "Comedy", 
+        "Music"
+    ], 
+    "name": "Mistaken for Strangers", 
+    "plot": "Tom Berninger chronicles his time spent on the road as a member of the tour crew for The National, the rock & roll band fronted by his brother, Matt.", 
+    "rating": 7.3, 
+    "releaseDate": "17 April 2013 (Tribeca Film Festival)", 
+    "type": "movie"
+}

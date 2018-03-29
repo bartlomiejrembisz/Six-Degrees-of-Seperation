@@ -1,0 +1,714 @@
+{
+    "actorList": [
+        "H. Jon Benjamin", 
+        "Judy Greer", 
+        "Amber Nash", 
+        "Chris Parnell", 
+        "Aisha Tyler", 
+        "Jessica Walter", 
+        "Adam Reed", 
+        "Lucky Yates"
+    ], 
+    "director": [
+        "Adam Reed", 
+        "Bryan Fordney"
+    ], 
+    "genres": [
+        "Animation", 
+        "Action", 
+        "Comedy"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "28 Dec. 2010", 
+            "episodeName": "Archersaurus", 
+            "episodeNumber": 0, 
+            "episodePlot": "\nArchersaurus (a C.G. dinosaur) is seen in the supposed first-take of the show, starring said Raptor as a screeching, growling, snarling Raptor on the prowl to fix his expense account by staging a \"Mole Hunt\" - the search for a spy in their ranks.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Sep. 2009", 
+            "episodeName": "Mole Hunt", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nArcher goes to great lengths to cover up discrepancies in his ISIS expense account as he attempts to access the agency's mainframe computer. Cyril and Lana's Friday night dinner date is interrupted by work.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Jan. 2010", 
+            "episodeName": "Training Day", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nLana's residual lust for Archer prompts Malory to promote Cyril to field agent. Archer then trains his new competition as only he can, whilst Malory frets over her own past and her son's future.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Jan. 2010", 
+            "episodeName": "Diversity Hire", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe agency hires a studly agent because of his minority status, and the man makes an impressive debut, but Archer suspects he has ulterior motives.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Jan. 2010", 
+            "episodeName": "Killing Utne", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMalory holds a shindig to schmooze with United Nations bigwig Torvald Utne, just as a group of assassins closes in to kill him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Feb. 2010", 
+            "episodeName": "Honeypot", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMalory's career is threatened when a sensitive videotape falls into the hands of a rogue (and roguish) Cuban agent, so she calls on Archer's expertise in seduction to turn the tables on her blackmailer.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Feb. 2010", 
+            "episodeName": "Skorpio", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nArcher must rescue Lana from the clutches of Skorpio, the infamous arms dealer. Meanwhile, Cyril fears not only for his girlfriend's life, but her succumbing to the seductive nature of Archer's heroics.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Feb. 2010", 
+            "episodeName": "Skytanic", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen a bomb threat jeopardizes the maiden voyage of the luxury airship Excelsior, Archer and the ISIS crew must battle the clock (and each other) to avert disaster.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Mar. 2010", 
+            "episodeName": "The Rock", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAfter ISIS loses yet another lucrative contract to rival agency ODIN, Malory assigns Archer and Lana to embarrass ODIN by stealing a priceless diamond from their biggest client.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Mar. 2010", 
+            "episodeName": "Job Offer", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhen Archer takes a higher-paying job at rival agency ODIN, Malory will stop at nothing to get him back.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Mar. 2010", 
+            "episodeName": "Dial M for Mother", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nQuestions about the identity of Archer's real father lead him into a perilous trap... and an explosive confrontation with Malory.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Jan. 2011", 
+            "episodeName": "Swiss Miss", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nGerman billionaire, Herr Conrad Schlotz, controls all European Videotex services. His nubile, out-of-control daughter, Anke, is determined to have her 17th birthday bash at an exclusive Alpine ski resort in Gstaad, Switzerland. El Frente Rojo made threats on the Schlotz heiress, so Malory accepts the mission to guard Schlotz's \"princess,\" a probable devotee to Sharon Stone films. Secretly, Malory wants to score: Schlotz, financing for ISIS and some absinthe, a heady threesome! Some wedding tackle named Wilhelm hooks a razor and Pam hooks a fellow dairy enthusiast. ...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Feb. 2011", 
+            "episodeName": "A Going Concern", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAfter Malory is wiped out in a Ponzi scheme, she hatches a scheme of her own: selling ISIS to rival spy agency ODIN. Archer and the rest of the ISIS employees must use every trick in the book to try to stop the sale.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Feb. 2011", 
+            "episodeName": "Blood Test", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nArcher is in for a huge surprise when his favorite call girl, Trinette, shows up at ISIS with a subpoena in her purse.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Feb. 2011", 
+            "episodeName": "Pipeline Fever", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhile Malory tries to make ISIS a green workplace, Archer and Lana head to the Louisiana Bayou to prevent a dangerous eco-terrorist from bombing America's largest natural gas pipeline.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Feb. 2011", 
+            "episodeName": "The Double Deuce", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhen members of Woodhouse's famed WWI Royal Flying Corps squadron start dying mysteriously, he naturally suspects foul play. As does Archer, who tries to help his loyal manservant track down the killer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Mar. 2011", 
+            "episodeName": "Tragical History", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTired of his colleagues constantly calling him a failure, Cyril agrees to help George Spelvin, a mysterious computer security expert, inject a virus into the ISIS mainframe so he can defeat the virus and be seen as a hero.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Mar. 2011", 
+            "episodeName": "Movie Star", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe normal childish squabbles, sneaky backbiting, and petty jealousies at ISIS are multiplied exponentially when a famous Hollywood actress, Rona Thorne, spends a week shadowing the agents as research for an upcoming role in a spy movie.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Mar. 2011", 
+            "episodeName": "Stage Two", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAfter Malory's brief scare with breast cancer, another ISIS agent decides to be tested for the disease, with a tragic result.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Mar. 2011", 
+            "episodeName": "Placebo Effect", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhen Archer discovers the chemotherapy drugs he's been taking for his breast cancer are counterfeit, he sets out to destroy the criminals behind the scheme.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Mar. 2011", 
+            "episodeName": "El Secuestro", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nISIS goes into full lockdown after Pam is abducted by kidnappers. Wait, Pam? Yes, but the kidnappers were really after Cheryl/Carol. Wait, Cheryl/Carol? Yes, because Cheryl/Carol isn't quite who she appears to be.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Apr. 2011", 
+            "episodeName": "Jeu Monegasque", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nArcher, Malory, Lana, and Ray travel to Monaco during Gran Prix week to make an expensive trade for a secret disk. Archer is given to hold the $4 million in untraceable bearer bonds, but Lana and Ray aren't sure he can be trusted with them. Meanwhile, back at ISIS headquarters, Cyril finds out that Malory took all the money from everyone's 401Ks to pay for the trade. Everyone back at ISIS decides to find a way to get their money back, no matter how unethical.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Apr. 2011", 
+            "episodeName": "White Nights", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nArcher's search for his father's identity by going to Russia puts him in hot water as he is held prisoner by Nikolai Jackov and Malory has to ask Barry Dillon to rescue him.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Apr. 2011", 
+            "episodeName": "Double Trouble", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAfter saving Archer back in Russia, Katya Kazanova goes back to the United States with Archer. However Malory and Lana are skeptical of Katya's defection to the West. The KGB labels Katya as a double agent, and all hell breaks loose in ISIS. Archer now has to fight for Katya's innocence as every ISIS agent comes after her.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Sep. 2011", 
+            "episodeName": "Heart of Archness: Part I", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nArcher is still reeling from the death of his fianc\u00e9e by taking a siesta to an island in the South Pacific. Malory, needing Archer back, sends noted adventurer Rick Riley to retrieve Archer and escort him back to Isis. Archer refuses until he's dragged out.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Sep. 2011", 
+            "episodeName": "Heart of Archness: Part II", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nArcher finally agrees to head back to Isis. Unfortunately as he boards Riley's plane to head back, their plane is attacked by pirates and they soon find themselves on an island run by pirates, and Archer is crowned their new pirate king.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Sep. 2011", 
+            "episodeName": "Heart of Archness: Part III", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMalory finally sends Lana and Ray to get Archer back. But Archer has quickly settled into his new role as king of the pirates. But Archer and Rip soon go from leading the pirates to being their prisoner, and Malory must negotiate for Archer's freedom.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Jan. 2012", 
+            "episodeName": "The Man from Jupiter", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nArcher is stunned to learn that his mother is dating his man crush - Burt Reynolds. As Archer and Burt bond, they soon discover that they have more in common than once thought, while Archer has to defend the rest of the crew after his carelessness gets them in trouble with a ruthless gang of Cuban drug lords.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Jan. 2012", 
+            "episodeName": "El Contador", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nCyril is promoted to field agent just as the Isis crew is called to bring in the bounty on a South American drug lord - Armando Calzado. But Cyril's incompetence gets him lost and Archer and Lana thrown in jail and they have become a target for Calzado to hunt. Meanwhile, the rest of the Isis crew is ordered by Malory to take a drug test, and uses an experimental detox cure from Krieger with predictably disastrous results.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 Feb. 2012", 
+            "episodeName": "The Limited", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe Isis crew is ordered to transport a dangerous terrorist across the border to Canada. A drunken Archer wants to fulfill his lifelong dream of fighting a bunch of random guys on the top of a speeding train. Meanwhile, the rest of the Isis crew boards against Malory's orders on Cheryl's private cars.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 Feb. 2012", 
+            "episodeName": "Drift Problem", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFor Archer's birthday, Malory and the Isis crew surprise him with a souped up Dodge Challenger, complete with all the latest high tech gear. Unfortunately Archer turns his back for one second and the car's gone. Archer and Lana soon head to the underground of New York City's street racing scene to get the car back.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 Feb. 2012", 
+            "episodeName": "Lo Scandalo", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nArcher and Lana are called over to Malory's apartment on what was supposed to be an off night for the Isis crew. There, they are shocked to discover what appears to be a dead body, some foreplay, and a few random gun shots. As they put together the pieces of the mystery, they soon discover that there's more to this story than meets the eye, and does Archer have enough spaghetti and meatballs for everybody? And what is underneath Malory's trench coat?    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 Feb. 2012", 
+            "episodeName": "Bloody Ferlin", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe Isis crew travels to West Virginia to help Ray and his brother save their crop from a crooked Sheriff. Meanwhile, Archer discovers that Ray has been faking his paralysis.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Mar. 2012", 
+            "episodeName": "Crossing Over", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAfter a wild night involving Archer hitting on the widow of a deceased Isis agent and some heavy drinking, Archer wakes up in his apartment to discover that he's had the best sex of his life. Unfortunately, who he discovers that it was with jeopardizes his ability to perform on the job.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "8 Mar. 2012", 
+            "episodeName": "Skin Game", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhen Archer's fianc\u00e9e returns under mysterious circumstances, he immediately suspects that his arch rival Barry is behind it, and soon begins to plot against them both.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Mar. 2012", 
+            "episodeName": "Space Race: Part I", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe Isis staff is called by NASA to stop the international space station from being taken over by space pirates. During training, Cyril proves to be a more than adequate pilot, while Malory attempts to make drinks in low gravity, and Lana has an unusually weak stomach.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Mar. 2012", 
+            "episodeName": "Space Race: Part II", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nOnce on board the international space station, Archer and the Isis crew have very little time to save the crew on board from being taken over by space pirates, but an even sinister motive looks to make things even worse for Archer and Isis.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Jan. 2013", 
+            "episodeName": "Fugue and Riffs", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nArcher is working at a burger shop, but can't remember any of the events that led to him working there. Fortunately, Malory takes the Isis crew to a luxury spa and Lana helps Archer cure his amnesia.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Jan. 2013", 
+            "episodeName": "The Wind Cries Mary", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nArcher and his former best friend are holed up in the Vermont wilderness, fighting hard to come out on top.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "31 Jan. 2013", 
+            "episodeName": "Legs", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nArcher's fear of cyborgs hits home when Krieger offers to make robotic legs for Gillette.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Feb. 2013", 
+            "episodeName": "Midnight Ron", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe beginning of beautiful hatred between Archer and his new stepfather plays out as the two are chased by gangsters.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Feb. 2013", 
+            "episodeName": "Viscous Coupling", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWith Barry stuck in space, Archer's former fianc\u00e9e Katya, who is now living as a cyborg herself, seeks Archer's help in getting Barry returned to earth. But as manipulative as Archer is, he has other plans in mind.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Feb. 2013", 
+            "episodeName": "Once Bitten", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhile accompanied by Cyril and Ray on a mission in Turkmenistan, Archer comes in contact with a venomous snake with hallucinogenic repercussions. Meanwhile back at ISIS tensions come to a head between Lana and Malory.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Feb. 2013", 
+            "episodeName": "Live and Let Dine", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe Isis crew takes on an undercover mission working as the wait and bus staff for a celebrity chef. There, they try to save an ambassador from being murdered, while Archer takes on a job as a cook working for the nightmarish head chef and discovers he's a natural.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "7 Mar. 2013", 
+            "episodeName": "Coyote Lovely", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe Isis crew heads to the Mexican border to save a coyote, but Archer and Lana soon find themselves being smuggled over the border with an immigrant family.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "14 Mar. 2013", 
+            "episodeName": "The Honeymooners", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nArcher and Lana go undercover as husband and wife while staying in a luxurious penthouse in New York's high rent district. But tensions between the two soon become as intense as if they actually were a real married couple. Meanwhile, the rest of the Isis crew decides to eavesdrop on the \"newlyweds\".    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "21 Mar. 2013", 
+            "episodeName": "Un Chien Tangerine", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nArcher and Lana head to Morocco to save a member of Isis' canine unit, but soon get themselves in deep dog doo doo.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "28 Mar. 2013", 
+            "episodeName": "The Papal Chase", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe Isis crew heads to the Vatican to stop an assassination attempt on the Pope. Archer attempts to use Woodhouse as a decoy, while Archer and Pam pose as a priest and a nun.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "4 Apr. 2013", 
+            "episodeName": "Sea Tunt: Part 1", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe Isis crew heads deep into the Bermuda Triangle to save an underwater sea laboratory from its deranged leader, thanks to the help of Cheryl's dim-witted brother and his equally dim-witted fianc\u00e9e, who drive Cheryl crazier than usual.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Apr. 2013", 
+            "episodeName": "Sea Tunt: Part 2", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nOnce on board the underwater laboratory, the Isis crew find they have very little time to rescue the lab from its deranged captain. But of course, the Isis crew's conflicts and Archer's recklessly impulsive tendencies don't exactly help things.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "13 Jan. 2014", 
+            "episodeName": "White Elephant", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter ISIS headquarters is raided by FBI Agents, Archer and Lana work to break out the crew while Mallory works on a deal to get them all free.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "20 Jan. 2014", 
+            "episodeName": "Archer Vice: A Kiss While Dying", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nArcher, Pam and Lana travel to Miami to visit some old friends. It's a fondue party!    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "27 Jan. 2014", 
+            "episodeName": "Archer Vice: A Debt of Honor", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nPam gets targeted for death by the Yakuza while the group continues to dig their way out of financial trouble.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 Feb. 2014", 
+            "episodeName": "Archer Vice: House Call", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nArcher has to stage an intervention for Pam that gets derailed by an unwanted guest.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Feb. 2014", 
+            "episodeName": "Archer Vice: Southbound and Down", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMalory buys a bus and takes everyone on a road trip. Put that hammer down and give it hell.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "3 Mar. 2014", 
+            "episodeName": "Archer Vice: Baby Shower", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nArcher and Pam try to get Kenny Loggins to play at Lana's baby shower and wind up in a zone of danger.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "10 Mar. 2014", 
+            "episodeName": "Archer Vice: Smugglers' Blues", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nArcher travels to Columbia on a secret mission that becomes not so secret after he gets drunk.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "17 Mar. 2014", 
+            "episodeName": "Archer Vice: The Rules of Extraction", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nArcher, Ray, and Cyril raft down a crocodile-filled river while Lana and Pam plan a spa day for Malory.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "24 Mar. 2014", 
+            "episodeName": "Archer Vice: On the Carpet", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nArcher avoids crash landing in a dangerous swamp only to come face-to-face with a shady arms dealer (Christian Slater).    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "31 Mar. 2014", 
+            "episodeName": "Archer Vice: Palace Intrigue - Part I", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nArcher and the rest of the ISIS gang are the guests of Gustavo Calderon and his wife Juliana. Calderon is a big fan of Cherlene but Juliana is a bigger fan of Archer.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "7 Apr. 2014", 
+            "episodeName": "Archer Vice: Palace Intrigue: Part II", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nArcher tries to keep his fling with the dictator's wife a secret while Krieger bonds with his clone-brothers.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "14 Apr. 2014", 
+            "episodeName": "Archer Vice: Filibuster", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nCyril becomes the new president of San Marcos, Cherlene becomes the first lady of country music, and Archer becomes a resistance fighter.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "21 Apr. 2014", 
+            "episodeName": "Archer Vice: Arrival/Departure", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nWhile Lana is trying to give birth to her baby, it turns out that the whole \"cocaine-case\" was a secret agreement between Malory and the CIA.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Jan. 2015", 
+            "episodeName": "The Holdout", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nArcher must salvage a crashed plane for the CIA after he disappeared for six weeks in Thailand.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "15 Jan. 2015", 
+            "episodeName": "Three to Tango", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAn agent from the past has a hand in creating tension between Archer and Lana.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 Jan. 2015", 
+            "episodeName": "The Archer Sanction", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nArcher, Lana and Ray travel to the Swiss Alps to carry out an assassination, while Cyril, Pam and the rest of the gang capitalize on having a little free time.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "29 Jan. 2015", 
+            "episodeName": "Edie's Wedding", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nPam and Archer take a trip to Wisconsin for Edie Poovey's wedding, but Barry Dillon and Other Barry might have a thing or two to say about it.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "5 Feb. 2015", 
+            "episodeName": "Vision Quest", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nEveryone is stuck in an elevator. The only thing lower than rations is patience. Oh, and their only rescue is a highly advanced rolling toaster. What could go wrong?    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Feb. 2015", 
+            "episodeName": "Sitting", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nArcher babysits AJ for the weekend.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Feb. 2015", 
+            "episodeName": "Nellis", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nA rescue mission turns into an out-of-this-world visit to Area 51.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 Feb. 2015", 
+            "episodeName": "The Kanes", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nLana introduces Archer to her parents; Archer introduces Lana's parents to high-speed chases.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "5 Mar. 2015", 
+            "episodeName": "Pocket Listing", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSlater has the gang swindle the Durhani royal family and Gillette lends a hand.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "12 Mar. 2015", 
+            "episodeName": "Reignition Sequence", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAn office romance is interrupted by the Russians.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "19 Mar. 2015", 
+            "episodeName": "Achub y Morfilod", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nArcher and Lana travel to Wales for a romantic getaway of aiding separatists.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "26 Mar. 2015", 
+            "episodeName": "Drastic Voyage: Part 1", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nArcher and the gang prepare for their most fantastic voyage ever.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "2 Apr. 2015", 
+            "episodeName": "Drastic Voyage: Part 2", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe fantastic voyage concludes.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "31 Mar. 2016", 
+            "episodeName": "The Figgis Agency", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nSecret agent - turned private investigator Archer and the group are working on the West Coast, and Archer's newest case involves breaking and entering a mansion in order to bring back honour to one of Hollywood's leading ladies.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "7 Apr. 2016", 
+            "episodeName": "The Handoff", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nArcher and Lana make a tricky handoff while the rest of the gang hears the best voicemail ever.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "14 Apr. 2016", 
+            "episodeName": "Deadly Prep", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nA business opportunity arises at a prep school reunion.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "21 Apr. 2016", 
+            "episodeName": "Motherless Child", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAn important member of the team is kidnapped and all leads point towards the infamous disc. Meanwhile Krieger is up to no good and Lana gets a new pet.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "28 Apr. 2016", 
+            "episodeName": "Bel Panto: Part I", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nParty crashers turn a fundraiser into no laughing matter.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "5 May 2016", 
+            "episodeName": "Bel Panto: Part II", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA hostage negotiation spirals out of control when Archer and Lana go missing.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "12 May 2016", 
+            "episodeName": "Double Indecency", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWho's sexier, Cyril or Krieger? Pam or Cheryl? Only one way to find out... Bar fight!    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "19 May 2016", 
+            "episodeName": "Liquid Lunch", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe on-again, off-again relationship of Archer and Slater causes a rift in the on-again, off-again relationship of Archer and Lana.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "26 May 2016", 
+            "episodeName": "Deadly Velvet: Part 1", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nThe Deadly Velvet production is beset with chaos and destruction so the film's producer hires the Figgis Agency to discover what's behind the suspicious activity. The team's romances and jealousy complicates the investigation, and puts Archer in a difficult situation with Lana and Ms. Deane.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 Jun. 2016", 
+            "episodeName": "Deadly Velvet: Part 2", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThings get even deadlier on the set of Deadly Velvet when someone turns up, you guessed it, dead.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "5 Apr. 2017", 
+            "episodeName": "Archer Dreamland: No Good Dead", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nArcher tries to find out who killed his partner but ends up in bed with notorious L.A. crime boss, Mother.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "12 Apr. 2017", 
+            "episodeName": "Archer Dreamland: Berenice", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA mysterious woman hires Archer to fake her death but Archer is unable to rise to the occasion.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "19 Apr. 2017", 
+            "episodeName": "Archer Dreamland: Jane Doe", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nArcher tries to escape from jail with the help of a crazed heiress and a dysfunctional jazz quartet.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "26 Apr. 2017", 
+            "episodeName": "Archer Dreamland: Ladyfingers", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nArcher must convince the Vander Tunts that Charlotte has been kidnapped. Krieger reveals too much about his past.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "3 May 2017", 
+            "episodeName": "Archer Dreamland: Sleepers Wake", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "10 May 2017", 
+            "episodeName": "Archer Dreamland: Waxing Gibbous", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "17 May 2017", 
+            "episodeName": "Archer Dreamland: Gramarcy, Halberd!", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "24 May 2017", 
+            "episodeName": "Archer Dreamland: Aufl\u00f6sung", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nArcher discovers that he has a twin brother that works as account manager for the Chinese government.    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #9.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #9.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 9
+        }, 
+        {
+            "airDate": "2019", 
+            "episodeName": "Episode #10.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 10
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #10.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 10
+        }
+    ], 
+    "name": "Archer", 
+    "plot": "Covert black ops and espionage take a back seat to zany personalities and relationships between secret agents and drones.", 
+    "rating": 8.8, 
+    "releaseDate": "17 September 2009", 
+    "type": "tvserie"
+}

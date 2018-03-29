@@ -1,0 +1,49 @@
+{
+    "actorList": [
+        "Simone Signoret", 
+        "V\u00e9ra Clouzot", 
+        "Paul Meurisse", 
+        "Charles Vanel", 
+        "Jean Brochard", 
+        "Th\u00e9r\u00e8se Dorny", 
+        "Michel Serrault", 
+        "Georges Chamarat", 
+        "Robert Dalban", 
+        "Camille Gu\u00e9rini", 
+        "Jacques Hilling", 
+        "Jean Lefebvre", 
+        "Aminda Montserrat", 
+        "Jean T\u00e9merson", 
+        "Jacques Varennes", 
+        "Georges Poujouly", 
+        "Yves-Marie Maurin", 
+        "No\u00ebl Roquevert", 
+        "Pierre Larquey", 
+        "Jean-Pierre Bonnefous", 
+        "Christian Brocard", 
+        "Jean Clarieux", 
+        "Henri Coutet", 
+        "Michel Dumur", 
+        "Johnny Hallyday", 
+        "Henri Humbert", 
+        "Zappy Max", 
+        "Roberto Rodrigo", 
+        "Madeleine Suffel", 
+        "Jimmy Urbain"
+    ], 
+    "director": [
+        "Henri-Georges Clouzot"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Horror", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "Les diaboliques", 
+    "plot": "The wife and mistress of a cruel headmaster conspire to kill him; after the murder is committed, his corpse disappears, and strange events begin to plague the two women.", 
+    "rating": 8.1, 
+    "releaseDate": "29 January 1955", 
+    "type": "movie"
+}

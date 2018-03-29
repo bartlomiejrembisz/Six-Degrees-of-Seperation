@@ -1,0 +1,46 @@
+{
+    "actorList": [
+        "Cary Elwes", 
+        "Mandy Patinkin", 
+        "Chris Sarandon", 
+        "Christopher Guest", 
+        "Wallace Shawn", 
+        "Andr\u00e9 the Giant", 
+        "Fred Savage", 
+        "Robin Wright", 
+        "Peter Falk", 
+        "Peter Cook", 
+        "Mel Smith", 
+        "Carol Kane", 
+        "Billy Crystal", 
+        "Anne Dyson", 
+        "Margery Mason", 
+        "Malcolm Storry", 
+        "Willoughby Gray", 
+        "Betsy Brantley", 
+        "Paul Badger", 
+        "Errol Bennett", 
+        "Danny Blackner", 
+        "Willy DeVille", 
+        "Mickey Feat", 
+        "Guy Fletcher", 
+        "Mark Knopfler", 
+        "Jamie Lane", 
+        "Sallie McLaughlin", 
+        "Derek Pykett"
+    ], 
+    "director": [
+        "Rob Reiner"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Family", 
+        "Fantasy", 
+        "Romance"
+    ], 
+    "name": "The Princess Bride", 
+    "plot": "While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.", 
+    "rating": 8.1, 
+    "releaseDate": "18 September 1987 (Toronto International Film Festival)", 
+    "type": "movie"
+}

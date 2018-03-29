@@ -1,0 +1,21 @@
+{
+    "actorList": [
+        "Bibi Andersson", 
+        "Liv Ullmann", 
+        "Margaretha Krook", 
+        "Gunnar Bj\u00f6rnstrand", 
+        "J\u00f6rgen Lindstr\u00f6m"
+    ], 
+    "director": [
+        "Ingmar Bergman"
+    ], 
+    "genres": [
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "Persona", 
+    "plot": "A nurse is put in charge of a mute actress and finds that their personas are melding together.", 
+    "rating": 8.1, 
+    "releaseDate": "18 October 1966 (Stockholm)\n (premiere)", 
+    "type": "movie"
+}

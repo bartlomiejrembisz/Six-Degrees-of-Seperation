@@ -1,0 +1,305 @@
+{
+    "actorList": [
+        "Charlie Cox", 
+        "Deborah Ann Woll", 
+        "Elden Henson", 
+        "Vincent D'Onofrio", 
+        "Royce Johnson", 
+        "Jon Bernthal"
+    ], 
+    "director": [
+        "Phil Abraham", 
+        "Stephen Surjik", 
+        "Peter Hoar", 
+        "Ken Girotti", 
+        "Euros Lyn", 
+        "Farren Blackburn"
+    ], 
+    "genres": [
+        "Action", 
+        "Crime", 
+        "Drama", 
+        "Sci-Fi", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "Into the Ring", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMatt Murdock and Foggy Nelson open their law firm, and take the case of a woman accused of murder who Matt believes is innocent.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "Cut Man", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nMurdock makes a near fatal error while trying to save a kidnapped boy, and finds an unlikely ally when he needs saving himself.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "Rabbit in a Snowstorm", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMurdock and Foggy take on a mysterious wealthy client, but Murdock is convinced that there's more to the case than just the facts.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "In the Blood", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nTwo vicious Russian brothers working for Fisk strike back against Daredevil. Fisk moves to further consolidate his power in the criminal underworld.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "World on Fire", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nFisk moves forward with plans that threaten to rip Hell's Kitchen apart. Murdock and Foggy take on a case helping tenants victimised by a slumlord.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "Condemned", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nDaredevil finds himself trapped in the fallout of Fisk's plan to take control of Hell's Kitchen. Ben Urich digs closer to the truth.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "Stick", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAn important figure from Murdock's past reemerges seeking his help to battle a new enemy threatening Hell's Kitchen.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "Shadows in the Glass", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhile Murdock, Foggy and Karen's mission becomes clearer, Fisk's world spins further out of control in his battle for Hell's Kitchen.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "Speak of the Devil", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWhen Fisk gains the upper hand, the goal to destroy him becomes even more difficult, while Daredevil faces his own demons.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "Nelson v. Murdock", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAfter Foggy and Murdock's relationship has taken a turn for the worst, a new enemy of Fisk has surfaced.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "The Path of the Righteous", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nFisk and Murdock wrestle with the consequences of their chosen paths, while Ben and Karen get closer to Fisk's true past.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "The Ones We Leave Behind", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nFisk seeks revenge while Karen is haunted by recent events. Daredevil makes a startling discovery about Fisk's financing.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Apr. 2015", 
+            "episodeName": "Daredevil", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nIn the season finale, a boxed-in Fisk and a desperate Murdock, Foggy, and Karen are forced to play their end games.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": "Bang", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn the void left by Fisk's removal, a new threat to Hell's Kitchen emerges. Murdock and Foggy take on a client with a questionable past.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": "Dogs to a Gunfight", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAs Murdock recovers from an attack, Foggy and Karen fight to protect their new client from both the law and the Kitchen's newest vigilante.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": "New York's Finest", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nTrapped face-to-face with the Punisher, Daredevil wrestles with the morality of vigilante justice. Meanwhile, Foggy and Karen work to save the firm.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": "Penny and Dime", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nKaren uncovers shocking facts about the Punisher, who finds himself hunted by a powerful force in Hell's Kitchen. Daredevil ponders his next moves.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": "Kinbaku", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA former lover arrives in Hell's Kitchen and turns Murdock's world upside down. Karen digs for the truth about the Punisher.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": "Regrets Only", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA lethal foe returns with a vengeance, Foggy and Murdock risk the firm to ensure justice, and Karen sees a different side of the Punisher.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": "Semper Fidelis", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMurdock and Foggy take on the DA in the trial of the century, but their client refuses to play along. Murdock struggles to balance his dual identities.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": "Guilty as Sin", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAs the firm's trial spins out of control, a figure from Murdock's past returns to deliver shocking revelations about the future of Hell's Kitchen.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": "Seven Minutes in Heaven", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nCastle gets an offer he can't refuse. Foggy and Murdock question the future of their firm, but Karen won't give up so easily.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": "The Man in the Box", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMurdock and Foggy get caught in the crossfire of the Punisher's revenge. Karen and Murdock dig for the truth in very different ways.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": ".380", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nKaren starts working with Frank to bring the mysterious Blacksmith down. Claire quits her job as the hospital's administration are trying to keep her silent. Matt visits Madame Gao to get information on Blacksmith.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": "The Dark at the End of the Tunnel", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDaredevil goes underground to save an old friend. Karen follows a dangerous lead. The law firm of Nelson and Murdock may have reached its final chapter.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2016", 
+            "episodeName": "A Cold Day in Hell's Kitchen", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nIn the season finale, Daredevil is backed into the ultimate showdown for his own life - and the future of Hell's Kitchen.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "Daredevil", 
+    "plot": "Matt Murdock, with his other senses superhumanly enhanced, fights crime as a blind lawyer by day, and vigilante by night.", 
+    "rating": 8.7, 
+    "releaseDate": "2 April 2015 (Los Angeles) (special screening) (limited)", 
+    "type": "tvserie"
+}

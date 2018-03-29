@@ -1,0 +1,45 @@
+{
+    "actorList": [
+        "Randall Adams", 
+        "David Harris", 
+        "Gus Rose", 
+        "Jackie Johnson", 
+        "Marshall Touchton", 
+        "Dale Holt", 
+        "Sam Kittrell", 
+        "Hootie Nelson", 
+        "Dennis Johnson", 
+        "Floyd Jackson", 
+        "Edith James", 
+        "Dennis White", 
+        "Don Metcalfe", 
+        "Emily Miller", 
+        "R.L. Miller", 
+        "Elba Carr", 
+        "Michael Randell", 
+        "Melvyn Carson Bruder", 
+        "Adam Goldfine", 
+        "Derek Horton", 
+        "Ron Thornhill", 
+        "Marianne Leone", 
+        "Amanda Caprio", 
+        "Michael Nicoll", 
+        "Michael Cirilla", 
+        "Phyllis Rodgers", 
+        "Errol Morris"
+    ], 
+    "director": [
+        "Errol Morris"
+    ], 
+    "genres": [
+        "Documentary", 
+        "Crime", 
+        "Drama", 
+        "Mystery"
+    ], 
+    "name": "The Thin Blue Line", 
+    "plot": "A film that successfully argued that a man was wrongly convicted for murder by a corrupt justice system in Dallas County, Texas.", 
+    "rating": 8.1, 
+    "releaseDate": "25 August 1988", 
+    "type": "movie"
+}

@@ -1,0 +1,343 @@
+{
+    "actorList": [
+        "Caitriona Balfe", 
+        "Sam Heughan", 
+        "Duncan Lacroix", 
+        "Tobias Menzies", 
+        "Grant O'Rourke", 
+        "Graham McTavish", 
+        "Stephen Walters"
+    ], 
+    "director": [
+        "Metin H\u00fcseyin", 
+        "Anna Foerster", 
+        "Brian Kelly", 
+        "Mike Barker", 
+        "Philip John", 
+        "Brendan Maher", 
+        "John Dahl", 
+        "Richard Clark", 
+        "Douglas Mackinnon", 
+        "Charlotte Br\u00e4ndstr\u00f6m"
+    ], 
+    "genres": [
+        "Drama", 
+        "Romance", 
+        "Sci-Fi"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "9 Aug. 2014", 
+            "episodeName": "Sassenach", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n1945 England: Claire Randall reunites with her husband after five years of war. A second honeymoon goes awry when she falls back through time to 1740's Scotland.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Aug. 2014", 
+            "episodeName": "Castle Leoch", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nClaire is brought to Castle Leoch under suspicion as an English spy. Learning that the year is 1743, she tries to arrange travel back to the standing stones. Colum MacKenzie uses her ability as a healer as an excuse to detain her.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Aug. 2014", 
+            "episodeName": "The Way Out", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nClaire's abilities as a healer puts her at odds with the town priest when she saves a boy's life, and deepens the suspicions against her. Hearing a folk-tale, Claire realizes that she may be able to travel back through the stones to Frank.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Aug. 2014", 
+            "episodeName": "The Gathering", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe Gathering shows Claire's attempt at her first real planned escape. The run-ins she has with various characters on the way include a major run-in with Dougal, and yet another moment with Jamie alone - building their relationship. Also an oath-taking ceremony could have awful results if not handled carefully.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Sep. 2014", 
+            "episodeName": "Rent", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nClaire goes on the road with Dougal as he collects rents from the tenants. She meets the clans solicitor who is riding with them. She also becomes aware of Dougal's involvement in trying to raise money for the Jacobite rebellion.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Sep. 2014", 
+            "episodeName": "The Garrison Commander", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nClaire and Dougal are questioned at the local garrison, and Dougal is treated with hostility and disdain by the British occupiers. Claire lets down her guard, but her headstrong opinions get her into trouble again, and she discovers the true nature of Black Jack Randall when left alone with him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Sep. 2014", 
+            "episodeName": "The Wedding", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMarriage to a Scot seems to be the only legal way out to save Claire from falling into the paws of Black Jack Randall. And Jamie accepts to become her husband and protect her. Claire is overwhelmed by circumstances that are forcing her into becoming an adulteress and a bigamist. The hasty marriage takes place and, in order to be legal, it must be consummated that night.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Sep. 2014", 
+            "episodeName": "Both Sides Now", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nIn 1945, Frank is still seeking Claire, but is starting to lose hope of ever finding her. Meanwhile in 1743, Claire is trying to come to terms with her marriage to Jamie. While traveling, a life changing opportunity arises.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Apr. 2015", 
+            "episodeName": "The Reckoning", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJamie and the Highlanders rescue Claire from Black Jack Randall.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Apr. 2015", 
+            "episodeName": "By the Pricking of My Thumbs", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nJamie hopes the Duke of Sandringham can help remove the price on his head.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Apr. 2015", 
+            "episodeName": "The Devil's Mark", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nClaire and Geillis stand trial for witchcraft; Claire learns a secret about Geillis' past.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Apr. 2015", 
+            "episodeName": "Lallybroch", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nOld wounds are reopened when Jamie returns to his family home.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 May 2015", 
+            "episodeName": "The Watch", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nA Redcoat deserter from Jamie's past returns; Jenny goes into labor; Jamie and Ian join the Watch.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 May 2015", 
+            "episodeName": "The Search", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nClaire and Jenny set out to rescue Jamie from his redcoat captors; unorthodox tactics are used.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 May 2015", 
+            "episodeName": "Wentworth Prison", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA visit from Black Jack causes Jamie to realize a fate exists that is worse than his death sentence.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 May 2015", 
+            "episodeName": "To Ransom a Man's Soul", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nJamie is freed following a daring rescue, but his mind lingers on the torture he endured.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Apr. 2016", 
+            "episodeName": "Through a Glass, Darkly", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nReturning to her own time, Claire must reconcile her future with the life she left behind. Shifting back to the 18th century, Jamie, Claire and Murtagh arrive in France, but learn that Paris presents its own challenges.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Apr. 2016", 
+            "episodeName": "Not in Scotland Anymore", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nClaire and Jamie plan to infiltrate Royal Court of France to disrupt Jacobite Rebellion. Jamie is forced to deal with Prince Charlie in Paris Brothels.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Apr. 2016", 
+            "episodeName": "Useful Occupations and Deceptions", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nClaire finds an outlet for her skills at L'H\u00f4pital des Anges treating the sick, while Jamie tries to derail the Jacobite Rebellion with the help of a pickpocket. Claire's new relationship with Mother Hildegarde provides a source of needed help for Jamie.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Apr. 2016", 
+            "episodeName": "La Dame Blanche", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nJamie has an unusual response to Claire's news which brings about a confrontation. Louise asks Claire for assistance with a delicate situation, and friendly revelations provide disagreements at a dinner party with uninvited guests.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 May 2016", 
+            "episodeName": "Untimely Resurrection", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAfter the dinner party, Claire tends to Mary (and Alex), while Jamie deals with Charles' plotting. A visit to Versailles leads to turmoil for Claire and Jamie.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 May 2016", 
+            "episodeName": "Best Laid Schemes...", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nJamie and Claire use Claire's medical knowledge to devise a scheme to stop a wine deal which could fill the Prince's war chest. When Claire learns Jamie has gone back on his word, the couple is met with dire consequences that will forever change their lives.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 May 2016", 
+            "episodeName": "Faith", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nDoctors at L'Hopital des Anges attempt to save the lives of Claire and her unborn baby; King Louis asks Claire to judge two men accused of engaging in the dark arts.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 May 2016", 
+            "episodeName": "The Fox's Lair", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nClaire and Jamie return to Scotland, and back to their home, Lallybroch. Away from the nightmares of Paris, they find solace until a letter arrives. Jamie must go and visit his grandfather Lord Lovat, Simon Fraser aka The Old Fox. Claire accompanies Jamie to meet The Old Fox.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Jun. 2016", 
+            "episodeName": "Je Suis Prest", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJamie trains his militia men for the upcoming Rising before joining the forces. Claire keeps to Jamie and gives him full disclosure on what little she knows about Scotland's fate in the Rising. Meanwhile, a young British soldier tries to kill Jamie.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Jun. 2016", 
+            "episodeName": "Prestonpans", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nJamie needs to bypass a swamp to lead the Jacobite army to win over the British army in a critical battle. Benefiting from her experience as a combat nurse during WWII, Claire tends to wounded and dying warriors.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Jun. 2016", 
+            "episodeName": "Vengeance Is Mine", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nClaire and Highlanders are sent north after the Jacobite leaders decided to halt their march on London. A band of Redcoats makes trouble for the Scots, leading to the most unexpected reunion for Claire.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "25 Jun. 2016", 
+            "episodeName": "The Hail Mary", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAs Jamie puts all of his efforts into turning the Jacobite army away from the impending slaughter at Culloden Moor, Claire attempts to comfort the sick Alex Randall. She is stunned when Alex reveals an outrageous plan to save the mother of his child.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Jul. 2016", 
+            "episodeName": "Dragonfly in Amber", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nFlashing forward to 1968, Claire travels to Scotland with her twenty-year-old daughter, Brianna, and meets Roger Wakefield. Claire visits Lallybroch and Culloden Moor to make peace with the past, while Brianna and Roger bond over researching Randall family history. Claire finally reveals the truth to Brianna about her time travel through the stones, her life in 1700's Scotland, and Brianna's true parentage. The story is inter-cut with another one back in the 18th century, which happens on the day of the Battle of Culloden. When Jamie's last ditch attempts to deter The...    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #4.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #4.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }
+    ], 
+    "name": "Outlander", 
+    "plot": "Follows the story of Claire Randall, a married combat nurse from 1945 who is mysteriously swept back in time to 1743...", 
+    "rating": 8.5, 
+    "releaseDate": "9 August 2014", 
+    "type": "tvserie"
+}

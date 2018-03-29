@@ -1,0 +1,47 @@
+{
+    "actorList": [
+        "Neel Sethi", 
+        "Bill Murray", 
+        "Ben Kingsley", 
+        "Idris Elba", 
+        "Lupita Nyong'o", 
+        "Scarlett Johansson", 
+        "Giancarlo Esposito", 
+        "Christopher Walken", 
+        "Garry Shandling", 
+        "Brighton Rose", 
+        "Emjay Anthony", 
+        "Max Favreau", 
+        "Chloe Hechter", 
+        "Asher Blinkoff", 
+        "Knox Gagnon", 
+        "Sasha Schreiber", 
+        "Kai Schreiber", 
+        "Jon Favreau", 
+        "Sam Raimi", 
+        "Russell Peters", 
+        "Madeleine Favreau", 
+        "Ritesh Rajan", 
+        "Kendrick Reyes", 
+        "Sara Arrington", 
+        "Sean W. Johnson", 
+        "Artie Esposito", 
+        "Allan Trautman", 
+        "Dee Bradley Baker", 
+        "Daz Crawford"
+    ], 
+    "director": [
+        "Jon Favreau"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Drama", 
+        "Family", 
+        "Fantasy"
+    ], 
+    "name": "The Jungle Book", 
+    "plot": "After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther, Bagheera, and free spirited bear, Baloo.", 
+    "rating": 7.5, 
+    "releaseDate": "4 April 2016 (Los Angeles) (world premiere)", 
+    "type": "movie"
+}

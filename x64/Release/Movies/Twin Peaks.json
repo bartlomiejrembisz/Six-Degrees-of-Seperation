@@ -1,0 +1,262 @@
+{
+    "actorList": [
+        "Kyle MacLachlan", 
+        "Michael Ontkean", 
+        "M\u00e4dchen Amick", 
+        "Dana Ashbrook", 
+        "Richard Beymer", 
+        "Lara Flynn Boyle", 
+        "Sherilyn Fenn", 
+        "Warren Frost", 
+        "Peggy Lipton", 
+        "James Marshall", 
+        "Everett McGill", 
+        "Jack Nance", 
+        "Joan Chen", 
+        "Kimmy Robertson", 
+        "Michael Horse", 
+        "Piper Laurie", 
+        "Harry Goaz", 
+        "Eric DaRe", 
+        "Wendy Robie", 
+        "Ray Wise", 
+        "Sheryl Lee", 
+        "Russ Tamblyn", 
+        "Don S. Davis", 
+        "Chris Mulkey", 
+        "Gary Hershberger", 
+        "Grace Zabriskie"
+    ], 
+    "director": [
+        "David Lynch", 
+        "Lesli Linka Glatter", 
+        "Caleb Deschanel", 
+        "Duwayne Dunham", 
+        "Tim Hunter", 
+        "Todd Holland", 
+        "Tina Rathborne"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "8 Apr. 1990", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nUndercurrents of passion, greed, jealousy and intrigue surface in a seemingly respectable town when a high school homecoming queen is found murdered.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Apr. 1990", 
+            "episodeName": "Episode #1.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nCooper makes a connection with Audrey Horne and interrogates James. Ed reveals his beer had probably been drugged at the Roadhouse. Mrs. Palmer has a terrible vision.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Apr. 1990", 
+            "episodeName": "Episode #1.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDale demonstrates odd deductive techniques for the sheriff's department; Benjamin and his brother take a trip; and Donna and James plan to solve Laura's murder.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Apr. 1990", 
+            "episodeName": "Episode #1.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe people of Twin Peaks gather for Laura Palmer's funeral. Agent Cooper interprets his dream about the killer. Truman reveals to Cooper the secret of the Bookhouse Boys.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 May 1990", 
+            "episodeName": "Episode #1.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nCooper and Truman track down the one-armed man and some strange new evidence in Laura Palmer's murder. Norma Jennings goes to a parole board hearing for her husband. Audrey Horne decides to begin her own investigation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 May 1990", 
+            "episodeName": "Episode #1.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nCooper and Truman discover evidence in the woods related to the death of Laura Palmer.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 May 1990", 
+            "episodeName": "Episode #1.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe Bookhouse Boys visit One Eyed Jacks across the border in Canada to find Jacques Renault.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 May 1990", 
+            "episodeName": "Episode #1.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nBen Horne's plans are finally realized, with unforeseen consequences.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "30 Sep. 1990", 
+            "episodeName": "Episode #2.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn the aftermath of the incident at the Great Northern Hotel, the investigation into Laura Palmer's death continues, and information is provided from an unexpected source.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Oct. 1990", 
+            "episodeName": "Episode #2.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAgent Cooper receives unwanted help and unwelcome news, and Audrey gets into deeper trouble.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Oct. 1990", 
+            "episodeName": "Episode #2.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nCooper and Truman discover an unexpected twist in the trail of Laura Palmer's murderer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Oct. 1990", 
+            "episodeName": "Episode #2.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nBen Horne asks Cooper for help in rescuing Audrey, and Donna uncovers a significant piece of evidence at Harold Smith's home.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Oct. 1990", 
+            "episodeName": "Episode #2.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nDonna, after discovering that Harold has Laura's secret diary, hatches a risky plan with Maddy to steal it from his home.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Nov. 1990", 
+            "episodeName": "Episode #2.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nCooper and Truman raid One Eye Jack's, and Shelly and Bobby host a welcome home party for Leo.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Nov. 1990", 
+            "episodeName": "Episode #2.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMaddy prepares to leave Twin Peaks, Pete uncovers the truth behind Tojamura's intentions, and Cooper receives a devastating message.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Nov. 1990", 
+            "episodeName": "Episode #2.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nBen receives an unwelcome surprise; Norma's mother arrives in Twin Peaks with a new husband; and Bob covers his tracks.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Dec. 1990", 
+            "episodeName": "Episode #2.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nCooper attempts to locate Laura's killer after the discovery of another victim.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Dec. 1990", 
+            "episodeName": "Episode #2.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBlaming Cooper for the death of his brother, Jean Renault plots his revenge as the eccentric FBI agent prepares to leave Twin Peaks.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Dec. 1990", 
+            "episodeName": "Episode #2.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nSheriff Truman defends Agent Cooper's activities at One Eyed Jack's when they come under scrutiny.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Jan. 1991", 
+            "episodeName": "Episode #2.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nCooper finds a clue, while Dick Tremayne and Andy confront concerns over Little Nicky's past.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Jan. 1991", 
+            "episodeName": "Episode #2.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAgent Cooper and Sheriff Truman arrange a trap for Jean Renault.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Feb. 1991", 
+            "episodeName": "Episode #2.14", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nCooper reveals the history of Windom Earle to Truman, and Audrey strikes a deal with Bobby.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Feb. 1991", 
+            "episodeName": "Episode #2.15", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nAgent Cooper finds out who shot him and gets help with his deadly chess game against Windom Earle.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Feb. 1991", 
+            "episodeName": "Episode #2.16", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhile Cooper and Earle plot their next moves, Josie is forced to meet with Thomas Eckhardt.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Mar. 1991", 
+            "episodeName": "Episode #2.17", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nCooper is attracted to a beautiful, reclusive woman as Truman grieves over Josie's death.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Apr. 1991", 
+            "episodeName": "Episode #2.18", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nCooper and the officers look into Windom Earle's past, and Donna observes a suspicious encounter between her mother and Ben Horne.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Apr. 1991", 
+            "episodeName": "Episode #2.19", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nWhile Cooper and Truman try to unlock the secret of Owl Cave, the Miss Twin Peaks contest draws hot competition.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Apr. 1991", 
+            "episodeName": "Episode #2.20", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nWhile romance blooms for Cooper and Annie, Donna finds a scrapbook that's full of surprises.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Jun. 1991", 
+            "episodeName": "Episode #2.21", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nAgent Cooper and Sheriff Truman rush to the Black Lodge, where Cooper tries to save the life of Miss Twin Peaks.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Jun. 1991", 
+            "episodeName": "Episode #2.22", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nCooper must overcome his deepest fears as he enters the Black Lodge to save Annie from Windom Earle.    ", 
+            "seasonNumber": 2
+        }
+    ], 
+    "name": "Twin Peaks", 
+    "plot": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.", 
+    "rating": 8.9, 
+    "releaseDate": "September 1989 (Telluride Film Festival)", 
+    "type": "tvserie"
+}

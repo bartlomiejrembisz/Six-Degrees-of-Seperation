@@ -1,0 +1,688 @@
+{
+    "actorList": [
+        "Grant Gustin", 
+        "Candice Patton", 
+        "Danielle Panabaker", 
+        "Carlos Valdes", 
+        "Tom Cavanagh", 
+        "Jesse L. Martin", 
+        "Keiynan Lonsdale"
+    ], 
+    "director": [
+        "Dermott Downs", 
+        "Ralph Hemecker", 
+        "Jesse Warn", 
+        "Glen Winter", 
+        "Millicent Shelton", 
+        "Rob Hardy", 
+        "J.J. Makaro", 
+        "Stefan Pleszczynski", 
+        "John F. Showalter", 
+        "Michael A. Allowitz", 
+        "David Nutter", 
+        "Steve Shill", 
+        "Kevin Tancharoen", 
+        "Hanelle M. Culpepper", 
+        "Armen V. Kevorkian", 
+        "Kevin Smith", 
+        "Rachel Talalay", 
+        "David McWhirter"
+    ], 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Drama", 
+        "Sci-Fi"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "7 Oct. 2014", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCSI investigator Barry Allen awakens from a coma, nine months after he was hit by lightning, and discovers he has superhuman speed.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Oct. 2014", 
+            "episodeName": "Fastest Man Alive", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nBarry takes on a group of armed men at an awards ceremony, but side effects from his new super power catch up with him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Oct. 2014", 
+            "episodeName": "Things You Can't Outrun", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nBarry and Joe track a deadly metahuman with toxic gas powers, and Caitlin relives the night of the explosion that killed her fianc\u00e9.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Oct. 2014", 
+            "episodeName": "Going Rogue", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nTo steal a priceless diamond, Captain Cold acquires a specialized gun that can slay the Flash. Joe disapproves of Eddie and Iris dating.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Nov. 2014", 
+            "episodeName": "Plastique", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhile trying to get Iris to stop blogging about the Flash, Barry investigates a general's connection to an explosive meta-human.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Nov. 2014", 
+            "episodeName": "The Flash Is Born", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nBarry takes on his childhood bully, who can now turn himself into steel. Iris finally coins the moniker \"the Flash.\"    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Nov. 2014", 
+            "episodeName": "Power Outage", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nUsing his meta-human power to siphon electricity, Blackout robs Barry of his speed, then sets his sights on S.T.A.R. labs and Dr. Wells.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Dec. 2014", 
+            "episodeName": "Flash vs. Arrow", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe Arrow comes to Central City in pursuit of a felon. Barry hopes to team up, but a meta-human who can control emotions turns one against the other.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Dec. 2014", 
+            "episodeName": "The Man in the Yellow Suit", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nDuring the holidays, the Flash confronts the Reverse-Flash, the man who killed his mother. Caitlin gets surprising news about her fianc\u00e9, Ronnie.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Jan. 2015", 
+            "episodeName": "Revenge of the Rogues", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhile the Flash prepares to vanquish the Reverse-Flash, Captain Cold, teamed with Heat Wave, comes looking for a fight.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Jan. 2015", 
+            "episodeName": "The Sound and the Fury", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhile Iris faces trouble in her new job, a former prot\u00e9g\u00e9 of Dr. Wells uses sound waves to attack the Flash.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Feb. 2015", 
+            "episodeName": "Crazy for You", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nCaitlin brings Barry out to a karaoke bar, hoping they both meet someone new; Cisco thinks about Hartley's dangerous proposition; Henry's snooping gets him into trouble.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Feb. 2015", 
+            "episodeName": "The Nuclear Man", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAfter Ronnie kills a physicist, Barry and the team go after him. Joe enlists Cisco's help in the reinvestigation of Nora Allen's murder. Barry struggles with a new relationship and his duties as The Flash.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Feb. 2015", 
+            "episodeName": "Fallout", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAfter the nuclear explosion separates Ronnie and Dr. Stein, Barry and the team believe both men are safe. Barry gets some important information about time travel.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2015", 
+            "episodeName": "Out of Time", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nMark Mardon, having survived his apparent death during the dark matter explosion, returns to seek revenge on Joe for the death of his brother Clyde, bearing the same weather-manipulation powers as his deceased sibling.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Mar. 2015", 
+            "episodeName": "Rogue Time", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe Flash learns that Captain Cold and Heat Wave have returned to Central City. This time Snart has brought along his sociopathic baby sister Lisa to help wreak havoc on the city.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2015", 
+            "episodeName": "Tricksters", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nJames Jesse, a.k.a. The Trickster, once terrorized Central City twenty years ago. Now a copycat has arisen to carry on the name and resume his murderous misdeeds.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Apr. 2015", 
+            "episodeName": "All Star Team Up", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nFelicity Smoak and Ray Palmer come to Central City seeking help with Ray's suit; an ex-employee releases deadly robotic bees; a group dinner does not go as planned.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2015", 
+            "episodeName": "Who Is Harrison Wells?", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nJoe and Cisco visit Starling City and ask Captain Lance for help with their investigation into Dr. Wells; Laurel asks Cisco for a favor; Barry faces a new foe who can disguise himself as anyone he touches.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Apr. 2015", 
+            "episodeName": "The Trap", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nBarry, Caitlin, Cisco and Joe set a trap for Wells. Cisco uses himself as bait, which puts him in great danger. Meanwhile, Eddie makes a decision regarding Iris, which leaves Joe a bit unsettled.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 May 2015", 
+            "episodeName": "Grodd Lives", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nKnowing it's a deliberate distraction from Dr. Wells, Barry and those at S.T.A.R. Labs can't help but deal with an angry, mind-controlling meta-gorilla.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 May 2015", 
+            "episodeName": "Rogue Air", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nWhen Dr. Wells reactivates the Particle Accelerator, Barry must move the imprisoned meta-humans away. To do that, he needs help, and he chooses to ask Captain Cold for it.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 May 2015", 
+            "episodeName": "Fast Enough", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nWith the Particle Accelerator back online, Barry can go back in time to stop Eobard Thawne on the night of his mother's murder fifteen years ago.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 Oct. 2015", 
+            "episodeName": "The Man Who Saved Central City", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nStill feeling responsible for Eddie's death, Barry pushes his friends away and tries to protect the city on his own; Cisco assists Joe with the Meta Task Force.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Oct. 2015", 
+            "episodeName": "Flash of Two Worlds", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nA mysterious man brings warning of an evil speedster intent on destroying The Flash, and a determined officer wants to join Joe's meta-human task force.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Oct. 2015", 
+            "episodeName": "Family of Rogues", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nBarry and the team ally with the kidnapped Captain Cold's sister, but Barry feels duped when he learns Snart is working on something with his father; Joe faces a difficult decision.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Oct. 2015", 
+            "episodeName": "The Fury of Firestorm", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe quest to find the destabilizing Dr. Stein a new merge partner brings about the emergence of a new, hot-tempered, meta-human malcontent.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Nov. 2015", 
+            "episodeName": "The Darkness and the Light", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAs an encounter with another Earth-2 meta-human leaves Barry blinded (right before his first date with Patty), Dr. Wells outs Cisco.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Nov. 2015", 
+            "episodeName": "Enter Zoom", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nBarry and his team plan to trap Zoom with Linda's help while Joe is against it.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Nov. 2015", 
+            "episodeName": "Gorilla Warfare", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nBarry's team races to rescue Caitlin when Grodd abducts her; Cisco plans a date with the new barista at Jitters; Patty knows Barry is hiding something.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Dec. 2015", 
+            "episodeName": "Legends of Today", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhen Vandal Savage attacks Kendra Saunders, Barry takes Kendra to Starling City, seeking Oliver's protection; Harrison asks Jay to test a new serum to make Barry run faster.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Dec. 2015", 
+            "episodeName": "Running to Stand Still", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nBelieving Flash to be weakened, Weather Wizard returns to break Captain Cold and The Trickster out of Iron Heights Prison to form a triumvirate against him at Christmastime.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Jan. 2016", 
+            "episodeName": "Potential Energy", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBarry and the S.T.A.R. Labs team hunt down The Turtle, who steals kinetic energy. Barry faces a choice on whether or not he should reveal his secret identity to Patty.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Jan. 2016", 
+            "episodeName": "The Reverse-Flash Returns", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nDr. Harrison figures out how to induce Cisco's ability; they hence learn that Eobard Thawne is still alive. Iris says farewell to her mother. Patty realizes there's more to Barry than meets the eye.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Feb. 2016", 
+            "episodeName": "Fast Lane", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nBarry tries to team up with Dr. Harrison but finds out Harrison prefers working alone. The Flash fights a new meta-human. Iris researches her brother's drag racing. Dr. Harrison starts stealing Barry's speed.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Feb. 2016", 
+            "episodeName": "Welcome to Earth-2", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nHarrison, Cisco and Barry travel to Earth-2 to save Harrison's daughter. Barry assumes the role of his doppelganger, who's married to Iris. He then encounters alternate-Caitlin and alternate-Ronnie, who are Zoom's agents.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Feb. 2016", 
+            "episodeName": "Escape from Earth-2", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nOn Earth-2, the team asks for help from an unexpected source to find Zoom's lair, while on Earth-1, Caitlin tries to perfect Velocity-9 so Jay can stop the Geomancer.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Feb. 2016", 
+            "episodeName": "King Shark", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhen King Shark escapes from an A.R.G.U.S. holding tank, Lyla and Diggle travel to Central City to warn The Flash. King Shark shows up at the West house and attacks Joe, Iris, Wally and Barry.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Mar. 2016", 
+            "episodeName": "Trajectory", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nWhile The Flash gets blamed for a lady speedster's anti-social antics, Jesse becomes appalled at how far Harrison will go to protect her.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Mar. 2016", 
+            "episodeName": "Flash Back", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nTo become fast enough to beat Zoom, Barry travels back in time to consult with Dr. Wells/Eobard Thawne but incurs the wrath of a Time Wraith.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Apr. 2016", 
+            "episodeName": "Versus Zoom", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nBarry, having now learned how to travel between the different Earths, decides to take the fight to Zoom.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Apr. 2016", 
+            "episodeName": "Back to Normal", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nAs Barry adjusts to life without superpowers, a super-strong meta-human abducts Harrison, and Wally pesters Joe for a meeting with The Flash.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 May 2016", 
+            "episodeName": "Rupture", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nJust as Wells comes up with a plan to defeat Zoom, Zoom returns hellbent on destroying Central City. Meanwhile, Cisco has a vision of his brother, and Iris comes to terms with her feelings.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 May 2016", 
+            "episodeName": "The Runaway Dinosaur", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nIris volunteers to act as the bait in a plan to trap Girder in S.T.A.R. Labs; Barry struggles to go back to his old life.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 May 2016", 
+            "episodeName": "Invincible", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nZoom unleashes an army of Earth-2 meta-humans, the leader of which is Black Canary's doppelganger, Black Siren; Joe worries when Wally goes out to help The Flash.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 May 2016", 
+            "episodeName": "The Race of His Life", 
+            "episodeNumber": 23, 
+            "episodePlot": "\nWith Zoom's true plan revealed, Team Flash fears Barry's resolve to do whatever it takes to stop him.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Oct. 2016", 
+            "episodeName": "Flashpoint", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe Reverse-Flash taunts The Flash and warns of repercussions if Barry continues to forget his old life. When disaster strikes, Barry must decide whether to live as Barry Allen or return to his universe as The Flash.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Oct. 2016", 
+            "episodeName": "Paradox", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nBarry discovers that the effects from Flashpoint are greater than he thought. In the meantime, he meets his new co-worker who has an immediate disdain for him.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Oct. 2016", 
+            "episodeName": "Magenta", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJust as Wells and Jesse return from Earth-2, Central City is attacked by a new meta with the power to control metal.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Oct. 2016", 
+            "episodeName": "The New Rogues", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMirror Master joins his old partner, Top, and looks to even the score with Snart; Jesse joins the chase, but her decision to defy one of Barry's orders results in terrible consequences.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Nov. 2016", 
+            "episodeName": "Monster", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nCaitlin visits her mother to help her understand her growing meta-human powers; Barry tries to convince Julian to let him help investigate a new meta-human attacking Central City.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "15 Nov. 2016", 
+            "episodeName": "Shade", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWally starts to have visions of him being Kid Flash so Barry tells him the truth about his powers in Flashpoint. Meanwhile, the rest of the group find out about Caitlin's Killer Frost powers.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "22 Nov. 2016", 
+            "episodeName": "Killer Frost", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe team is in for a shock as Caitlin is forced to reveal her Killer Frost powers - but she is not the only one with a secret.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Nov. 2016", 
+            "episodeName": "Invasion!", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nBarry asks Green Arrow for help when aliens attack Central City, but when they realize that won't be enough, they bring the Legends and Supergirl in on the battle.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Dec. 2016", 
+            "episodeName": "The Present", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nBarry heads to Earth Three to get advice from Jay Garrick on how to stop Savitar. Wally tells Barry that he has been training with H.R.. Old wounds are reopened as Cisco faces Christmas without Dante.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Jan. 2017", 
+            "episodeName": "Borrowing Problems from the Future", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBarry and Team Flash try to figure out a way to change the future to save Iris from her inevitable death. The only way for them to do that is to go back to the future. Wally West will be suiting up as Kid Flash as he teams up with Barry. Will these guys be successful in changing the future and stop Savitar or will the future remain unaltered by their actions?    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "31 Jan. 2017", 
+            "episodeName": "Dead or Alive", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nBarry Allen and Cisco Ramon must work together to save Harrison Wells from an inter-dimensional bounty hunter who seeks to kill him, as it is a crime on Earth-19 to transport yourself to another earth. Cisco and Barry must fight against the bounty hunter in a fight to the death to save Harrison's life.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Feb. 2017", 
+            "episodeName": "Untouchable", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA criminal meta-human is causing people to decompose at an accelerated rate.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Feb. 2017", 
+            "episodeName": "Attack on Gorilla City", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nBarry and the team travel to Earth-2 to rescue Harry from Gorilla City, where they're captured and brought to Grodd, who claims he needs their help to stop Solovar.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Feb. 2017", 
+            "episodeName": "Attack on Central City", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nGrodd and his army bring their battle to Earth-1, which the team must find a way to stop.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Mar. 2017", 
+            "episodeName": "The Wrath of Savitar", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhile training with Barry, Wally starts to have visions of Savitar, which he hides from the team. A dangerous secret threatens Barry and Iris' happiness.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Mar. 2017", 
+            "episodeName": "Into the Speed Force", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nDesperate to stop Savitar and save his friends, Barry turns to the speed force for answers; H.R. gives Jesse some advice.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Mar. 2017", 
+            "episodeName": "Duet", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nThe Music Meister sends Supergirl and the Flash to a world where life is a musical and the only way to escape is to sing and dance.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Mar. 2017", 
+            "episodeName": "Abra Kadabra", 
+            "episodeNumber": 18, 
+            "episodePlot": "\nThe Flash fights a villain from the 64th Century named Abra Kadabra, who offers to reveal Savitar's identity in exchange for his release.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Apr. 2017", 
+            "episodeName": "The Once and Future Flash", 
+            "episodeNumber": 19, 
+            "episodePlot": "\nBarry travels forward in time to 2024 to find out Savitar's identity and save Iris' life.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 May 2017", 
+            "episodeName": "I Know Who You Are", 
+            "episodeNumber": 20, 
+            "episodePlot": "\nTeam Flash meets a scientist who may be the key to stopping Savitar, but is forced into a battle with Killer Frost.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "9 May 2017", 
+            "episodeName": "Cause and Effect", 
+            "episodeNumber": 21, 
+            "episodePlot": "\nBarry takes desperate measures to stop Savitar, while H.R. keeps pressuring Tracy Brand to set a trap for Savitar and Killer Frost has an interesting proposal.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "16 May 2017", 
+            "episodeName": "Infantino Street", 
+            "episodeNumber": 22, 
+            "episodePlot": "\nWith only 24 hours until Savitar kills Iris, the Flash turns to Captain Cold for help.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "23 May 2017", 
+            "episodeName": "Episode #3.23", 
+            "episodeNumber": 23, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #4.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nPlot is undisclosed at this time    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "18 Dec. 2018", 
+            "episodeName": "Episode #4.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.14", 
+            "episodeNumber": 14, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.15", 
+            "episodeNumber": 15, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.16", 
+            "episodeNumber": 16, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.17", 
+            "episodeNumber": 17, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.18", 
+            "episodeNumber": 18, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.19", 
+            "episodeNumber": 19, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.20", 
+            "episodeNumber": 20, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.21", 
+            "episodeNumber": 21, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.22", 
+            "episodeNumber": 22, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #4.23", 
+            "episodeNumber": 23, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 4
+        }
+    ], 
+    "name": "The Flash", 
+    "plot": "After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the Flash, fighting crime in Central City.", 
+    "rating": 8.1, 
+    "releaseDate": "7 October 2014", 
+    "type": "tvserie"
+}

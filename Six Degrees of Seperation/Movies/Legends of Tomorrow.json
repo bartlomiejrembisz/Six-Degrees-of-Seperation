@@ -1,0 +1,385 @@
+{
+    "actorList": [
+        "Victor Garber", 
+        "Brandon Routh", 
+        "Caity Lotz", 
+        "Franz Drameh", 
+        "Amy Pemberton", 
+        "Dominic Purcell", 
+        "Maisie Richardson-Sellers", 
+        "Nick Zano", 
+        "Arthur Darvill"
+    ], 
+    "director": [
+        "Dermott Downs", 
+        "Gregory Smith", 
+        "Ralph Hemecker", 
+        "Antonio Negret", 
+        "Alice Troughton", 
+        "David Geddes", 
+        "Glen Winter"
+    ], 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Drama", 
+        "Sci-Fi"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "21 Jan. 2016", 
+            "episodeName": "Pilot, Part 1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nTime-traveling rogue, Rip Hunter, has to recruit a rag-tag team of heroes and villains to help prevent an apocalypse that could impact not only Earth, but all of time.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Jan. 2016", 
+            "episodeName": "Pilot, Part 2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe team meet Vandal Savage, who senses the presence of Hawkman and Hawkgirl. A fight follows in which Ray loses a piece of his costume that threatens to change the future. Then the team plan to correct that.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Feb. 2016", 
+            "episodeName": "Blood Ties", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nIn an effort to weaken Savage by going after his financial assets, Rip and Sara infiltrate his bank. Meanwhile, Snart and Rory take the jump ship back to Central City for a job.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Feb. 2016", 
+            "episodeName": "White Knights", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDr. Stein sneaks into a lab and finds out that Savage is trying to create Firestorm.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "18 Feb. 2016", 
+            "episodeName": "Fail-Safe", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAfter some of the Legends are captured and thrown into a Russian gulag during the height of the Cold War of 1986, Snart leads the team in an elaborate Prison Break to free their comrades. However, Rip gives Sara a secret side mission that could prove not only to be a liability, but fatal to the team.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Feb. 2016", 
+            "episodeName": "Star City 2046", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nA malfunction sends the Waverider to 2046 Star City where the team faces a future in which they fail to stop Savage and return home.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Mar. 2016", 
+            "episodeName": "Marooned", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhen there's no trace of Savage, Rip spends time dwelling on the past and Rory continues to be a liability to the team. The crew receive a distress call from another Time Master and seek it out, only to find that the ship was commandeered by time pirates. Snart has an important decision to make.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Mar. 2016", 
+            "episodeName": "Night of the Hawk", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe team tracks Savage to a small town in Oregon in the 1950s where they suspect he's involved in a recent string of murders.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Mar. 2016", 
+            "episodeName": "Left Behind", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nRay, Sara and Kendra are stranded in the '50s when the Waverider takes off without them.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Apr. 2016", 
+            "episodeName": "Progeny", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe team is divided over killing a 14-year-old boy who will grow to be a powerful ally for Savage.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Apr. 2016", 
+            "episodeName": "The Magnificent Eight", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe Legends travel back to the Old Wild West and gain the aid of a true legend - a morally ambiguous gunslinger with a penchant for danger named Jonah Hex.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Apr. 2016", 
+            "episodeName": "Last Refuge", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nA deadly assassin called the Pilgrim wants to wipe the Legends from the timeline by killing the heroes' younger selves before they become powerful.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Apr. 2016", 
+            "episodeName": "Leviathan", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nRip takes the team to London in the year 2166, three days before his family is killed. He believes this to be their final opportunity to take out Savage who is, unfortunately, at the height of his power. However, the team discovers two key elements to defeating him - Savage's daughter and the means to kill Savage once and for all.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 May 2016", 
+            "episodeName": "River of Time", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAfter numerous attempts in many different time periods, the team has successfully captured Vandal Savage. However, Savage tells Kendra that he can reunite her with Carter so she struggles with whether she should kill him. Rip decides they will deliver Savage to the Time Masters which doesn't sit well with Snart and Rory. The duo decides it may be time to jump ship and return to their old life. Meanwhile, Savage taunts Ray about his place in Kendra's life.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 May 2016", 
+            "episodeName": "Destiny", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nBeing in the vicinity of the Time Masters leaves Rip and Rory incredibly disturbed for very different reasons. Meanwhile, Sara takes over the Waverider, Kendra is reunited with Carter and Snart decides he might be a hero after all.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 May 2016", 
+            "episodeName": "Legendary", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAfter the numerous sacrifices the team has made since the beginning of this ride, Rip decides that it's time they each decide their own destiny and returns them to Central City a few months after they first left. Returned to their normal lives, each team member must individually decide if they are willing to sacrifice everything in order to save the world. Meanwhile, Sara visits with her father who delivers some heartbreaking news about her sister.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Oct. 2016", 
+            "episodeName": "Out of Time", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWhen a new threat emerges, Dr. Nate Heywood seeks out Oliver Queen to help find the scattered Legends; once reunited, they go to 1942, to keep Albert Einstein from being kidnapped before the Nazis destroy New York City with a nuclear bomb.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Oct. 2016", 
+            "episodeName": "The Justice Society of America", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe Legends discover a time aberration that threatens the Justice Society of America, who are on a mission to intercept and seize a mysterious package in Nazi-occupied Paris.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Oct. 2016", 
+            "episodeName": "Shogun", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nNate is shocked to learn he has powers, but then accidentally lands himself and Ray in Feudal Japan.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "3 Nov. 2016", 
+            "episodeName": "Abominations", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe Legends find themselves fighting for survival against Confederate zombies in the Civil War.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "10 Nov. 2016", 
+            "episodeName": "Compromised", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nThe Legends trace a time quake to the White House during Ronald Reagan's presidency and discover that Damien Darhk is a Senior Adviser.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "17 Nov. 2016", 
+            "episodeName": "Outlaw Country", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe Legends find Jonah Hex in trouble with his arch-nemesis Quentin Turnbull when they arrive in the Old West.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Dec. 2016", 
+            "episodeName": "Invasion!", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe Legends work with The Flash, Supergirl and Green Arrow to kill the invaders; while working out how to defeat the Dominators, Stein gets distracted by the aberration he created in 1987.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Dec. 2016", 
+            "episodeName": "The Chicago Way", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nThe Legends track a Time Aberration to 1927 Chicago and realize they've been set up by Eobard Thawne, Damien Dahrk and the newest member of the Legion of Doom - Malcolm Merlyn.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "24 Jan. 2017", 
+            "episodeName": "Raiders of the Lost Art", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nDamien Dahrk and Malcolm Merlyn create a big aberration as they attempt to capture Rip in 1967.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Jan. 2017", 
+            "episodeName": "The Legion of Doom", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe Legends must find the Spear of Destiny before they can rescue Rip, while Malcolm and Damien realize that Thawne is pitting them against each other.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Feb. 2017", 
+            "episodeName": "Turncoat", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nThe Legends travel to the winter of 1776 to protect George Washington during the American Revolution, but Sara is forced to send out Nate and Amaya when things don't go as planned.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Feb. 2017", 
+            "episodeName": "Camelot/3000", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe Legends continue their quest to find the Spear of Destiny before the Legion of Doom get their hands on the pieces. Their first stop is the future, after which they travel to Camelot and find Stargirl guarding a piece of the Spear.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Mar. 2017", 
+            "episodeName": "Land of the Lost", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThe Legends are left seventy million years in the past when Rip causes the Waverider to crash after his capture.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Mar. 2017", 
+            "episodeName": "Moonshot", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe Legends learn where the last fragment of the Spear of Destiny is hidden when they track Commander Steel to NASA Headquarters in 1970.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Mar. 2017", 
+            "episodeName": "Fellowship of the Spear", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nThe Legends land in France during World War I and enlist the aid of J.R.R. Tolkien to retrieve the last pieces of the Spear of Destiny from the Legion of Doom.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Mar. 2017", 
+            "episodeName": "Doomworld", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe Legion of Doom rewrites history after obtaining the Spear of Destiny, potentially changing the Legends forever.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Apr. 2017", 
+            "episodeName": "Aruba", 
+            "episodeNumber": 17, 
+            "episodePlot": "\nWhen a massive timequake rocks the ship while the legends are preparing for their next destination, they must break a cardinal rule of time travel.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "Oct. 2017", 
+            "episodeName": "Episode #3.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.14", 
+            "episodeNumber": 14, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.15", 
+            "episodeNumber": 15, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.16", 
+            "episodeNumber": 16, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.17", 
+            "episodeNumber": 17, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "Legends of Tomorrow", 
+    "plot": "Focuses on time-traveling rogue Rip Hunter, who has to recruit a rag-tag team of heroes and villains to help prevent an apocalypse that could impact not only Earth, but all of time.", 
+    "rating": 7.0, 
+    "releaseDate": "21 January 2016", 
+    "type": "tvserie"
+}

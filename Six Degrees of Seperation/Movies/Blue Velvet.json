@@ -1,0 +1,47 @@
+{
+    "actorList": [
+        "Isabella Rossellini", 
+        "Kyle MacLachlan", 
+        "Dennis Hopper", 
+        "Laura Dern", 
+        "Hope Lange", 
+        "Dean Stockwell", 
+        "George Dickerson", 
+        "Priscilla Pointer", 
+        "Frances Bay", 
+        "Jack Harvey", 
+        "Ken Stovitz", 
+        "Brad Dourif", 
+        "Jack Nance", 
+        "J. Michael Hunter", 
+        "Dick Green", 
+        "Fred Pickler", 
+        "Philip Markert", 
+        "Leonard Watkins", 
+        "Moses Gibson", 
+        "Selden Smith", 
+        "Peter Carew", 
+        "Jon Jon Snipes", 
+        "Angelo Badalamenti", 
+        "Jean Pierre Viale", 
+        "Donald Moore", 
+        "A. Michelle Depland", 
+        "Michelle Sasser", 
+        "Katie Reid", 
+        "Sparky", 
+        "Robert J. Maxwell"
+    ], 
+    "director": [
+        "David Lynch"
+    ], 
+    "genres": [
+        "Drama", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "name": "Blue Velvet", 
+    "plot": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.", 
+    "rating": 7.8, 
+    "releaseDate": "30 August 1986 (Montr\u00e9al World Film Festival)", 
+    "type": "movie"
+}

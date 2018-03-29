@@ -1,0 +1,51 @@
+{
+    "actorList": [
+        "Lee Marvin", 
+        "Mark Hamill", 
+        "Robert Carradine", 
+        "Bobby Di Cicco", 
+        "Kelly Ward", 
+        "St\u00e9phane Audran", 
+        "Siegfried Rauch", 
+        "Serge Marquand", 
+        "Charles Macaulay", 
+        "Alain Doutey", 
+        "Maurice Marsac", 
+        "Colin Gilbert", 
+        "Joseph Clark", 
+        "Ken Campbell", 
+        "Doug Werner", 
+        "Perry Lang", 
+        "Howard Delman", 
+        "Marthe Villalonga", 
+        "Giovanna Galletti", 
+        "Gregori Buimistre", 
+        "Shimon Barr", 
+        "Matteo Zoffoli", 
+        "Abraham Ronai", 
+        "Galit Rotman", 
+        "Samuel Fuller", 
+        "Pascal Breuer", 
+        "Luther Fear", 
+        "Walter Flesch", 
+        "Anat Harel", 
+        "Ulli Kinalzik", 
+        "Christa Lang", 
+        "Guy Marchand", 
+        "Jack McCulloch", 
+        "Steve Moriarty", 
+        "Yossi Pollak"
+    ], 
+    "director": [
+        "Samuel Fuller"
+    ], 
+    "genres": [
+        "Drama", 
+        "War"
+    ], 
+    "name": "The Big Red One", 
+    "plot": "The story of a sergeant and the inner core members of his unit as they try to serve in and survive World War II.", 
+    "rating": 7.2, 
+    "releaseDate": "16 May 1980 (Cannes Film Festival)", 
+    "type": "movie"
+}

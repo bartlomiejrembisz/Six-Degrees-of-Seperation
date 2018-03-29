@@ -1,0 +1,43 @@
+{
+    "actorList": [
+        "Warren Beatty", 
+        "Faye Dunaway", 
+        "Michael J. Pollard", 
+        "Gene Hackman", 
+        "Estelle Parsons", 
+        "Denver Pyle", 
+        "Dub Taylor", 
+        "Evans Evans", 
+        "Gene Wilder", 
+        "Martha Adcock", 
+        "Harry Appling", 
+        "Owen Bush", 
+        "Mabel Cavitt", 
+        "Patrick Cranshaw", 
+        "Frances Fisher", 
+        "Sadie French", 
+        "Garry Goodgion", 
+        "Clyde Howdy", 
+        "Russ Marker", 
+        "Ken Mayer", 
+        "Ken Miller", 
+        "Ann Palmer", 
+        "Stuart Spates", 
+        "James Stiver", 
+        "Ada Waugh"
+    ], 
+    "director": [
+        "Arthur Penn"
+    ], 
+    "genres": [
+        "Action", 
+        "Biography", 
+        "Crime", 
+        "Drama"
+    ], 
+    "name": "Bonnie and Clyde", 
+    "plot": "Bonnie Parker, a bored waitress falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, robbing cars and banks.", 
+    "rating": 7.9, 
+    "releaseDate": "4 August 1967 (Montr\u00e9al Film Festival)\n (premiere)", 
+    "type": "movie"
+}

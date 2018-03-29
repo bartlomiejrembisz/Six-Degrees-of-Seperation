@@ -1,0 +1,35 @@
+{
+    "actorList": [
+        "Shauna Macdonald", 
+        "Natalie Mendoza", 
+        "Alex Reid", 
+        "Saskia Mulder", 
+        "MyAnna Buring", 
+        "Nora-Jane Noone", 
+        "Oliver Milburn", 
+        "Molly Kayll", 
+        "Craig Conway", 
+        "Leslie Simpson", 
+        "Mark Cronfield", 
+        "Stephen Lamb", 
+        "Catherine Dyson", 
+        "Julie Ellis", 
+        "Sophie Trott", 
+        "Tristan Matthiae", 
+        "Stuart Luis", 
+        "Justin Hackney"
+    ], 
+    "director": [
+        "Neil Marshall"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Horror", 
+        "Thriller"
+    ], 
+    "name": "The Descent", 
+    "plot": "A caving expedition goes horribly wrong, as the explorers become trapped and ultimately pursued by a strange breed of predators.", 
+    "rating": 7.2, 
+    "releaseDate": "11 March 2005 (Brussels International Festival of Fantasy Films)", 
+    "type": "movie"
+}

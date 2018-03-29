@@ -1,0 +1,134 @@
+{
+    "actorList": [
+        "Benedict Cumberbatch", 
+        "Martin Freeman", 
+        "Una Stubbs", 
+        "Rupert Graves", 
+        "Louise Brealey", 
+        "Mark Gatiss", 
+        "Andrew Scott", 
+        "Amanda Abbington", 
+        "Jonathan Aris"
+    ], 
+    "director": [
+        "Paul McGuigan", 
+        "Nick Hurran"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Mystery"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "5 Jun. 2011", 
+            "episodeName": "Unaired Pilot", 
+            "episodeNumber": 0, 
+            "episodePlot": "\nInvalided home from the war in Afghanistan, Dr. John Watson becomes roommates with the world's only \"consulting detective,\" Sherlock Holmes. Within a day their friendship is forged and several murders are solved.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Oct. 2010", 
+            "episodeName": "A Study in Pink", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nWar vet Dr. John Watson returns to London in need of a place to stay. He meets Sherlock Holmes, a consulting detective, and the two soon find themselves digging into a string of serial \"suicides.\"    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "31 Oct. 2010", 
+            "episodeName": "The Blind Banker", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nMysterious symbols and murders are showing up all over London, leading Sherlock and John to a secret Chinese crime syndicate called Black Lotus.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Nov. 2010", 
+            "episodeName": "The Great Game", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMycroft needs Sherlock's help, but a remorseless criminal mastermind puts Sherlock on a distracting crime-solving spree via a series of hostage human bombs through which he speaks.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 May 2012", 
+            "episodeName": "A Scandal in Belgravia", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nSherlock must confiscate something of importance from a mysterious woman named Irene Adler.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 May 2012", 
+            "episodeName": "The Hounds of Baskerville", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nSherlock and John investigate the ghosts of a young man who has been seeing monstrous hounds out in the woods where his father died.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 May 2012", 
+            "episodeName": "The Reichenbach Fall", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nJim Moriarty hatches a mad scheme to turn the whole city against Sherlock.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Jan. 2014", 
+            "episodeName": "Many Happy Returns", 
+            "episodeNumber": 0, 
+            "episodePlot": "\nJohn and Lestrade try to move on with their lives after Sherlock's apparent death. However, Anderson believes he is still alive.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Jan. 2014", 
+            "episodeName": "The Empty Hearse", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nMycroft calls Sherlock back to London to investigate an underground terrorist organization.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Jan. 2014", 
+            "episodeName": "The Sign of Three", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nSherlock tries to give the perfect best man speech at John's wedding when he suddenly realizes a murder is about to take place.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 Feb. 2014", 
+            "episodeName": "His Last Vow", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nSherlock goes up against Charles Augustus Magnussen, media tycoon and a notorious blackmailer.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "1 Jan. 2016", 
+            "episodeName": "The Abominable Bride", 
+            "episodeNumber": 0, 
+            "episodePlot": "\nSherlock Holmes and Dr. Watson find themselves in 1890s London in this Christmas special.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Jan. 2017", 
+            "episodeName": "The Six Thatchers", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nSherlock takes on the case of finding out who is going around and smashing six unique head statues of late Prime Minister Margaret Thatcher.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "8 Jan. 2017", 
+            "episodeName": "The Lying Detective", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nSherlock goes up against the powerful and seemingly unassailable Culverton Smith - a man with a very dark secret indeed.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "15 Jan. 2017", 
+            "episodeName": "The Final Problem", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nLong buried secrets finally emerge as someone has been playing a very long game indeed. Sherlock and John face their greatest ever challenge. Is the game finally over?    ", 
+            "seasonNumber": 4
+        }
+    ], 
+    "name": "Sherlock", 
+    "plot": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.", 
+    "rating": 9.2, 
+    "releaseDate": "25 July 2010", 
+    "type": "tvserie"
+}

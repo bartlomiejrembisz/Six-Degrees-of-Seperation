@@ -1,0 +1,205 @@
+{
+    "actorList": [
+        "Richard Dormer", 
+        "Bj\u00f6rn Hlynur Haraldsson", 
+        "Sofie Gr\u00e5b\u00f8l", 
+        "Sienna Guillory", 
+        "Mia Jexen", 
+        "Luke Treadaway", 
+        "Ver\u00f3nica Echegui", 
+        "Alexandra Moen", 
+        "Darren Boyd", 
+        "Nicholas Pinnock", 
+        "Elizabeth Dormer-Phillips", 
+        "Ramon Tikaram", 
+        "Ken Stott", 
+        "Edvin Endre", 
+        "Johnny Harris", 
+        "Michelle Fairley", 
+        "Jessica Raine", 
+        "Dennis Quaid", 
+        "Michael Gambon", 
+        "Jessica Gunning", 
+        "Robert Sheehan", 
+        "Stanley Tucci", 
+        "Parminder Nagra", 
+        "Darwin Brokenbro", 
+        "Eloise Smyth", 
+        "Phoebe Nicholls"
+    ], 
+    "director": [
+        "Hettie Macdonald", 
+        "Kieron Hawkes", 
+        "Sam Miller", 
+        "Nick Hurran", 
+        "Richard Laxton", 
+        "Metin H\u00fcseyin"
+    ], 
+    "genres": [
+        "Drama", 
+        "Horror", 
+        "Mystery", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "29 Jan. 2015", 
+            "episodeName": "Episode #1.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA dark event rocks the remote Arctic town of Fortitude.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Feb. 2015", 
+            "episodeName": "Episode #1.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nSheriff Anderssen and the police close in on their murder suspect, while DCI Morton follows a different line of inquiry.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Feb. 2015", 
+            "episodeName": "Episode #1.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDan and Frank travel up the coast in search of a suspect; Dan's feelings for Elena threaten to overwhelm him.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Feb. 2015", 
+            "episodeName": "Episode #1.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nFollowing Dan's loss of control, Morton takes over the murder investigation. Elsewhere, Elena's mysterious past is about to catch up with her.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Feb. 2015", 
+            "episodeName": "Episode #1.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nEveryone is a suspect in the murder of Charlie Stoddard, especially Frank and Elena. The Sheriff seems to have some emotional tie to Elena/Esmerelda, and the truth soon comes to light: she spent 7 years in prison for killing an ex-boyfriend who abused her during their relationship, and the Sheriff handles her case to the extent of providing her with a new identity.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Mar. 2015", 
+            "episodeName": "Episode #1.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWhile Morton uncovers new information about the death of Billy Pettigrew, Hildur makes a heart-breaking discovery. Another gruesome event occurs in Fortitude.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Mar. 2015", 
+            "episodeName": "Episode #1.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nPanic sweeps through Fortitude as news of the second attack spreads. Dan and Morton must work together while Frank hopes the latest events will exonerate Liam.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Mar. 2015", 
+            "episodeName": "Episode #1.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWhile Frank takes the law into his own hands, DCI Morton closes in on the truth about Pettigrew's death. Vincent and Natalie also make a discovery.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Mar. 2015", 
+            "episodeName": "Episode #1.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nDCI Morton pursues Henry Tyson into the Arctic wilderness in search of the truth, while worrying test results force Governor Odegard to take drastic action.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Apr. 2015", 
+            "episodeName": "Episode #1.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe truth about Billy Pettigrew is revealed. In the lab, Natalie and Vincent probe the cause of the disturbing events in Fortitude.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Apr. 2015", 
+            "episodeName": "Episode #1.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nVincent faces a life-threatening situation, while Dan must make a devastating decision.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Apr. 2015", 
+            "episodeName": "Episode #1.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Apr. 2017", 
+            "episodeName": "Episode #2.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA fresh murder rocks the town, plunging the remote outpost into new turmoil.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Apr. 2017", 
+            "episodeName": "Episode #2.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nHildur is presented with devastating news as Dan struggles for his life, and a new threat makes its presence known.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Apr. 2017", 
+            "episodeName": "Episode #2.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nNatalie and Vincent head out into the wilderness and the police track down their suspect, but a dark turn of events leads them to question everything.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Apr. 2017", 
+            "episodeName": "Episode #2.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nEric struggles to keep control as the body count increases. Meanwhile, Natalie and Vincent's field trip descends into chaos.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Apr. 2017", 
+            "episodeName": "Episode #2.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nA disturbing challenge is issued. Michael finds a glimmer of hope for Freya, while Vincent's trust in Natalie is shattered.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Apr. 2017", 
+            "episodeName": "Episode #2.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nDr Khatri attempts to cover her tracks when Michael presents the scientists with a miracle. Dan and Elena relive their trauma.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Apr. 2017", 
+            "episodeName": "Episode #2.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMichael finds something unexpected on the tundra, and Dan is confronted with what he is becoming, just as a heartbreaking discovery changes the town forever.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Apr. 2017", 
+            "episodeName": "Episode #2.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nAs the town attempts to come to terms with the recent tragedy, Petra and Ingrid seek the truth. Meanwhile, Dr Khatri moves a step closer to achieving her goal.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Apr. 2017", 
+            "episodeName": "Episode #2.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nDan faces his toughest battle yet as someone makes the ultimate sacrifice for the greater good, while Michael and Ingrid venture out in search of justice.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Apr. 2017", 
+            "episodeName": "Episode #2.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe people of Fortitude take matters into their own hands. Dan seeks his own vengeance, but is there still a demon among the herd?    ", 
+            "seasonNumber": 2
+        }
+    ], 
+    "name": "Fortitude", 
+    "plot": "Perched on the edge of the Arctic Circle, Fortitude is one of the safest towns on earth. There has never been a violent crime here. Until now.", 
+    "rating": 7.4, 
+    "releaseDate": "29 January 2015", 
+    "type": "tvserie"
+}

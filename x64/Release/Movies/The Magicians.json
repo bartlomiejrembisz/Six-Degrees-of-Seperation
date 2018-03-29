@@ -1,0 +1,231 @@
+{
+    "actorList": [
+        "Jason Ralph", 
+        "Stella Maeve", 
+        "Arjun Gupta", 
+        "Hale Appleman", 
+        "Summer Bishil", 
+        "Olivia Taylor Dudley", 
+        "Jade Tailor", 
+        "Rick Worthy", 
+        "Mackenzie Astin", 
+        "Brittany Curran"
+    ], 
+    "director": [
+        "Chris Fisher", 
+        "James L. Conway", 
+        "Joshua Butler", 
+        "Scott Smith", 
+        "John Scott", 
+        "Guy Norman Bee"
+    ], 
+    "genres": [
+        "Drama", 
+        "Fantasy", 
+        "Horror", 
+        "Mystery"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "16 Dec. 2015", 
+            "episodeName": "Unauthorized Magic", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA smart, geeky and socially awkward young man is amazed to realize that the Magic he's so passionate about is actually real, when he's unexpectedly invited to attend a college of magic in New York.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Jan. 2016", 
+            "episodeName": "The Source of Magic", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nQuentin is distraught as he faces expulsion for his involvement in an otherworldly attack on Brakebills, while Julia delves deeper into underground magic and takes a test to prove herself to the Hedge Witches.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2016", 
+            "episodeName": "Consequences of Advanced Spellcasting", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nQuentin and Julia have an unexpected - and volatile - reunion. Penny is overwhelmed by the power of his own psychic abilities and Alice is determined to find out what happened to her missing brother - at any cost.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Feb. 2016", 
+            "episodeName": "The World in the Walls", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nQuentin wakes up in a mental hospital and must set his panic aside to seek the help of the one person he least trusts. Julia is hurt after her fallout with Quentin and commits to learning more powerful spells with the Hedge Witches.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Feb. 2016", 
+            "episodeName": "Mendings, Major and Minor", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAlthough everyone should be training for the upcoming Welter's Tournament, the students are each dealing with a personal distraction that keeps them from staying focused.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Feb. 2016", 
+            "episodeName": "Impractical Applications", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe First Years are thrust into the old Brakebills tradition of The Trials, a midterm-slash-hazing ritual in which failing means flunking out for good. Meanwhile, in Brooklyn, Julia meets a fellow blacklisted Hedge Witch.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Feb. 2016", 
+            "episodeName": "The Mayakovsky Circumstance", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe students are taught by an overbearing teacher while back at Brakebills Elliott and Margon prepare for a debaucherous vacation.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Mar. 2016", 
+            "episodeName": "The Strangled Heart", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nBrakebills is thrown into chaos when Penny is violently attacked by someone they thought was a friend while Quentin tries to find a connection to The Beast. After entering a rehab facility, Julia considers giving up magic for good.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Mar. 2016", 
+            "episodeName": "The Writing Room", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nQuentin, Alice, Eliot and Penny travel to England to Plover's estate in search of a missing magic button, but what they find is a hauntingly terrifying vision of the author's true self. Julia, now out of rehab, searches for real meaning in her magic, but it comes at a very high cost.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Mar. 2016", 
+            "episodeName": "Homecoming", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nAs Quentin and Alice try to save him, Penny learns that the Neitherlands is not as friendly as he thought. Julia attempts to join the Free Traders, an eclectic group of Magicians.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Mar. 2016", 
+            "episodeName": "Remedial Battle Magic", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nPrior to a showdown in Fillory, Quentin and crew get a crash course in Battle magic. During preparations, frustrations flare leading to some getting closer and others being pulled apart. Julia and Kady, while on a mission with the Free Traders, finds their limits put to the test.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "4 Apr. 2016", 
+            "episodeName": "Thirty-Nine Graves", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe students wake up with foggy memories and regret after a night of drinking; Penny reminds everyone that their lives depend on getting to The Neitherlands.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "11 Apr. 2016", 
+            "episodeName": "Have You Brought Me Little Cakes", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nQuentin and Julia are using time magic to get to Fillory, where they try to catch up with the students who are 70 years ahead of them searching for the Beast.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "25 Jan. 2017", 
+            "episodeName": "Knight of Crowns", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn the aftermath of their clash with The Beast, Quentin and his friends scramble for a new plan, while Julia and The Beast strike a dangerous deal.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Feb. 2017", 
+            "episodeName": "Hotel Spa Potions", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nQuentin, Alice, Penny and Margo seek a new weapon. Eliot struggles with being king. Julia and The Beast find an unexpected ally.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Feb. 2017", 
+            "episodeName": "Divine Elimination", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nQuentin and friends prepare to face The Beast again, while Julia conspires with The Beast and their new ally to lure and trap Reynard.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Feb. 2017", 
+            "episodeName": "The Flying Forest", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nQuentin and Penny embark upon a quest. Margo works on a way to help Eliot. Julia seeks out an old friend's help.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Feb. 2017", 
+            "episodeName": "Cheat Day", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nLife without magic proves difficult for Quentin. Julia deals with upsetting news. Eliot and Margo are faced with a new threat in Fillory. Penny returns to old stomping grounds.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Mar. 2017", 
+            "episodeName": "The Cock Barrens", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nQuentin teams up with Alice's dad. Margo uses her powers of diplomacy while Penny tries to save a kidnapped Fillory. Banishing Renard comes with some surprises.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "8 Mar. 2017", 
+            "episodeName": "Plan B", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nJulia and Kady enlist Quentin, Margo, Eliot and Penny for a magical heist.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "15 Mar. 2017", 
+            "episodeName": "Word as Bond", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nJulia, Kady, Penny and Quentin set out to find another spawn of Reynard as Kady struggles to reveal to Julia the consequences of her recent procedure. Quentin reluctantly enlists the help of Alice's Niffin to save the Brakebills gang by creating a word as bond spell with her...but quickly regrets it once realizing its true motives. With a war waging between Fillory and Loria and an unconscious High King Eliot, Julia takes matters into her own hands which puts Fillory, and Margo, in a difficult situation.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "22 Mar. 2017", 
+            "episodeName": "Lesser Evils", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nDean Fogg and Professor Lipson attempt to rid Quentin of Alice's Niffin but he refuses to let Alice go. Meanwhile, with magic fading in Fillory, Eliot agrees to a risky duel with King Idri of Loria, in lieu of a war, in the hopes that it will gain the respect of the Fillorians in the process. Julia, Penny and Kady locate Reynard's son in an effort to lure Reynard to them. In the process, Julia uses Quentin in a way that shocks everyone involved, including herself.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "29 Mar. 2017", 
+            "episodeName": "The Girl Who Told Time", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe Royal Court of Fillory prepares for Eliot's nuptials as he endeavors to win over the Fillorians with the extravagant event. Penny begins his contractual obligations to the Neitherlands Library as Kady searches for any information about god killing. Quentin experiences a mind-bending vision while on a drug-laced trip that sends him and Julia on a mysterious quest.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "5 Apr. 2017", 
+            "episodeName": "The Rattening", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nQuentin and Julia travel to the Underworld. Margo must deal with the fallout of her past decisions. Senator Gaines learns of his gift. Penny is determined to enter the Poison Room.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Apr. 2017", 
+            "episodeName": "Ramifications", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nAlice and her shade are reassembled. Julia and Kady are determined to draw out Reynard. Elliot and Quentin are determined to return back to Fillory. Penny searches for a book.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Apr. 2017", 
+            "episodeName": "We Have Brought You Little Cakes", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nA crisis comes to a head when the true power behind the troubles comes to party. Battles are won and wars are lost, as Q and the others must protect their kingdom. Alice makes a startling revelation and things may never be the same.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #3.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #3.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "The Magicians", 
+    "plot": "After being recruited to a secretive academy, a group of students discover that the magic they read about as children is very real-and more dangerous than they ever imagined.", 
+    "rating": 7.5, 
+    "releaseDate": "16 December 2015", 
+    "type": "tvserie"
+}

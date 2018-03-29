@@ -1,0 +1,50 @@
+{
+    "actorList": [
+        "Jean-Pierre L\u00e9aud", 
+        "Claire Maurier", 
+        "Albert R\u00e9my", 
+        "Guy Decomble", 
+        "Georges Flamant", 
+        "Patrick Auffay", 
+        "Daniel Couturier", 
+        "Fran\u00e7ois Nocher", 
+        "Richard Kanayan", 
+        "Renaud Fontanarosa", 
+        "Michel Girard", 
+        "Serge Moati", 
+        "Bernard Abbou", 
+        "Jean-Fran\u00e7ois Bergouignan", 
+        "Michel Lesignor", 
+        "Luc Andrieux", 
+        "Robert Beauvais", 
+        "Bouchon", 
+        "Christian Brocard", 
+        "Yvonne Claudie", 
+        "Marius Laurey", 
+        "Claude Mansard", 
+        "Jacques Monod", 
+        "Pierre Repp", 
+        "Henri Virlojeux", 
+        "Jean-Claude Brialy", 
+        "Jeanne Moreau", 
+        "Philippe de Broca", 
+        "Jacques Demy", 
+        "Jean Douchet", 
+        "Marianne Girard", 
+        "Simone Jolivet", 
+        "Laure Paillette", 
+        "Fran\u00e7ois Truffaut"
+    ], 
+    "director": [
+        "Fran\u00e7ois Truffaut"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama"
+    ], 
+    "name": "Les quatre cents coups", 
+    "plot": "Moving story of a young boy who, left without attention, delves into a life of petty crime.", 
+    "rating": 8.1, 
+    "releaseDate": "4 May 1959 (Cannes Film Festival)", 
+    "type": "movie"
+}

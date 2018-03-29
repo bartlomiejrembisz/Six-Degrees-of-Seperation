@@ -1,0 +1,39 @@
+{
+    "actorList": [
+        "Ryan Phillippe", 
+        "Benicio Del Toro", 
+        "Juliette Lewis", 
+        "Taye Diggs", 
+        "Nicky Katt", 
+        "Geoffrey Lewis", 
+        "Dylan Kussman", 
+        "Scott Wilson", 
+        "Kristin Lehman", 
+        "James Caan", 
+        "Henry Griffin", 
+        "Armando Guerrero", 
+        "Andres Orozco", 
+        "Jan Hanks", 
+        "Jos\u00e9 P\u00e9rez", 
+        "Neil Pollock", 
+        "Irene Santiago", 
+        "Sarah Silverman", 
+        "Mark Ebner", 
+        "Paul Angel Flores", 
+        "Heidi Van Lier"
+    ], 
+    "director": [
+        "Christopher McQuarrie"
+    ], 
+    "genres": [
+        "Action", 
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "The Way of the Gun", 
+    "plot": "Two criminal drifters without sympathy get more than they bargained for after kidnapping and holding for ransom the surrogate mother of a powerful and shady man.", 
+    "rating": 6.7, 
+    "releaseDate": "8 September 2000", 
+    "type": "movie"
+}

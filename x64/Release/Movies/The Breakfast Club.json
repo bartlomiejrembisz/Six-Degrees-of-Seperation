@@ -1,0 +1,30 @@
+{
+    "actorList": [
+        "Emilio Estevez", 
+        "Paul Gleason", 
+        "Anthony Michael Hall", 
+        "John Kapelos", 
+        "Judd Nelson", 
+        "Molly Ringwald", 
+        "Ally Sheedy", 
+        "Perry Crawford", 
+        "Mary Christian", 
+        "Ron Dean", 
+        "Tim Gamble", 
+        "Fran Gargano", 
+        "Mercedes Hall", 
+        "John Hughes"
+    ], 
+    "director": [
+        "John Hughes"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Drama"
+    ], 
+    "name": "The Breakfast Club", 
+    "plot": "Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.", 
+    "rating": 7.9, 
+    "releaseDate": "7 February 1985 (Los Angeles, California)\n (premiere)", 
+    "type": "movie"
+}

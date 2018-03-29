@@ -1,0 +1,312 @@
+{
+    "actorList": [
+        "Toby Stephens", 
+        "Luke Arnold", 
+        "Toby Schmitz", 
+        "Hannah New", 
+        "Jessica Parker Kennedy", 
+        "Clara Paget", 
+        "Winston Chong", 
+        "Tom Hopper", 
+        "Andre Jacobs", 
+        "Zach McGowan", 
+        "Lise Slabber", 
+        "Laudo Liebenberg", 
+        "Craig Jackson", 
+        "Hakeem Kae-Kazim", 
+        "Patrick Lyster", 
+        "Luke Roberts", 
+        "Thomas Marshall Sharp", 
+        "Louise Barnes", 
+        "Zethu Dlomo", 
+        "Lawrence Joffe"
+    ], 
+    "director": [
+        "Steve Boyum", 
+        "Alik Sakharov", 
+        "Lukas Ettlin", 
+        "Stefan Schwartz", 
+        "Neil Marshall", 
+        "Sam Miller", 
+        "Marc Munden", 
+        "T.J. Scott", 
+        "Clark Johnson"
+    ], 
+    "genres": [
+        "Adventure", 
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "25 Jan. 2014", 
+            "episodeName": "I.", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n1715: The Golden Age of Piracy. New Providence is a lawless island, controlled by history's most notorious pirate captains. The most feared: Captain Flint.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Feb. 2014", 
+            "episodeName": "II.", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFlint unmasks a thief on his crew. Rackham chases a score over Vane's objection. Silver hides with Max in the brothel. Eleanor faces an impossible choice.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Feb. 2014", 
+            "episodeName": "III.", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nFlint and Gates seek a partner to hunt the Urca d'Lima. Silver helps Billy with a morale problem. Vane impresses Eleanor by being reasonable. Gates gets a promotion.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Feb. 2014", 
+            "episodeName": "IV.", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAn undertaking by The Walrus crew ends in disaster. Silver warns Flint about Billy. Rackham and Bonny try to regain their livelihood. Eleanor needs help from her father. A figure from Vane's past pays a visit.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Feb. 2014", 
+            "episodeName": "V.", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nFlint and his crew of the Walrus play a deadly game of naval warfare when they engage Captain Bryson and the Andromache on the open sea to gain precious cargo. Meanwhile, Richard forces his daughter's hand about his business when he makes an announcement to the locals about his assets being liquidated, causing a mob to riot against Eleanor who seeks help from Hornigold.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "1 Mar. 2014", 
+            "episodeName": "VI.", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe costs of chasing the Andromache continue to mount. Eleanor needs Silver's help. Billy wants Gates to confront Flint. Bonny takes a stand.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "8 Mar. 2014", 
+            "episodeName": "VII.", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFlint tells Gates the truth. Randall puts Silver in a bind. Eleanor suffers a loss. Max comes to Rackham's aid. Vane enters the fight of his life.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "15 Mar. 2014", 
+            "episodeName": "VIII.", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nSilver gives Flint the last details of the schedule with the location of the ship. Eleanor's situation changes when the supply ships get sunk in the bay. Meanwhile with Mutiny rising up aboard the Walrus, Gates makes a vital decision.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Jan. 2015", 
+            "episodeName": "IX.", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFlint and Silver face judgment before the crew. Vane enjoys his new position on the island. Max confronts Bonny. Eleanor faces a new threat.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "31 Jan. 2015", 
+            "episodeName": "X.", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFlint gives \"advice\" to Dufresne. John Silver works to become indispensable. Eleanor is called upon to remove Vane from power over the fort. Jack becomes envious of Anne and Max's new relationship.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Feb. 2015", 
+            "episodeName": "XI.", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nFlint returns to Nassau to plan the retrieval of the gold. Rackham restores his reputation. Ned Low confronts Vane.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Feb. 2015", 
+            "episodeName": "XII.", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nSeeing Flint's steady rise up the ranks leaves Vane feeling like he may be a real threat to his position, and while Eleanor determines which side to choose, elsewhere, Silver and a friend from the past are finally reunited.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Feb. 2015", 
+            "episodeName": "XIII.", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMiranda tries to save the island; Eleanor opens old wounds; Vane deals with a problem.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Feb. 2015", 
+            "episodeName": "XIV.", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nEleanor negotiates for peace; Rackham learns a lesson the hard way; Flint breaks a promise.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Mar. 2015", 
+            "episodeName": "XV.", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMax cleans up following a massacre; Flint and Silver receive surprising news from the outside world.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Mar. 2015", 
+            "episodeName": "XVI.", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nFlint and Miranda brace for the worst; Eleanor learns Max's secret; Vane makes his move.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "21 Mar. 2015", 
+            "episodeName": "XVII.", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nFlint and Miranda deal with their past; Vane claims a massive prize; Eleanor declares war.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "28 Mar. 2015", 
+            "episodeName": "XVIII.", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFlint receives aid from an unlikely ally; Vane's crew seeks a change; Silver makes a sacrifice.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Jan. 2016", 
+            "episodeName": "XIX.", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFlint and his crew wage war against the world; Eleanor is offered clemency; Vane takes issue with Rackham's methods; one of Nassau's most notorious individuals returns.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "30 Jan. 2016", 
+            "episodeName": "XX.", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAfter declining Captain Hornigold's \"pardons\", Captain Flint and his crew will test their fate; Vane runs into an old friend; Eleanor and Woodes Rogers continue their journey.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "6 Feb. 2016", 
+            "episodeName": "XXI.", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe conflict between Flint and Silver escalates as starvation and dehydration set in; Woodes and Eleanor arrive to troubling circumstances in Nassau; Blackbeard takes charge of an uncertain situation on the island.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Feb. 2016", 
+            "episodeName": "XXII.", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nChange begins to take root in Nassau; on a strange island, Flint, Silver and Billy are unified against a common adversary; Blackbeard and Vane formulate a plan of escape.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "20 Feb. 2016", 
+            "episodeName": "XXIII.", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nVane finds a new way forward from Teach; Silver urges Flint to make a move or die; Eleanor and Rogers respond to a new threat.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "27 Feb. 2016", 
+            "episodeName": "XXIV.", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nFlint and Teach clash over the future of piracy; Rogers makes an arrest; Rackham finds new purpose. Madi comes to Silver's aid.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "5 Mar. 2016", 
+            "episodeName": "XXV.", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nCaptain Flint and Silver returns to Nassau to finish what they started and a legend is born. With Rackham's fate in the hands of Rogers, his future looks grim. Vane's mission evolves while Eleanor confides in Rogers.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "12 Mar. 2016", 
+            "episodeName": "XXVI.", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nRogers is attacked during a prisoner transport; Vane and Bonny race to save Rackham; the Walrus and her crew come under siege.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "19 Mar. 2016", 
+            "episodeName": "XXVII.", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nCaptain Flint prepares for the final battle, while Billy tries to save Captain Vane from being hanged; Max must decide who she can trust; Eleanor Guthrie finds herself in charge of Nassau.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Mar. 2016", 
+            "episodeName": "XXVIII.", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nHornigold and the British come for the pirates; Rackham and Bonny face impossible odds; Silver demands answers from Flint; Billy crowns a king.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "29 Jan. 2017", 
+            "episodeName": "XXIX.", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nFlint and Silver lead the fight to reclaim Nassau; Jack and Blackbeard seek vengeance; Eleanor attempts to reconcile herself to her new role.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 Feb. 2017", 
+            "episodeName": "XXX.", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nFlint submits himself to Billy's authority; Eleanor tries to find a way to save Rogers; Silver is forced to become the leader of the war to reclaim Nassau.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Feb. 2017", 
+            "episodeName": "XXXI.", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMax runs afoul of the law. Rogers reckons with his past. Flint and Madi reach an understanding. Long John Silver makes his return.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 Feb. 2017", 
+            "episodeName": "XXXII.", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe streets of Nassau become embroiled in violent strife; Silver demands answers from Billy; Eleanor tries to help Max; Bonny and Rackham suffer a traumatic experience.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "26 Feb. 2017", 
+            "episodeName": "XXXIII.", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nSilver places Flint's survival in his own hands; Billy sows further dissonance; Eleanor jeopardizes everyone and everything to ensure her victory; Rogers orchestrates a seemingly effective appeal.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "5 Mar. 2017", 
+            "episodeName": "XXXIV.", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nSpain invades Nassau without much resistance; Silver tries to fix relations between the pirates and the former slaves; Flint and Eleanor work together to survive the Spanish invasion.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "11 Mar. 2017", 
+            "episodeName": "XXXV.", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nFlint urges Silver to exercise more caution; Max shows Jack and Anne how to get upriver; Billy meets a survivor; Rogers discovers the truth.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "19 Mar. 2017", 
+            "episodeName": "XXXVI.", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nFlint and Silver's relationship threatens to collapse during a rescue mission; Max discovers the true cost of freedom; Rackham pursues his target.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "26 Mar. 2017", 
+            "episodeName": "XXXVII.", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSilver and his crew travel to Skeleton Island in pursuit of Flint; Madi is presented with a proposition; Rogers struggles to hear Eleanor; Billy commits himself to the group.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 Apr. 2017", 
+            "episodeName": "XXXVIII.", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nFlint launches a final, desperate attack to destroy England's hold on Nassau; Silver makes an irreversible decision; Rackham confronts Rogers; Nassau is forever changed.    ", 
+            "seasonNumber": 4
+        }
+    ], 
+    "name": "Black Sails", 
+    "plot": "Captain Flint and his pirates, twenty years prior to Robert Louis Stevenson's classic \"Treasure Island\".", 
+    "rating": 8.2, 
+    "releaseDate": "25 January 2014", 
+    "type": "tvserie"
+}

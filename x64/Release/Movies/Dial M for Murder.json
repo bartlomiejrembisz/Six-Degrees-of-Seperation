@@ -1,0 +1,41 @@
+{
+    "actorList": [
+        "Ray Milland", 
+        "Grace Kelly", 
+        "Robert Cummings", 
+        "John Williams", 
+        "Anthony Dawson", 
+        "Leo Britt", 
+        "Patrick Allen", 
+        "George Leigh", 
+        "George Alderson", 
+        "Robin Hughes", 
+        "Richard Bender", 
+        "Sanders Clark", 
+        "Jack Cunningham", 
+        "Robert Dobson", 
+        "Guy Doleman", 
+        "Bess Flowers", 
+        "Robert Garvin", 
+        "Michael Hadlow", 
+        "Sam Harris", 
+        "Harold Miller", 
+        "Martin Milner", 
+        "Forbes Murray", 
+        "Ben Pollock", 
+        "Thayer Roberts"
+    ], 
+    "director": [
+        "Alfred Hitchcock"
+    ], 
+    "genres": [
+        "Crime", 
+        "Film-Noir", 
+        "Thriller"
+    ], 
+    "name": "Dial M for Murder", 
+    "plot": "An ex-tennis pro carries out a plot to murder his wife. When things go wrong, he improvises a brilliant plan B.", 
+    "rating": 8.2, 
+    "releaseDate": "18 May 1954 (Philadelphia, Pennsylvania)\n (premiere)", 
+    "type": "movie"
+}

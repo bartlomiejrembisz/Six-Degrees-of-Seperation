@@ -1,0 +1,50 @@
+{
+    "actorList": [
+        "Ryan Gosling", 
+        "Michelle Williams", 
+        "Faith Wladyka", 
+        "John Doman", 
+        "Mike Vogel", 
+        "Marshall Johnson", 
+        "Jen Jones", 
+        "Maryann Plunkett", 
+        "James Benatti", 
+        "Barbara Troy", 
+        "Carey Westbrook", 
+        "Ben Shenkman", 
+        "Eileen Rosen", 
+        "Enid Graham", 
+        "Ashley Gurnari", 
+        "Jack Parshutich", 
+        "Samii Ryan", 
+        "Mark Benginia", 
+        "Timothy Liveright", 
+        "Tamara Torres", 
+        "Robert Russell", 
+        "Michelle Nagy", 
+        "Felicia Reid", 
+        "Melvin Jurdem", 
+        "Alan Malkin", 
+        "Derik Belanger", 
+        "Isabella Frogoletto", 
+        "Madison Ledergerber", 
+        "Jaimie Jensen", 
+        "Joseph Basile", 
+        "Ian Bonner", 
+        "Robert Eckard", 
+        "Michael J. Kraycik", 
+        "Corey Sullivan"
+    ], 
+    "director": [
+        "Derek Cianfrance"
+    ], 
+    "genres": [
+        "Drama", 
+        "Romance"
+    ], 
+    "name": "Blue Valentine", 
+    "plot": "The relationship of a contemporary married couple, charting their evolution over a span of years by cross-cutting between time periods.", 
+    "rating": 7.4, 
+    "releaseDate": "24 January 2010 (Sundance Film Festival)\n (premiere)", 
+    "type": "movie"
+}

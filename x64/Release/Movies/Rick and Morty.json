@@ -1,0 +1,277 @@
+{
+    "actorList": [
+        "Justin Roiland", 
+        "Chris Parnell", 
+        "Spencer Grammer", 
+        "Sarah Chalke", 
+        "Kari Wahlgren"
+    ], 
+    "director": [
+        "Pete Michels", 
+        "Bryan Newton", 
+        "John Rice", 
+        "Stephen Sandoval", 
+        "Juan Jose Meza-Leon", 
+        "Wesley Archer", 
+        "Dominic Polcino", 
+        "Jeff Myers"
+    ], 
+    "genres": [
+        "Animation", 
+        "Adventure", 
+        "Comedy", 
+        "Sci-Fi"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "2 Dec. 2013", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA sociopathic scientist drags his innocent grandson on dangerous inter-dimensional adventures.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Dec. 2013", 
+            "episodeName": "Lawnmower Dog", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nRick helps Jerry out with the dog, broh. Don't even trip about this episode, because they also incept Goldenfold.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Dec. 2013", 
+            "episodeName": "Anatomy Park", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nIt's Christmas. Rick shrinks Morty, injecting him into a homeless man to save Anatomy Park. Jerry tries to have a Christmas free of electronic devices, but regrets his decision when his parents introduce him to their new friend.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 Jan. 2014", 
+            "episodeName": "M. Night Shaym-Aliens!", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nRick and Morty try to get to the bottom of a mystery in this M. Night Shamyaloin style twistaroony of an episode! (Guest Starring David Cross)    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 Jan. 2014", 
+            "episodeName": "Meeseeks and Destroy", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nRick provides the family with a solution to their problems, freeing him up to go on an adventure led by Morty.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 Jan. 2014", 
+            "episodeName": "Rick Potion #9", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nAfter Rick gives Morty a Love-potion for prom, things quickly spiral out of control when the Serum splices with the Flu - causing it to spread. Rick and Morty scramble to cure the crisis, making matters worse in the process.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Mar. 2014", 
+            "episodeName": "Raising Gazorpazorp", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMorty becomes a father to an alien baby, while Rick and Summer get trapped in a dangerous dimension.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Mar. 2014", 
+            "episodeName": "Rixty Minutes", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nRick hooks up the family's TV with interdimensional cable, allowing them to watch infinite TV from across the multiverse.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "24 Mar. 2014", 
+            "episodeName": "Something Ricked This Way Comes", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nSummer gets a job at a pawn shop owned by the devil. Jerry helps Morty with his science fair project.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Apr. 2014", 
+            "episodeName": "Close Rick-counters of the Rick Kind", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nRick, falsly blamed for Murder by the council of Ricks, begins a cross-dimensional persuit with the authorities, attempting to prove his innocence all the while.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Apr. 2014", 
+            "episodeName": "Ricksy Business", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nBeth and Jerry head for an iceberg of a date leaving Rick in charge. Morty doesn't get to go on any more adventures if the house isn't in the same condition when they get back.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Jul. 2015", 
+            "episodeName": "A Rickle in Time", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nHaving restarted time, Rick, Morty and Summer are in a quantum-uncertain state of existence. An argument leads to the creation of two alternate timelines, which need to be stitched back together fast if they are to escape quantum collapse.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Aug. 2015", 
+            "episodeName": "Mortynight Run", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nRick and Morty try to save a gas life form while Jerry resides in a daycare made for Jerrys.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Aug. 2015", 
+            "episodeName": "Auto Erotic Assimilation", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nRick gets emotional. Beth and Jerry get into a fight.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Aug. 2015", 
+            "episodeName": "Total Rickall", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe Smith house is locked down after parasites threaten to take over the world by multiplying through flashbacks.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Aug. 2015", 
+            "episodeName": "Get Schwifty", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nRick and morty must aid Earth after a giant head disrupts the planet, demanding to see a hit song performed.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Aug. 2015", 
+            "episodeName": "The Ricks Must Be Crazy", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nRick is having trouble with his car and they have to fix it by traveling to the microverse.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Sep. 2015", 
+            "episodeName": "Big Trouble in Little Sanchez", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nRick joins in on some hijinks by transferring his consciousness into teenage \"Tiny Rick\". Beth and Jerry sort out their relationship.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Sep. 2015", 
+            "episodeName": "Interdimensional Cable 2: Tempting Fate", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nJerry is faced with the difficult decision of losing his manhood in order to save an alien leader from imminent death. Meanwhile, Rick, Morty and Summer explore the possibilities of interdimensional television.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Sep. 2015", 
+            "episodeName": "Look Who's Purging Now", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nRick and Morty arrive on an alien planet to fix their ship just as the day of the purge begins there, Jerry and Summer work on their father-daughter relationship, but his lack of employment keeps coming up.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Oct. 2015", 
+            "episodeName": "The Wedding Squanchers", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nThe Smith family is invited to the wedding of Rick's best friend, Birdperson. Things go south when it's discovered that the bride isn't who she says she is.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "1 Apr. 2017", 
+            "episodeName": "The Rickshank Rickdemption", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nRick executes an intricate plan. Summer and Morty have an argument about their grandpa that spins out of control.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Rickmancing the Stone", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nRick confronts Morty about some of the problems they are dealing with.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nRick confronts Morty about some of the problems they are dealing with.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #3.14", 
+            "episodeNumber": 14, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "Rick and Morty", 
+    "plot": "An animated series that follows the exploits of a super scientist and his not so bright grandson.", 
+    "rating": 9.3, 
+    "releaseDate": "2 December 2013", 
+    "type": "tvserie"
+}

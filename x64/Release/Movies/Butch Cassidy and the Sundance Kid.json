@@ -1,0 +1,52 @@
+{
+    "actorList": [
+        "Paul Newman", 
+        "Robert Redford", 
+        "Katharine Ross", 
+        "Strother Martin", 
+        "Henry Jones", 
+        "Jeff Corey", 
+        "George Furth", 
+        "Cloris Leachman", 
+        "Ted Cassidy", 
+        "Kenneth Mars", 
+        "Donnelly Rhodes", 
+        "Jody Gilbert", 
+        "Timothy Scott", 
+        "Don Keefer", 
+        "Charles Dierkop", 
+        "Pancho C\u00f3rdova", 
+        "Nelson Olmsted", 
+        "Paul Bryar", 
+        "Sam Elliott", 
+        "Charles Akins", 
+        "Eric Sinclair", 
+        "Douglas Bank", 
+        "Larry Barton", 
+        "Rico Cattani", 
+        "Jos\u00e9 Ch\u00e1vez", 
+        "Dave Dunlop", 
+        "Jill Hall", 
+        "Percy Helton", 
+        "Buck Holland", 
+        "Jack Isbell", 
+        "Enrique Lucero", 
+        "Lyn Massey", 
+        "Jorge Russek", 
+        "Jos\u00e9 Torvay"
+    ], 
+    "director": [
+        "George Roy Hill"
+    ], 
+    "genres": [
+        "Biography", 
+        "Crime", 
+        "Drama", 
+        "Western"
+    ], 
+    "name": "Butch Cassidy and the Sundance Kid", 
+    "plot": "Two Western bank/train robbers flee to Bolivia when the law gets too close.", 
+    "rating": 8.1, 
+    "releaseDate": "23 September 1969 (New Haven, Connecticut)", 
+    "type": "movie"
+}

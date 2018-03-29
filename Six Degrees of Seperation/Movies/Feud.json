@@ -1,0 +1,157 @@
+{
+    "actorList": [
+        "Jessica Lange", 
+        "Susan Sarandon", 
+        "Judy Davis", 
+        "Jackie Hoffman", 
+        "Alfred Molina", 
+        "Stanley Tucci", 
+        "Alison Wright", 
+        "Catherine Zeta-Jones", 
+        "Dominic Burgess", 
+        "Joel Kelley Dauten", 
+        "Kathy Bates", 
+        "Kiernan Shipka"
+    ], 
+    "director": [
+        "Ryan Murphy", 
+        "Gwyneth Horder-Payton"
+    ], 
+    "genres": [
+        "Biography", 
+        "Drama"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "5 Mar. 2017", 
+            "episodeName": "Pilot", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCast aside by Hollywood, screen legends Joan Crawford and Bette Davis battle each other when they sign up for What Ever Happened To Baby Jane?    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Mar. 2017", 
+            "episodeName": "The Other Woman", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWith production on Baby Jane underway, Bette and Joan form an alliance, but outside forces conspire against them.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "19 Mar. 2017", 
+            "episodeName": "Mommie Dearest", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nProduction reaches its climax; Bette's relationship with her daughter becomes strained; Joan reveals an intimate detail about her past.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "26 Mar. 2017", 
+            "episodeName": "More, or Less", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nBad word-of-mouth plagues Baby Jane; Bette and Joan brace for failure; Pauline tries to break gender barriers; Oscar nominations are announced.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2 Apr. 2017", 
+            "episodeName": "And the Winner Is... (The Oscars of 1963)", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nBette is on track to win a record-breaking third ''Best Actress'' Oscar; Joan and Hedda launch a clandestine campaign against Bette.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "9 Apr. 2017", 
+            "episodeName": "Hagsploitation", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nHungry for another hit, Warner pressures Aldrich to bring the original team back together for a follow-up horror film; Someone from Joan's past poses a threat.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Apr. 2017", 
+            "episodeName": "Abandoned!", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWith production of Hush...Hush, Sweet Charlotte' underway, the feud intensifies; Bette reveals her vulnerabilities to Bob.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "23 Apr. 2017", 
+            "episodeName": "You Mean All This Time We Could Have Been Friends?", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nJoan accepts a leading role on a new film, despite her deteriorating health; Faced with a new rival, Bette reflects on her misplaced feud with Joan.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #2.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 2
+        }
+    ], 
+    "name": "Feud", 
+    "plot": "Follows screen legends  and , and how their feud on the set of  (1962) all began.", 
+    "rating": 8.7, 
+    "releaseDate": "11 January 2017 (special screening) (limited)", 
+    "type": "tvserie"
+}

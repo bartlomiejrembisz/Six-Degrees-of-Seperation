@@ -1,0 +1,44 @@
+{
+    "actorList": [
+        "Jack Nicholson", 
+        "Shelley Duvall", 
+        "Danny Lloyd", 
+        "Scatman Crothers", 
+        "Barry Nelson", 
+        "Philip Stone", 
+        "Joe Turkel", 
+        "Anne Jackson", 
+        "Tony Burton", 
+        "Lia Beldam", 
+        "Billie Gibson", 
+        "Barry Dennen", 
+        "David Baxt", 
+        "Manning Redwood", 
+        "Lisa Burns", 
+        "Louise Burns", 
+        "Robin Pappas", 
+        "Alison Coleridge", 
+        "Burnell Tucker", 
+        "Jana Shelden", 
+        "Kate Phelps", 
+        "Norman Gay", 
+        "Paul Desbois", 
+        "Vivian Kubrick", 
+        "Bertha Lynn", 
+        "Derek Lyons", 
+        "Chris Parsons", 
+        "Glenn Rinker"
+    ], 
+    "director": [
+        "Stanley Kubrick"
+    ], 
+    "genres": [
+        "Drama", 
+        "Horror"
+    ], 
+    "name": "The Shining", 
+    "plot": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.", 
+    "rating": 8.4, 
+    "releaseDate": "23 May 1980 (Los Angeles, California)", 
+    "type": "movie"
+}

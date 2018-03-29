@@ -1,0 +1,853 @@
+{
+    "actorList": [
+        "Andrew Lincoln", 
+        "Chandler Riggs", 
+        "Norman Reedus", 
+        "Melissa McBride", 
+        "Lauren Cohan", 
+        "Steven Yeun", 
+        "Danai Gurira", 
+        "Sonequa Martin-Green", 
+        "Alanna Masterson", 
+        "Josh McDermitt", 
+        "Christian Serratos", 
+        "Emily Kinney", 
+        "Seth Gilliam"
+    ], 
+    "director": [
+        "Greg Nicotero", 
+        "Ernest R. Dickerson", 
+        "Michael E. Satrazemis", 
+        "David Boyd", 
+        "Guy Ferland", 
+        "Billy Gierhart", 
+        "Michelle MacLaren", 
+        "Tricia Brock", 
+        "Seith Mann", 
+        "Jeffrey F. January", 
+        "Alrick Riley", 
+        "Gwyneth Horder-Payton", 
+        "Daniel Sackheim", 
+        "Julius Ramsay", 
+        "Michael Slovis", 
+        "Jennifer Lynch", 
+        "Kari Skogland"
+    ], 
+    "genres": [
+        "Drama", 
+        "Horror", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "31 Oct. 2010", 
+            "episodeName": "Days Gone Bye", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter being shot, Deputy Sheriff Rick Grimes awakes to find the world overrun by the undead.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "7 Nov. 2010", 
+            "episodeName": "Guts", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nIn Atlanta, Rick is rescued by a group of survivors, but they soon find themselves trapped inside a department store surrounded by walkers.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "14 Nov. 2010", 
+            "episodeName": "Tell It to the Frogs", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nRick is reunited with Lori and Carl but soon decides - along with some of the other survivors - to return to the rooftop and rescue Merle. Meanwhile, tensions run high between the other survivors at the camp.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "21 Nov. 2010", 
+            "episodeName": "Vatos", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nRick, Glenn, Daryl and T-Dog come across a group of seemingly hostile survivors whilst searching for Merle. Back at camp, Jim begins behaving erratically.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "28 Nov. 2010", 
+            "episodeName": "Wildfire", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAfter the attack on the camp, Rick leads the survivors to the C.D.C., in the hope that they can cure an infected Jim.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "5 Dec. 2010", 
+            "episodeName": "TS-19", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe survivors gain access to the C.D.C. in the hope of a safe haven.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "16 Oct. 2011", 
+            "episodeName": "What Lies Ahead", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe group's plan to head for Fort Benning is put on hold when Sophia goes missing.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Oct. 2011", 
+            "episodeName": "Bloodletting", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAfter Carl is accidentally shot, the group are brought to a family living on a nearby farm. Shane makes a dangerous trip in search of medical supplies.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Oct. 2011", 
+            "episodeName": "Save the Last One", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAs Carl's condition continues to deteriorate, Shane and Otis try to dodge the walkers as they head back to the farm.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "6 Nov. 2011", 
+            "episodeName": "Cherokee Rose", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWith Carl recovering, the group puts their focus on finding Sophia. Glenn and Maggie go for a trip to find supplies.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "13 Nov. 2011", 
+            "episodeName": "Chupacabra", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nDaryl becomes injured and stranded in the middle of the woods whilst searching for Sophia. Shane urges Rick to call off the search party. Hershel remains wary of the group.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "20 Nov. 2011", 
+            "episodeName": "Secrets", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nDale confronts Hershel after Glenn tells him about the walkers in the barn. Meanwhile, Lori struggles to come to terms with her pregnancy, and Shane tries to teach Andrea how to use weapons.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "27 Nov. 2011", 
+            "episodeName": "Pretty Much Dead Already", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nGlenn tells the rest of the group about the walkers in the barn, dividing them on what to do. Meanwhile, Hershel sets a deadline for the group to leave, unless Rick does a difficult task.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "12 Feb. 2012", 
+            "episodeName": "Nebraska", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nIn the aftermath of the barn incident; the group bury loved ones, Beth falls into shock, and Rick and Glenn head out to find Hershel when he disappears.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Feb. 2012", 
+            "episodeName": "Triggerfinger", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nRick, Glenn and Hershel come under enemy fire after their encounter with Dave and Tony. Meanwhile, Shane goes after Lori when everyone realizes she is missing.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Feb. 2012", 
+            "episodeName": "18 Miles Out", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nRick and Shane argue over what to do with Randall. Back at the farm, Lori, Andrea and Maggie deal with a suicidal Beth.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "4 Mar. 2012", 
+            "episodeName": "Judge, Jury, Executioner", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nDale fears the group is losing its humanity as Rick and the others vote to execute Randall.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "11 Mar. 2012", 
+            "episodeName": "Better Angels", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nShane's antagonistic behaviour reaches new heights, while Carl suffers the consequences of his actions.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "18 Mar. 2012", 
+            "episodeName": "Beside the Dying Fire", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs the farm is overrun by walkers, the group fights to escape.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Oct. 2012", 
+            "episodeName": "Seed", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nAfter months on the run, the group take refuge in a federal prison, while elsewhere, Andrea's health starts to deteriorate.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Oct. 2012", 
+            "episodeName": "Sick", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nAs Hershel's condition worsens, Rick, Daryl and T-Dog deal with a group of prisoners.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "28 Oct. 2012", 
+            "episodeName": "Walk with Me", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAndrea and Michonne are brought to a walled community run by a man called The Governor.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "4 Nov. 2012", 
+            "episodeName": "Killer Within", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nLori goes into labour when the prison comes under attack. Michonne tries to convince Andrea to leave Woodbury.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "11 Nov. 2012", 
+            "episodeName": "Say the Word", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nRick struggles to cope. Andrea and Michonne part ways. Daryl and Maggie head out to find food and clothes for the baby.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "18 Nov. 2012", 
+            "episodeName": "Hounded", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nRick receives a mysterious phone call. Andrea grows closer to The Governor. Merle tries to hunt down Michonne.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "25 Nov. 2012", 
+            "episodeName": "When the Dead Come Knocking", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMichonne leads Rick, Daryl and Oscar to Woodbury to rescue Glenn and Maggie. Merle tries to force information out of Glenn.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "2 Dec. 2012", 
+            "episodeName": "Made to Suffer", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nRick, Daryl, Michonne and Oscar enter Woodbury in search of Glenn and Maggie. Meanwhile, a new group of survivors encounter the prison.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Feb. 2013", 
+            "episodeName": "The Suicide King", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWoodbury is left in disarray following the attack by Rick's group. Merle's presence in the group causes conflict.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Feb. 2013", 
+            "episodeName": "Home", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nRick continues to see visions of Lori. The Governor plans an assault on the prison. Daryl and Merle fend for themselves out in the forest.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Feb. 2013", 
+            "episodeName": "I Ain't a Judas", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nAs Rick and the group debate their next course of action, Andrea tries to negotiate with them. Meanwhile, The Governor prepares Woodbury for battle.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 Mar. 2013", 
+            "episodeName": "Clear", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nRick runs into a familiar face when he, Carl and Michonne head back to Rick's hometown for more guns to fortify themselves against The Governor.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 Mar. 2013", 
+            "episodeName": "Arrow on the Doorpost", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nRick and The Governor meet face-to-face, ostensibly to make a peaceful resolution to prevent further bloodshed. Back at the prison, tensions arise between Merle and the rest of the group.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 Mar. 2013", 
+            "episodeName": "Prey", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe Governor hunts down Andrea when she flees Woodbury. Meanwhile, tensions arise within Tyreese's group, and The Governor's plan for Rick's group is sabotaged.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 Mar. 2013", 
+            "episodeName": "This Sorrowful Life", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhile Rick decides the fate of Michonne, Merle takes matters into his own hand.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "31 Mar. 2013", 
+            "episodeName": "Welcome to the Tombs", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nAs Rick and the group prepare for the Governor's impending attack, Andrea fights to escape captivity.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "13 Oct. 2013", 
+            "episodeName": "30 Days Without an Accident", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nSeveral months have passed and Rick and the expanded group are living a more peaceful life at the prison. Problems surface when Rick encounters a new survivor, and a supply run ends in disaster.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "20 Oct. 2013", 
+            "episodeName": "Infected", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nRick is forced to abandon his quiet lifestyle when a mysterious virus puts the lives of everyone at the prison at risk.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "27 Oct. 2013", 
+            "episodeName": "Isolation", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nAs the sick are quarantined, Daryl, Tyreese, Michonne and Bob leave the prison in search of medical supplies. Rick makes a shocking discovery.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "3 Nov. 2013", 
+            "episodeName": "Indifference", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nDaryl, Tyreese, Michonne and Bob continue to the veterinary college on foot in search of medicine. Rick and Carol go on a run to a nearby town where they find two uninfected stragglers.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "10 Nov. 2013", 
+            "episodeName": "Internment", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nHershel struggles to care for the sick as the situation in the cell block escalates. Meanwhile, Rick and Carl defend the prison as the fences give way.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "17 Nov. 2013", 
+            "episodeName": "Live Bait", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nThe Governor bonds with a small family following the downfall of Woodbury.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "24 Nov. 2013", 
+            "episodeName": "Dead Weight", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe Governor plans his next move as he, Lilly, Tara and Meghan adjust to new surroundings.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "1 Dec. 2013", 
+            "episodeName": "Too Far Gone", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nRick and the group face imminent danger as The Governor tries to take the prison.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Feb. 2014", 
+            "episodeName": "After", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nWith the prison overrun, Rick and Carl find themselves on the road looking for shelter. Meanwhile, Michonne is haunted by memories of the past.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Feb. 2014", 
+            "episodeName": "Inmates", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nBeth tries to remain hopeful. Tyreese, Lizzie and Mika run into a familiar face. Glenn and Maggie struggle to cope without each other.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Feb. 2014", 
+            "episodeName": "Claimed", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nWhile Carl and Michonne look for supplies, Rick is faced against a gang of marauders. Meanwhile, Glenn and Tara are brought together with three strangers on an important mission.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "2 Mar. 2014", 
+            "episodeName": "Still", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nDaryl and Beth seek refuge in the woods, where conflict emerges between the pair.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "9 Mar. 2014", 
+            "episodeName": "Alone", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nMaggie, Sasha and Bob clash over whether they should head to Terminus. Daryl and Beth take shelter in a seemingly abandoned funeral home.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "16 Mar. 2014", 
+            "episodeName": "The Grove", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nCarol has to cope with old secrets and Lizzie's psychotic behavior when she, Tyreese and the girls take refuge in a vacant house on the way to Terminus.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "23 Mar. 2014", 
+            "episodeName": "Us", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nGlenn and Tara are set on the way to Terminus, but Abraham is reluctant. Daryl struggles to adjust to the Claimers' rules.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "30 Mar. 2014", 
+            "episodeName": "A", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nRick, Carl and Michonne cross paths with the Claimers once again on the way to Terminus, as the so-called sanctuary begins to reveal its true face.    ", 
+            "seasonNumber": 4
+        }, 
+        {
+            "airDate": "12 Oct. 2014", 
+            "episodeName": "No Sanctuary", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nCarol takes drastic action to rescue Rick and the group from the cannibals of Terminus as she and Tyreese reach the compound. A familiar face makes a return.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "19 Oct. 2014", 
+            "episodeName": "Strangers", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nRick and the group cross paths with a mysterious priest and take shelter in his church, soon realizing that they're being hunted. Meanwhile, Daryl and Carol follow a lead to the whereabouts of Beth.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "26 Oct. 2014", 
+            "episodeName": "Four Walls and a Roof", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWith Bob's life hanging in the balance, the group prepares to fight back against Gareth and his group of cannibals.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "2 Nov. 2014", 
+            "episodeName": "Slabtown", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nAfter being separated from Daryl, Beth finds herself in Grady Memorial Hospital in Atlanta, now controlled by what's left of the police force.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "9 Nov. 2014", 
+            "episodeName": "Self Help", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nAs Glenn, Maggie, Abraham and co. head to D.C., a new revelation threatens to put the whole journey to a halt.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "16 Nov. 2014", 
+            "episodeName": "Consumed", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nDaryl and Carol chase the white-crossed car to a desolated Atlanta with hopes of finding Beth and her kidnappers.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "23 Nov. 2014", 
+            "episodeName": "Crossed", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nWhile Carl, Michonne and Gabriel hold the church, Rick takes a rescue mission to Atlanta, as Abraham's group deal with the fallout from Eugene's revelation.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "30 Nov. 2014", 
+            "episodeName": "Coda", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nRick and the group go face-to-face against Dawn and her officers in an attempt to save both Beth and Carol without any more bloodshed.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Feb. 2015", 
+            "episodeName": "What Happened and What's Going On", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nRick, Glenn, Michonne and Tyreese take Noah to his home in Shirewilt Estates with hopes of finding sanctuary, but what they encounter is something else entirely.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Feb. 2015", 
+            "episodeName": "Them", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nGrieving from the deaths of two group members in different ways and with dwindling supplies, the group face the harsh road to Washington D.C.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Feb. 2015", 
+            "episodeName": "The Distance", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nRecovering from a devastating storm, Rick and the group find themselves mistrustful of a new survivor who promises them safety in a walled-off community.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "1 Mar. 2015", 
+            "episodeName": "Remember", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nScarred from their experiences in the outside world, the group struggle to adapt to the normalcy of the Alexandria Safe-Zone.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "8 Mar. 2015", 
+            "episodeName": "Forget", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nAs Deanna throws a party for the new arrivals, Carol comes up with a plan to get the group's weapons back. Meanwhile, Daryl bonds with Aaron, and Sasha struggles to cope.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "15 Mar. 2015", 
+            "episodeName": "Spend", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nEugene is forced to step up when a run led by Glenn goes awry. Back at Alexandria, Carol uncovers a secret.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "22 Mar. 2015", 
+            "episodeName": "Try", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nWhile out recruiting, Daryl and Aaron find troubling signs of human activity. Back at Alexandria, Carl bonds with Enid, and the tension between Rick and Pete comes to a head.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "29 Mar. 2015", 
+            "episodeName": "Conquer", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nDaryl and Aaron cross paths with Morgan. Back at the safe-zone, the people of Alexandria decide what to do with Rick, as a new danger emerges.    ", 
+            "seasonNumber": 5
+        }, 
+        {
+            "airDate": "11 Oct. 2015", 
+            "episodeName": "First Time Again", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nRick and the group come up with a plan to lure a massive herd of walkers away from Alexandria, while flashbacks show the events following Pete's death, including Rick's reunion with Morgan.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "18 Oct. 2015", 
+            "episodeName": "JSS", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nWhile Rick and his group lure the herd away, Carol and Morgan lead a line of defense against the Wolves when Alexandria comes under attack.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "25 Oct. 2015", 
+            "episodeName": "Thank You", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nWith half of the herd out of control, Glenn and Michonne lead Nicholas and their group back to Alexandria, as Rick crosses paths with the surviving members of the Wolves.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "1 Nov. 2015", 
+            "episodeName": "Here's Not Here", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nMorgan tells the captured wolf about his journey from King County to Alexandria, where he met a lone survivor with a code.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "8 Nov. 2015", 
+            "episodeName": "Now", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nDeanna begins to question her leadership. Meanwhile, Maggie shares a secret with Aaron while searching for Glenn, as the herd approaches the safe-zone.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "15 Nov. 2015", 
+            "episodeName": "Always Accountable", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWounded after being separated from Abraham and Sasha, Daryl finds himself captive of three survivors on the run.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "22 Nov. 2015", 
+            "episodeName": "Heads Up", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nGlenn and Enid make their way back to Alexandria. Meanwhile, Spencer puts his life at risk, as the herd finds its way inside the safe-zone.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "29 Nov. 2015", 
+            "episodeName": "Start to Finish", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nWith the walls down, Alexandria finds itself swarmed by walkers. Meanwhile, Daryl, Abraham and Sasha come face-to-face with a new danger.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "14 Feb. 2016", 
+            "episodeName": "No Way Out", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nDaryl, Abraham and Sasha face-off against the Saviors. Back at Alexandria, Rick and his group make their way through the herd.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "21 Feb. 2016", 
+            "episodeName": "The Next World", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWeeks after the walker invasion, Rick and Daryl cross paths with Jesus, a mysterious man with many secrets. Meanwhile, Michonne helps Spencer find closure, as Carl recovers from his injury.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "28 Feb. 2016", 
+            "episodeName": "Knots Untie", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nJesus takes Rick and the group to the Hilltop Colony, a peaceful community overshadowed by the power of the Saviors.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "6 Mar. 2016", 
+            "episodeName": "Not Tomorrow Yet", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nRick leads a surprise attack against the Saviors with the joint forces of Alexandria and the Hilltop. As two group members end up captured, Tara and Heath leave on a two-week supply run.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "13 Mar. 2016", 
+            "episodeName": "The Same Boat", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nCarol and Maggie must fight for their lives after being taken by a group of Saviors.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "20 Mar. 2016", 
+            "episodeName": "Twice as Far", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nAfter a minor victory against the Saviors, a supply run led by Daryl turns chaotic when he and his group cross paths with Dwight.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "27 Mar. 2016", 
+            "episodeName": "East", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nRick and Morgan set out in the search for Carol. Meanwhile, Daryl and Rosita track down Dwight, as Glenn and Michonne fall into a trap.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "3 Apr. 2016", 
+            "episodeName": "Last Day on Earth", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nMorgan continues his search for Carol. Meanwhile, Rick and the group travel to the Hilltop with an ailing Maggie, leading to a daunting and life-changing confrontation.    ", 
+            "seasonNumber": 6
+        }, 
+        {
+            "airDate": "23 Oct. 2016", 
+            "episodeName": "The Day Will Come When You Won't Be", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nHaving been brutally overpowered by Negan and his Saviors, Rick and the group kneel helplessly as they suffer heavy losses that will haunt them forever.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "30 Oct. 2016", 
+            "episodeName": "The Well", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nCarol and Morgan are brought to a community called the Kingdom, led by the eccentric King Ezekiel.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "6 Nov. 2016", 
+            "episodeName": "The Cell", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nDaryl is taken by Negan to the Sanctuary, home of the Saviors. Meanwhile, Dwight is sent on a mission to bring back a runaway member of his group.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "13 Nov. 2016", 
+            "episodeName": "Service", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nStill mourning from the recent tragic losses, Rick and the people of Alexandria receive a sobering visit from Negan and his Saviors.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "20 Nov. 2016", 
+            "episodeName": "Go Getters", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nMaggie and Sasha recover from their grief at the Hilltop. Meanwhile, Carl and Enid journey to the community, as the Saviors arrive to get their tribute.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "27 Nov. 2016", 
+            "episodeName": "Swear", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nTara encounters a group of female survivors living near the coast after being separated from Heath during their two-week supply run.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "4 Dec. 2016", 
+            "episodeName": "Sing Me a Song", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nAs Eugene and Rosita head to the bullet factory, Rick and Aaron search for supplies for Negan. Meanwhile, Carl and Jesus find themselves on their way to the Sanctuary.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "11 Dec. 2016", 
+            "episodeName": "Hearts Still Beating", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nNegan's unwelcome visit to Alexandria continues as other members scavenge for supplies; things quickly spin out of control.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "12 Feb. 2017", 
+            "episodeName": "Rock in the Road", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nJesus leads Rick and the group to the Kingdom, to convince King Ezekiel in joining Alexandria and the Hilltop in the incoming fight against Negan.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "19 Feb. 2017", 
+            "episodeName": "New Best Friends", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nWhile searching for Father Gabriel, the group comes across a mysterious a new collective of survivors. Back at the Kingdom, Carol and Daryl have an emotional reunion.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "26 Feb. 2017", 
+            "episodeName": "Hostiles and Calamities", 
+            "episodeNumber": 11, 
+            "episodePlot": "\nEugene unwillingly begins to work for Negan and the Saviors at the Sanctuary. Meanwhile, Dwight pays a visit to a place from his past.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "5 Mar. 2017", 
+            "episodeName": "Say Yes", 
+            "episodeNumber": 12, 
+            "episodePlot": "\nThe group scavenge for supplies. Back in Alexandria, Tara must make a morally challenging decision.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "12 Mar. 2017", 
+            "episodeName": "Bury Me Here", 
+            "episodeNumber": 13, 
+            "episodePlot": "\nThings don't go as planned, when a group of Kingdommers delivers goods to the Saviors during a routine supply drop-off.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "19 Mar. 2017", 
+            "episodeName": "The Other Side", 
+            "episodeNumber": 14, 
+            "episodePlot": "\nThe Saviors visit the Hilltop unexpectedly, surprising everyone, with plans of taking more than supplies.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "26 Mar. 2017", 
+            "episodeName": "Something They Need", 
+            "episodeNumber": 15, 
+            "episodePlot": "\nA group of Alexandrians embark on a journey; One member of the group must make a heartbreaking decision.    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "2 Apr. 2017", 
+            "episodeName": "The First Day of the Rest of Your Life", 
+            "episodeNumber": 16, 
+            "episodePlot": "\nThe stakes continue to grow higher as paths cross; The group enacts an intricate plan as stevie comes    ", 
+            "seasonNumber": 7
+        }, 
+        {
+            "airDate": "Oct. 2017", 
+            "episodeName": "Episode #8.1", 
+            "episodeNumber": 1, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "Oct. 2017", 
+            "episodeName": "Episode #8.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2017", 
+            "episodeName": "Episode #8.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #8.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #8.8", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "2018", 
+            "episodeName": "Episode #8.9", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #8.10", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #8.11", 
+            "episodeNumber": 11, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #8.12", 
+            "episodeNumber": 12, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #8.13", 
+            "episodeNumber": 13, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #8.14", 
+            "episodeNumber": 14, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #8.15", 
+            "episodeNumber": 15, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #8.16", 
+            "episodeNumber": 16, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 8
+        }
+    ], 
+    "name": "The Walking Dead", 
+    "plot": "Sheriff Deputy Rick Grimes wakes up from a coma, to learn the world is in ruins, and must lead a group of survivors to stay alive.", 
+    "rating": 8.5, 
+    "releaseDate": "31 October 2010", 
+    "type": "tvserie"
+}

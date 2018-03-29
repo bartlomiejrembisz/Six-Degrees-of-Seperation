@@ -1,0 +1,42 @@
+{
+    "actorList": [
+        "Ahmet Ertegun", 
+        "Nesuhi Erteg\u00fcn", 
+        "Matt Dillon", 
+        "Clive Toye", 
+        "Shep Messing", 
+        "Giorgio Chinaglia", 
+        "Peppe Pinton", 
+        "Werner Roth", 
+        "Jay Emmett", 
+        "Phil Woosnam", 
+        "Raphael de la Sierra", 
+        "Carlos Alberto", 
+        "Franz Beckenbauer", 
+        "Pel\u00e9", 
+        "Marv Albert", 
+        "Johan Cruyff", 
+        "Rose Ganguzza", 
+        "Mia Hamm", 
+        "Steve Hunt", 
+        "Henry Kissinger", 
+        "Mario Mariani", 
+        "Rodney Marsh", 
+        "Steve Ross", 
+        "Bobby Smith", 
+        "Dennis Tueart"
+    ], 
+    "director": [
+        "Paul Crowder", 
+        "John Dower"
+    ], 
+    "genres": [
+        "Documentary", 
+        "Sport"
+    ], 
+    "name": "Once in a Lifetime: The Extraordinary Story of the New York Cosmos", 
+    "plot": "The rise and fall of the N.Y. Cosmos. The soccer team that brought Pele to America; against the backdrop of N.Y. City in the 70's.", 
+    "rating": 7.3, 
+    "releaseDate": "19 May 2006", 
+    "type": "movie"
+}

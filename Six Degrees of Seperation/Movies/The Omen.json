@@ -1,0 +1,51 @@
+{
+    "actorList": [
+        "Gregory Peck", 
+        "Lee Remick", 
+        "David Warner", 
+        "Billie Whitelaw", 
+        "Harvey Stephens", 
+        "Patrick Troughton", 
+        "Martin Benson", 
+        "Robert Rietty", 
+        "Tommy Duggan", 
+        "John Stride", 
+        "Anthony Nicholls", 
+        "Holly Palance", 
+        "Roy Boyd", 
+        "Freda Dowie", 
+        "Sheila Raynor", 
+        "Robert MacLeod", 
+        "Bruce Boa", 
+        "Don Fellows", 
+        "Patrick McAlinney", 
+        "Dawn Perllman", 
+        "Nancy Mannigham", 
+        "Miki Iveria", 
+        "Betty McDowall", 
+        "Nicholas Campbell", 
+        "Burnell Tucker", 
+        "Ronald Leigh-Hunt", 
+        "Guglielmo Spoletini", 
+        "Ya'ackov Banai", 
+        "Harvey Bernhard", 
+        "Michael Byrne", 
+        "Victor Harrington", 
+        "Juba Kennerley", 
+        "Leo McKern", 
+        "Bill Reimbold", 
+        "Christine Spooner", 
+        "Damian John Spooner"
+    ], 
+    "director": [
+        "Richard Donner"
+    ], 
+    "genres": [
+        "Horror"
+    ], 
+    "name": "The Omen", 
+    "plot": "Mysterious deaths surround an American ambassador. Could the child that he is raising actually be the Antichrist? The Devil's own son?", 
+    "rating": 7.6, 
+    "releaseDate": "6 June 1976", 
+    "type": "movie"
+}

@@ -1,0 +1,35 @@
+{
+    "actorList": [
+        "John Getz", 
+        "Frances McDormand", 
+        "Dan Hedaya", 
+        "M. Emmet Walsh", 
+        "Samm-Art Williams", 
+        "Deborah Neumann", 
+        "Raquel Gavia", 
+        "Van Brooks", 
+        "Se\u00f1or Marco", 
+        "William Creamer", 
+        "Loren Bivens", 
+        "Bob McAdams", 
+        "Shannon Sedwick", 
+        "Nancy Finger", 
+        "William Preston Robertson", 
+        "Holly Hunter", 
+        "Barry Sonnenfeld"
+    ], 
+    "director": [
+        "Joel Coen", 
+        "Ethan Coen"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "name": "Blood Simple.", 
+    "plot": "A rich but jealous man hires a private investigator to kill his cheating wife and her new man. But, when blood is involved, nothing is simple.", 
+    "rating": 7.7, 
+    "releaseDate": "September 1984 (Deauville Film Festival)", 
+    "type": "movie"
+}

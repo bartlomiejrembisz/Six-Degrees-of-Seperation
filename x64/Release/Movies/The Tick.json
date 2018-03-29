@@ -1,0 +1,70 @@
+{
+    "actorList": [
+        "Richie Moriarty"
+    ], 
+    "director": [
+        "Wally Pfister", 
+        "Lev L. Spiro", 
+        "Sheree Folkson"
+    ], 
+    "genres": [
+        "Action", 
+        "Comedy"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "25 Aug. 2017", 
+            "episodeName": "The Tick", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nThe Tick, a clueless but well-intentioned superhero pursues the ultimate evil enemy, The Terror with the help of his reluctant sidekick.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #1.2", 
+            "episodeNumber": 2, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #1.3", 
+            "episodeNumber": 3, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #1.4", 
+            "episodeNumber": 4, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #1.5", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #1.6", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "No date", 
+            "episodeName": "Episode #1.7", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 1
+        }
+    ], 
+    "name": "The Tick", 
+    "plot": "In a world where superheroes have been real for decades, an accountant with zero powers comes to realize his city is owned by a super villain. As he struggles to uncover this conspiracy, he falls in league with a strange blue superhero.", 
+    "rating": 7.3, 
+    "releaseDate": "19 August 2016", 
+    "type": "tvserie"
+}

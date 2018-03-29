@@ -1,0 +1,43 @@
+{
+    "actorList": [
+        "Jeffrey Combs", 
+        "Bruce Abbott", 
+        "Barbara Crampton", 
+        "David Gale", 
+        "Robert Sampson", 
+        "Gerry Black", 
+        "Carolyn Purdy-Gordon", 
+        "Peter Kent", 
+        "Barbara Pieters", 
+        "Ian Patrick Williams", 
+        "Bunny Summers", 
+        "Al Berry", 
+        "Derek Pendleton", 
+        "Gene Scherer", 
+        "James Ellis", 
+        "James Earl Cathay", 
+        "Annyce Holzman", 
+        "Velvet Debois", 
+        "Lawrence Lowe", 
+        "Robert Holcomb", 
+        "Mike Filloon", 
+        "Craig Reed", 
+        "Jack Draheim", 
+        "Robert Pitzele", 
+        "Kim Deitch", 
+        "Greg Robbins"
+    ], 
+    "director": [
+        "Stuart Gordon"
+    ], 
+    "genres": [
+        "Comedy", 
+        "Horror", 
+        "Sci-Fi"
+    ], 
+    "name": "Re-Animator", 
+    "plot": "A dedicated student at a medical college and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue when an odd new student arrives on campus.", 
+    "rating": 7.2, 
+    "releaseDate": "24 May 1985 (Doylestown, Pennsylvania)", 
+    "type": "movie"
+}

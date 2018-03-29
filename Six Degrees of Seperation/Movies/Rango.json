@@ -1,0 +1,53 @@
+{
+    "actorList": [
+        "Johnny Depp", 
+        "Isla Fisher", 
+        "Abigail Breslin", 
+        "Ned Beatty", 
+        "Alfred Molina", 
+        "Bill Nighy", 
+        "Stephen Root", 
+        "Harry Dean Stanton", 
+        "Timothy Olyphant", 
+        "Ray Winstone", 
+        "Ian Abercrombie", 
+        "Gil Birmingham", 
+        "James Ward Byrkit", 
+        "Claudia Black", 
+        "Blake Clark", 
+        "John Cothran", 
+        "Patrika Darbo", 
+        "George DelHoyo", 
+        "Maile Flanagan", 
+        "Charles Fleischer", 
+        "Beth Grant", 
+        "Ryan Hurst", 
+        "Vincent Kartheiser", 
+        "Hemky Madera", 
+        "Alex Manugian", 
+        "Mark 'Crash' McCreery", 
+        "Joe Nunez", 
+        "Christopher L. Parson", 
+        "Lew Temple", 
+        "Alanna Ubach", 
+        "Gore Verbinski", 
+        "Kym Whitley", 
+        "Keith Campbell", 
+        "Hope Levy"
+    ], 
+    "director": [
+        "Gore Verbinski"
+    ], 
+    "genres": [
+        "Animation", 
+        "Adventure", 
+        "Comedy", 
+        "Family", 
+        "Western"
+    ], 
+    "name": "Rango", 
+    "plot": "Rango is an ordinary chameleon who accidentally winds up in the town of Dirt, a lawless outpost in the Wild West in desperate need of a new sheriff.", 
+    "rating": 7.2, 
+    "releaseDate": "14 February 2011 (Westwood, California)\n (premiere)", 
+    "type": "movie"
+}

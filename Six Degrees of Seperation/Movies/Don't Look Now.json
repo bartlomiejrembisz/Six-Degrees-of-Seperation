@@ -1,0 +1,31 @@
+{
+    "actorList": [
+        "Julie Christie", 
+        "Donald Sutherland", 
+        "Hilary Mason", 
+        "Clelia Matania", 
+        "Massimo Serato", 
+        "Renato Scarpa", 
+        "Giorgio Trestini", 
+        "Leopoldo Trieste", 
+        "David Tree", 
+        "Ann Rye", 
+        "Nicholas Salter", 
+        "Sharon Williams", 
+        "Bruno Cattaneo", 
+        "Adelina Poerio"
+    ], 
+    "director": [
+        "Nicolas Roeg"
+    ], 
+    "genres": [
+        "Drama", 
+        "Horror", 
+        "Thriller"
+    ], 
+    "name": "Don't Look Now", 
+    "plot": "A married couple grieving the recent death of their young daughter are in Venice when they encounter two elderly sisters, one of whom is psychic and brings a warning from beyond.", 
+    "rating": 7.3, 
+    "releaseDate": "11 October 1973 (London)\n (premiere)", 
+    "type": "movie"
+}

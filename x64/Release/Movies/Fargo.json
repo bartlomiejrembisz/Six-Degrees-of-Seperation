@@ -1,0 +1,290 @@
+{
+    "actorList": [
+        "Allison Tolman", 
+        "Colin Hanks", 
+        "Martin Freeman", 
+        "Billy Bob Thornton", 
+        "Kirsten Dunst", 
+        "Ewan McGregor", 
+        "Patrick Wilson", 
+        "Carrie Coon", 
+        "Jesse Plemons", 
+        "Mary Elizabeth Winstead", 
+        "David Thewlis", 
+        "Ted Danson", 
+        "Bokeem Woodbine", 
+        "Brad Mann", 
+        "Jean Smart", 
+        "Bob Odenkirk", 
+        "Keith Carradine", 
+        "Cristin Milioti", 
+        "Joey King", 
+        "Zahn McClarnon", 
+        "Angus Sampson", 
+        "Scoot McNairy", 
+        "Michael Stuhlbarg", 
+        "Emily Haine", 
+        "Graham Verchere", 
+        "Jeffrey Donovan", 
+        "Russell Harvard", 
+        "Rachel Keller", 
+        "Raven Stewart", 
+        "Joshua Close", 
+        "Gary Valentine", 
+        "Michael Hogan", 
+        "Wilma Pelly", 
+        "Mark Forward", 
+        "Adam Goldberg", 
+        "Glenn Howerton", 
+        "Brad Garrett", 
+        "Nick Offerman", 
+        "Elizabeth Marvel", 
+        "Keir O'Donnell", 
+        "Tom Musgrave", 
+        "Barry Flatman", 
+        "Rachel Blanchard", 
+        "Susan Park", 
+        "Oliver Platt", 
+        "Allan Dobrescu", 
+        "Dan Beirne", 
+        "Todd Mann", 
+        "Zina Lee", 
+        "Chad Stanley Martin"
+    ], 
+    "director": [
+        "Michael Uppendahl", 
+        "Randall Einhorn", 
+        "Adam Bernstein", 
+        "Colin Bucksey", 
+        "Matt Shakman", 
+        "Scott Winant", 
+        "Noah Hawley", 
+        "Adam Arkin", 
+        "Keith Gordon", 
+        "Jeffrey Reiner", 
+        "Mike Barker", 
+        "Dearbhla Walsh"
+    ], 
+    "genres": [
+        "Crime", 
+        "Drama", 
+        "Thriller"
+    ], 
+    "listOfEpisodes": [
+        {
+            "airDate": "15 Apr. 2014", 
+            "episodeName": "The Crocodile's Dilemma", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA rootless, manipulative man meets a small town insurance salesman and sets him on a path of destruction.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "22 Apr. 2014", 
+            "episodeName": "The Rooster Prince", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nMolly begins to suspect that Lester is involved in the murders, but her boss points her in a different direction. Meanwhile, Malvo investigates the plot against a man known as the Supermarket King.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "29 Apr. 2014", 
+            "episodeName": "A Muddy Road", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nMalvo flips the script on the blackmail operation. Molly sets a trap, and Gus debates whether he should come clean. Lester's return to work has complicated repercussions.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "6 May 2014", 
+            "episodeName": "Eating the Blame", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nWhen Gus tries to right a wrong, Malvo embraces his alter ego. Lester finds himself in a surprising situation, and Molly uncovers a promising lead.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "13 May 2014", 
+            "episodeName": "The Six Ungraspables", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nWhen Lester has a close call, Molly makes an unorthodox decision. Gus weighs some neighborly advice, and Malvo gets what he wants.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "20 May 2014", 
+            "episodeName": "Buridan's Ass", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nMalvo executes his master plan, while Lester attempts to craft one of his own. Gus and Molly team up in Duluth.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "27 May 2014", 
+            "episodeName": "Who Shaves the Barber?", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nMolly recuperates from her injury, while Malvo looks to dispatch a syndicate in Fargo. Lester continues his descent into darkness with the unfolding of his plan.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "3 Jun. 2014", 
+            "episodeName": "The Heap", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nMolly faces pressure to close the case, while Lester starts to feel like a new man.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "10 Jun. 2014", 
+            "episodeName": "A Fox, a Rabbit, and a Cabbage", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nLester has an unexpected encounter, Malvo changes course, and a new investigation leads Molly down a familiar path.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "17 Jun. 2014", 
+            "episodeName": "Morton's Fork", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nMolly takes the lead, while Gus pursues a hunch. Lester manipulates a situation, and Malvo finds a new target.    ", 
+            "seasonNumber": 1
+        }, 
+        {
+            "airDate": "12 Oct. 2015", 
+            "episodeName": "Waiting for Dutch", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nIn a small Minnesota town, a shooting at a diner disrupts the lives of a state officer, a married couple, and a North Dakota crime syndicate.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Oct. 2015", 
+            "episodeName": "Before the Law", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nThe Gerhardts receive a surprising offer, while two unlikely murderers do their best to clean up their mess.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "26 Oct. 2015", 
+            "episodeName": "The Myth of Sisyphus", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nThe Gerhardts' search for Rye intensifies, Lou takes a trip to Fargo, and Peggy overhears a new theory about the Waffle Hut shooter.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "2 Nov. 2015", 
+            "episodeName": "Fear and Trembling", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nThe Gerhardts respond to Kansas City's proposal, while Hanzee finds a new lead in Rye's disappearance. Lou questions Ed and Peggy.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "9 Nov. 2015", 
+            "episodeName": "The Gift of the Magi", 
+            "episodeNumber": 5, 
+            "episodePlot": "\nFloyd takes action and Charlie tries to prove himself; Peggy and Ed disagree about what to do next; Lou finds himself sidelined during Ronald Reagan's campaign tour.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "16 Nov. 2015", 
+            "episodeName": "Rhinoceros", 
+            "episodeNumber": 6, 
+            "episodePlot": "\nWith Ed and Charlie in custody, the Gerhardts arrive at the police station, forcing Lou and Hank to try and prevent any more bloodshed.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "23 Nov. 2015", 
+            "episodeName": "Did You Do This? No, You Did It!", 
+            "episodeNumber": 7, 
+            "episodePlot": "\nThe police bring in Floyd for questioning, in an attempt to make her talk. Bear goes on a ride with Simone. Karl keeps an eye on Lou's family.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "30 Nov. 2015", 
+            "episodeName": "Loplop", 
+            "episodeNumber": 8, 
+            "episodePlot": "\nEd and Peggy hold Dodd hostage in a secluded cabin and try to strike up a deal with the Gerhardts, while Hanzee attempts to hunt them down.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "7 Dec. 2015", 
+            "episodeName": "The Castle", 
+            "episodeNumber": 9, 
+            "episodePlot": "\nIn an attempt to stop the Kansas City mob, the police decide to use Ed and Peggy as bait. Hanzee betrays the Gerhardts and takes revenge.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "14 Dec. 2015", 
+            "episodeName": "Palindrome", 
+            "episodeNumber": 10, 
+            "episodePlot": "\nIn the events following the motel massacre, Hanzee goes after Ed and Peggy.    ", 
+            "seasonNumber": 2
+        }, 
+        {
+            "airDate": "19 Apr. 2017", 
+            "episodeName": "The Law of Vacant Places", 
+            "episodeNumber": 1, 
+            "episodePlot": "\nA twisted sibling rivalry leads to murder, mobsters and cutthroat competitive bridge in a small Midwestern town.    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "26 Apr. 2017", 
+            "episodeName": "The Principle of Restricted Choice", 
+            "episodeNumber": 2, 
+            "episodePlot": "\nGloria deals with the aftermath of the crime; Varga makes a move; Ray and Nikki move on to their next plan    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "3 May 2017", 
+            "episodeName": "The Law of Non-Contradiction", 
+            "episodeNumber": 3, 
+            "episodePlot": "\nGloria revisits her stepfather's past to try and find some answers    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "10 May 2017", 
+            "episodeName": "The Narrow Escape Problem", 
+            "episodeNumber": 4, 
+            "episodePlot": "\nEmmit and Sy try to sort things out; Nikki and Ray track down some collateral; Gloria learns more about Maurice    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "17 May 2017", 
+            "episodeName": "The House of Special Purpose", 
+            "episodeNumber": 5, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "24 May 2017", 
+            "episodeName": "The Lord of No Mercy", 
+            "episodeNumber": 6, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "31 May 2017", 
+            "episodeName": "The Law of Inevitability", 
+            "episodeNumber": 7, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "7 Jun. 2017", 
+            "episodeName": "Who Rules the Land of Denial?", 
+            "episodeNumber": 8, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "14 Jun. 2017", 
+            "episodeName": "Aporia", 
+            "episodeNumber": 9, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }, 
+        {
+            "airDate": "21 Jun. 2017", 
+            "episodeName": "Somebody to Love", 
+            "episodeNumber": 10, 
+            "episodePlot": "\n  Know what this is about?\n Be the first one to add a plot.\n    ", 
+            "seasonNumber": 3
+        }
+    ], 
+    "name": "Fargo", 
+    "plot": "Various chronicles of deception, intrigue and murder in and around frozen Minnesota. Yet all of these tales mysteriously lead back one way or another to Fargo, ND.", 
+    "rating": 9.0, 
+    "releaseDate": "15 April 2014", 
+    "type": "tvserie"
+}

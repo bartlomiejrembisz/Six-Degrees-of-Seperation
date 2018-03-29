@@ -1,0 +1,49 @@
+{
+    "actorList": [
+        "Yun-Fat Chow", 
+        "Michelle Yeoh", 
+        "Ziyi Zhang", 
+        "Chen Chang", 
+        "Sihung Lung", 
+        "Pei-Pei Cheng", 
+        "Fa Zeng Li", 
+        "Xian Gao", 
+        "Yan Hai", 
+        "Wang De Ming", 
+        "Li Li", 
+        "Su Ying Huang", 
+        "Jin Ting Zhang", 
+        "Rui Yang", 
+        "Kai Li", 
+        "Jian Hua Feng", 
+        "Zhen Xi Du", 
+        "Cheng Lin Xu", 
+        "Feng Lin", 
+        "Wen Sheng Wang", 
+        "Dong Song", 
+        "Zhong Xuan Ma", 
+        "Bao Cheng Li", 
+        "Yong De Yang", 
+        "Shao Jun Zhang", 
+        "Ning Ma", 
+        "Jian Min Zhu", 
+        "Chang Cheng Dong", 
+        "Yi Shih", 
+        "Bin Chen", 
+        "Sao Chen Chang"
+    ], 
+    "director": [
+        "Ang Lee"
+    ], 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Fantasy", 
+        "Romance"
+    ], 
+    "name": "Wo hu cang long", 
+    "plot": "A young Chinese warrior steals a sword from a famed swordsman and then escapes into a world of romantic adventure with a mysterious man in the frontier of the nation.", 
+    "rating": 7.9, 
+    "releaseDate": "18 May 2000 (Cannes Film Festival)", 
+    "type": "movie"
+}
