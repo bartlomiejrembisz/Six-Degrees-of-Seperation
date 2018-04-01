@@ -15,7 +15,7 @@ The output is the path from one actor to the other and the degrees seperating th
 - Qt GUI framework
 - rapidjson JSON parsing library
 
-### Screen Shots:
+## Screen Shots:
 
 Main screen:
 
