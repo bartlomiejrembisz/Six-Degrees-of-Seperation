@@ -27,4 +27,4 @@ Connection choice:
 
 Final program output:
 
-![Degrees of seperation output](Screenshots/connection.png)
+![Degrees of seperation output](ScreenShots/connection.png)
